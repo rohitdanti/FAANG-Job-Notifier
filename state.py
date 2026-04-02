@@ -1,61 +1,92 @@
-"""
-State management — tracks which jobs have already been seen.
-Persists to a JSON file so state survives across runs (including GitHub Actions).
-"""
+"""State management for seen jobs across multiple company-specific files."""
 
 import json
 import os
 import re
 import time
-from typing import Any
+from datetime import date
+from typing import Any, Sequence
+
 import config
-from config import EXCLUDED_ROLE_KEYWORDS, EXCLUDED_TITLE_PHRASES
+
+STATE_VERSION = 3
 
 # Regex to split combo titles like "SWE II + Senior SWE" or "PM / Director"
 _COMBO_SPLIT = re.compile(r"\s*[+/|]\s*")
 
 
-def load_seen_jobs() -> dict[str, Any]:
-    """Load the set of previously seen job keys from disk."""
-    if not os.path.exists(config.SEEN_JOBS_FILE):
-        return {}
+def _company_state_file(company_slug: str) -> str:
+    return os.path.join(config.SEEN_JOBS_DIR, f"{company_slug}.json")
+
+
+def _ensure_state_dir() -> None:
+    os.makedirs(config.SEEN_JOBS_DIR, exist_ok=True)
+
+
+def _empty_company_state(company_slug: str) -> dict[str, Any]:
+    return {
+        "_meta": {"version": STATE_VERSION, "company": company_slug},
+        "jobs": {},
+    }
+
+
+def _normalize_company_state(company_slug: str, data: Any) -> dict[str, Any]:
+    state = _empty_company_state(company_slug)
+    if not isinstance(data, dict):
+        return state
+
+    if isinstance(data.get("jobs"), dict):
+        state["jobs"] = data["jobs"]
+        return state
+
+    state["jobs"] = data
+    return state
+
+
+def _load_company_state(company_slug: str) -> dict[str, Any]:
+    state_file = _company_state_file(company_slug)
+    if not os.path.exists(state_file):
+        return _empty_company_state(company_slug)
+
     try:
-        with open(config.SEEN_JOBS_FILE, "r") as f:
-            data = json.load(f)
-            if isinstance(data, dict):
-                return data
-            # Migrate from old list format if needed
-            return {key: {"first_seen": time.time()} for key in data}
+        with open(state_file, "r") as handle:
+            return _normalize_company_state(company_slug, json.load(handle))
     except (json.JSONDecodeError, IOError):
-        return {}
+        return _empty_company_state(company_slug)
 
 
-def save_seen_jobs(seen: dict[str, Any]) -> None:
-    """Persist seen jobs to disk, pruning if over the rolling window limit."""
-    # Prune oldest entries if we exceed the cap
-    if len(seen) > config.MAX_SEEN_JOBS:
-        # Sort by first_seen timestamp, keep the newest MAX_SEEN_JOBS entries
-        sorted_keys = sorted(seen, key=lambda k: seen[k].get("first_seen", 0))
-        excess = len(seen) - config.MAX_SEEN_JOBS
-        for key in sorted_keys[:excess]:
-            del seen[key]
+def _prune_seen_jobs(seen: dict[str, Any]) -> dict[str, Any]:
+    if len(seen) <= config.MAX_SEEN_JOBS:
+        return seen
 
-    with open(config.SEEN_JOBS_FILE, "w") as f:
-        json.dump(seen, f, indent=2)
+    sorted_keys = sorted(seen, key=lambda key: seen[key].get("first_seen", 0))
+    excess = len(seen) - config.MAX_SEEN_JOBS
+    for key in sorted_keys[:excess]:
+        del seen[key]
+    return seen
 
 
-def _part_matches_excluded(part: str) -> bool:
+def load_seen_jobs(company_slug: str) -> dict[str, Any]:
+    return _load_company_state(company_slug)["jobs"]
+
+
+def save_seen_jobs(company_slug: str, seen: dict[str, Any]) -> None:
+    _ensure_state_dir()
+    state = _empty_company_state(company_slug)
+    state["jobs"] = _prune_seen_jobs(dict(seen))
+    with open(_company_state_file(company_slug), "w") as handle:
+        json.dump(state, handle, indent=2)
+
+
+def _part_matches_excluded(part: str, excluded_role_keywords: Sequence[str]) -> bool:
     """Check if a single title part matches any excluded keyword."""
     part_lower = part.strip().lower()
     if not part_lower:
         return False
-    for keyword in config.EXCLUDED_ROLE_KEYWORDS:
-        if keyword in part_lower:
-            return True
-    return False
+    return any(keyword.lower() in part_lower for keyword in excluded_role_keywords)
 
 
-def is_excluded_role(title: str) -> bool:
+def is_excluded_role(title: str, excluded_role_keywords: Sequence[str]) -> bool:
     """
     Return True if the job title should be excluded.
 
@@ -65,43 +96,63 @@ def is_excluded_role(title: str) -> bool:
     "Software Engineer II + Senior Software Engineer".
     """
     parts = _COMBO_SPLIT.split(title)
-    # If there are no meaningful parts, don't exclude
     if not parts or all(not p.strip() for p in parts):
         return False
-    return all(_part_matches_excluded(p) for p in parts if p.strip())
+    return all(_part_matches_excluded(part, excluded_role_keywords) for part in parts if part.strip())
 
-def should_exclude_title(title):
-    # Exclude if title matches any keyword exactly (case-insensitive)
-    for keyword in EXCLUDED_ROLE_KEYWORDS:
-        if title.strip().lower() == keyword.lower():
-            return True
-    # Exclude if any phrase appears anywhere in the title (case-insensitive)
-    for phrase in EXCLUDED_TITLE_PHRASES:
-        if phrase.lower() in title.lower():
-            return True
-    return False
-    
-def filter_new_jobs(jobs: list[dict]) -> list[dict]:
-    """
-    Given a list of scraped job dicts, return only the ones not previously seen.
-    Each job dict must have a 'role_number' field (unique identifier).
-    Also updates and saves the seen-jobs state.
-    """
-    seen = load_seen_jobs()
+def should_exclude_title(
+    title: str,
+    excluded_role_keywords: Sequence[str],
+    excluded_title_phrases: Sequence[str],
+) -> bool:
+    title_lower = title.strip().lower()
+    if not title_lower:
+        return False
+
+    if any(title_lower == keyword.lower() for keyword in excluded_role_keywords):
+        return True
+
+    return any(phrase.lower() in title_lower for phrase in excluded_title_phrases)
+
+
+def _today_date_string() -> str:
+    return date.today().isoformat()
+
+
+def _job_state_payload(job: dict, posted_override: str | None = None) -> dict[str, Any]:
+    return {
+        "first_seen": time.time(),
+        "posted": posted_override if posted_override is not None else job.get("posted", ""),
+        "title": job.get("title", ""),
+        "job_id": job.get("job_id") or job.get("role_number") or job.get("key", ""),
+        "url": job.get("url", ""),
+    }
+
+
+def filter_new_jobs(company_slug: str, jobs: list[dict]) -> list[dict]:
+    seen = load_seen_jobs(company_slug)
     new_jobs = []
+    discovered_on = _today_date_string()
 
     for job in jobs:
-        key = job["role_number"]
+        key = job.get("key") or job.get("job_id") or job.get("role_number")
+        if not key:
+            continue
         if key not in seen:
             new_jobs.append(job)
-            seen[key] = {
-                "first_seen": time.time(),
-                "posted": job.get("posted", ""),
-                "title": job.get("title", ""),
-                "job_id": job["role_number"],
-            }
+            seen[key] = _job_state_payload(job, posted_override=discovered_on)
 
     if new_jobs:
-        save_seen_jobs(seen)
+        save_seen_jobs(company_slug, seen)
 
     return new_jobs
+
+
+def replace_seen_jobs(company_slug: str, jobs: list[dict]) -> None:
+    seen = {}
+    for job in jobs:
+        key = job.get("key") or job.get("job_id") or job.get("role_number")
+        if not key:
+            continue
+        seen[key] = _job_state_payload(job)
+    save_seen_jobs(company_slug, seen)

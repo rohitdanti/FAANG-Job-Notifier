@@ -1,7 +1,4 @@
-"""
-Telegram notification sender.
-Sends formatted Apple job alerts via the Telegram Bot API.
-"""
+"""Telegram notification sender for the multi-company jobs notifier."""
 
 import httpx
 
@@ -10,23 +7,25 @@ import config
 TELEGRAM_API = f"https://api.telegram.org/bot{config.TELEGRAM_BOT_TOKEN}"
 
 
-async def send_job_alert(job: dict) -> bool:
+async def send_job_alert_for_company(company_name: str, job: dict) -> bool:
     """Send a single job notification to Telegram. Returns True on success."""
     title = job.get("title", "Unknown Position")
-    team = job.get("team", "Apple")
+    team = job.get("team", "")
     location = job.get("location", "Location not specified")
     posted = job.get("posted", "")
-    role_number = job.get("role_number", "")
+    role_number = job.get("job_id") or job.get("role_number") or job.get("key", "")
     weekly_hours = job.get("weekly_hours", "")
     url = job.get("url", "")
+    escaped_company = _escape_md(company_name)
 
     lines = [
-        "🍎 *New Apple Job Opening*",
+        f"🔔 *New {escaped_company} Job Opening*",
         "",
         f"📌 *{_escape_md(title)}*",
-        f"🏢 {_escape_md(team)}",
         f"📍 {_escape_md(location)}",
     ]
+    if team:
+        lines.insert(3, f"🏢 {_escape_md(team)}")
     if posted:
         lines.append(f"🗓 {_escape_md(posted)}")
     if role_number:
@@ -34,24 +33,24 @@ async def send_job_alert(job: dict) -> bool:
     if weekly_hours:
         lines.append(f"⏱ {_escape_md(weekly_hours)}")
     if url:
-        lines.extend(["", f"[Apply on Apple Jobs]({url})"])
+        lines.extend(["", f"[Open on {escaped_company} Careers]({url})"])
 
     return await _send_message("\n".join(lines), parse_mode="MarkdownV2")
 
 
-async def send_summary(new_count: int, total_scraped: int) -> bool:
+async def send_summary(company_name: str, new_count: int, total_scraped: int) -> bool:
     """Send a summary message after a scraping run with new jobs."""
     message = (
-        "📊 *Apple Jobs Scan Complete*\n\n"
+        f"📊 *{_escape_md(company_name)} Jobs Scan Complete*\n\n"
         f"• New jobs found: *{new_count}*\n"
         f"• Total jobs scanned: *{total_scraped}*"
     )
     return await _send_message(message, parse_mode="MarkdownV2")
 
 
-async def send_error(error_msg: str) -> bool:
+async def send_error(company_name: str, error_msg: str) -> bool:
     """Send an error notification."""
-    message = f"⚠️ *Apple Jobs Scraper Error*\n\n`{_escape_md(error_msg)}`"
+    message = f"⚠️ *{_escape_md(company_name)} Jobs Scraper Error*\n\n`{_escape_md(error_msg)}`"
     return await _send_message(message, parse_mode="MarkdownV2")
 
 

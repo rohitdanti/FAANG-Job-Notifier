@@ -1,0 +1,2808 @@
+{
+  "_meta": {
+    "version": 3,
+    "company": "amazon"
+  },
+  "jobs": {
+    "10382496": {
+      "first_seen": 1775173690.0657668,
+      "posted": "",
+      "title": "Software Development Engineer, AWS SDE Centralized Team",
+      "job_id": "10382496",
+      "url": "https://www.amazon.jobs/en/jobs/10382496/software-development-engineer-aws-sde-centralized-team"
+    },
+    "10381511": {
+      "first_seen": 1775173690.065773,
+      "posted": "",
+      "title": "Software Development Engineer, Leo Manufacturing Software Systems",
+      "job_id": "10381511",
+      "url": "https://www.amazon.jobs/en/jobs/10381511/software-development-engineer-leo-manufacturing-software-systems"
+    },
+    "10381428": {
+      "first_seen": 1775173690.0657752,
+      "posted": "",
+      "title": "Software Dev Engineer, Amazon FSx for Lustre",
+      "job_id": "10381428",
+      "url": "https://www.amazon.jobs/en/jobs/10381428/software-dev-engineer-amazon-fsx-for-lustre"
+    },
+    "10382656": {
+      "first_seen": 1775173690.065776,
+      "posted": "",
+      "title": "Software Engineer, Electric Utility Grid, Hadron",
+      "job_id": "10382656",
+      "url": "https://www.amazon.jobs/en/jobs/10382656/software-engineer-electric-utility-grid-hadron"
+    },
+    "10381584": {
+      "first_seen": 1775173690.0657768,
+      "posted": "",
+      "title": "Software Development Engineer, Advertiser 1P Data",
+      "job_id": "10381584",
+      "url": "https://www.amazon.jobs/en/jobs/10381584/software-development-engineer-advertiser-1p-data"
+    },
+    "10381944": {
+      "first_seen": 1775173690.0657768,
+      "posted": "",
+      "title": "Software Development Engineer, Advanced Analytics - LLD",
+      "job_id": "10381944",
+      "url": "https://www.amazon.jobs/en/jobs/10381944/software-development-engineer-advanced-analytics-lld"
+    },
+    "10382720": {
+      "first_seen": 1775173690.065778,
+      "posted": "",
+      "title": "Software Development Engineer , Amazon Robotics (AR) Sortation Planning - Planners & Trackers",
+      "job_id": "10382720",
+      "url": "https://www.amazon.jobs/en/jobs/10382720/software-development-engineer-amazon-robotics-ar-sortation-planning-planners-trackers"
+    },
+    "10380327": {
+      "first_seen": 1775173690.065778,
+      "posted": "",
+      "title": "Software Development Engineer, Internet Edge Engineering",
+      "job_id": "10380327",
+      "url": "https://www.amazon.jobs/en/jobs/10380327/software-development-engineer-internet-edge-engineering"
+    },
+    "10380818": {
+      "first_seen": 1775173690.065779,
+      "posted": "",
+      "title": "Software Development Engineer , AWS Intent Driven Networking (AIDN)",
+      "job_id": "10380818",
+      "url": "https://www.amazon.jobs/en/jobs/10380818/software-development-engineer-aws-intent-driven-networking-aidn"
+    },
+    "10381425": {
+      "first_seen": 1775173690.06578,
+      "posted": "",
+      "title": "Front End Engineer , AWS APO Engineering",
+      "job_id": "10381425",
+      "url": "https://www.amazon.jobs/en/jobs/10381425/front-end-engineer-aws-apo-engineering"
+    },
+    "10378484": {
+      "first_seen": 1775173690.06578,
+      "posted": "",
+      "title": "Software Development Engineer II, Ring SMB",
+      "job_id": "10378484",
+      "url": "https://www.amazon.jobs/en/jobs/10378484/software-development-engineer-ii-ring-smb"
+    },
+    "10382364": {
+      "first_seen": 1775173690.0657809,
+      "posted": "",
+      "title": "Software Development Engineer, AWS Proactive Security",
+      "job_id": "10382364",
+      "url": "https://www.amazon.jobs/en/jobs/10382364/software-development-engineer-aws-proactive-security"
+    },
+    "10381222": {
+      "first_seen": 1775173690.0657809,
+      "posted": "",
+      "title": "Software Development Engineer II, AFSS Identity",
+      "job_id": "10381222",
+      "url": "https://www.amazon.jobs/en/jobs/10381222/software-development-engineer-ii-afss-identity"
+    },
+    "10379717": {
+      "first_seen": 1775173690.065782,
+      "posted": "",
+      "title": "Software Development Engineer II, AWS Catalog",
+      "job_id": "10379717",
+      "url": "https://www.amazon.jobs/en/jobs/10379717/software-development-engineer-ii-aws-catalog"
+    },
+    "10380838": {
+      "first_seen": 1775173690.065782,
+      "posted": "",
+      "title": "Software Dev Engineer II, Shield",
+      "job_id": "10380838",
+      "url": "https://www.amazon.jobs/en/jobs/10380838/software-dev-engineer-ii-shield"
+    },
+    "10381228": {
+      "first_seen": 1775173690.065782,
+      "posted": "",
+      "title": "System Development Engineer II, AFSS Identity",
+      "job_id": "10381228",
+      "url": "https://www.amazon.jobs/en/jobs/10381228/system-development-engineer-ii-afss-identity"
+    },
+    "10377513": {
+      "first_seen": 1775173690.065783,
+      "posted": "",
+      "title": "Software Development Engineer, Query Processing AWS Analytics",
+      "job_id": "10377513",
+      "url": "https://www.amazon.jobs/en/jobs/10377513/software-development-engineer-query-processing-aws-analytics"
+    },
+    "10377512": {
+      "first_seen": 1775173690.065783,
+      "posted": "",
+      "title": "Software Development Engineer, Open Data Analytics - Engines",
+      "job_id": "10377512",
+      "url": "https://www.amazon.jobs/en/jobs/10377512/software-development-engineer-open-data-analytics-engines"
+    },
+    "10380690": {
+      "first_seen": 1775173690.065784,
+      "posted": "",
+      "title": "SDE Redshift Data Management, Redshift Data Foundations",
+      "job_id": "10380690",
+      "url": "https://www.amazon.jobs/en/jobs/10380690/sde-redshift-data-management-redshift-data-foundations"
+    },
+    "10378255": {
+      "first_seen": 1775173690.065784,
+      "posted": "",
+      "title": "ML Kernel Performance Engineer, AWS Neuron, Annapurna Labs",
+      "job_id": "10378255",
+      "url": "https://www.amazon.jobs/en/jobs/10378255/ml-kernel-performance-engineer-aws-neuron-annapurna-labs"
+    },
+    "10378122": {
+      "first_seen": 1775173690.0657852,
+      "posted": "",
+      "title": "SoC Systems Software Engineer, Annapurna Labs Machine Learning Accelerators, AWS",
+      "job_id": "10378122",
+      "url": "https://www.amazon.jobs/en/jobs/10378122/soc-systems-software-engineer-annapurna-labs-machine-learning-accelerators-aws"
+    },
+    "10378119": {
+      "first_seen": 1775173690.0657852,
+      "posted": "",
+      "title": "Pre-Silicon SoC Modeling Engineer, Annapurna Labs Machine Learning Accelerators, AWS",
+      "job_id": "10378119",
+      "url": "https://www.amazon.jobs/en/jobs/10378119/pre-silicon-soc-modeling-engineer-annapurna-labs-machine-learning-accelerators-aws"
+    },
+    "10378117": {
+      "first_seen": 1775173690.0657868,
+      "posted": "",
+      "title": "Virtual Platform Software Engineer, Annapurna Labs Machine Learning Accelerators, AWS",
+      "job_id": "10378117",
+      "url": "https://www.amazon.jobs/en/jobs/10378117/virtual-platform-software-engineer-annapurna-labs-machine-learning-accelerators-aws"
+    },
+    "10377893": {
+      "first_seen": 1775173690.0657868,
+      "posted": "",
+      "title": "SDE II, Data Foundation, Prime Video Personalization & Discovery",
+      "job_id": "10377893",
+      "url": "https://www.amazon.jobs/en/jobs/10377893/sde-ii-data-foundation-prime-video-personalization-discovery"
+    },
+    "10380507": {
+      "first_seen": 1775173690.0657878,
+      "posted": "",
+      "title": "Software Development Engineer, Data Plane, Network Product Development",
+      "job_id": "10380507",
+      "url": "https://www.amazon.jobs/en/jobs/10380507/software-development-engineer-data-plane-network-product-development"
+    },
+    "10377977": {
+      "first_seen": 1775173690.0657878,
+      "posted": "",
+      "title": "Software Development Engineer, Prime Video Optic Team",
+      "job_id": "10377977",
+      "url": "https://www.amazon.jobs/en/jobs/10377977/software-development-engineer-prime-video-optic-team"
+    },
+    "10380298": {
+      "first_seen": 1775173690.0657878,
+      "posted": "",
+      "title": "SDE II",
+      "job_id": "10380298",
+      "url": "https://www.amazon.jobs/en/jobs/10380298/sde-ii"
+    },
+    "10378372": {
+      "first_seen": 1775173690.065789,
+      "posted": "",
+      "title": "Software Development Engineer, Ads-Full-Funnel Agentic Intelligence",
+      "job_id": "10378372",
+      "url": "https://www.amazon.jobs/en/jobs/10378372/software-development-engineer-ads-full-funnel-agentic-intelligence"
+    },
+    "10378214": {
+      "first_seen": 1775173690.065789,
+      "posted": "",
+      "title": "Software Development Engineer, Aurora Storage",
+      "job_id": "10378214",
+      "url": "https://www.amazon.jobs/en/jobs/10378214/software-development-engineer-aurora-storage"
+    },
+    "10377230": {
+      "first_seen": 1775173690.06579,
+      "posted": "",
+      "title": "ASIC Design Engineer II, Cloud-Scale Machine Learning Acceleration team",
+      "job_id": "10377230",
+      "url": "https://www.amazon.jobs/en/jobs/10377230/asic-design-engineer-ii-cloud-scale-machine-learning-acceleration-team"
+    },
+    "10376579": {
+      "first_seen": 1775173690.06579,
+      "posted": "",
+      "title": "Software Development Engineer, ZeroTouch GSG at Amazon Leo",
+      "job_id": "10376579",
+      "url": "https://www.amazon.jobs/en/jobs/10376579/software-development-engineer-zerotouch-gsg-at-amazon-leo"
+    },
+    "10377792": {
+      "first_seen": 1775173690.06579,
+      "posted": "",
+      "title": "Software Engineer, Database Migration Service",
+      "job_id": "10377792",
+      "url": "https://www.amazon.jobs/en/jobs/10377792/software-engineer-database-migration-service"
+    },
+    "10378213": {
+      "first_seen": 1775173690.065791,
+      "posted": "",
+      "title": "Software Development Engineer, Aurora Storage",
+      "job_id": "10378213",
+      "url": "https://www.amazon.jobs/en/jobs/10378213/software-development-engineer-aurora-storage"
+    },
+    "10379249": {
+      "first_seen": 1775173690.065791,
+      "posted": "",
+      "title": "Machine Learning Engineer, Ad Response Prediction",
+      "job_id": "10379249",
+      "url": "https://www.amazon.jobs/en/jobs/10379249/machine-learning-engineer-ad-response-prediction"
+    },
+    "10379310": {
+      "first_seen": 1775173690.065792,
+      "posted": "",
+      "title": "Software Development Engineer, Ads Experience Framework",
+      "job_id": "10379310",
+      "url": "https://www.amazon.jobs/en/jobs/10379310/software-development-engineer-ads-experience-framework"
+    },
+    "10375127": {
+      "first_seen": 1775173690.065792,
+      "posted": "",
+      "title": "Instrument Control Engineer, Software, Center for Quantum Computing",
+      "job_id": "10375127",
+      "url": "https://www.amazon.jobs/en/jobs/10375127/instrument-control-engineer-software-center-for-quantum-computing"
+    },
+    "10378625": {
+      "first_seen": 1775173690.065793,
+      "posted": "",
+      "title": "Software Development Engineer, AWS Glue",
+      "job_id": "10378625",
+      "url": "https://www.amazon.jobs/en/jobs/10378625/software-development-engineer-aws-glue"
+    },
+    "10376347": {
+      "first_seen": 1775173690.065793,
+      "posted": "",
+      "title": "Software Development Engineer, Item Identity Services (IIS)",
+      "job_id": "10376347",
+      "url": "https://www.amazon.jobs/en/jobs/10376347/software-development-engineer-item-identity-services-iis"
+    },
+    "10374283": {
+      "first_seen": 1775173690.065793,
+      "posted": "",
+      "title": "Software Dev Engineer in Test, Leo Anchor",
+      "job_id": "10374283",
+      "url": "https://www.amazon.jobs/en/jobs/10374283/software-dev-engineer-in-test-leo-anchor"
+    },
+    "10378716": {
+      "first_seen": 1775173690.065794,
+      "posted": "",
+      "title": "Software Development Engineer, Data Center Builder Tools",
+      "job_id": "10378716",
+      "url": "https://www.amazon.jobs/en/jobs/10378716/software-development-engineer-data-center-builder-tools"
+    },
+    "10379847": {
+      "first_seen": 1775173690.065794,
+      "posted": "",
+      "title": "Embedded Software Dev Engineer, Amazon Leo Customer Terminal",
+      "job_id": "10379847",
+      "url": "https://www.amazon.jobs/en/jobs/10379847/embedded-software-dev-engineer-amazon-leo-customer-terminal"
+    },
+    "10379710": {
+      "first_seen": 1775173690.0657952,
+      "posted": "",
+      "title": "PD Methodology Engineer II, Annapurna Labs",
+      "job_id": "10379710",
+      "url": "https://www.amazon.jobs/en/jobs/10379710/pd-methodology-engineer-ii-annapurna-labs"
+    },
+    "10376310": {
+      "first_seen": 1775173690.0657952,
+      "posted": "",
+      "title": "Software Development Engineer, Prime Video Ad Measurement",
+      "job_id": "10376310",
+      "url": "https://www.amazon.jobs/en/jobs/10376310/software-development-engineer-prime-video-ad-measurement"
+    },
+    "10376198": {
+      "first_seen": 1775173690.0657961,
+      "posted": "",
+      "title": "Software Development Engineer, Amazon Key For Business",
+      "job_id": "10376198",
+      "url": "https://www.amazon.jobs/en/jobs/10376198/software-development-engineer-amazon-key-for-business"
+    },
+    "10376381": {
+      "first_seen": 1775173690.0657961,
+      "posted": "",
+      "title": "Software Development Engineer, AWS Athena",
+      "job_id": "10376381",
+      "url": "https://www.amazon.jobs/en/jobs/10376381/software-development-engineer-aws-athena"
+    },
+    "10376385": {
+      "first_seen": 1775173690.065797,
+      "posted": "",
+      "title": "Software Development Engineer, AWS Athena",
+      "job_id": "10376385",
+      "url": "https://www.amazon.jobs/en/jobs/10376385/software-development-engineer-aws-athena"
+    },
+    "10379082": {
+      "first_seen": 1775173690.065797,
+      "posted": "",
+      "title": "Software Development Engineer, Video Advertising Signals and Insights",
+      "job_id": "10379082",
+      "url": "https://www.amazon.jobs/en/jobs/10379082/software-development-engineer-video-advertising-signals-and-insights"
+    },
+    "10376388": {
+      "first_seen": 1775173690.0657978,
+      "posted": "",
+      "title": "Software Dev Engineer II, Amazon Connect",
+      "job_id": "10376388",
+      "url": "https://www.amazon.jobs/en/jobs/10376388/software-dev-engineer-ii-amazon-connect"
+    },
+    "10376303": {
+      "first_seen": 1775173690.0657978,
+      "posted": "",
+      "title": "Front-End Engineer, Amazon Connect (AWS)",
+      "job_id": "10376303",
+      "url": "https://www.amazon.jobs/en/jobs/10376303/front-end-engineer-amazon-connect-aws"
+    },
+    "10382825": {
+      "first_seen": 1775173690.0657978,
+      "posted": "",
+      "title": "Software Development Engineer, Amazon Connect Contact Lens",
+      "job_id": "10382825",
+      "url": "https://www.amazon.jobs/en/jobs/10382825/software-development-engineer-amazon-connect-contact-lens"
+    },
+    "10376535": {
+      "first_seen": 1775173690.065799,
+      "posted": "",
+      "title": "Software Development Engineer II, AWS Network Security Director",
+      "job_id": "10376535",
+      "url": "https://www.amazon.jobs/en/jobs/10376535/software-development-engineer-ii-aws-network-security-director"
+    },
+    "10378377": {
+      "first_seen": 1775173690.065799,
+      "posted": "",
+      "title": "Software Development Engineer, Amazon Key",
+      "job_id": "10378377",
+      "url": "https://www.amazon.jobs/en/jobs/10378377/software-development-engineer-amazon-key"
+    },
+    "10376306": {
+      "first_seen": 1775173690.0658,
+      "posted": "",
+      "title": "Software Dev Engineer II, Amazon Connect",
+      "job_id": "10376306",
+      "url": "https://www.amazon.jobs/en/jobs/10376306/software-dev-engineer-ii-amazon-connect"
+    },
+    "10375046": {
+      "first_seen": 1775173690.0658,
+      "posted": "",
+      "title": "Software Engineer II- AI/ML, AWS Neuron",
+      "job_id": "10375046",
+      "url": "https://www.amazon.jobs/en/jobs/10375046/software-engineer-ii-ai-ml-aws-neuron"
+    },
+    "10374972": {
+      "first_seen": 1775173690.065801,
+      "posted": "",
+      "title": "Software Development Engineer, Amazon Fulfillment Technology (AFT), Platform Engineering and Services (AFT Rodeo)",
+      "job_id": "10374972",
+      "url": "https://www.amazon.jobs/en/jobs/10374972/software-development-engineer-amazon-fulfillment-technology-aft-platform-engineering-and-services-aft-rodeo"
+    },
+    "10377805": {
+      "first_seen": 1775173690.065801,
+      "posted": "",
+      "title": "Software Engineer, Data Plane, NPD Forwarding Stack, Data Plane",
+      "job_id": "10377805",
+      "url": "https://www.amazon.jobs/en/jobs/10377805/software-engineer-data-plane-npd-forwarding-stack-data-plane"
+    },
+    "10372710": {
+      "first_seen": 1775173690.065801,
+      "posted": "",
+      "title": "Software Development Engineer, Ads Core Services (ACS), Advertising Permissions",
+      "job_id": "10372710",
+      "url": "https://www.amazon.jobs/en/jobs/10372710/software-development-engineer-ads-core-services-acs-advertising-permissions"
+    },
+    "10372503": {
+      "first_seen": 1775173690.065802,
+      "posted": "",
+      "title": "Software Engineer I, Streamer Monetization Experience",
+      "job_id": "10372503",
+      "url": "https://www.amazon.jobs/en/jobs/10372503/software-engineer-i-streamer-monetization-experience"
+    },
+    "10377661": {
+      "first_seen": 1775173690.065802,
+      "posted": "",
+      "title": "Software Dev Engineer II, Software Defined Network Control Plane, Amazon LEO",
+      "job_id": "10377661",
+      "url": "https://www.amazon.jobs/en/jobs/10377661/software-dev-engineer-ii-software-defined-network-control-plane-amazon-leo"
+    },
+    "10374217": {
+      "first_seen": 1775173690.065803,
+      "posted": "",
+      "title": "Software Development Engineer, Sponsored Products and Brands",
+      "job_id": "10374217",
+      "url": "https://www.amazon.jobs/en/jobs/10374217/software-development-engineer-sponsored-products-and-brands"
+    },
+    "10375317": {
+      "first_seen": 1775173690.065803,
+      "posted": "",
+      "title": "Software Dev Engineer, AWS Identity Analytics Platform",
+      "job_id": "10375317",
+      "url": "https://www.amazon.jobs/en/jobs/10375317/software-dev-engineer-aws-identity-analytics-platform"
+    },
+    "10374689": {
+      "first_seen": 1775173690.065803,
+      "posted": "",
+      "title": "Software Dev Engineer, Prime Video Personalization & Discovery",
+      "job_id": "10374689",
+      "url": "https://www.amazon.jobs/en/jobs/10374689/software-dev-engineer-prime-video-personalization-discovery"
+    },
+    "10374702": {
+      "first_seen": 1775173690.065804,
+      "posted": "",
+      "title": "Software Dev Engineer II, Prime Video Personalization",
+      "job_id": "10374702",
+      "url": "https://www.amazon.jobs/en/jobs/10374702/software-dev-engineer-ii-prime-video-personalization"
+    },
+    "10372614": {
+      "first_seen": 1775173690.065804,
+      "posted": "",
+      "title": "Software Development Engineer II, Items and Relationships Platform",
+      "job_id": "10372614",
+      "url": "https://www.amazon.jobs/en/jobs/10372614/software-development-engineer-ii-items-and-relationships-platform"
+    },
+    "10379185": {
+      "first_seen": 1775173690.065804,
+      "posted": "",
+      "title": "Software Development Engineer, Fire TV",
+      "job_id": "10379185",
+      "url": "https://www.amazon.jobs/en/jobs/10379185/software-development-engineer-fire-tv"
+    },
+    "10372443": {
+      "first_seen": 1775173690.065805,
+      "posted": "",
+      "title": "Software Development Engineer, Sponsored Brands Advertising",
+      "job_id": "10372443",
+      "url": "https://www.amazon.jobs/en/jobs/10372443/software-development-engineer-sponsored-brands-advertising"
+    },
+    "10372635": {
+      "first_seen": 1775173690.065805,
+      "posted": "",
+      "title": "Embedded Software Engineer, Leo Payload Radio",
+      "job_id": "10372635",
+      "url": "https://www.amazon.jobs/en/jobs/10372635/embedded-software-engineer-leo-payload-radio"
+    },
+    "10372634": {
+      "first_seen": 1775173690.0658062,
+      "posted": "",
+      "title": "Embedded Software Engineer, Leo  Payload Radio",
+      "job_id": "10372634",
+      "url": "https://www.amazon.jobs/en/jobs/10372634/embedded-software-engineer-leo-payload-radio"
+    },
+    "3208334": {
+      "first_seen": 1775173690.0658062,
+      "posted": "",
+      "title": "Software Engineer I,  Community Growth",
+      "job_id": "3208334",
+      "url": "https://www.amazon.jobs/en/jobs/3208334/software-engineer-i-community-growth"
+    },
+    "10372701": {
+      "first_seen": 1775173690.0658062,
+      "posted": "",
+      "title": "Software Development Engineer, Account Management, Ads AI Core Infrastructure (ACI)",
+      "job_id": "10372701",
+      "url": "https://www.amazon.jobs/en/jobs/10372701/software-development-engineer-account-management-ads-ai-core-infrastructure-aci"
+    },
+    "10371682": {
+      "first_seen": 1775173690.065807,
+      "posted": "",
+      "title": "Software Development Engineer II, Shopbop Website Development",
+      "job_id": "10371682",
+      "url": "https://www.amazon.jobs/en/jobs/10371682/software-development-engineer-ii-shopbop-website-development"
+    },
+    "10376333": {
+      "first_seen": 1775173690.065807,
+      "posted": "",
+      "title": "Software Development Engineer, Alexa Endpoint Experiences",
+      "job_id": "10376333",
+      "url": "https://www.amazon.jobs/en/jobs/10376333/software-development-engineer-alexa-endpoint-experiences"
+    },
+    "10371400": {
+      "first_seen": 1775173690.065807,
+      "posted": "",
+      "title": "Software Development Engineer \u2013 Big Data, AWS Elastic MapReduce (EMR)",
+      "job_id": "10371400",
+      "url": "https://www.amazon.jobs/en/jobs/10371400/software-development-engineer-big-data-aws-elastic-mapreduce-emr"
+    },
+    "10374030": {
+      "first_seen": 1775173690.0658078,
+      "posted": "",
+      "title": "SDE II, AWS Investments",
+      "job_id": "10374030",
+      "url": "https://www.amazon.jobs/en/jobs/10374030/sde-ii-aws-investments"
+    },
+    "10380171": {
+      "first_seen": 1775173690.0658078,
+      "posted": "",
+      "title": "Embedded Software Development Engineer II, Amazon Robotics Embedded Safety Systems",
+      "job_id": "10380171",
+      "url": "https://www.amazon.jobs/en/jobs/10380171/embedded-software-development-engineer-ii-amazon-robotics-embedded-safety-systems"
+    },
+    "10371401": {
+      "first_seen": 1775173690.065809,
+      "posted": "",
+      "title": "Software Development Engineer \u2013 Big Data, AWS Elastic MapReduce (EMR)",
+      "job_id": "10371401",
+      "url": "https://www.amazon.jobs/en/jobs/10371401/software-development-engineer-big-data-aws-elastic-mapreduce-emr"
+    },
+    "10371336": {
+      "first_seen": 1775173690.065809,
+      "posted": "",
+      "title": "Software Development Engineer, Fire TV",
+      "job_id": "10371336",
+      "url": "https://www.amazon.jobs/en/jobs/10371336/software-development-engineer-fire-tv"
+    },
+    "3207203": {
+      "first_seen": 1775173690.065809,
+      "posted": "",
+      "title": "Software Development Engineer II, EC2 Networking",
+      "job_id": "3207203",
+      "url": "https://www.amazon.jobs/en/jobs/3207203/software-development-engineer-ii-ec2-networking"
+    },
+    "10375169": {
+      "first_seen": 1775173690.06581,
+      "posted": "",
+      "title": "Software Development  Engineer, Aurora Control Plane",
+      "job_id": "10375169",
+      "url": "https://www.amazon.jobs/en/jobs/10375169/software-development-engineer-aurora-control-plane"
+    },
+    "10377139": {
+      "first_seen": 1775173690.06581,
+      "posted": "",
+      "title": "Software Development Engineer, Chronicle Analytics",
+      "job_id": "10377139",
+      "url": "https://www.amazon.jobs/en/jobs/10377139/software-development-engineer-chronicle-analytics"
+    },
+    "10372529": {
+      "first_seen": 1775173690.065811,
+      "posted": "",
+      "title": "Software Development Engineer, Ring",
+      "job_id": "10372529",
+      "url": "https://www.amazon.jobs/en/jobs/10372529/software-development-engineer-ring"
+    },
+    "10376451": {
+      "first_seen": 1775173690.065811,
+      "posted": "",
+      "title": "Software Development Engineer, AI Core Infra - AI Analytics and Insights",
+      "job_id": "10376451",
+      "url": "https://www.amazon.jobs/en/jobs/10376451/software-development-engineer-ai-core-infra-ai-analytics-and-insights"
+    },
+    "10378590": {
+      "first_seen": 1775173690.065811,
+      "posted": "",
+      "title": "Software Dev Engineer II, Customer Service Security",
+      "job_id": "10378590",
+      "url": "https://www.amazon.jobs/en/jobs/10378590/software-dev-engineer-ii-customer-service-security"
+    },
+    "10372533": {
+      "first_seen": 1775173690.0658119,
+      "posted": "",
+      "title": "Software Development Engineer, Ring",
+      "job_id": "10372533",
+      "url": "https://www.amazon.jobs/en/jobs/10372533/software-development-engineer-ring"
+    },
+    "10370980": {
+      "first_seen": 1775173690.0658119,
+      "posted": "",
+      "title": "AI Hardware Systems Engineer, Annapurna Labs, Trainium Machine Learning Fleet Operations",
+      "job_id": "10370980",
+      "url": "https://www.amazon.jobs/en/jobs/10370980/ai-hardware-systems-engineer-annapurna-labs-trainium-machine-learning-fleet-operations"
+    },
+    "10374034": {
+      "first_seen": 1775173690.0658119,
+      "posted": "",
+      "title": "SDE II, AWS Investments",
+      "job_id": "10374034",
+      "url": "https://www.amazon.jobs/en/jobs/10374034/sde-ii-aws-investments"
+    },
+    "10374028": {
+      "first_seen": 1775173690.065814,
+      "posted": "",
+      "title": "Software Dev Engineer - Computer Science",
+      "job_id": "10374028",
+      "url": "https://www.amazon.jobs/en/jobs/10374028/software-dev-engineer-computer-science"
+    },
+    "10376384": {
+      "first_seen": 1775173690.065814,
+      "posted": "",
+      "title": "Software Development Engineer, Alexa Endpoint Experiences",
+      "job_id": "10376384",
+      "url": "https://www.amazon.jobs/en/jobs/10376384/software-development-engineer-alexa-endpoint-experiences"
+    },
+    "3206623": {
+      "first_seen": 1775173690.065815,
+      "posted": "",
+      "title": "Software Development Engineer, DCA Video Ads",
+      "job_id": "3206623",
+      "url": "https://www.amazon.jobs/en/jobs/3206623/software-development-engineer-dca-video-ads"
+    },
+    "10371512": {
+      "first_seen": 1775173690.065815,
+      "posted": "",
+      "title": "SDE II, Leo Autopilot",
+      "job_id": "10371512",
+      "url": "https://www.amazon.jobs/en/jobs/10371512/sde-ii-leo-autopilot"
+    },
+    "3206732": {
+      "first_seen": 1775173690.0658162,
+      "posted": "",
+      "title": "Software Development Engineer II, Defensive Security - Security Findings Management",
+      "job_id": "3206732",
+      "url": "https://www.amazon.jobs/en/jobs/3206732/software-development-engineer-ii-defensive-security-security-findings-management"
+    },
+    "10382424": {
+      "first_seen": 1775173690.0658162,
+      "posted": "",
+      "title": "Embedded Software Engineer, Safety Perception, Mobile Robotics",
+      "job_id": "10382424",
+      "url": "https://www.amazon.jobs/en/jobs/10382424/embedded-software-engineer-safety-perception-mobile-robotics"
+    },
+    "10379663": {
+      "first_seen": 1775173690.065817,
+      "posted": "",
+      "title": "Software Engineer, Server Control Firmware",
+      "job_id": "10379663",
+      "url": "https://www.amazon.jobs/en/jobs/10379663/software-engineer-server-control-firmware"
+    },
+    "3206178": {
+      "first_seen": 1775173690.065817,
+      "posted": "",
+      "title": "Software Development Engineer II, Items and Relationships Platform, Unified Intelligent Matching Systems",
+      "job_id": "3206178",
+      "url": "https://www.amazon.jobs/en/jobs/3206178/software-development-engineer-ii-items-and-relationships-platform-unified-intelligent-matching-systems"
+    },
+    "10381147": {
+      "first_seen": 1775173690.065817,
+      "posted": "",
+      "title": "Systems Development Engineer II, AWS Mission Networking Edge Connectivity",
+      "job_id": "10381147",
+      "url": "https://www.amazon.jobs/en/jobs/10381147/systems-development-engineer-ii-aws-mission-networking-edge-connectivity"
+    },
+    "10372794": {
+      "first_seen": 1775173690.065818,
+      "posted": "",
+      "title": "Software Development Engineer, Measurement, Ad Tech, and Data Science",
+      "job_id": "10372794",
+      "url": "https://www.amazon.jobs/en/jobs/10372794/software-development-engineer-measurement-ad-tech-and-data-science"
+    },
+    "3204060": {
+      "first_seen": 1775173690.065818,
+      "posted": "",
+      "title": "Software Dev Engineer, EC2 Nitro",
+      "job_id": "3204060",
+      "url": "https://www.amazon.jobs/en/jobs/3204060/software-dev-engineer-ec2-nitro"
+    },
+    "3204051": {
+      "first_seen": 1775173690.065818,
+      "posted": "",
+      "title": "Software Dev Engineer, EC2 Nitro",
+      "job_id": "3204051",
+      "url": "https://www.amazon.jobs/en/jobs/3204051/software-dev-engineer-ec2-nitro"
+    },
+    "3204044": {
+      "first_seen": 1775173690.0658188,
+      "posted": "",
+      "title": "Software Dev Engineer, EC2 Nitro",
+      "job_id": "3204044",
+      "url": "https://www.amazon.jobs/en/jobs/3204044/software-dev-engineer-ec2-nitro"
+    },
+    "3204697": {
+      "first_seen": 1775173690.0658188,
+      "posted": "",
+      "title": "Software Development Engineer, AWS Marketplace & Partnerships",
+      "job_id": "3204697",
+      "url": "https://www.amazon.jobs/en/jobs/3204697/software-development-engineer-aws-marketplace-partnerships"
+    },
+    "10378746": {
+      "first_seen": 1775173690.0658188,
+      "posted": "",
+      "title": "Software Development Engineer - Amazon Redshift, Redshift",
+      "job_id": "10378746",
+      "url": "https://www.amazon.jobs/en/jobs/10378746/software-development-engineer-amazon-redshift-redshift"
+    },
+    "3205549": {
+      "first_seen": 1775173690.06582,
+      "posted": "",
+      "title": "Software Development Engineer, Amazon Connect Customer Data & Insights",
+      "job_id": "3205549",
+      "url": "https://www.amazon.jobs/en/jobs/3205549/software-development-engineer-amazon-connect-customer-data-insights"
+    },
+    "10371728": {
+      "first_seen": 1775173690.06582,
+      "posted": "",
+      "title": "Software Development Engineer",
+      "job_id": "10371728",
+      "url": "https://www.amazon.jobs/en/jobs/10371728/software-development-engineer"
+    },
+    "3204868": {
+      "first_seen": 1775173690.06582,
+      "posted": "",
+      "title": "Software Dev Engineer - II Prime Video, Prime Video Ads",
+      "job_id": "3204868",
+      "url": "https://www.amazon.jobs/en/jobs/3204868/software-dev-engineer-ii-prime-video-prime-video-ads"
+    },
+    "10381620": {
+      "first_seen": 1775173690.065821,
+      "posted": "",
+      "title": "Embedded Software Development Engineer II, Baseboard Management Controller",
+      "job_id": "10381620",
+      "url": "https://www.amazon.jobs/en/jobs/10381620/embedded-software-development-engineer-ii-baseboard-management-controller"
+    },
+    "3203581": {
+      "first_seen": 1775173690.065821,
+      "posted": "",
+      "title": "Cloud Consultant, Government, WWPS ProServe",
+      "job_id": "3203581",
+      "url": "https://www.amazon.jobs/en/jobs/3203581/cloud-consultant-government-wwps-proserve"
+    },
+    "3204508": {
+      "first_seen": 1775173690.065821,
+      "posted": "",
+      "title": "Software Development Engineer, Amazon Leo for Government",
+      "job_id": "3204508",
+      "url": "https://www.amazon.jobs/en/jobs/3204508/software-development-engineer-amazon-leo-for-government"
+    },
+    "10372417": {
+      "first_seen": 1775173690.065822,
+      "posted": "",
+      "title": "Software Development Engineer, Items and Offers Platform, Catalog Diagnostics & Analytics",
+      "job_id": "10372417",
+      "url": "https://www.amazon.jobs/en/jobs/10372417/software-development-engineer-items-and-offers-platform-catalog-diagnostics-analytics"
+    },
+    "3206763": {
+      "first_seen": 1775173690.065822,
+      "posted": "",
+      "title": "Software Development Engineer, Amazon Private Brands",
+      "job_id": "3206763",
+      "url": "https://www.amazon.jobs/en/jobs/3206763/software-development-engineer-amazon-private-brands"
+    },
+    "3208417": {
+      "first_seen": 1775173690.065823,
+      "posted": "",
+      "title": "Software Development Engineer \u2013 Big Data, AWS Elastic MapReduce (EMR), EMR EKS",
+      "job_id": "3208417",
+      "url": "https://www.amazon.jobs/en/jobs/3208417/software-development-engineer-big-data-aws-elastic-mapreduce-emr-emr-eks"
+    },
+    "10371950": {
+      "first_seen": 1775173690.065823,
+      "posted": "",
+      "title": "Software Development Engineer, AWS Vulnerability Management (AVM)",
+      "job_id": "10371950",
+      "url": "https://www.amazon.jobs/en/jobs/10371950/software-development-engineer-aws-vulnerability-management-avm"
+    },
+    "10381616": {
+      "first_seen": 1775173690.065823,
+      "posted": "",
+      "title": "Software Development Engineer, AWS EC2 Provisioning",
+      "job_id": "10381616",
+      "url": "https://www.amazon.jobs/en/jobs/10381616/software-development-engineer-aws-ec2-provisioning"
+    },
+    "10371290": {
+      "first_seen": 1775173690.065824,
+      "posted": "",
+      "title": "Front-End Engineer II, Amazon Autos",
+      "job_id": "10371290",
+      "url": "https://www.amazon.jobs/en/jobs/10371290/front-end-engineer-ii-amazon-autos"
+    },
+    "3201597": {
+      "first_seen": 1775173690.065824,
+      "posted": "",
+      "title": "Software Development Engineer, Lep Telemetry and Command",
+      "job_id": "3201597",
+      "url": "https://www.amazon.jobs/en/jobs/3201597/software-development-engineer-lep-telemetry-and-command"
+    },
+    "3206149": {
+      "first_seen": 1775173690.065825,
+      "posted": "",
+      "title": "Software Development Engineer \u2013 Amazon Transportation",
+      "job_id": "3206149",
+      "url": "https://www.amazon.jobs/en/jobs/3206149/software-development-engineer-amazon-transportation"
+    },
+    "3206305": {
+      "first_seen": 1775173690.065825,
+      "posted": "",
+      "title": "System Development Engineer II, Prime Air",
+      "job_id": "3206305",
+      "url": "https://www.amazon.jobs/en/jobs/3206305/system-development-engineer-ii-prime-air"
+    },
+    "10376148": {
+      "first_seen": 1775173690.065825,
+      "posted": "",
+      "title": "Software Development Engineer , Amazon Robotics (AR) Sortation Planning",
+      "job_id": "10376148",
+      "url": "https://www.amazon.jobs/en/jobs/10376148/software-development-engineer-amazon-robotics-ar-sortation-planning"
+    },
+    "10375110": {
+      "first_seen": 1775173690.065826,
+      "posted": "",
+      "title": "Software Development Engineer II, SCOT Forecasting",
+      "job_id": "10375110",
+      "url": "https://www.amazon.jobs/en/jobs/10375110/software-development-engineer-ii-scot-forecasting"
+    },
+    "10381878": {
+      "first_seen": 1775173690.065826,
+      "posted": "",
+      "title": "Embedded Software Development Engineer II, AWS Hardware Engineering Services",
+      "job_id": "10381878",
+      "url": "https://www.amazon.jobs/en/jobs/10381878/embedded-software-development-engineer-ii-aws-hardware-engineering-services"
+    },
+    "3205554": {
+      "first_seen": 1775173690.065826,
+      "posted": "",
+      "title": "Software Dev Engineer II, Item and Offers Platform",
+      "job_id": "3205554",
+      "url": "https://www.amazon.jobs/en/jobs/3205554/software-dev-engineer-ii-item-and-offers-platform"
+    },
+    "3208414": {
+      "first_seen": 1775173690.0658271,
+      "posted": "",
+      "title": "Software Development Engineer \u2013 Big Data, AWS Elastic MapReduce (EMR), EMR EKS",
+      "job_id": "3208414",
+      "url": "https://www.amazon.jobs/en/jobs/3208414/software-development-engineer-big-data-aws-elastic-mapreduce-emr-emr-eks"
+    },
+    "3207284": {
+      "first_seen": 1775173690.0658271,
+      "posted": "",
+      "title": "Software Dev Engineer II, Seller Pricing & Shared Services, Seller Pricing & Shared Services",
+      "job_id": "3207284",
+      "url": "https://www.amazon.jobs/en/jobs/3207284/software-dev-engineer-ii-seller-pricing-shared-services-seller-pricing-shared-services"
+    },
+    "3208045": {
+      "first_seen": 1775173690.0658271,
+      "posted": "",
+      "title": "Software Development Engineer, Data Integration AI and Platform Excellence (APEX)",
+      "job_id": "3208045",
+      "url": "https://www.amazon.jobs/en/jobs/3208045/software-development-engineer-data-integration-ai-and-platform-excellence-apex"
+    },
+    "3200027": {
+      "first_seen": 1775173690.065828,
+      "posted": "",
+      "title": "Software Development Engineer, Playback Team",
+      "job_id": "3200027",
+      "url": "https://www.amazon.jobs/en/jobs/3200027/software-development-engineer-playback-team"
+    },
+    "10373378": {
+      "first_seen": 1775173690.065829,
+      "posted": "",
+      "title": "Software Development Engineer",
+      "job_id": "10373378",
+      "url": "https://www.amazon.jobs/en/jobs/10373378/software-development-engineer"
+    },
+    "10374259": {
+      "first_seen": 1775173690.065829,
+      "posted": "",
+      "title": "Software Development Engineer, Automated Profitability Management",
+      "job_id": "10374259",
+      "url": "https://www.amazon.jobs/en/jobs/10374259/software-development-engineer-automated-profitability-management"
+    },
+    "10381148": {
+      "first_seen": 1775173690.065829,
+      "posted": "",
+      "title": "Software Development Engineer, AWS Ground Station Service",
+      "job_id": "10381148",
+      "url": "https://www.amazon.jobs/en/jobs/10381148/software-development-engineer-aws-ground-station-service"
+    },
+    "3205695": {
+      "first_seen": 1775173690.065829,
+      "posted": "",
+      "title": "Software Development Engineer, AWS Client VPN",
+      "job_id": "3205695",
+      "url": "https://www.amazon.jobs/en/jobs/3205695/software-development-engineer-aws-client-vpn"
+    },
+    "3202831": {
+      "first_seen": 1775173690.06583,
+      "posted": "",
+      "title": "Software Development Engineer , Alexa Device Platform Team",
+      "job_id": "3202831",
+      "url": "https://www.amazon.jobs/en/jobs/3202831/software-development-engineer-alexa-device-platform-team"
+    },
+    "3198802": {
+      "first_seen": 1775173690.06583,
+      "posted": "",
+      "title": "SW Automation and Framework Engineer, Amazon Leo",
+      "job_id": "3198802",
+      "url": "https://www.amazon.jobs/en/jobs/3198802/sw-automation-and-framework-engineer-amazon-leo"
+    },
+    "10379274": {
+      "first_seen": 1775173690.06583,
+      "posted": "",
+      "title": "Application Builder, Ring Software Product Builders",
+      "job_id": "10379274",
+      "url": "https://www.amazon.jobs/en/jobs/10379274/application-builder-ring-software-product-builders"
+    },
+    "10381248": {
+      "first_seen": 1775173690.065831,
+      "posted": "",
+      "title": "Software Engineer - ML and Distributed Systems, Amazon Personalize",
+      "job_id": "10381248",
+      "url": "https://www.amazon.jobs/en/jobs/10381248/software-engineer-ml-and-distributed-systems-amazon-personalize"
+    },
+    "3200917": {
+      "first_seen": 1775173690.065831,
+      "posted": "",
+      "title": "Software Development Engineer, Prime Air",
+      "job_id": "3200917",
+      "url": "https://www.amazon.jobs/en/jobs/3200917/software-development-engineer-prime-air"
+    },
+    "10381642": {
+      "first_seen": 1775173690.065831,
+      "posted": "",
+      "title": "Machine Learning Engineer, Alexa AI",
+      "job_id": "10381642",
+      "url": "https://www.amazon.jobs/en/jobs/10381642/machine-learning-engineer-alexa-ai"
+    },
+    "3198587": {
+      "first_seen": 1775173690.065832,
+      "posted": "",
+      "title": "DFT Design Engineer, Machine Learning Acceleration",
+      "job_id": "3198587",
+      "url": "https://www.amazon.jobs/en/jobs/3198587/dft-design-engineer-machine-learning-acceleration"
+    },
+    "3202834": {
+      "first_seen": 1775173690.065832,
+      "posted": "",
+      "title": "Embedded Software Development Engineer, Alexa Devices",
+      "job_id": "3202834",
+      "url": "https://www.amazon.jobs/en/jobs/3202834/embedded-software-development-engineer-alexa-devices"
+    },
+    "3198440": {
+      "first_seen": 1775173690.065832,
+      "posted": "",
+      "title": "Software Engineer I, Twitch Chat",
+      "job_id": "3198440",
+      "url": "https://www.amazon.jobs/en/jobs/3198440/software-engineer-i-twitch-chat"
+    },
+    "3206931": {
+      "first_seen": 1775173690.0658329,
+      "posted": "",
+      "title": "Machine Learning Engineer, OIS-Core Engine",
+      "job_id": "3206931",
+      "url": "https://www.amazon.jobs/en/jobs/3206931/machine-learning-engineer-ois-core-engine"
+    },
+    "3202832": {
+      "first_seen": 1775173690.0658329,
+      "posted": "",
+      "title": "Embedded Software Development Engineer, Alexa Devices",
+      "job_id": "3202832",
+      "url": "https://www.amazon.jobs/en/jobs/3202832/embedded-software-development-engineer-alexa-devices"
+    },
+    "3198862": {
+      "first_seen": 1775173690.0658329,
+      "posted": "",
+      "title": "Software Development Engineer, Fire TV",
+      "job_id": "3198862",
+      "url": "https://www.amazon.jobs/en/jobs/3198862/software-development-engineer-fire-tv"
+    },
+    "3199657": {
+      "first_seen": 1775173690.065834,
+      "posted": "",
+      "title": "Software Dev Engineer, Offer Listing Systems",
+      "job_id": "3199657",
+      "url": "https://www.amazon.jobs/en/jobs/3199657/software-dev-engineer-offer-listing-systems"
+    },
+    "3197843": {
+      "first_seen": 1775173690.065834,
+      "posted": "",
+      "title": "Machine Learning Engineer, AWS Applied AI Solution",
+      "job_id": "3197843",
+      "url": "https://www.amazon.jobs/en/jobs/3197843/machine-learning-engineer-aws-applied-ai-solution"
+    },
+    "3200026": {
+      "first_seen": 1775173690.065835,
+      "posted": "",
+      "title": "Software Development Engineer, EC2 VPC",
+      "job_id": "3200026",
+      "url": "https://www.amazon.jobs/en/jobs/3200026/software-development-engineer-ec2-vpc"
+    },
+    "3200017": {
+      "first_seen": 1775173690.065835,
+      "posted": "",
+      "title": "Software Development Engineer, EC2 VPC",
+      "job_id": "3200017",
+      "url": "https://www.amazon.jobs/en/jobs/3200017/software-development-engineer-ec2-vpc"
+    },
+    "3198935": {
+      "first_seen": 1775173690.065835,
+      "posted": "",
+      "title": "Software Development Engineer, Ads Payments",
+      "job_id": "3198935",
+      "url": "https://www.amazon.jobs/en/jobs/3198935/software-development-engineer-ads-payments"
+    },
+    "3202423": {
+      "first_seen": 1775173690.065836,
+      "posted": "",
+      "title": "Software Development Engineer, Neuron Foundation Tools",
+      "job_id": "3202423",
+      "url": "https://www.amazon.jobs/en/jobs/3202423/software-development-engineer-neuron-foundation-tools"
+    },
+    "3200022": {
+      "first_seen": 1775173690.065836,
+      "posted": "",
+      "title": "Software Development Engineer, EC2 VPC",
+      "job_id": "3200022",
+      "url": "https://www.amazon.jobs/en/jobs/3200022/software-development-engineer-ec2-vpc"
+    },
+    "3198635": {
+      "first_seen": 1775173690.065836,
+      "posted": "",
+      "title": "Software Development Engineer, Sponsored Brands Advertising",
+      "job_id": "3198635",
+      "url": "https://www.amazon.jobs/en/jobs/3198635/software-development-engineer-sponsored-brands-advertising"
+    },
+    "3198447": {
+      "first_seen": 1775173690.0658371,
+      "posted": "",
+      "title": "Software Development Engineer, Multi Publisher Network, Multi Publisher Network",
+      "job_id": "3198447",
+      "url": "https://www.amazon.jobs/en/jobs/3198447/software-development-engineer-multi-publisher-network-multi-publisher-network"
+    },
+    "3200850": {
+      "first_seen": 1775173690.0658371,
+      "posted": "",
+      "title": "Software Development Engineer,  Corporate Services Security",
+      "job_id": "3200850",
+      "url": "https://www.amazon.jobs/en/jobs/3200850/software-development-engineer-corporate-services-security"
+    },
+    "3201204": {
+      "first_seen": 1775173690.0658371,
+      "posted": "",
+      "title": "Software Development Engineer, Amazon Key",
+      "job_id": "3201204",
+      "url": "https://www.amazon.jobs/en/jobs/3201204/software-development-engineer-amazon-key"
+    },
+    "3206873": {
+      "first_seen": 1775173690.065838,
+      "posted": "",
+      "title": "Software Dev Engineer II, AWS Healthcare AI",
+      "job_id": "3206873",
+      "url": "https://www.amazon.jobs/en/jobs/3206873/software-dev-engineer-ii-aws-healthcare-ai"
+    },
+    "3203559": {
+      "first_seen": 1775173690.065838,
+      "posted": "",
+      "title": "Software Development Engineer - AI, Prime Video - Personalization and Discovery Science",
+      "job_id": "3203559",
+      "url": "https://www.amazon.jobs/en/jobs/3203559/software-development-engineer-ai-prime-video-personalization-and-discovery-science"
+    },
+    "3202111": {
+      "first_seen": 1775173690.065838,
+      "posted": "",
+      "title": "Software Development Engineer, AWS Marketplace",
+      "job_id": "3202111",
+      "url": "https://www.amazon.jobs/en/jobs/3202111/software-development-engineer-aws-marketplace"
+    },
+    "3205936": {
+      "first_seen": 1775173690.065839,
+      "posted": "",
+      "title": "Software Development Engineer II, Amazon Foundational Security Services",
+      "job_id": "3205936",
+      "url": "https://www.amazon.jobs/en/jobs/3205936/software-development-engineer-ii-amazon-foundational-security-services"
+    },
+    "3202509": {
+      "first_seen": 1775173690.065839,
+      "posted": "",
+      "title": "Software Development Engineer, Guidance and Personalization - Amazon Ads",
+      "job_id": "3202509",
+      "url": "https://www.amazon.jobs/en/jobs/3202509/software-development-engineer-guidance-and-personalization-amazon-ads"
+    },
+    "3196286": {
+      "first_seen": 1775173690.065839,
+      "posted": "",
+      "title": "Software Development Engineer II, Post Silicon Validation",
+      "job_id": "3196286",
+      "url": "https://www.amazon.jobs/en/jobs/3196286/software-development-engineer-ii-post-silicon-validation"
+    },
+    "3196274": {
+      "first_seen": 1775173690.0658402,
+      "posted": "",
+      "title": "Embedded Software Engineer, Annapurna ML Software",
+      "job_id": "3196274",
+      "url": "https://www.amazon.jobs/en/jobs/3196274/embedded-software-engineer-annapurna-ml-software"
+    },
+    "10372821": {
+      "first_seen": 1775173690.0658402,
+      "posted": "",
+      "title": "Amazon Core Search Organization - Language Engineer, Core Search",
+      "job_id": "10372821",
+      "url": "https://www.amazon.jobs/en/jobs/10372821/amazon-core-search-organization-language-engineer-core-search"
+    },
+    "3200021": {
+      "first_seen": 1775173690.0658402,
+      "posted": "",
+      "title": "Software Development Engineer, EC2 Software Defined Networking, VPC Core",
+      "job_id": "3200021",
+      "url": "https://www.amazon.jobs/en/jobs/3200021/software-development-engineer-ec2-software-defined-networking-vpc-core"
+    },
+    "3200023": {
+      "first_seen": 1775173690.065841,
+      "posted": "",
+      "title": "Software Development Engineer, EC2 Software Defined Networking, Networking(VPC Core)",
+      "job_id": "3200023",
+      "url": "https://www.amazon.jobs/en/jobs/3200023/software-development-engineer-ec2-software-defined-networking-networking-vpc-core"
+    },
+    "3206040": {
+      "first_seen": 1775173690.065841,
+      "posted": "",
+      "title": "SDE-II, Healthcare AI",
+      "job_id": "3206040",
+      "url": "https://www.amazon.jobs/en/jobs/3206040/sde-ii-healthcare-ai"
+    },
+    "3202136": {
+      "first_seen": 1775173690.065841,
+      "posted": "",
+      "title": "EDI Engineer, Connectivity and Integrations",
+      "job_id": "3202136",
+      "url": "https://www.amazon.jobs/en/jobs/3202136/edi-engineer-connectivity-and-integrations"
+    },
+    "3202416": {
+      "first_seen": 1775173690.065842,
+      "posted": "",
+      "title": "Software Development Engineer II, Amazon Industrial Robotics",
+      "job_id": "3202416",
+      "url": "https://www.amazon.jobs/en/jobs/3202416/software-development-engineer-ii-amazon-industrial-robotics"
+    },
+    "3205699": {
+      "first_seen": 1775173690.065842,
+      "posted": "",
+      "title": "Software Development Engineer, AWS Network Services Client",
+      "job_id": "3205699",
+      "url": "https://www.amazon.jobs/en/jobs/3205699/software-development-engineer-aws-network-services-client"
+    },
+    "3199870": {
+      "first_seen": 1775173690.065842,
+      "posted": "",
+      "title": "Software Development Engineer - Big Data, Brand Metrics and Benchmarks",
+      "job_id": "3199870",
+      "url": "https://www.amazon.jobs/en/jobs/3199870/software-development-engineer-big-data-brand-metrics-and-benchmarks"
+    },
+    "10379272": {
+      "first_seen": 1775173690.0658429,
+      "posted": "",
+      "title": "Application Builder, Ring Software Product Builders",
+      "job_id": "10379272",
+      "url": "https://www.amazon.jobs/en/jobs/10379272/application-builder-ring-software-product-builders"
+    },
+    "3196213": {
+      "first_seen": 1775173690.0658429,
+      "posted": "",
+      "title": "Software Development Engineer, AWS VPC Zonal Interface Manager",
+      "job_id": "3196213",
+      "url": "https://www.amazon.jobs/en/jobs/3196213/software-development-engineer-aws-vpc-zonal-interface-manager"
+    },
+    "3206869": {
+      "first_seen": 1775173690.0658429,
+      "posted": "",
+      "title": "Software Dev Engineer II, AWS Healthcare AI",
+      "job_id": "3206869",
+      "url": "https://www.amazon.jobs/en/jobs/3206869/software-dev-engineer-ii-aws-healthcare-ai"
+    },
+    "10376578": {
+      "first_seen": 1775173690.065844,
+      "posted": "",
+      "title": "Software Development Engineer II, ZeroTouch GSG",
+      "job_id": "10376578",
+      "url": "https://www.amazon.jobs/en/jobs/10376578/software-development-engineer-ii-zerotouch-gsg"
+    },
+    "3206077": {
+      "first_seen": 1775173690.065844,
+      "posted": "",
+      "title": "Amazon Leo Network Development Engineer, Amazon Leo Enterprise Network Infrastructure",
+      "job_id": "3206077",
+      "url": "https://www.amazon.jobs/en/jobs/3206077/amazon-leo-network-development-engineer-amazon-leo-enterprise-network-infrastructure"
+    },
+    "3196046": {
+      "first_seen": 1775173690.065846,
+      "posted": "",
+      "title": "Data Infrastructure Engineer, Amazon Interactive Video Service (IVS)",
+      "job_id": "3196046",
+      "url": "https://www.amazon.jobs/en/jobs/3196046/data-infrastructure-engineer-amazon-interactive-video-service-ivs"
+    },
+    "3202354": {
+      "first_seen": 1775173690.0658472,
+      "posted": "",
+      "title": "Software Development Engineer II, FaST (Fashion Subsidiary Tech)",
+      "job_id": "3202354",
+      "url": "https://www.amazon.jobs/en/jobs/3202354/software-development-engineer-ii-fast-fashion-subsidiary-tech"
+    },
+    "3203451": {
+      "first_seen": 1775173690.0658472,
+      "posted": "",
+      "title": "Software Development Engineer, US Amazon Dedicated Cloud Security",
+      "job_id": "3203451",
+      "url": "https://www.amazon.jobs/en/jobs/3203451/software-development-engineer-us-amazon-dedicated-cloud-security"
+    },
+    "3197245": {
+      "first_seen": 1775173690.0658472,
+      "posted": "",
+      "title": "FPGA Development Engineer, Annapurna Labs",
+      "job_id": "3197245",
+      "url": "https://www.amazon.jobs/en/jobs/3197245/fpga-development-engineer-annapurna-labs"
+    },
+    "3196266": {
+      "first_seen": 1775173690.065848,
+      "posted": "",
+      "title": "Embedded SDE",
+      "job_id": "3196266",
+      "url": "https://www.amazon.jobs/en/jobs/3196266/embedded-sde"
+    },
+    "10373954": {
+      "first_seen": 1775173690.065848,
+      "posted": "",
+      "title": "Software Dev Engineer, Leo Customer Terminal Network and Fleet Management",
+      "job_id": "10373954",
+      "url": "https://www.amazon.jobs/en/jobs/10373954/software-dev-engineer-leo-customer-terminal-network-and-fleet-management"
+    },
+    "3204788": {
+      "first_seen": 1775173690.065848,
+      "posted": "",
+      "title": "Firmware Development Engineer, Alexa Smart Home",
+      "job_id": "3204788",
+      "url": "https://www.amazon.jobs/en/jobs/3204788/firmware-development-engineer-alexa-smart-home"
+    },
+    "3202988": {
+      "first_seen": 1775173690.065848,
+      "posted": "",
+      "title": "Software Development Engineer, Fraud Reduction Enforcement Systems and Controls in Advertising (FRESCA)",
+      "job_id": "3202988",
+      "url": "https://www.amazon.jobs/en/jobs/3202988/software-development-engineer-fraud-reduction-enforcement-systems-and-controls-in-advertising-fresca"
+    },
+    "3196201": {
+      "first_seen": 1775173690.065849,
+      "posted": "",
+      "title": "Software Development Engineer, EC2 Software Defined Networking, EC2 Networking(VPC Core)",
+      "job_id": "3196201",
+      "url": "https://www.amazon.jobs/en/jobs/3196201/software-development-engineer-ec2-software-defined-networking-ec2-networking-vpc-core"
+    },
+    "3200163": {
+      "first_seen": 1775173690.065849,
+      "posted": "",
+      "title": "System Development Engineer II, Prime Air",
+      "job_id": "3200163",
+      "url": "https://www.amazon.jobs/en/jobs/3200163/system-development-engineer-ii-prime-air"
+    },
+    "3199819": {
+      "first_seen": 1775173690.065849,
+      "posted": "",
+      "title": "Software Development Engineer, BigMac Hyperplane",
+      "job_id": "3199819",
+      "url": "https://www.amazon.jobs/en/jobs/3199819/software-development-engineer-bigmac-hyperplane"
+    },
+    "3193658": {
+      "first_seen": 1775173690.06585,
+      "posted": "",
+      "title": "Software Development Engineer, Fire TV",
+      "job_id": "3193658",
+      "url": "https://www.amazon.jobs/en/jobs/3193658/software-development-engineer-fire-tv"
+    },
+    "3193244": {
+      "first_seen": 1775173690.06585,
+      "posted": "",
+      "title": "Software Development Engineer, AGI Data Services",
+      "job_id": "3193244",
+      "url": "https://www.amazon.jobs/en/jobs/3193244/software-development-engineer-agi-data-services"
+    },
+    "3194567": {
+      "first_seen": 1775173690.06585,
+      "posted": "",
+      "title": "Software Development Engineer, Healthcare AI",
+      "job_id": "3194567",
+      "url": "https://www.amazon.jobs/en/jobs/3194567/software-development-engineer-healthcare-ai"
+    },
+    "10375083": {
+      "first_seen": 1775173690.06585,
+      "posted": "",
+      "title": "Software Dev Engineer, LMT",
+      "job_id": "10375083",
+      "url": "https://www.amazon.jobs/en/jobs/10375083/software-dev-engineer-lmt"
+    },
+    "3196237": {
+      "first_seen": 1775173690.065851,
+      "posted": "",
+      "title": "Embedded SDE",
+      "job_id": "3196237",
+      "url": "https://www.amazon.jobs/en/jobs/3196237/embedded-sde"
+    },
+    "3196444": {
+      "first_seen": 1775173690.065851,
+      "posted": "",
+      "title": "Software Development Engineer, EC2 Cross Region Peering",
+      "job_id": "3196444",
+      "url": "https://www.amazon.jobs/en/jobs/3196444/software-development-engineer-ec2-cross-region-peering"
+    },
+    "3197723": {
+      "first_seen": 1775173690.065851,
+      "posted": "",
+      "title": "Software Development Engineer, Account Management, Ads AI Core Infrastructure (ACI)",
+      "job_id": "3197723",
+      "url": "https://www.amazon.jobs/en/jobs/3197723/software-development-engineer-account-management-ads-ai-core-infrastructure-aci"
+    },
+    "3203960": {
+      "first_seen": 1775173690.065852,
+      "posted": "",
+      "title": "Software Dev Engineer, Redshift Distributed Systems",
+      "job_id": "3203960",
+      "url": "https://www.amazon.jobs/en/jobs/3203960/software-dev-engineer-redshift-distributed-systems"
+    },
+    "3205553": {
+      "first_seen": 1775173690.065852,
+      "posted": "",
+      "title": "Software Development Engineer - II, AWS Data Processing and Analytics team",
+      "job_id": "3205553",
+      "url": "https://www.amazon.jobs/en/jobs/3205553/software-development-engineer-ii-aws-data-processing-and-analytics-team"
+    },
+    "3191932": {
+      "first_seen": 1775173690.065852,
+      "posted": "",
+      "title": "Software Development Engineer II, C/C++ Hardware/Software Co-Design - MLA Annapurna Labs",
+      "job_id": "3191932",
+      "url": "https://www.amazon.jobs/en/jobs/3191932/software-development-engineer-ii-c-c-hardware-software-co-design-mla-annapurna-labs"
+    },
+    "3194600": {
+      "first_seen": 1775173690.0658529,
+      "posted": "",
+      "title": "Front End Development Engineer, One MHS Software Controls and Science",
+      "job_id": "3194600",
+      "url": "https://www.amazon.jobs/en/jobs/3194600/front-end-development-engineer-one-mhs-software-controls-and-science"
+    },
+    "3196090": {
+      "first_seen": 1775173690.0658529,
+      "posted": "",
+      "title": "Software Development Engineer II, Zappos Tech",
+      "job_id": "3196090",
+      "url": "https://www.amazon.jobs/en/jobs/3196090/software-development-engineer-ii-zappos-tech"
+    },
+    "3196451": {
+      "first_seen": 1775173690.0658529,
+      "posted": "",
+      "title": "Software Development Engineer II, EC2 Networking",
+      "job_id": "3196451",
+      "url": "https://www.amazon.jobs/en/jobs/3196451/software-development-engineer-ii-ec2-networking"
+    },
+    "3190693": {
+      "first_seen": 1775173690.0658538,
+      "posted": "",
+      "title": "Application Builder, Device Software Product Builders",
+      "job_id": "3190693",
+      "url": "https://www.amazon.jobs/en/jobs/3190693/application-builder-device-software-product-builders"
+    },
+    "10371659": {
+      "first_seen": 1775173690.0658538,
+      "posted": "",
+      "title": "Software Development Engineer, AWS Network Firewall Proxy",
+      "job_id": "10371659",
+      "url": "https://www.amazon.jobs/en/jobs/10371659/software-development-engineer-aws-network-firewall-proxy"
+    },
+    "3196198": {
+      "first_seen": 1775173690.0658538,
+      "posted": "",
+      "title": "Software Development Engineer, EC2 VPC",
+      "job_id": "3196198",
+      "url": "https://www.amazon.jobs/en/jobs/3196198/software-development-engineer-ec2-vpc"
+    },
+    "3189952": {
+      "first_seen": 1775173690.065855,
+      "posted": "",
+      "title": "Aerospace and Networking Systems Software Development Engineer, Aerospace Edge Solutions",
+      "job_id": "3189952",
+      "url": "https://www.amazon.jobs/en/jobs/3189952/aerospace-and-networking-systems-software-development-engineer-aerospace-edge-solutions"
+    },
+    "3193571": {
+      "first_seen": 1775173690.065855,
+      "posted": "",
+      "title": "Software Development Engineer, Amazon Foundational Security Services",
+      "job_id": "3193571",
+      "url": "https://www.amazon.jobs/en/jobs/3193571/software-development-engineer-amazon-foundational-security-services"
+    },
+    "3206876": {
+      "first_seen": 1775173690.065855,
+      "posted": "",
+      "title": "Software Dev Engineer II, AWS Healthcare AI",
+      "job_id": "3206876",
+      "url": "https://www.amazon.jobs/en/jobs/3206876/software-dev-engineer-ii-aws-healthcare-ai"
+    },
+    "3190743": {
+      "first_seen": 1775173690.065856,
+      "posted": "",
+      "title": "Applied Scientist, Design and Simulation, Center for Quantum Computing",
+      "job_id": "3190743",
+      "url": "https://www.amazon.jobs/en/jobs/3190743/applied-scientist-design-and-simulation-center-for-quantum-computing"
+    },
+    "3195970": {
+      "first_seen": 1775173690.065856,
+      "posted": "",
+      "title": "Software Development Engineer, ElastiCache",
+      "job_id": "3195970",
+      "url": "https://www.amazon.jobs/en/jobs/3195970/software-development-engineer-elasticache"
+    },
+    "3196206": {
+      "first_seen": 1775173690.065856,
+      "posted": "",
+      "title": "Software Development Engineer, EC2 VPC",
+      "job_id": "3196206",
+      "url": "https://www.amazon.jobs/en/jobs/3196206/software-development-engineer-ec2-vpc"
+    },
+    "3197434": {
+      "first_seen": 1775173690.065857,
+      "posted": "",
+      "title": "Embedded Software Development Engineer II, Amazon Robotics Embedded Safety Systems",
+      "job_id": "3197434",
+      "url": "https://www.amazon.jobs/en/jobs/3197434/embedded-software-development-engineer-ii-amazon-robotics-embedded-safety-systems"
+    },
+    "3190420": {
+      "first_seen": 1775173690.065857,
+      "posted": "",
+      "title": "Software Development Engineer",
+      "job_id": "3190420",
+      "url": "https://www.amazon.jobs/en/jobs/3190420/software-development-engineer"
+    },
+    "3202191": {
+      "first_seen": 1775173690.0658581,
+      "posted": "",
+      "title": "Software Development Engineer, AWS Agentic AI",
+      "job_id": "3202191",
+      "url": "https://www.amazon.jobs/en/jobs/3202191/software-development-engineer-aws-agentic-ai"
+    },
+    "3194004": {
+      "first_seen": 1775173690.0658581,
+      "posted": "",
+      "title": "SDET II, Music Growth & Marketing",
+      "job_id": "3194004",
+      "url": "https://www.amazon.jobs/en/jobs/3194004/sdet-ii-music-growth-marketing"
+    },
+    "3191114": {
+      "first_seen": 1775173690.0658581,
+      "posted": "",
+      "title": "Software Development Engineer",
+      "job_id": "3191114",
+      "url": "https://www.amazon.jobs/en/jobs/3191114/software-development-engineer"
+    },
+    "3191123": {
+      "first_seen": 1775173690.065859,
+      "posted": "",
+      "title": "Software Development Engineer",
+      "job_id": "3191123",
+      "url": "https://www.amazon.jobs/en/jobs/3191123/software-development-engineer"
+    },
+    "3188438": {
+      "first_seen": 1775173690.065859,
+      "posted": "",
+      "title": "Software Development Engineer Apprentice - Military Veterans",
+      "job_id": "3188438",
+      "url": "https://www.amazon.jobs/en/jobs/3188438/software-development-engineer-apprentice-military-veterans"
+    },
+    "3190766": {
+      "first_seen": 1775173690.065859,
+      "posted": "",
+      "title": "Embedded SDE, FPGA ML Accelerator , Annapurna Labs",
+      "job_id": "3190766",
+      "url": "https://www.amazon.jobs/en/jobs/3190766/embedded-sde-fpga-ml-accelerator-annapurna-labs"
+    },
+    "3189357": {
+      "first_seen": 1775173690.06586,
+      "posted": "",
+      "title": "Software Development Engineer, Sponsored Products and Brands Off-Search",
+      "job_id": "3189357",
+      "url": "https://www.amazon.jobs/en/jobs/3189357/software-development-engineer-sponsored-products-and-brands-off-search"
+    },
+    "3195614": {
+      "first_seen": 1775173690.06586,
+      "posted": "",
+      "title": "Software development engineer, Foundational Security",
+      "job_id": "3195614",
+      "url": "https://www.amazon.jobs/en/jobs/3195614/software-development-engineer-foundational-security"
+    },
+    "3206756": {
+      "first_seen": 1775173690.06586,
+      "posted": "",
+      "title": "Software Development Engineer, AWS Security",
+      "job_id": "3206756",
+      "url": "https://www.amazon.jobs/en/jobs/3206756/software-development-engineer-aws-security"
+    },
+    "3188339": {
+      "first_seen": 1775173690.06586,
+      "posted": "",
+      "title": "Software Dev Engineer, Shield (Anti-DDoS)",
+      "job_id": "3188339",
+      "url": "https://www.amazon.jobs/en/jobs/3188339/software-dev-engineer-shield-anti-ddos"
+    },
+    "10379268": {
+      "first_seen": 1775173690.0658612,
+      "posted": "",
+      "title": "Application Builder, Ring Software Product Builders",
+      "job_id": "10379268",
+      "url": "https://www.amazon.jobs/en/jobs/10379268/application-builder-ring-software-product-builders"
+    },
+    "3188427": {
+      "first_seen": 1775173690.0658612,
+      "posted": "",
+      "title": "System Development Engineer, Amazon Leo Enterprise Network Infrastructure",
+      "job_id": "3188427",
+      "url": "https://www.amazon.jobs/en/jobs/3188427/system-development-engineer-amazon-leo-enterprise-network-infrastructure"
+    },
+    "3187248": {
+      "first_seen": 1775173690.0658612,
+      "posted": "",
+      "title": "Delivery Consultant - Application Modernization, AWS Professional Services",
+      "job_id": "3187248",
+      "url": "https://www.amazon.jobs/en/jobs/3187248/delivery-consultant-application-modernization-aws-professional-services"
+    },
+    "3196081": {
+      "first_seen": 1775173690.065862,
+      "posted": "",
+      "title": "Software Development Engineer, Brazil Build Compute Team",
+      "job_id": "3196081",
+      "url": "https://www.amazon.jobs/en/jobs/3196081/software-development-engineer-brazil-build-compute-team"
+    },
+    "3192130": {
+      "first_seen": 1775173690.065862,
+      "posted": "",
+      "title": "Systems Development Engineer II, Kuiper Devices and Systems - Infrastructure",
+      "job_id": "3192130",
+      "url": "https://www.amazon.jobs/en/jobs/3192130/systems-development-engineer-ii-kuiper-devices-and-systems-infrastructure"
+    },
+    "3189365": {
+      "first_seen": 1775173690.065863,
+      "posted": "",
+      "title": "Software Development Engineer, AWS WWCO Partner Systems",
+      "job_id": "3189365",
+      "url": "https://www.amazon.jobs/en/jobs/3189365/software-development-engineer-aws-wwco-partner-systems"
+    },
+    "3195770": {
+      "first_seen": 1775173690.065863,
+      "posted": "",
+      "title": "Software Dev Engineer, Amazon S3",
+      "job_id": "3195770",
+      "url": "https://www.amazon.jobs/en/jobs/3195770/software-dev-engineer-amazon-s3"
+    },
+    "3185620": {
+      "first_seen": 1775173690.065863,
+      "posted": "",
+      "title": "Software Dev Engineer II, Candidate Application and Portal",
+      "job_id": "3185620",
+      "url": "https://www.amazon.jobs/en/jobs/3185620/software-dev-engineer-ii-candidate-application-and-portal"
+    },
+    "3203253": {
+      "first_seen": 1775173690.0658638,
+      "posted": "",
+      "title": "Software Dev Engineer II , AWS Intent Driven Networking (AIDN)",
+      "job_id": "3203253",
+      "url": "https://www.amazon.jobs/en/jobs/3203253/software-dev-engineer-ii-aws-intent-driven-networking-aidn"
+    },
+    "3207213": {
+      "first_seen": 1775173690.0658638,
+      "posted": "",
+      "title": "Software Development Engineer , AWS Intent Driven Networking (AIDN)",
+      "job_id": "3207213",
+      "url": "https://www.amazon.jobs/en/jobs/3207213/software-development-engineer-aws-intent-driven-networking-aidn"
+    },
+    "3188778": {
+      "first_seen": 1775173690.0658638,
+      "posted": "",
+      "title": "Software Development Engineer, AWS WWCO Partner Systems",
+      "job_id": "3188778",
+      "url": "https://www.amazon.jobs/en/jobs/3188778/software-development-engineer-aws-wwco-partner-systems"
+    },
+    "3186914": {
+      "first_seen": 1775173690.0658638,
+      "posted": "",
+      "title": "ServiceNow Application Development Engineer, OpsTech Solutions , OpsTech Solutions - Team Nowvengers",
+      "job_id": "3186914",
+      "url": "https://www.amazon.jobs/en/jobs/3186914/servicenow-application-development-engineer-opstech-solutions-opstech-solutions-team-nowvengers"
+    },
+    "3187250": {
+      "first_seen": 1775173690.065865,
+      "posted": "",
+      "title": "Software Dev Engineer II, Secure Customer Content Storage and Analytics, AWS Applied AI Solution \u2013 Core Services",
+      "job_id": "3187250",
+      "url": "https://www.amazon.jobs/en/jobs/3187250/software-dev-engineer-ii-secure-customer-content-storage-and-analytics-aws-applied-ai-solution-core-services"
+    },
+    "3187148": {
+      "first_seen": 1775173690.065865,
+      "posted": "",
+      "title": "Software Dev Engineer II, Secure Customer Content Storage and Analytics, AWS Applied AI Solution \u2013 Core Services",
+      "job_id": "3187148",
+      "url": "https://www.amazon.jobs/en/jobs/3187148/software-dev-engineer-ii-secure-customer-content-storage-and-analytics-aws-applied-ai-solution-core-services"
+    },
+    "3187115": {
+      "first_seen": 1775173690.065865,
+      "posted": "",
+      "title": "Software Dev Engineer II, Secure Customer Content Storage and Analytics, AWS Applied AI Solution \u2013 Core Services",
+      "job_id": "3187115",
+      "url": "https://www.amazon.jobs/en/jobs/3187115/software-dev-engineer-ii-secure-customer-content-storage-and-analytics-aws-applied-ai-solution-core-services"
+    },
+    "3190513": {
+      "first_seen": 1775173690.065866,
+      "posted": "",
+      "title": "Software Development Engineer II, Item Pipeline",
+      "job_id": "3190513",
+      "url": "https://www.amazon.jobs/en/jobs/3190513/software-development-engineer-ii-item-pipeline"
+    },
+    "3187341": {
+      "first_seen": 1775173690.065866,
+      "posted": "",
+      "title": "Software Dev Engineer II, Software Defined Network Control Plane, Amazon LEO",
+      "job_id": "3187341",
+      "url": "https://www.amazon.jobs/en/jobs/3187341/software-dev-engineer-ii-software-defined-network-control-plane-amazon-leo"
+    },
+    "10372519": {
+      "first_seen": 1775173690.065866,
+      "posted": "",
+      "title": "Software Development Engineer, S3 Object API",
+      "job_id": "10372519",
+      "url": "https://www.amazon.jobs/en/jobs/10372519/software-development-engineer-s3-object-api"
+    },
+    "3187219": {
+      "first_seen": 1775173690.065866,
+      "posted": "",
+      "title": "Software Development Engineer, Weblab Analysis, Weblab Analysis",
+      "job_id": "3187219",
+      "url": "https://www.amazon.jobs/en/jobs/3187219/software-development-engineer-weblab-analysis-weblab-analysis"
+    },
+    "3190729": {
+      "first_seen": 1775173690.065867,
+      "posted": "",
+      "title": "Front End Engineer II, AWS Marketplace",
+      "job_id": "3190729",
+      "url": "https://www.amazon.jobs/en/jobs/3190729/front-end-engineer-ii-aws-marketplace"
+    },
+    "3190756": {
+      "first_seen": 1775173690.065867,
+      "posted": "",
+      "title": "Embedded Software Development Engineer, Ring",
+      "job_id": "3190756",
+      "url": "https://www.amazon.jobs/en/jobs/3190756/embedded-software-development-engineer-ring"
+    },
+    "3187331": {
+      "first_seen": 1775173690.065867,
+      "posted": "",
+      "title": "Software Development Engineer, ACE",
+      "job_id": "3187331",
+      "url": "https://www.amazon.jobs/en/jobs/3187331/software-development-engineer-ace"
+    },
+    "3183389": {
+      "first_seen": 1775173690.065867,
+      "posted": "",
+      "title": "Embedded Software Engineer, Amazon Leo",
+      "job_id": "3183389",
+      "url": "https://www.amazon.jobs/en/jobs/3183389/embedded-software-engineer-amazon-leo"
+    },
+    "3191927": {
+      "first_seen": 1775173690.0658681,
+      "posted": "",
+      "title": "ASIC Design Engineer, Cloud-Scale Machine Learning Acceleration team - Annapurna Labs",
+      "job_id": "3191927",
+      "url": "https://www.amazon.jobs/en/jobs/3191927/asic-design-engineer-cloud-scale-machine-learning-acceleration-team-annapurna-labs"
+    },
+    "3184395": {
+      "first_seen": 1775173690.0658681,
+      "posted": "",
+      "title": "Software Dev Engineer II, Conversational Ad Experiences",
+      "job_id": "3184395",
+      "url": "https://www.amazon.jobs/en/jobs/3184395/software-dev-engineer-ii-conversational-ad-experiences"
+    },
+    "3194584": {
+      "first_seen": 1775173690.0658681,
+      "posted": "",
+      "title": "Software Development Engineer II, Robotics ARM Compute BSP",
+      "job_id": "3194584",
+      "url": "https://www.amazon.jobs/en/jobs/3194584/software-development-engineer-ii-robotics-arm-compute-bsp"
+    },
+    "3193305": {
+      "first_seen": 1775173690.065869,
+      "posted": "",
+      "title": "Software Dev Engineer II, Amazon Financials Foundation Services (AFFS)",
+      "job_id": "3193305",
+      "url": "https://www.amazon.jobs/en/jobs/3193305/software-dev-engineer-ii-amazon-financials-foundation-services-affs"
+    },
+    "3189035": {
+      "first_seen": 1775173690.065869,
+      "posted": "",
+      "title": "Software Dev Engineer, Shield",
+      "job_id": "3189035",
+      "url": "https://www.amazon.jobs/en/jobs/3189035/software-dev-engineer-shield"
+    },
+    "3183399": {
+      "first_seen": 1775173690.065869,
+      "posted": "",
+      "title": "Software Development Engineer \u2013 Simulation Infrastructure & Platform, Industrial Robotics Group",
+      "job_id": "3183399",
+      "url": "https://www.amazon.jobs/en/jobs/3183399/software-development-engineer-simulation-infrastructure-platform-industrial-robotics-group"
+    },
+    "3191724": {
+      "first_seen": 1775173690.06587,
+      "posted": "",
+      "title": "Software Development Engineer, AWS Partnerships",
+      "job_id": "3191724",
+      "url": "https://www.amazon.jobs/en/jobs/3191724/software-development-engineer-aws-partnerships"
+    },
+    "3181302": {
+      "first_seen": 1775173690.06587,
+      "posted": "",
+      "title": "Software Builder, Amazon Devices",
+      "job_id": "3181302",
+      "url": "https://www.amazon.jobs/en/jobs/3181302/software-builder-amazon-devices"
+    },
+    "10376437": {
+      "first_seen": 1775173690.06587,
+      "posted": "",
+      "title": "Software Development Engineer, EC2 Nitro Team",
+      "job_id": "10376437",
+      "url": "https://www.amazon.jobs/en/jobs/10376437/software-development-engineer-ec2-nitro-team"
+    },
+    "3184149": {
+      "first_seen": 1775173690.06587,
+      "posted": "",
+      "title": "Software Development Engineer II, EFA Network - Annapurna Labs",
+      "job_id": "3184149",
+      "url": "https://www.amazon.jobs/en/jobs/3184149/software-development-engineer-ii-efa-network-annapurna-labs"
+    },
+    "3200786": {
+      "first_seen": 1775173690.065871,
+      "posted": "",
+      "title": "Software Development Engineer, Brazil Build Compute Team",
+      "job_id": "3200786",
+      "url": "https://www.amazon.jobs/en/jobs/3200786/software-development-engineer-brazil-build-compute-team"
+    },
+    "3182043": {
+      "first_seen": 1775173690.065871,
+      "posted": "",
+      "title": "ASIC Design Engineer II, Annapurna Labs - Cloud-Scale Machine Learning Acceleration",
+      "job_id": "3182043",
+      "url": "https://www.amazon.jobs/en/jobs/3182043/asic-design-engineer-ii-annapurna-labs-cloud-scale-machine-learning-acceleration"
+    },
+    "3198858": {
+      "first_seen": 1775173690.065872,
+      "posted": "",
+      "title": "Software Development Engineer, AWS Marketplace Buyer Fulfillment",
+      "job_id": "3198858",
+      "url": "https://www.amazon.jobs/en/jobs/3198858/software-development-engineer-aws-marketplace-buyer-fulfillment"
+    },
+    "3179877": {
+      "first_seen": 1775173690.065872,
+      "posted": "",
+      "title": "Cloud Solutions Consultant, WWPS ProServe",
+      "job_id": "3179877",
+      "url": "https://www.amazon.jobs/en/jobs/3179877/cloud-solutions-consultant-wwps-proserve"
+    },
+    "3185733": {
+      "first_seen": 1775173690.065872,
+      "posted": "",
+      "title": "Software Development Engineer , Sponsored Products and Brands",
+      "job_id": "3185733",
+      "url": "https://www.amazon.jobs/en/jobs/3185733/software-development-engineer-sponsored-products-and-brands"
+    },
+    "3179346": {
+      "first_seen": 1775173690.065873,
+      "posted": "",
+      "title": "SDE - Simulation, Frontier AI Robotics",
+      "job_id": "3179346",
+      "url": "https://www.amazon.jobs/en/jobs/3179346/sde-simulation-frontier-ai-robotics"
+    },
+    "3179205": {
+      "first_seen": 1775173690.065873,
+      "posted": "",
+      "title": "Software Development Engineer - Military Veterans",
+      "job_id": "3179205",
+      "url": "https://www.amazon.jobs/en/jobs/3179205/software-development-engineer-military-veterans"
+    },
+    "3179209": {
+      "first_seen": 1775173690.065873,
+      "posted": "",
+      "title": "Software Development Engineer Internship - Military Veteran",
+      "job_id": "3179209",
+      "url": "https://www.amazon.jobs/en/jobs/3179209/software-development-engineer-internship-military-veteran"
+    },
+    "3181001": {
+      "first_seen": 1775173690.065873,
+      "posted": "",
+      "title": "Application Builder, Mobile Applications",
+      "job_id": "3181001",
+      "url": "https://www.amazon.jobs/en/jobs/3181001/application-builder-mobile-applications"
+    },
+    "3181978": {
+      "first_seen": 1775173690.0658739,
+      "posted": "",
+      "title": "Software Development Engineer, Annapurna Labs, Trainium Collectives",
+      "job_id": "3181978",
+      "url": "https://www.amazon.jobs/en/jobs/3181978/software-development-engineer-annapurna-labs-trainium-collectives"
+    },
+    "10381617": {
+      "first_seen": 1775173690.0658739,
+      "posted": "",
+      "title": "Software Development Engineer, EC2 Capacity Optimization",
+      "job_id": "10381617",
+      "url": "https://www.amazon.jobs/en/jobs/10381617/software-development-engineer-ec2-capacity-optimization"
+    },
+    "3203029": {
+      "first_seen": 1775173690.065875,
+      "posted": "",
+      "title": "Software Development Engineer, EC2 Capacity Optimization",
+      "job_id": "3203029",
+      "url": "https://www.amazon.jobs/en/jobs/3203029/software-development-engineer-ec2-capacity-optimization"
+    },
+    "3178243": {
+      "first_seen": 1775173690.065875,
+      "posted": "",
+      "title": "EMIR Engineer II, Annapurna Labs - Cloud Scale Machine Learning",
+      "job_id": "3178243",
+      "url": "https://www.amazon.jobs/en/jobs/3178243/emir-engineer-ii-annapurna-labs-cloud-scale-machine-learning"
+    },
+    "3186602": {
+      "first_seen": 1775173690.065875,
+      "posted": "",
+      "title": "IT Application Analyst Intern, AWS",
+      "job_id": "3186602",
+      "url": "https://www.amazon.jobs/en/jobs/3186602/it-application-analyst-intern-aws"
+    },
+    "3179977": {
+      "first_seen": 1775173690.065875,
+      "posted": "",
+      "title": "Product Development Engineer, Annapurna Labs Silicon Operations",
+      "job_id": "3179977",
+      "url": "https://www.amazon.jobs/en/jobs/3179977/product-development-engineer-annapurna-labs-silicon-operations"
+    },
+    "10381876": {
+      "first_seen": 1775173690.065876,
+      "posted": "",
+      "title": "Software Development Engineer, EC2 UltraServer Delivery Team",
+      "job_id": "10381876",
+      "url": "https://www.amazon.jobs/en/jobs/10381876/software-development-engineer-ec2-ultraserver-delivery-team"
+    },
+    "10376440": {
+      "first_seen": 1775173690.065876,
+      "posted": "",
+      "title": "Software Development Engineer, EC2 Nitro Team",
+      "job_id": "10376440",
+      "url": "https://www.amazon.jobs/en/jobs/10376440/software-development-engineer-ec2-nitro-team"
+    },
+    "3177240": {
+      "first_seen": 1775173690.065876,
+      "posted": "",
+      "title": "SDE - Robotics and Physics Simulation, Frontier AI Robotics",
+      "job_id": "3177240",
+      "url": "https://www.amazon.jobs/en/jobs/3177240/sde-robotics-and-physics-simulation-frontier-ai-robotics"
+    },
+    "3180245": {
+      "first_seen": 1775173690.065876,
+      "posted": "",
+      "title": "AI Hardware Systems Engineer, Annapurna Labs, Trainium Machine Learning Fleet Operations",
+      "job_id": "3180245",
+      "url": "https://www.amazon.jobs/en/jobs/3180245/ai-hardware-systems-engineer-annapurna-labs-trainium-machine-learning-fleet-operations"
+    },
+    "3178943": {
+      "first_seen": 1775173690.065877,
+      "posted": "",
+      "title": "Machine Learning Engineer II, Special Projects",
+      "job_id": "3178943",
+      "url": "https://www.amazon.jobs/en/jobs/3178943/machine-learning-engineer-ii-special-projects"
+    },
+    "3203694": {
+      "first_seen": 1775173690.065877,
+      "posted": "",
+      "title": "Software Development Engineer, Alexa Endpoint Experiences",
+      "job_id": "3203694",
+      "url": "https://www.amazon.jobs/en/jobs/3203694/software-development-engineer-alexa-endpoint-experiences"
+    },
+    "10373511": {
+      "first_seen": 1775173690.065877,
+      "posted": "",
+      "title": "Software Dev Engineer II, Technical Content Experience (TCX) Engineering",
+      "job_id": "10373511",
+      "url": "https://www.amazon.jobs/en/jobs/10373511/software-dev-engineer-ii-technical-content-experience-tcx-engineering"
+    },
+    "3193644": {
+      "first_seen": 1775173690.065878,
+      "posted": "",
+      "title": "SDE- Leo Network Services",
+      "job_id": "3193644",
+      "url": "https://www.amazon.jobs/en/jobs/3193644/sde-leo-network-services"
+    },
+    "3176145": {
+      "first_seen": 1775173690.065878,
+      "posted": "",
+      "title": "Software Development Engineer, Ring Neighbors",
+      "job_id": "3176145",
+      "url": "https://www.amazon.jobs/en/jobs/3176145/software-development-engineer-ring-neighbors"
+    },
+    "3176626": {
+      "first_seen": 1775173690.065878,
+      "posted": "",
+      "title": "Systems Development Engineer, Manufacturing Test Infrastructure, Project Kuiper",
+      "job_id": "3176626",
+      "url": "https://www.amazon.jobs/en/jobs/3176626/systems-development-engineer-manufacturing-test-infrastructure-project-kuiper"
+    },
+    "3175965": {
+      "first_seen": 1775173690.065878,
+      "posted": "",
+      "title": "2026 Annapurna Labs at AWS, Early Career (US) - Machine Learning Systems & Silicon Innovation",
+      "job_id": "3175965",
+      "url": "https://www.amazon.jobs/en/jobs/3175965/2026-annapurna-labs-at-aws-early-career-us-machine-learning-systems-silicon-innovation"
+    },
+    "3184442": {
+      "first_seen": 1775173690.065879,
+      "posted": "",
+      "title": "Software Development Engineer, Amazon Interactive Video Service (IVS)",
+      "job_id": "3184442",
+      "url": "https://www.amazon.jobs/en/jobs/3184442/software-development-engineer-amazon-interactive-video-service-ivs"
+    },
+    "3176529": {
+      "first_seen": 1775173690.065879,
+      "posted": "",
+      "title": "Software Development Engineer, Last Mile Delivery",
+      "job_id": "3176529",
+      "url": "https://www.amazon.jobs/en/jobs/3176529/software-development-engineer-last-mile-delivery"
+    },
+    "3177365": {
+      "first_seen": 1775173690.065879,
+      "posted": "",
+      "title": "Front End Engineer II, Quick Commerce",
+      "job_id": "3177365",
+      "url": "https://www.amazon.jobs/en/jobs/3177365/front-end-engineer-ii-quick-commerce"
+    },
+    "3185336": {
+      "first_seen": 1775173690.065879,
+      "posted": "",
+      "title": "Software Development Engineer, ML Systems, Annapurna Labs",
+      "job_id": "3185336",
+      "url": "https://www.amazon.jobs/en/jobs/3185336/software-development-engineer-ml-systems-annapurna-labs"
+    },
+    "3174373": {
+      "first_seen": 1775173690.06588,
+      "posted": "",
+      "title": "Device Embedded Software SDE, Ring",
+      "job_id": "3174373",
+      "url": "https://www.amazon.jobs/en/jobs/3174373/device-embedded-software-sde-ring"
+    },
+    "3186332": {
+      "first_seen": 1775173690.06588,
+      "posted": "",
+      "title": "Front End Engineer, Amazon Leo, Amazon Leo",
+      "job_id": "3186332",
+      "url": "https://www.amazon.jobs/en/jobs/3186332/front-end-engineer-amazon-leo-amazon-leo"
+    },
+    "3178262": {
+      "first_seen": 1775173690.065881,
+      "posted": "",
+      "title": "Security Software Development Engineer , Abuse Prevention, Devices and Services Trust and Safety",
+      "job_id": "3178262",
+      "url": "https://www.amazon.jobs/en/jobs/3178262/security-software-development-engineer-abuse-prevention-devices-and-services-trust-and-safety"
+    },
+    "3179905": {
+      "first_seen": 1775173690.065881,
+      "posted": "",
+      "title": "Application Builder",
+      "job_id": "3179905",
+      "url": "https://www.amazon.jobs/en/jobs/3179905/application-builder"
+    },
+    "3175887": {
+      "first_seen": 1775173690.0658822,
+      "posted": "",
+      "title": "Firmware Engineer II, Amazon Industrial Robotics",
+      "job_id": "3175887",
+      "url": "https://www.amazon.jobs/en/jobs/3175887/firmware-engineer-ii-amazon-industrial-robotics"
+    },
+    "3184444": {
+      "first_seen": 1775173690.0658822,
+      "posted": "",
+      "title": "Software Development Engineer, Amazon Interactive Video Service (IVS)",
+      "job_id": "3184444",
+      "url": "https://www.amazon.jobs/en/jobs/3184444/software-development-engineer-amazon-interactive-video-service-ivs"
+    },
+    "10373839": {
+      "first_seen": 1775173690.0658822,
+      "posted": "",
+      "title": "Software Development Engineer, AWS Elastic Disaster Recovery",
+      "job_id": "10373839",
+      "url": "https://www.amazon.jobs/en/jobs/10373839/software-development-engineer-aws-elastic-disaster-recovery"
+    },
+    "3181306": {
+      "first_seen": 1775173690.0658822,
+      "posted": "",
+      "title": "Software Engineer II, Amazon Interactive Video Service (IVS)",
+      "job_id": "3181306",
+      "url": "https://www.amazon.jobs/en/jobs/3181306/software-engineer-ii-amazon-interactive-video-service-ivs"
+    },
+    "3177934": {
+      "first_seen": 1775173690.065883,
+      "posted": "",
+      "title": "Software Development Engineer - 2026 (US)",
+      "job_id": "3177934",
+      "url": "https://www.amazon.jobs/en/jobs/3177934/software-development-engineer-2026-us"
+    },
+    "3175027": {
+      "first_seen": 1775173690.065883,
+      "posted": "",
+      "title": "Software Development Engineer, Music Metrics & Data Platform",
+      "job_id": "3175027",
+      "url": "https://www.amazon.jobs/en/jobs/3175027/software-development-engineer-music-metrics-data-platform"
+    },
+    "3173054": {
+      "first_seen": 1775173690.0658839,
+      "posted": "",
+      "title": "SAP UI Developer, Amazon Leo",
+      "job_id": "3173054",
+      "url": "https://www.amazon.jobs/en/jobs/3173054/sap-ui-developer-amazon-leo"
+    },
+    "3177178": {
+      "first_seen": 1775173690.0658839,
+      "posted": "",
+      "title": "Software Development Engineer II, Prime Air, Prime Air",
+      "job_id": "3177178",
+      "url": "https://www.amazon.jobs/en/jobs/3177178/software-development-engineer-ii-prime-air-prime-air"
+    },
+    "3172127": {
+      "first_seen": 1775173690.0658839,
+      "posted": "",
+      "title": "Software I&T Engineer , Amazon Leo for Government",
+      "job_id": "3172127",
+      "url": "https://www.amazon.jobs/en/jobs/3172127/software-i-t-engineer-amazon-leo-for-government"
+    },
+    "3181328": {
+      "first_seen": 1775173690.0658848,
+      "posted": "",
+      "title": "Software Dev Engineer, EC2 Nitro, EC2 Nitro",
+      "job_id": "3181328",
+      "url": "https://www.amazon.jobs/en/jobs/3181328/software-dev-engineer-ec2-nitro-ec2-nitro"
+    },
+    "3174225": {
+      "first_seen": 1775173690.0658848,
+      "posted": "",
+      "title": "Software Development Engineer, Neuron Foundation Tools",
+      "job_id": "3174225",
+      "url": "https://www.amazon.jobs/en/jobs/3174225/software-development-engineer-neuron-foundation-tools"
+    },
+    "3173095": {
+      "first_seen": 1775173690.0658848,
+      "posted": "",
+      "title": "Software Development Engineer, STRADA",
+      "job_id": "3173095",
+      "url": "https://www.amazon.jobs/en/jobs/3173095/software-development-engineer-strada"
+    },
+    "10374961": {
+      "first_seen": 1775173690.065886,
+      "posted": "",
+      "title": "Software Dev Engineer II, AWS End User Messaging",
+      "job_id": "10374961",
+      "url": "https://www.amazon.jobs/en/jobs/10374961/software-dev-engineer-ii-aws-end-user-messaging"
+    },
+    "3181326": {
+      "first_seen": 1775173690.065886,
+      "posted": "",
+      "title": "Software Dev Engineer, EC2 Nitro",
+      "job_id": "3181326",
+      "url": "https://www.amazon.jobs/en/jobs/3181326/software-dev-engineer-ec2-nitro"
+    },
+    "10374959": {
+      "first_seen": 1775173690.065886,
+      "posted": "",
+      "title": "Software Dev Engineer II, AWS End User Messaging",
+      "job_id": "10374959",
+      "url": "https://www.amazon.jobs/en/jobs/10374959/software-dev-engineer-ii-aws-end-user-messaging"
+    },
+    "3170493": {
+      "first_seen": 1775173690.065886,
+      "posted": "",
+      "title": "SAP UI Developer, Amazon Leo",
+      "job_id": "3170493",
+      "url": "https://www.amazon.jobs/en/jobs/3170493/sap-ui-developer-amazon-leo"
+    },
+    "10378726": {
+      "first_seen": 1775173690.065887,
+      "posted": "",
+      "title": "Software Development Engineer, Workplace Health & Safety",
+      "job_id": "10378726",
+      "url": "https://www.amazon.jobs/en/jobs/10378726/software-development-engineer-workplace-health-safety"
+    },
+    "3179718": {
+      "first_seen": 1775173690.065887,
+      "posted": "",
+      "title": "Software Development Engineer, Leo Manufacturing Software Systems",
+      "job_id": "3179718",
+      "url": "https://www.amazon.jobs/en/jobs/3179718/software-development-engineer-leo-manufacturing-software-systems"
+    },
+    "3194541": {
+      "first_seen": 1775173690.065888,
+      "posted": "",
+      "title": "Software Dev Engineer II, EC2 Networking",
+      "job_id": "3194541",
+      "url": "https://www.amazon.jobs/en/jobs/3194541/software-dev-engineer-ii-ec2-networking"
+    },
+    "3174377": {
+      "first_seen": 1775173690.065888,
+      "posted": "",
+      "title": "Software Development Engineer, Prime Air",
+      "job_id": "3174377",
+      "url": "https://www.amazon.jobs/en/jobs/3174377/software-development-engineer-prime-air"
+    },
+    "3169819": {
+      "first_seen": 1775173690.065888,
+      "posted": "",
+      "title": "Software Development Engineer II, AI/ML Elastic Collectives - Annapurna Labs",
+      "job_id": "3169819",
+      "url": "https://www.amazon.jobs/en/jobs/3169819/software-development-engineer-ii-ai-ml-elastic-collectives-annapurna-labs"
+    },
+    "3193240": {
+      "first_seen": 1775173690.0658891,
+      "posted": "",
+      "title": "Software Development Engineer, AWS End User Messaging",
+      "job_id": "3193240",
+      "url": "https://www.amazon.jobs/en/jobs/3193240/software-development-engineer-aws-end-user-messaging"
+    },
+    "3169650": {
+      "first_seen": 1775173690.0658891,
+      "posted": "",
+      "title": "Software Development Engineer, Aurora DSQL",
+      "job_id": "3169650",
+      "url": "https://www.amazon.jobs/en/jobs/3169650/software-development-engineer-aurora-dsql"
+    },
+    "3187422": {
+      "first_seen": 1775173690.06589,
+      "posted": "",
+      "title": "Software Development Engineer, Network Product Development",
+      "job_id": "3187422",
+      "url": "https://www.amazon.jobs/en/jobs/3187422/software-development-engineer-network-product-development"
+    },
+    "3170108": {
+      "first_seen": 1775173690.06589,
+      "posted": "",
+      "title": "Software Development Engineer, Open Data Analytics Engines",
+      "job_id": "3170108",
+      "url": "https://www.amazon.jobs/en/jobs/3170108/software-development-engineer-open-data-analytics-engines"
+    },
+    "3183448": {
+      "first_seen": 1775173690.06589,
+      "posted": "",
+      "title": "Software Development Engineer II, End User Messaging",
+      "job_id": "3183448",
+      "url": "https://www.amazon.jobs/en/jobs/3183448/software-development-engineer-ii-end-user-messaging"
+    },
+    "10375147": {
+      "first_seen": 1775173690.065891,
+      "posted": "",
+      "title": "Software Development Engineer, Ads Experience Framework",
+      "job_id": "10375147",
+      "url": "https://www.amazon.jobs/en/jobs/10375147/software-development-engineer-ads-experience-framework"
+    },
+    "3181304": {
+      "first_seen": 1775173690.065891,
+      "posted": "",
+      "title": "Software Engineer II, Amazon Interactive Video Service (IVS)",
+      "job_id": "3181304",
+      "url": "https://www.amazon.jobs/en/jobs/3181304/software-engineer-ii-amazon-interactive-video-service-ivs"
+    },
+    "3182292": {
+      "first_seen": 1775173690.065891,
+      "posted": "",
+      "title": "Software Development Engineer II, Amazon Leo Enterprise Engineering Technology",
+      "job_id": "3182292",
+      "url": "https://www.amazon.jobs/en/jobs/3182292/software-development-engineer-ii-amazon-leo-enterprise-engineering-technology"
+    },
+    "3182046": {
+      "first_seen": 1775173690.065891,
+      "posted": "",
+      "title": "Wireless Embedded Software Developer, Simulation Foundations, Amazon Leo",
+      "job_id": "3182046",
+      "url": "https://www.amazon.jobs/en/jobs/3182046/wireless-embedded-software-developer-simulation-foundations-amazon-leo"
+    },
+    "3168533": {
+      "first_seen": 1775173690.065892,
+      "posted": "",
+      "title": "Software Development Engineer II, Amazon Industrial Robotics",
+      "job_id": "3168533",
+      "url": "https://www.amazon.jobs/en/jobs/3168533/software-development-engineer-ii-amazon-industrial-robotics"
+    },
+    "3168797": {
+      "first_seen": 1775173690.065892,
+      "posted": "",
+      "title": "Firmware Engineer II, Amazon Industrial Robotics",
+      "job_id": "3168797",
+      "url": "https://www.amazon.jobs/en/jobs/3168797/firmware-engineer-ii-amazon-industrial-robotics"
+    },
+    "3182026": {
+      "first_seen": 1775173690.065892,
+      "posted": "",
+      "title": "Software Engineer, Data Plane, NPD Forwarding Stack, Data Plane",
+      "job_id": "3182026",
+      "url": "https://www.amazon.jobs/en/jobs/3182026/software-engineer-data-plane-npd-forwarding-stack-data-plane"
+    },
+    "3175163": {
+      "first_seen": 1775173690.0658932,
+      "posted": "",
+      "title": "Embedded SDE II, Hardware Compute Group",
+      "job_id": "3175163",
+      "url": "https://www.amazon.jobs/en/jobs/3175163/embedded-sde-ii-hardware-compute-group"
+    },
+    "3175090": {
+      "first_seen": 1775173690.0658932,
+      "posted": "",
+      "title": "Software Development Engineer, Glacier",
+      "job_id": "3175090",
+      "url": "https://www.amazon.jobs/en/jobs/3175090/software-development-engineer-glacier"
+    },
+    "3168251": {
+      "first_seen": 1775173690.0658932,
+      "posted": "",
+      "title": "Software Dev Engineer II, Amazon Aurora DSQL",
+      "job_id": "3168251",
+      "url": "https://www.amazon.jobs/en/jobs/3168251/software-dev-engineer-ii-amazon-aurora-dsql"
+    },
+    "10376151": {
+      "first_seen": 1775173690.0658932,
+      "posted": "",
+      "title": "Software Development Engineer, Robotics Delivery and Packaging Innovation (RDPI)",
+      "job_id": "10376151",
+      "url": "https://www.amazon.jobs/en/jobs/10376151/software-development-engineer-robotics-delivery-and-packaging-innovation-rdpi"
+    },
+    "3167126": {
+      "first_seen": 1775173690.065894,
+      "posted": "",
+      "title": "Data Engineer II, Amazon Leo Commerce",
+      "job_id": "3167126",
+      "url": "https://www.amazon.jobs/en/jobs/3167126/data-engineer-ii-amazon-leo-commerce"
+    },
+    "10381609": {
+      "first_seen": 1775173690.065894,
+      "posted": "",
+      "title": "Embedded Software Development Engineer II, AWS Hardware Engineering Services",
+      "job_id": "10381609",
+      "url": "https://www.amazon.jobs/en/jobs/10381609/embedded-software-development-engineer-ii-aws-hardware-engineering-services"
+    },
+    "3167901": {
+      "first_seen": 1775173690.065894,
+      "posted": "",
+      "title": "IT Application Development Engineer II, AWS Marketing",
+      "job_id": "3167901",
+      "url": "https://www.amazon.jobs/en/jobs/3167901/it-application-development-engineer-ii-aws-marketing"
+    },
+    "3175270": {
+      "first_seen": 1775173690.0658948,
+      "posted": "",
+      "title": "Software Engineer- AI/ML, AWS Neuron Distributed Training - Performance Optimization",
+      "job_id": "3175270",
+      "url": "https://www.amazon.jobs/en/jobs/3175270/software-engineer-ai-ml-aws-neuron-distributed-training-performance-optimization"
+    },
+    "3169255": {
+      "first_seen": 1775173690.0658948,
+      "posted": "",
+      "title": "Software Dev Engineer II, Barcode Knowledge and Package Hierarchy Authority",
+      "job_id": "3169255",
+      "url": "https://www.amazon.jobs/en/jobs/3169255/software-dev-engineer-ii-barcode-knowledge-and-package-hierarchy-authority"
+    },
+    "3167774": {
+      "first_seen": 1775173690.0658948,
+      "posted": "",
+      "title": "Software Development Engineer II, iOS, Zappos Discovery Tech - Mobile",
+      "job_id": "3167774",
+      "url": "https://www.amazon.jobs/en/jobs/3167774/software-development-engineer-ii-ios-zappos-discovery-tech-mobile"
+    },
+    "3208270": {
+      "first_seen": 1775173690.065896,
+      "posted": "",
+      "title": "Software Development Engineer II, LEP - Satellite Embedded Software",
+      "job_id": "3208270",
+      "url": "https://www.amazon.jobs/en/jobs/3208270/software-development-engineer-ii-lep-satellite-embedded-software"
+    },
+    "3170459": {
+      "first_seen": 1775173690.065896,
+      "posted": "",
+      "title": "Software Development Engineer \u2013 Big Data, AWS Elastic MapReduce (EMR)",
+      "job_id": "3170459",
+      "url": "https://www.amazon.jobs/en/jobs/3170459/software-development-engineer-big-data-aws-elastic-mapreduce-emr"
+    },
+    "3170656": {
+      "first_seen": 1775173690.065896,
+      "posted": "",
+      "title": "Software Development Engineer (ML), AGI Customization, AGI Customization",
+      "job_id": "3170656",
+      "url": "https://www.amazon.jobs/en/jobs/3170656/software-development-engineer-ml-agi-customization-agi-customization"
+    },
+    "3180408": {
+      "first_seen": 1775173690.065897,
+      "posted": "",
+      "title": "Machine Learning Engineer II, Shopping Conversation Foundation",
+      "job_id": "3180408",
+      "url": "https://www.amazon.jobs/en/jobs/3180408/machine-learning-engineer-ii-shopping-conversation-foundation"
+    },
+    "3159479": {
+      "first_seen": 1775173690.065897,
+      "posted": "",
+      "title": "Software Development Engineer, Security Platform",
+      "job_id": "3159479",
+      "url": "https://www.amazon.jobs/en/jobs/3159479/software-development-engineer-security-platform"
+    },
+    "3170644": {
+      "first_seen": 1775173690.065898,
+      "posted": "",
+      "title": "Machine Learning Engineer II  , AGI Customization",
+      "job_id": "3170644",
+      "url": "https://www.amazon.jobs/en/jobs/3170644/machine-learning-engineer-ii-agi-customization"
+    },
+    "3160525": {
+      "first_seen": 1775173690.065898,
+      "posted": "",
+      "title": "Software Development Engineer, Aurora Storage",
+      "job_id": "3160525",
+      "url": "https://www.amazon.jobs/en/jobs/3160525/software-development-engineer-aurora-storage"
+    },
+    "3159615": {
+      "first_seen": 1775173690.065898,
+      "posted": "",
+      "title": "Software Development Engineer, Sponsored Products and Brands",
+      "job_id": "3159615",
+      "url": "https://www.amazon.jobs/en/jobs/3159615/software-development-engineer-sponsored-products-and-brands"
+    },
+    "10373829": {
+      "first_seen": 1775173690.065899,
+      "posted": "",
+      "title": "Software Development Engineer, AWS Elastic Disaster Recovery",
+      "job_id": "10373829",
+      "url": "https://www.amazon.jobs/en/jobs/10373829/software-development-engineer-aws-elastic-disaster-recovery"
+    },
+    "3165052": {
+      "first_seen": 1775173690.065899,
+      "posted": "",
+      "title": "Software Dev Engineer, Shield",
+      "job_id": "3165052",
+      "url": "https://www.amazon.jobs/en/jobs/3165052/software-dev-engineer-shield"
+    },
+    "3165061": {
+      "first_seen": 1775173690.065899,
+      "posted": "",
+      "title": "Software Dev Engineer, Shield",
+      "job_id": "3165061",
+      "url": "https://www.amazon.jobs/en/jobs/3165061/software-dev-engineer-shield"
+    },
+    "3159596": {
+      "first_seen": 1775173690.065899,
+      "posted": "",
+      "title": "Software Development Engineer, AWS Transform VMware",
+      "job_id": "3159596",
+      "url": "https://www.amazon.jobs/en/jobs/3159596/software-development-engineer-aws-transform-vmware"
+    },
+    "3156696": {
+      "first_seen": 1775173690.0659,
+      "posted": "",
+      "title": "Software Development Engineer",
+      "job_id": "3156696",
+      "url": "https://www.amazon.jobs/en/jobs/3156696/software-development-engineer"
+    },
+    "3158240": {
+      "first_seen": 1775173690.0659,
+      "posted": "",
+      "title": "Amazon Leo Network Development Engineer, Amazon Leo Enterprise Network Infrastructure",
+      "job_id": "3158240",
+      "url": "https://www.amazon.jobs/en/jobs/3158240/amazon-leo-network-development-engineer-amazon-leo-enterprise-network-infrastructure"
+    },
+    "3156628": {
+      "first_seen": 1775173690.0659,
+      "posted": "",
+      "title": "Software Development Engineer, Amazon Ads",
+      "job_id": "3156628",
+      "url": "https://www.amazon.jobs/en/jobs/3156628/software-development-engineer-amazon-ads"
+    },
+    "3166602": {
+      "first_seen": 1775173690.065901,
+      "posted": "",
+      "title": "Software Development Engineer, Device Guardians",
+      "job_id": "3166602",
+      "url": "https://www.amazon.jobs/en/jobs/3166602/software-development-engineer-device-guardians"
+    },
+    "3155750": {
+      "first_seen": 1775173690.0659032,
+      "posted": "",
+      "title": "Software Engineer I",
+      "job_id": "3155750",
+      "url": "https://www.amazon.jobs/en/jobs/3155750/software-engineer-i"
+    },
+    "3170560": {
+      "first_seen": 1775173690.0659032,
+      "posted": "",
+      "title": "Web Development Engineer II, Content Development",
+      "job_id": "3170560",
+      "url": "https://www.amazon.jobs/en/jobs/3170560/web-development-engineer-ii-content-development"
+    },
+    "3154640": {
+      "first_seen": 1775173690.0659032,
+      "posted": "",
+      "title": "Embedded SDE, Amazon Devices",
+      "job_id": "3154640",
+      "url": "https://www.amazon.jobs/en/jobs/3154640/embedded-sde-amazon-devices"
+    },
+    "3174464": {
+      "first_seen": 1775173690.0659041,
+      "posted": "",
+      "title": "SDE - Embedded Linux, Amazon Leo",
+      "job_id": "3174464",
+      "url": "https://www.amazon.jobs/en/jobs/3174464/sde-embedded-linux-amazon-leo"
+    },
+    "3152739": {
+      "first_seen": 1775173690.0659041,
+      "posted": "",
+      "title": "SDE, MLA hardware/software co-design, Annapurna Labs Machine Learning Acceleration",
+      "job_id": "3152739",
+      "url": "https://www.amazon.jobs/en/jobs/3152739/sde-mla-hardware-software-co-design-annapurna-labs-machine-learning-acceleration"
+    },
+    "3169810": {
+      "first_seen": 1775173690.0659041,
+      "posted": "",
+      "title": "Software Development Engineer, Ring, Ring CS Engineering",
+      "job_id": "3169810",
+      "url": "https://www.amazon.jobs/en/jobs/3169810/software-development-engineer-ring-ring-cs-engineering"
+    },
+    "3155538": {
+      "first_seen": 1775173690.0659049,
+      "posted": "",
+      "title": "Software Development Engineer II, AFSS Identity",
+      "job_id": "3155538",
+      "url": "https://www.amazon.jobs/en/jobs/3155538/software-development-engineer-ii-afss-identity"
+    },
+    "3177801": {
+      "first_seen": 1775173690.0659049,
+      "posted": "",
+      "title": "Software Development Engineer II, Amazon Optics",
+      "job_id": "3177801",
+      "url": "https://www.amazon.jobs/en/jobs/3177801/software-development-engineer-ii-amazon-optics"
+    },
+    "3177808": {
+      "first_seen": 1775173690.0659049,
+      "posted": "",
+      "title": "Software Development Engineer II, Amazon Optics",
+      "job_id": "3177808",
+      "url": "https://www.amazon.jobs/en/jobs/3177808/software-development-engineer-ii-amazon-optics"
+    },
+    "3146673": {
+      "first_seen": 1775173690.0659058,
+      "posted": "",
+      "title": "Software Development Engineer",
+      "job_id": "3146673",
+      "url": "https://www.amazon.jobs/en/jobs/3146673/software-development-engineer"
+    },
+    "3146660": {
+      "first_seen": 1775173690.0659058,
+      "posted": "",
+      "title": "Software Development Engineer",
+      "job_id": "3146660",
+      "url": "https://www.amazon.jobs/en/jobs/3146660/software-development-engineer"
+    },
+    "3146656": {
+      "first_seen": 1775173690.0659058,
+      "posted": "",
+      "title": "Software Development Engineer",
+      "job_id": "3146656",
+      "url": "https://www.amazon.jobs/en/jobs/3146656/software-development-engineer"
+    },
+    "3146624": {
+      "first_seen": 1775173690.0659058,
+      "posted": "",
+      "title": "Software Development Engineer",
+      "job_id": "3146624",
+      "url": "https://www.amazon.jobs/en/jobs/3146624/software-development-engineer"
+    },
+    "3146620": {
+      "first_seen": 1775173690.065907,
+      "posted": "",
+      "title": "Software Development Engineer",
+      "job_id": "3146620",
+      "url": "https://www.amazon.jobs/en/jobs/3146620/software-development-engineer"
+    },
+    "3145977": {
+      "first_seen": 1775173690.065907,
+      "posted": "",
+      "title": "Software Engineer, Creator Sponsorships",
+      "job_id": "3145977",
+      "url": "https://www.amazon.jobs/en/jobs/3145977/software-engineer-creator-sponsorships"
+    },
+    "3151411": {
+      "first_seen": 1775173690.065907,
+      "posted": "",
+      "title": "Software Development Engineer, ML Systems, Annapurna Labs",
+      "job_id": "3151411",
+      "url": "https://www.amazon.jobs/en/jobs/3151411/software-development-engineer-ml-systems-annapurna-labs"
+    },
+    "3151409": {
+      "first_seen": 1775173690.065908,
+      "posted": "",
+      "title": "Software Development Engineer, ML Systems, Annapurna Labs",
+      "job_id": "3151409",
+      "url": "https://www.amazon.jobs/en/jobs/3151409/software-development-engineer-ml-systems-annapurna-labs"
+    },
+    "3146897": {
+      "first_seen": 1775173690.065908,
+      "posted": "",
+      "title": "Embedded Software Engineer, Optical Inter-Satellite Link",
+      "job_id": "3146897",
+      "url": "https://www.amazon.jobs/en/jobs/3146897/embedded-software-engineer-optical-inter-satellite-link"
+    },
+    "3145644": {
+      "first_seen": 1775173690.065908,
+      "posted": "",
+      "title": "SDE - Embedded Networking, Amazon Leo",
+      "job_id": "3145644",
+      "url": "https://www.amazon.jobs/en/jobs/3145644/sde-embedded-networking-amazon-leo"
+    },
+    "3144341": {
+      "first_seen": 1775173690.065909,
+      "posted": "",
+      "title": "Software Development Engineer \u2013 Amazon Leo (US)",
+      "job_id": "3144341",
+      "url": "https://www.amazon.jobs/en/jobs/3144341/software-development-engineer-amazon-leo-us"
+    },
+    "3154772": {
+      "first_seen": 1775173690.065909,
+      "posted": "",
+      "title": "Software Dev Engineer, Amazon Leo",
+      "job_id": "3154772",
+      "url": "https://www.amazon.jobs/en/jobs/3154772/software-dev-engineer-amazon-leo"
+    },
+    "3169803": {
+      "first_seen": 1775173690.06591,
+      "posted": "",
+      "title": "Embedded SDE, Ring Device Software & Systems",
+      "job_id": "3169803",
+      "url": "https://www.amazon.jobs/en/jobs/3169803/embedded-sde-ring-device-software-systems"
+    },
+    "3169816": {
+      "first_seen": 1775173690.06591,
+      "posted": "",
+      "title": "Software Dev Engineer- Embedded , Ring Device Software & Systems",
+      "job_id": "3169816",
+      "url": "https://www.amazon.jobs/en/jobs/3169816/software-dev-engineer-embedded-ring-device-software-systems"
+    },
+    "3169806": {
+      "first_seen": 1775173690.065911,
+      "posted": "",
+      "title": "Embedded Software Engineer, Ring",
+      "job_id": "3169806",
+      "url": "https://www.amazon.jobs/en/jobs/3169806/embedded-software-engineer-ring"
+    },
+    "3141992": {
+      "first_seen": 1775173690.065911,
+      "posted": "",
+      "title": "Software Development Engineer, AWS Transform",
+      "job_id": "3141992",
+      "url": "https://www.amazon.jobs/en/jobs/3141992/software-development-engineer-aws-transform"
+    },
+    "3162779": {
+      "first_seen": 1775173690.065911,
+      "posted": "",
+      "title": "Device Embedded Software SDE, Ring",
+      "job_id": "3162779",
+      "url": "https://www.amazon.jobs/en/jobs/3162779/device-embedded-software-sde-ring"
+    },
+    "3141336": {
+      "first_seen": 1775173690.065911,
+      "posted": "",
+      "title": "Software Engineer I",
+      "job_id": "3141336",
+      "url": "https://www.amazon.jobs/en/jobs/3141336/software-engineer-i"
+    },
+    "3169801": {
+      "first_seen": 1775173690.065912,
+      "posted": "",
+      "title": "Embedded SDE, Ring Device Software & Systems",
+      "job_id": "3169801",
+      "url": "https://www.amazon.jobs/en/jobs/3169801/embedded-sde-ring-device-software-systems"
+    },
+    "3150845": {
+      "first_seen": 1775173690.065912,
+      "posted": "",
+      "title": "Software Dev Engineer II, Amazon Private Brands",
+      "job_id": "3150845",
+      "url": "https://www.amazon.jobs/en/jobs/3150845/software-dev-engineer-ii-amazon-private-brands"
+    },
+    "3151241": {
+      "first_seen": 1775173690.065912,
+      "posted": "",
+      "title": "Software Development Engineer, Android Apps",
+      "job_id": "3151241",
+      "url": "https://www.amazon.jobs/en/jobs/3151241/software-development-engineer-android-apps"
+    },
+    "3149738": {
+      "first_seen": 1775173690.0659132,
+      "posted": "",
+      "title": "Senior Software Development Engineer, Android Apps",
+      "job_id": "3149738",
+      "url": "https://www.amazon.jobs/en/jobs/3149738/senior-software-development-engineer-android-apps"
+    },
+    "3139832": {
+      "first_seen": 1775173690.0659132,
+      "posted": "",
+      "title": "Software Development Engineer - AI/ML, AWS Neuron",
+      "job_id": "3139832",
+      "url": "https://www.amazon.jobs/en/jobs/3139832/software-development-engineer-ai-ml-aws-neuron"
+    },
+    "3179405": {
+      "first_seen": 1775173690.0659132,
+      "posted": "",
+      "title": "Applied Scientist, Console Science",
+      "job_id": "3179405",
+      "url": "https://www.amazon.jobs/en/jobs/3179405/applied-scientist-console-science"
+    },
+    "3141000": {
+      "first_seen": 1775173690.0659142,
+      "posted": "",
+      "title": "Software Development Engineer- Embedded, OTA Program Team, Amazon Leo",
+      "job_id": "3141000",
+      "url": "https://www.amazon.jobs/en/jobs/3141000/software-development-engineer-embedded-ota-program-team-amazon-leo"
+    },
+    "3138330": {
+      "first_seen": 1775173690.0659142,
+      "posted": "",
+      "title": "Software Engineer II, Android",
+      "job_id": "3138330",
+      "url": "https://www.amazon.jobs/en/jobs/3138330/software-engineer-ii-android"
+    },
+    "3168884": {
+      "first_seen": 1775173690.0659142,
+      "posted": "",
+      "title": "Embedded Software Development Engineer, Ring  Connectivity Team",
+      "job_id": "3168884",
+      "url": "https://www.amazon.jobs/en/jobs/3168884/embedded-software-development-engineer-ring-connectivity-team"
+    },
+    "3165931": {
+      "first_seen": 1775173690.0659142,
+      "posted": "",
+      "title": "Systems Development Engineer, Antenna System Validation, Amazon Leo",
+      "job_id": "3165931",
+      "url": "https://www.amazon.jobs/en/jobs/3165931/systems-development-engineer-antenna-system-validation-amazon-leo"
+    },
+    "3137672": {
+      "first_seen": 1775173690.0659149,
+      "posted": "",
+      "title": "2026 Annapurna Labs at AWS Internships (US) - Machine Learning Systems & Silicon Innovation",
+      "job_id": "3137672",
+      "url": "https://www.amazon.jobs/en/jobs/3137672/2026-annapurna-labs-at-aws-internships-us-machine-learning-systems-silicon-innovation"
+    },
+    "3137373": {
+      "first_seen": 1775173690.0659149,
+      "posted": "",
+      "title": "Device Software Engineer, Amazon Leo for Government",
+      "job_id": "3137373",
+      "url": "https://www.amazon.jobs/en/jobs/3137373/device-software-engineer-amazon-leo-for-government"
+    },
+    "3147660": {
+      "first_seen": 1775173690.0659158,
+      "posted": "",
+      "title": "Application Builder, Mobile Applications",
+      "job_id": "3147660",
+      "url": "https://www.amazon.jobs/en/jobs/3147660/application-builder-mobile-applications"
+    },
+    "3206016": {
+      "first_seen": 1775173690.0659158,
+      "posted": "",
+      "title": "Software Dev Engineer, Gen AI Services",
+      "job_id": "3206016",
+      "url": "https://www.amazon.jobs/en/jobs/3206016/software-dev-engineer-gen-ai-services"
+    },
+    "3136581": {
+      "first_seen": 1775173690.0659158,
+      "posted": "",
+      "title": "Software Development Engineer, Nitro SSD",
+      "job_id": "3136581",
+      "url": "https://www.amazon.jobs/en/jobs/3136581/software-development-engineer-nitro-ssd"
+    },
+    "3136266": {
+      "first_seen": 1775173690.0659158,
+      "posted": "",
+      "title": "Robotics - Software Development Engineer Intern/Co-op - 2026",
+      "job_id": "3136266",
+      "url": "https://www.amazon.jobs/en/jobs/3136266/robotics-software-development-engineer-intern-co-op-2026"
+    },
+    "3139367": {
+      "first_seen": 1775173690.065917,
+      "posted": "",
+      "title": "Software Development Engineer, Ring Neighbors",
+      "job_id": "3139367",
+      "url": "https://www.amazon.jobs/en/jobs/3139367/software-development-engineer-ring-neighbors"
+    },
+    "3133398": {
+      "first_seen": 1775173690.065917,
+      "posted": "",
+      "title": "Software Development Engineer, Amazon Leo OISL",
+      "job_id": "3133398",
+      "url": "https://www.amazon.jobs/en/jobs/3133398/software-development-engineer-amazon-leo-oisl"
+    },
+    "3132873": {
+      "first_seen": 1775173690.065917,
+      "posted": "",
+      "title": "Expert Consultant - Software Engineer, AGI - Data Services",
+      "job_id": "3132873",
+      "url": "https://www.amazon.jobs/en/jobs/3132873/expert-consultant-software-engineer-agi-data-services"
+    },
+    "3205437": {
+      "first_seen": 1775173690.065918,
+      "posted": "",
+      "title": "Expert Consultant- Software Engineer, AGI - Data Services",
+      "job_id": "3205437",
+      "url": "https://www.amazon.jobs/en/jobs/3205437/expert-consultant-software-engineer-agi-data-services"
+    },
+    "3205446": {
+      "first_seen": 1775173690.065918,
+      "posted": "",
+      "title": "Expert Consultant- Software Engineer, AGI - Data Services",
+      "job_id": "3205446",
+      "url": "https://www.amazon.jobs/en/jobs/3205446/expert-consultant-software-engineer-agi-data-services"
+    },
+    "3205471": {
+      "first_seen": 1775173690.065918,
+      "posted": "",
+      "title": "Expert Consultant- Software Engineer, AGI - Data Services",
+      "job_id": "3205471",
+      "url": "https://www.amazon.jobs/en/jobs/3205471/expert-consultant-software-engineer-agi-data-services"
+    },
+    "3205476": {
+      "first_seen": 1775173690.065919,
+      "posted": "",
+      "title": "Expert Consultant- Software Engineer, AGI - Data Services",
+      "job_id": "3205476",
+      "url": "https://www.amazon.jobs/en/jobs/3205476/expert-consultant-software-engineer-agi-data-services"
+    },
+    "3207259": {
+      "first_seen": 1775173690.065919,
+      "posted": "",
+      "title": "Expert Consultant- Software Engineer, AGI - Data Services",
+      "job_id": "3207259",
+      "url": "https://www.amazon.jobs/en/jobs/3207259/expert-consultant-software-engineer-agi-data-services"
+    },
+    "10375174": {
+      "first_seen": 1775173690.065919,
+      "posted": "",
+      "title": "Expert Consultant- Software Engineer, AGI - Data Services",
+      "job_id": "10375174",
+      "url": "https://www.amazon.jobs/en/jobs/10375174/expert-consultant-software-engineer-agi-data-services"
+    },
+    "10375202": {
+      "first_seen": 1775173690.06592,
+      "posted": "",
+      "title": "Expert Consultant- Software Engineer, AGI - Data Services",
+      "job_id": "10375202",
+      "url": "https://www.amazon.jobs/en/jobs/10375202/expert-consultant-software-engineer-agi-data-services"
+    },
+    "10375180": {
+      "first_seen": 1775173690.06592,
+      "posted": "",
+      "title": "Expert Consultant- Software Engineer, AGI - Data Services",
+      "job_id": "10375180",
+      "url": "https://www.amazon.jobs/en/jobs/10375180/expert-consultant-software-engineer-agi-data-services"
+    },
+    "10375178": {
+      "first_seen": 1775173690.06592,
+      "posted": "",
+      "title": "Expert Consultant- Software Engineer, AGI - Data Services",
+      "job_id": "10375178",
+      "url": "https://www.amazon.jobs/en/jobs/10375178/expert-consultant-software-engineer-agi-data-services"
+    },
+    "3133115": {
+      "first_seen": 1775173690.06592,
+      "posted": "",
+      "title": "Software Development Engineer, Last Mile Delivery",
+      "job_id": "3133115",
+      "url": "https://www.amazon.jobs/en/jobs/3133115/software-development-engineer-last-mile-delivery"
+    },
+    "3156476": {
+      "first_seen": 1775173690.065921,
+      "posted": "",
+      "title": "Embedded Software Engineer, Leo Payload Software Systems",
+      "job_id": "3156476",
+      "url": "https://www.amazon.jobs/en/jobs/3156476/embedded-software-engineer-leo-payload-software-systems"
+    },
+    "3144067": {
+      "first_seen": 1775173690.065921,
+      "posted": "",
+      "title": "Embedded Software Dev Engineer, Amazon Leo",
+      "job_id": "3144067",
+      "url": "https://www.amazon.jobs/en/jobs/3144067/embedded-software-dev-engineer-amazon-leo"
+    }
+  }
+}

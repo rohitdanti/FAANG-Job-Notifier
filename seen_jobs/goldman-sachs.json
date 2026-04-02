@@ -1,0 +1,323 @@
+{
+  "_meta": {
+    "version": 3,
+    "company": "goldman-sachs"
+  },
+  "jobs": {
+    "160546": {
+      "first_seen": 1775172763.2242088,
+      "posted": "",
+      "title": "Asset & Wealth Management-Java Developer-Analyst",
+      "job_id": "160546",
+      "url": "https://higher.gs.com/roles/160546"
+    },
+    "164487": {
+      "first_seen": 1775172763.224211,
+      "posted": "",
+      "title": "Software Engineer -Dallas-Associate- Engineering",
+      "job_id": "164487",
+      "url": "https://higher.gs.com/roles/164487"
+    },
+    "167081": {
+      "first_seen": 1775172763.224211,
+      "posted": "",
+      "title": "Tax-Salt Lake City-Associate-Software Engineering",
+      "job_id": "167081",
+      "url": "https://higher.gs.com/roles/167081"
+    },
+    "165597": {
+      "first_seen": 1775172763.224212,
+      "posted": "",
+      "title": "AMD Public-Salt Lake City-Associate-Software Engineering",
+      "job_id": "165597",
+      "url": "https://higher.gs.com/roles/165597"
+    },
+    "160552": {
+      "first_seen": 1775172763.224212,
+      "posted": "",
+      "title": "Asset & Wealth Management-Full Stack Software Engineer -Associate",
+      "job_id": "160552",
+      "url": "https://higher.gs.com/roles/160552"
+    },
+    "167499": {
+      "first_seen": 1775172763.224212,
+      "posted": "",
+      "title": "AI Innovation and Solutions Engineer - Associate (New York, NY)",
+      "job_id": "167499",
+      "url": "https://higher.gs.com/roles/167499"
+    },
+    "165917": {
+      "first_seen": 1775172763.224213,
+      "posted": "",
+      "title": "Asset & Wealth Management - Associate - Software Engineering, ETF, New York, Associate",
+      "job_id": "165917",
+      "url": "https://higher.gs.com/roles/165917"
+    },
+    "160564": {
+      "first_seen": 1775172763.224213,
+      "posted": "",
+      "title": "Asset & Wealth Management - Software Engineer - Associate - Dallas",
+      "job_id": "160564",
+      "url": "https://higher.gs.com/roles/160564"
+    },
+    "160538": {
+      "first_seen": 1775172763.224213,
+      "posted": "",
+      "title": "Asset & Wealth Management- Full Stack Software Engineer -Associate",
+      "job_id": "160538",
+      "url": "https://higher.gs.com/roles/160538"
+    },
+    "161282": {
+      "first_seen": 1775172763.224213,
+      "posted": "",
+      "title": "Asset & Wealth Management - Software Engineer - Associate - Dallas",
+      "job_id": "161282",
+      "url": "https://higher.gs.com/roles/161282"
+    },
+    "163040": {
+      "first_seen": 1775172763.224214,
+      "posted": "",
+      "title": "Asset & Wealth Management-Software Engineering-Associate",
+      "job_id": "163040",
+      "url": "https://higher.gs.com/roles/163040"
+    },
+    "163722": {
+      "first_seen": 1775172763.224214,
+      "posted": "",
+      "title": "Asset & Wealth Management - Software Engineer - Associate - Dallas",
+      "job_id": "163722",
+      "url": "https://higher.gs.com/roles/163722"
+    },
+    "164571": {
+      "first_seen": 1775172763.224214,
+      "posted": "",
+      "title": "Asset & Wealth Management - Software Engineer - Associate - New York",
+      "job_id": "164571",
+      "url": "https://higher.gs.com/roles/164571"
+    },
+    "165511": {
+      "first_seen": 1775172763.224214,
+      "posted": "",
+      "title": "Asset & Wealth Management - Software Engineer - Associate - New York",
+      "job_id": "165511",
+      "url": "https://higher.gs.com/roles/165511"
+    },
+    "166092": {
+      "first_seen": 1775172763.224215,
+      "posted": "",
+      "title": "Asset & Wealth Management - Software Engineer - Associate - Dallas",
+      "job_id": "166092",
+      "url": "https://higher.gs.com/roles/166092"
+    },
+    "152750": {
+      "first_seen": 1775172763.224215,
+      "posted": "",
+      "title": "Data Engineering - Market Data Engineering - Software Engineer - Associate - Dallas",
+      "job_id": "152750",
+      "url": "https://higher.gs.com/roles/152750"
+    },
+    "161872": {
+      "first_seen": 1775172763.224215,
+      "posted": "",
+      "title": "Asset & Wealth Management-Front End (UI) Developer-Associate",
+      "job_id": "161872",
+      "url": "https://higher.gs.com/roles/161872"
+    },
+    "161628": {
+      "first_seen": 1775172763.224215,
+      "posted": "",
+      "title": "AI/ML Engineer, Global Banking & Markets, Investment Banking",
+      "job_id": "161628",
+      "url": "https://higher.gs.com/roles/161628"
+    },
+    "164082": {
+      "first_seen": 1775172763.224216,
+      "posted": "",
+      "title": "Asset & Wealth Management - Multi Asset Solutions (MAS) Digital Strats - Associate - New York",
+      "job_id": "164082",
+      "url": "https://higher.gs.com/roles/164082"
+    },
+    "167475": {
+      "first_seen": 1775172763.224216,
+      "posted": "",
+      "title": "Asset & Wealth Management-Front-End Developer -Associate",
+      "job_id": "167475",
+      "url": "https://higher.gs.com/roles/167475"
+    },
+    "153020": {
+      "first_seen": 1775172763.224216,
+      "posted": "",
+      "title": "Engineering-Dallas-Associate-Software Engineering",
+      "job_id": "153020",
+      "url": "https://higher.gs.com/roles/153020"
+    },
+    "154114": {
+      "first_seen": 1775172763.224216,
+      "posted": "",
+      "title": "Asset & Wealth Management - Web React Developer - Analyst - Richardson",
+      "job_id": "154114",
+      "url": "https://higher.gs.com/roles/154114"
+    },
+    "161877": {
+      "first_seen": 1775172763.2242172,
+      "posted": "",
+      "title": "Asset & Wealth Management - QA Automation Engineer - Associate - Dallas",
+      "job_id": "161877",
+      "url": "https://higher.gs.com/roles/161877"
+    },
+    "137803": {
+      "first_seen": 1775172763.2242172,
+      "posted": "",
+      "title": "Corporate Planning & Management Engineering, Associate",
+      "job_id": "137803",
+      "url": "https://higher.gs.com/roles/137803"
+    },
+    "161630": {
+      "first_seen": 1775172763.2242181,
+      "posted": "",
+      "title": "Software Engineer, Global Banking & Markets, Investment Banking",
+      "job_id": "161630",
+      "url": "https://higher.gs.com/roles/161630"
+    },
+    "161601": {
+      "first_seen": 1775172763.2242181,
+      "posted": "",
+      "title": "Global Markets Trading Platform Engineering - GBM Public - Associate - Software Engineer - Dallas",
+      "job_id": "161601",
+      "url": "https://higher.gs.com/roles/161601"
+    },
+    "160534": {
+      "first_seen": 1775172763.2242181,
+      "posted": "",
+      "title": "Asset & Wealth Management-Software Engineering- Margin- Associate",
+      "job_id": "160534",
+      "url": "https://higher.gs.com/roles/160534"
+    },
+    "162184": {
+      "first_seen": 1775172763.2242181,
+      "posted": "",
+      "title": "Asset & Wealth Management-Generative AI Software Engineer-Associate",
+      "job_id": "162184",
+      "url": "https://higher.gs.com/roles/162184"
+    },
+    "158361": {
+      "first_seen": 1775172763.2242181,
+      "posted": "",
+      "title": "Asset & Wealth Management - Software Engineer - Associate - Dallas",
+      "job_id": "158361",
+      "url": "https://higher.gs.com/roles/158361"
+    },
+    "163594": {
+      "first_seen": 1775172763.2242188,
+      "posted": "",
+      "title": "Asset & Wealth Management - Data Engineer - Associate - New York",
+      "job_id": "163594",
+      "url": "https://higher.gs.com/roles/163594"
+    },
+    "159036": {
+      "first_seen": 1775172763.2242188,
+      "posted": "",
+      "title": "Asset & Wealth Management-Software Engineering-Associate",
+      "job_id": "159036",
+      "url": "https://higher.gs.com/roles/159036"
+    },
+    "161800": {
+      "first_seen": 1775172763.2242188,
+      "posted": "",
+      "title": "Financial Crimes Compliance Engineering \u2013 Data Analyst, FCC Engineering",
+      "job_id": "161800",
+      "url": "https://higher.gs.com/roles/161800"
+    },
+    "146664": {
+      "first_seen": 1775172763.2242188,
+      "posted": "",
+      "title": "Asset & Wealth Management-Software Engineering-Associate",
+      "job_id": "146664",
+      "url": "https://higher.gs.com/roles/146664"
+    },
+    "159041": {
+      "first_seen": 1775172763.2242198,
+      "posted": "",
+      "title": "Asset & Wealth Management-QA Automation Engineer-Associate",
+      "job_id": "159041",
+      "url": "https://higher.gs.com/roles/159041"
+    },
+    "163039": {
+      "first_seen": 1775172763.2242198,
+      "posted": "",
+      "title": "Asset & Wealth Management-Software Engineering-Associate",
+      "job_id": "163039",
+      "url": "https://higher.gs.com/roles/163039"
+    },
+    "160551": {
+      "first_seen": 1775172763.2242198,
+      "posted": "",
+      "title": "Asset & Wealth Management-PA&TAX Engineer-Associate-Dallas",
+      "job_id": "160551",
+      "url": "https://higher.gs.com/roles/160551"
+    },
+    "158357": {
+      "first_seen": 1775172763.2242198,
+      "posted": "",
+      "title": "Asset & Wealth Management-Scrum Master Engineer-Associate",
+      "job_id": "158357",
+      "url": "https://higher.gs.com/roles/158357"
+    },
+    "154066": {
+      "first_seen": 1775172763.2242198,
+      "posted": "",
+      "title": "Asset & Wealth Management - Scrum Master - Associate - Dallas",
+      "job_id": "154066",
+      "url": "https://higher.gs.com/roles/154066"
+    },
+    "161878": {
+      "first_seen": 1775172763.224221,
+      "posted": "",
+      "title": "Asset &Wealth Management-Wealth AI Engineering - Associate",
+      "job_id": "161878",
+      "url": "https://higher.gs.com/roles/161878"
+    },
+    "160537": {
+      "first_seen": 1775172763.224221,
+      "posted": "",
+      "title": "Asset & Wealth Management-Salesforce Engineer-Associate - Albany",
+      "job_id": "160537",
+      "url": "https://higher.gs.com/roles/160537"
+    },
+    "159167": {
+      "first_seen": 1775172763.224221,
+      "posted": "",
+      "title": "Asset & Wealth Management-DevOps Cloud Engineer-Associate",
+      "job_id": "159167",
+      "url": "https://higher.gs.com/roles/159167"
+    },
+    "153199": {
+      "first_seen": 1775172763.224222,
+      "posted": "",
+      "title": "AI / ML Engineering Dallas Associate",
+      "job_id": "153199",
+      "url": "https://higher.gs.com/roles/153199"
+    },
+    "162784": {
+      "first_seen": 1775172763.224222,
+      "posted": "",
+      "title": "Asset & Wealth Management - Software Engineer - Associate - Dallas",
+      "job_id": "162784",
+      "url": "https://higher.gs.com/roles/162784"
+    },
+    "164028": {
+      "first_seen": 1775172763.224223,
+      "posted": "",
+      "title": "Asset & Wealth Management-Software Engineering-Associate",
+      "job_id": "164028",
+      "url": "https://higher.gs.com/roles/164028"
+    },
+    "119977": {
+      "first_seen": 1775172763.224223,
+      "posted": "",
+      "title": "Software Engineer - FCO Technology Team - Analyst - SLC",
+      "job_id": "119977",
+      "url": "https://higher.gs.com/roles/119977"
+    }
+  }
+}
