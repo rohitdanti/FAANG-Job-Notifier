@@ -1,8 +1,6 @@
 name: Apple Jobs Notifier
 
 on:
-  schedule:
-    - cron: '*/10 * * * *'
   workflow_dispatch:
 
 permissions:
