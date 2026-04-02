@@ -3,5 +3,3 @@ __pycache__/
 *.pyc
 .venv/
 venv/
-full_scrape.py
-seen_jobs.json
