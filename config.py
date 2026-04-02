@@ -40,7 +40,8 @@ def build_search_url(page_num: int) -> str:
 
 
 # Scraping
-MAX_PAGES = int(os.getenv("MAX_PAGES", "90"))  # set to at least 85 to cover full search results
+MAX_PAGES = int(os.getenv("MAX_PAGES", "2"))  # regular runs: first 2 pages only (~40 jobs)
+FULL_SCRAPE_MAX_PAGES = int(os.getenv("FULL_SCRAPE_MAX_PAGES", "90"))  # full scrape: up to 90 pages
 PAGE_LOAD_TIMEOUT = int(os.getenv("PAGE_LOAD_TIMEOUT", "15000"))
 JOB_CARD_TIMEOUT = int(os.getenv("JOB_CARD_TIMEOUT", "8000"))
 
