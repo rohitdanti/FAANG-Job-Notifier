@@ -1,0 +1,2738 @@
+{
+  "_meta": {
+    "version": 3,
+    "company": "meta"
+  },
+  "jobs": {
+    "9657291271065759": {
+      "first_seen": 1775249868.477636,
+      "posted": "",
+      "title": "Software Engineer, Product",
+      "job_id": "9657291271065759",
+      "url": "https://www.metacareers.com/profile/job_details/9657291271065759"
+    },
+    "815551547716688": {
+      "first_seen": 1775249868.47764,
+      "posted": "",
+      "title": "Head of Retail Development",
+      "job_id": "815551547716688",
+      "url": "https://www.metacareers.com/profile/job_details/815551547716688"
+    },
+    "1372820631269920": {
+      "first_seen": 1775249868.4776409,
+      "posted": "",
+      "title": "AI Research Engineer, Media - Meta Superintelligence Labs",
+      "job_id": "1372820631269920",
+      "url": "https://www.metacareers.com/profile/job_details/1372820631269920"
+    },
+    "1368969190886166": {
+      "first_seen": 1775249868.4776409,
+      "posted": "",
+      "title": "Software Engineer, Machine Learning",
+      "job_id": "1368969190886166",
+      "url": "https://www.metacareers.com/profile/job_details/1368969190886166"
+    },
+    "2941744602680883": {
+      "first_seen": 1775249868.477642,
+      "posted": "",
+      "title": "Commercial Sourcing Manager, Silicon",
+      "job_id": "2941744602680883",
+      "url": "https://www.metacareers.com/profile/job_details/2941744602680883"
+    },
+    "1075389717795087": {
+      "first_seen": 1775249868.477642,
+      "posted": "",
+      "title": "Software Engineer (Technical Leadership) - Machine Learning",
+      "job_id": "1075389717795087",
+      "url": "https://www.metacareers.com/profile/job_details/1075389717795087"
+    },
+    "2486789151677735": {
+      "first_seen": 1775249868.477643,
+      "posted": "",
+      "title": "Software Engineer, Infrastructure",
+      "job_id": "2486789151677735",
+      "url": "https://www.metacareers.com/profile/job_details/2486789151677735"
+    },
+    "3365873726885389": {
+      "first_seen": 1775249868.477643,
+      "posted": "",
+      "title": "Electrical Subject Matter Expert",
+      "job_id": "3365873726885389",
+      "url": "https://www.metacareers.com/profile/job_details/3365873726885389"
+    },
+    "727671609895617": {
+      "first_seen": 1775249868.477643,
+      "posted": "",
+      "title": "Software Engineer, Product",
+      "job_id": "727671609895617",
+      "url": "https://www.metacareers.com/profile/job_details/727671609895617"
+    },
+    "872527451573973": {
+      "first_seen": 1775249868.477643,
+      "posted": "",
+      "title": "AI/HPC Systems Performance Engineer",
+      "job_id": "872527451573973",
+      "url": "https://www.metacareers.com/profile/job_details/872527451573973"
+    },
+    "24894480136873895": {
+      "first_seen": 1775249868.477644,
+      "posted": "",
+      "title": "Product Manager",
+      "job_id": "24894480136873895",
+      "url": "https://www.metacareers.com/profile/job_details/24894480136873895"
+    },
+    "2780884748740452": {
+      "first_seen": 1775249868.477644,
+      "posted": "",
+      "title": "Research Engineer, Language",
+      "job_id": "2780884748740452",
+      "url": "https://www.metacareers.com/profile/job_details/2780884748740452"
+    },
+    "25583224734667384": {
+      "first_seen": 1775249868.477644,
+      "posted": "",
+      "title": "Director, Robotics Partnerships \u2013 Meta Robotics Studio",
+      "job_id": "25583224734667384",
+      "url": "https://www.metacareers.com/profile/job_details/25583224734667384"
+    },
+    "998357492128826": {
+      "first_seen": 1775249868.4776452,
+      "posted": "",
+      "title": "Software Engineer, Machine Learning",
+      "job_id": "998357492128826",
+      "url": "https://www.metacareers.com/profile/job_details/998357492128826"
+    },
+    "1070147800777577": {
+      "first_seen": 1775249868.4776452,
+      "posted": "",
+      "title": "Data Scientist, Product Analytics",
+      "job_id": "1070147800777577",
+      "url": "https://www.metacareers.com/profile/job_details/1070147800777577"
+    },
+    "2321017468376143": {
+      "first_seen": 1775249868.4776452,
+      "posted": "",
+      "title": "Research Engineer, Monetization AI",
+      "job_id": "2321017468376143",
+      "url": "https://www.metacareers.com/profile/job_details/2321017468376143"
+    },
+    "677160418622314": {
+      "first_seen": 1775249868.477646,
+      "posted": "",
+      "title": "Software Engineer, Infrastructure",
+      "job_id": "677160418622314",
+      "url": "https://www.metacareers.com/profile/job_details/677160418622314"
+    },
+    "7868993783158276": {
+      "first_seen": 1775249868.477646,
+      "posted": "",
+      "title": "Production Engineering",
+      "job_id": "7868993783158276",
+      "url": "https://www.metacareers.com/profile/job_details/7868993783158276"
+    },
+    "1264309702567478": {
+      "first_seen": 1775249868.477646,
+      "posted": "",
+      "title": "Field Service Engineer",
+      "job_id": "1264309702567478",
+      "url": "https://www.metacareers.com/profile/job_details/1264309702567478"
+    },
+    "1296230207698571": {
+      "first_seen": 1775249868.477646,
+      "posted": "",
+      "title": "Technical Program Manager",
+      "job_id": "1296230207698571",
+      "url": "https://www.metacareers.com/profile/job_details/1296230207698571"
+    },
+    "1079158160340219": {
+      "first_seen": 1775249868.477647,
+      "posted": "",
+      "title": "Software Engineer, Product",
+      "job_id": "1079158160340219",
+      "url": "https://www.metacareers.com/profile/job_details/1079158160340219"
+    },
+    "1884502425631808": {
+      "first_seen": 1775249868.477647,
+      "posted": "",
+      "title": "Contact Center Efficiency Operations Lead",
+      "job_id": "1884502425631808",
+      "url": "https://www.metacareers.com/profile/job_details/1884502425631808"
+    },
+    "1833406347371013": {
+      "first_seen": 1775249868.4776478,
+      "posted": "",
+      "title": "Silicon Validation Engineer, Reality Labs",
+      "job_id": "1833406347371013",
+      "url": "https://www.metacareers.com/profile/job_details/1833406347371013"
+    },
+    "1601762550830951": {
+      "first_seen": 1775249868.4776478,
+      "posted": "",
+      "title": "Foundational AI Research Scientist - FAIR",
+      "job_id": "1601762550830951",
+      "url": "https://www.metacareers.com/profile/job_details/1601762550830951"
+    },
+    "572429542041302": {
+      "first_seen": 1775249868.4776478,
+      "posted": "",
+      "title": "Data Scientist, Product Analytics",
+      "job_id": "572429542041302",
+      "url": "https://www.metacareers.com/profile/job_details/572429542041302"
+    },
+    "1547846149673038": {
+      "first_seen": 1775249868.4776478,
+      "posted": "",
+      "title": "Technical Program Manager, AI/ML",
+      "job_id": "1547846149673038",
+      "url": "https://www.metacareers.com/profile/job_details/1547846149673038"
+    },
+    "1436181490732782": {
+      "first_seen": 1775249868.477649,
+      "posted": "",
+      "title": "Software Engineer, Machine Learning",
+      "job_id": "1436181490732782",
+      "url": "https://www.metacareers.com/profile/job_details/1436181490732782"
+    },
+    "1382136746900637": {
+      "first_seen": 1775249868.477649,
+      "posted": "",
+      "title": "Research Engineer - Safety System, Evaluation and Foundation",
+      "job_id": "1382136746900637",
+      "url": "https://www.metacareers.com/profile/job_details/1382136746900637"
+    },
+    "1380974339703907": {
+      "first_seen": 1775249868.477649,
+      "posted": "",
+      "title": "AI Research Scientist, CoreML - Monetization AI",
+      "job_id": "1380974339703907",
+      "url": "https://www.metacareers.com/profile/job_details/1380974339703907"
+    },
+    "972883978494112": {
+      "first_seen": 1775249868.477649,
+      "posted": "",
+      "title": "Applied Research Scientist, Computational Mathematics, Physics, & Controls",
+      "job_id": "972883978494112",
+      "url": "https://www.metacareers.com/profile/job_details/972883978494112"
+    },
+    "1283364266159062": {
+      "first_seen": 1775249868.47765,
+      "posted": "",
+      "title": "Data Engineer, Product Analytics",
+      "job_id": "1283364266159062",
+      "url": "https://www.metacareers.com/profile/job_details/1283364266159062"
+    },
+    "3414246448833665": {
+      "first_seen": 1775249868.47765,
+      "posted": "",
+      "title": "Software Engineer, Systems ML",
+      "job_id": "3414246448833665",
+      "url": "https://www.metacareers.com/profile/job_details/3414246448833665"
+    },
+    "1227172779364335": {
+      "first_seen": 1775249868.47765,
+      "posted": "",
+      "title": "Strategic Partner Manager, Monetization Partnerships",
+      "job_id": "1227172779364335",
+      "url": "https://www.metacareers.com/profile/job_details/1227172779364335"
+    },
+    "1346103053957748": {
+      "first_seen": 1775249868.477651,
+      "posted": "",
+      "title": "Commercial Sourcing Manager - Cloud",
+      "job_id": "1346103053957748",
+      "url": "https://www.metacareers.com/profile/job_details/1346103053957748"
+    },
+    "556388847084173": {
+      "first_seen": 1775249868.477651,
+      "posted": "",
+      "title": "Research Engineer, Monetization AI",
+      "job_id": "556388847084173",
+      "url": "https://www.metacareers.com/profile/job_details/556388847084173"
+    },
+    "1420853345578936": {
+      "first_seen": 1775249868.477651,
+      "posted": "",
+      "title": "Product Manager",
+      "job_id": "1420853345578936",
+      "url": "https://www.metacareers.com/profile/job_details/1420853345578936"
+    },
+    "704019139159184": {
+      "first_seen": 1775249868.477651,
+      "posted": "",
+      "title": "Software Engineer (Leadership) - Infrastructure",
+      "job_id": "704019139159184",
+      "url": "https://www.metacareers.com/profile/job_details/704019139159184"
+    },
+    "4043567932553615": {
+      "first_seen": 1775249868.477652,
+      "posted": "",
+      "title": "Software Engineer - Product (Technical Leadership)",
+      "job_id": "4043567932553615",
+      "url": "https://www.metacareers.com/profile/job_details/4043567932553615"
+    },
+    "816501496761265": {
+      "first_seen": 1775249868.477652,
+      "posted": "",
+      "title": "Product Management, Director",
+      "job_id": "816501496761265",
+      "url": "https://www.metacareers.com/profile/job_details/816501496761265"
+    },
+    "3035859213266750": {
+      "first_seen": 1775249868.477652,
+      "posted": "",
+      "title": "Contextual AI Research Engineer",
+      "job_id": "3035859213266750",
+      "url": "https://www.metacareers.com/profile/job_details/3035859213266750"
+    },
+    "1770681236847041": {
+      "first_seen": 1775249868.477652,
+      "posted": "",
+      "title": "Software Engineer, Infrastructure",
+      "job_id": "1770681236847041",
+      "url": "https://www.metacareers.com/profile/job_details/1770681236847041"
+    },
+    "1397212694826926": {
+      "first_seen": 1775249868.477653,
+      "posted": "",
+      "title": "Product Designer",
+      "job_id": "1397212694826926",
+      "url": "https://www.metacareers.com/profile/job_details/1397212694826926"
+    },
+    "1216896097191762": {
+      "first_seen": 1775249868.477653,
+      "posted": "",
+      "title": "AI Research Scientist, FAIR Chemistry",
+      "job_id": "1216896097191762",
+      "url": "https://www.metacareers.com/profile/job_details/1216896097191762"
+    },
+    "3534414110041089": {
+      "first_seen": 1775249868.477653,
+      "posted": "",
+      "title": "Creative Coder",
+      "job_id": "3534414110041089",
+      "url": "https://www.metacareers.com/profile/job_details/3534414110041089"
+    },
+    "1777891520263428": {
+      "first_seen": 1775249868.477654,
+      "posted": "",
+      "title": "AI Research Scientist, Computer Vision (PhD)",
+      "job_id": "1777891520263428",
+      "url": "https://www.metacareers.com/profile/job_details/1777891520263428"
+    },
+    "2030632494556913": {
+      "first_seen": 1775249868.477654,
+      "posted": "",
+      "title": "AI Research Scientist, Computer Vision (PhD)",
+      "job_id": "2030632494556913",
+      "url": "https://www.metacareers.com/profile/job_details/2030632494556913"
+    },
+    "2317655892076832": {
+      "first_seen": 1775249868.477654,
+      "posted": "",
+      "title": "AI Research Scientist, Computer Vision (PhD)",
+      "job_id": "2317655892076832",
+      "url": "https://www.metacareers.com/profile/job_details/2317655892076832"
+    },
+    "596583419835692": {
+      "first_seen": 1775249868.477654,
+      "posted": "",
+      "title": "Software Engineer - AI SysML (Technical Leadership)",
+      "job_id": "596583419835692",
+      "url": "https://www.metacareers.com/profile/job_details/596583419835692"
+    },
+    "757006673869509": {
+      "first_seen": 1775249868.477655,
+      "posted": "",
+      "title": "AI Research Scientist - MSL FAIR Foundations",
+      "job_id": "757006673869509",
+      "url": "https://www.metacareers.com/profile/job_details/757006673869509"
+    },
+    "961472602841468": {
+      "first_seen": 1775249868.477655,
+      "posted": "",
+      "title": "Product Manager",
+      "job_id": "961472602841468",
+      "url": "https://www.metacareers.com/profile/job_details/961472602841468"
+    },
+    "1238249364564427": {
+      "first_seen": 1775249868.477655,
+      "posted": "",
+      "title": "Product Manager",
+      "job_id": "1238249364564427",
+      "url": "https://www.metacareers.com/profile/job_details/1238249364564427"
+    },
+    "2940269159502936": {
+      "first_seen": 1775249868.477655,
+      "posted": "",
+      "title": "Research Engineer, MRS AI",
+      "job_id": "2940269159502936",
+      "url": "https://www.metacareers.com/profile/job_details/2940269159502936"
+    },
+    "691715269835265": {
+      "first_seen": 1775249868.4776561,
+      "posted": "",
+      "title": "Product Manager, Machine Learning",
+      "job_id": "691715269835265",
+      "url": "https://www.metacareers.com/profile/job_details/691715269835265"
+    },
+    "708800821869155": {
+      "first_seen": 1775249868.4776561,
+      "posted": "",
+      "title": "Hardware Integration Engineer",
+      "job_id": "708800821869155",
+      "url": "https://www.metacareers.com/profile/job_details/708800821869155"
+    },
+    "1505847530961484": {
+      "first_seen": 1775249868.4776561,
+      "posted": "",
+      "title": "Head of Global Field Sales and Training, Reality Labs",
+      "job_id": "1505847530961484",
+      "url": "https://www.metacareers.com/profile/job_details/1505847530961484"
+    },
+    "720234290553790": {
+      "first_seen": 1775249868.4776561,
+      "posted": "",
+      "title": "Product Manager",
+      "job_id": "720234290553790",
+      "url": "https://www.metacareers.com/profile/job_details/720234290553790"
+    },
+    "300760325782735": {
+      "first_seen": 1775249868.4776561,
+      "posted": "",
+      "title": "Product Manager (Leadership)",
+      "job_id": "300760325782735",
+      "url": "https://www.metacareers.com/profile/job_details/300760325782735"
+    },
+    "435020605866341": {
+      "first_seen": 1775249868.477657,
+      "posted": "",
+      "title": "Data Scientist, Product Analytics",
+      "job_id": "435020605866341",
+      "url": "https://www.metacareers.com/profile/job_details/435020605866341"
+    },
+    "2993590890827815": {
+      "first_seen": 1775249868.477657,
+      "posted": "",
+      "title": "Marketing Operations Manager, AI Technologies",
+      "job_id": "2993590890827815",
+      "url": "https://www.metacareers.com/profile/job_details/2993590890827815"
+    },
+    "1730564264588722": {
+      "first_seen": 1775249868.477657,
+      "posted": "",
+      "title": "Account Manager, Small and Medium Business Group (SMBG)",
+      "job_id": "1730564264588722",
+      "url": "https://www.metacareers.com/profile/job_details/1730564264588722"
+    },
+    "1644424026817611": {
+      "first_seen": 1775249868.477657,
+      "posted": "",
+      "title": "Account Manager, Small and Medium Business Group (SMBG)",
+      "job_id": "1644424026817611",
+      "url": "https://www.metacareers.com/profile/job_details/1644424026817611"
+    },
+    "4173593806295761": {
+      "first_seen": 1775249868.477658,
+      "posted": "",
+      "title": "AI Research Scientist, Robotics",
+      "job_id": "4173593806295761",
+      "url": "https://www.metacareers.com/profile/job_details/4173593806295761"
+    },
+    "1070564468548321": {
+      "first_seen": 1775249868.477658,
+      "posted": "",
+      "title": "Research Engineer, Monetization AI",
+      "job_id": "1070564468548321",
+      "url": "https://www.metacareers.com/profile/job_details/1070564468548321"
+    },
+    "2154143301727752": {
+      "first_seen": 1775249868.477658,
+      "posted": "",
+      "title": "Software Engineer, Android",
+      "job_id": "2154143301727752",
+      "url": "https://www.metacareers.com/profile/job_details/2154143301727752"
+    },
+    "34138980215746375": {
+      "first_seen": 1775249868.477658,
+      "posted": "",
+      "title": "Product Manager, Central Products",
+      "job_id": "34138980215746375",
+      "url": "https://www.metacareers.com/profile/job_details/34138980215746375"
+    },
+    "3068587003348843": {
+      "first_seen": 1775249868.477659,
+      "posted": "",
+      "title": "AI Research Scientist, Robotics",
+      "job_id": "3068587003348843",
+      "url": "https://www.metacareers.com/profile/job_details/3068587003348843"
+    },
+    "1060575989215299": {
+      "first_seen": 1775249868.477659,
+      "posted": "",
+      "title": "AI Research Scientist - Machine Learning for Behavioral AI",
+      "job_id": "1060575989215299",
+      "url": "https://www.metacareers.com/profile/job_details/1060575989215299"
+    },
+    "25825301410467037": {
+      "first_seen": 1775249868.477659,
+      "posted": "",
+      "title": "Research Engineering Manager, Post-Training - Meta Superintelligence Labs",
+      "job_id": "25825301410467037",
+      "url": "https://www.metacareers.com/profile/job_details/25825301410467037"
+    },
+    "816343714639198": {
+      "first_seen": 1775249868.477659,
+      "posted": "",
+      "title": "Research Scientist Manager, MetaAI Assistant Measurement",
+      "job_id": "816343714639198",
+      "url": "https://www.metacareers.com/profile/job_details/816343714639198"
+    },
+    "735286872936729": {
+      "first_seen": 1775249868.477659,
+      "posted": "",
+      "title": "Research Engineering Manager - Meta SuperIntelligence Labs",
+      "job_id": "735286872936729",
+      "url": "https://www.metacareers.com/profile/job_details/735286872936729"
+    },
+    "873951755533710": {
+      "first_seen": 1775249868.47766,
+      "posted": "",
+      "title": "Research Engineering Manager, Evaluations, Meta Superintelligence Labs",
+      "job_id": "873951755533710",
+      "url": "https://www.metacareers.com/profile/job_details/873951755533710"
+    },
+    "1148191640825141": {
+      "first_seen": 1775249868.47766,
+      "posted": "",
+      "title": "Research Scientist Manager - ML Modeling & Applied Research",
+      "job_id": "1148191640825141",
+      "url": "https://www.metacareers.com/profile/job_details/1148191640825141"
+    },
+    "918097644188739": {
+      "first_seen": 1775249868.47766,
+      "posted": "",
+      "title": "AI Design Generalist",
+      "job_id": "918097644188739",
+      "url": "https://www.metacareers.com/profile/job_details/918097644188739"
+    },
+    "24740065085692536": {
+      "first_seen": 1775249868.47766,
+      "posted": "",
+      "title": "AI Specialist - Product and Applied Research",
+      "job_id": "24740065085692536",
+      "url": "https://www.metacareers.com/profile/job_details/24740065085692536"
+    },
+    "882415754757202": {
+      "first_seen": 1775249868.477661,
+      "posted": "",
+      "title": "AI Research Engineer",
+      "job_id": "882415754757202",
+      "url": "https://www.metacareers.com/profile/job_details/882415754757202"
+    },
+    "2014614469437648": {
+      "first_seen": 1775249868.477661,
+      "posted": "",
+      "title": "Business Program Management , Enterprise Sales (Business Messaging & AI)",
+      "job_id": "2014614469437648",
+      "url": "https://www.metacareers.com/profile/job_details/2014614469437648"
+    },
+    "1404750664730640": {
+      "first_seen": 1775249868.477661,
+      "posted": "",
+      "title": "AI Research Engineer, FAIR Chemistry",
+      "job_id": "1404750664730640",
+      "url": "https://www.metacareers.com/profile/job_details/1404750664730640"
+    },
+    "927824296348524": {
+      "first_seen": 1775249868.4776618,
+      "posted": "",
+      "title": "Public Affairs Marketing Manager",
+      "job_id": "927824296348524",
+      "url": "https://www.metacareers.com/profile/job_details/927824296348524"
+    },
+    "1364419801304682": {
+      "first_seen": 1775249868.4776618,
+      "posted": "",
+      "title": "Product Design Engineer",
+      "job_id": "1364419801304682",
+      "url": "https://www.metacareers.com/profile/job_details/1364419801304682"
+    },
+    "1277009131113341": {
+      "first_seen": 1775249868.4776618,
+      "posted": "",
+      "title": "NPI Program Manager",
+      "job_id": "1277009131113341",
+      "url": "https://www.metacareers.com/profile/job_details/1277009131113341"
+    },
+    "1700642344630356": {
+      "first_seen": 1775249868.4776618,
+      "posted": "",
+      "title": "Design Program Manager, Creative Audio",
+      "job_id": "1700642344630356",
+      "url": "https://www.metacareers.com/profile/job_details/1700642344630356"
+    },
+    "1604916467312658": {
+      "first_seen": 1775249868.477663,
+      "posted": "",
+      "title": "Global Culinary Director, Data Centers",
+      "job_id": "1604916467312658",
+      "url": "https://www.metacareers.com/profile/job_details/1604916467312658"
+    },
+    "1643910926782580": {
+      "first_seen": 1775249868.477663,
+      "posted": "",
+      "title": "Global Head of Workplace Strategy and Data",
+      "job_id": "1643910926782580",
+      "url": "https://www.metacareers.com/profile/job_details/1643910926782580"
+    },
+    "2355968491495881": {
+      "first_seen": 1775249868.477663,
+      "posted": "",
+      "title": "Project Controls and Portfolio Cost Lead",
+      "job_id": "2355968491495881",
+      "url": "https://www.metacareers.com/profile/job_details/2355968491495881"
+    },
+    "1645206443586664": {
+      "first_seen": 1775249868.477663,
+      "posted": "",
+      "title": "Research Data Program Manager, MSL",
+      "job_id": "1645206443586664",
+      "url": "https://www.metacareers.com/profile/job_details/1645206443586664"
+    },
+    "1256193859947791": {
+      "first_seen": 1775249868.477664,
+      "posted": "",
+      "title": "Research Data Program Manager",
+      "job_id": "1256193859947791",
+      "url": "https://www.metacareers.com/profile/job_details/1256193859947791"
+    },
+    "744405011838114": {
+      "first_seen": 1775249868.477664,
+      "posted": "",
+      "title": "Retail Program Manager (Omnichannel)",
+      "job_id": "744405011838114",
+      "url": "https://www.metacareers.com/profile/job_details/744405011838114"
+    },
+    "2155154358632395": {
+      "first_seen": 1775249868.477665,
+      "posted": "",
+      "title": "Corporate Development Associate",
+      "job_id": "2155154358632395",
+      "url": "https://www.metacareers.com/profile/job_details/2155154358632395"
+    },
+    "2056800361765565": {
+      "first_seen": 1775249868.477665,
+      "posted": "",
+      "title": "Global Workplace Services, Business Planner",
+      "job_id": "2056800361765565",
+      "url": "https://www.metacareers.com/profile/job_details/2056800361765565"
+    },
+    "784802827422289": {
+      "first_seen": 1775249868.477665,
+      "posted": "",
+      "title": "Head of Retail Operations",
+      "job_id": "784802827422289",
+      "url": "https://www.metacareers.com/profile/job_details/784802827422289"
+    },
+    "938202728504001": {
+      "first_seen": 1775249868.477665,
+      "posted": "",
+      "title": "Corporate Development Manager",
+      "job_id": "938202728504001",
+      "url": "https://www.metacareers.com/profile/job_details/938202728504001"
+    },
+    "4274870836128401": {
+      "first_seen": 1775249868.4776661,
+      "posted": "",
+      "title": "Technical Programs & Strategic Operations Manager",
+      "job_id": "4274870836128401",
+      "url": "https://www.metacareers.com/profile/job_details/4274870836128401"
+    },
+    "1169928935215996": {
+      "first_seen": 1775249868.4776661,
+      "posted": "",
+      "title": "Strategic Supply Chain Risk and Resilience Lead",
+      "job_id": "1169928935215996",
+      "url": "https://www.metacareers.com/profile/job_details/1169928935215996"
+    },
+    "1935479067056484": {
+      "first_seen": 1775249868.4776661,
+      "posted": "",
+      "title": "Internal Auditor, Monetization & Metrics",
+      "job_id": "1935479067056484",
+      "url": "https://www.metacareers.com/profile/job_details/1935479067056484"
+    },
+    "3958761261072228": {
+      "first_seen": 1775249868.4776661,
+      "posted": "",
+      "title": "Product Management, Leader",
+      "job_id": "3958761261072228",
+      "url": "https://www.metacareers.com/profile/job_details/3958761261072228"
+    },
+    "2522821814841715": {
+      "first_seen": 1775249868.477667,
+      "posted": "",
+      "title": "Product Quality Engineer",
+      "job_id": "2522821814841715",
+      "url": "https://www.metacareers.com/profile/job_details/2522821814841715"
+    },
+    "1457041469462949": {
+      "first_seen": 1775249868.477667,
+      "posted": "",
+      "title": "Environmental, Health & Safety Lead",
+      "job_id": "1457041469462949",
+      "url": "https://www.metacareers.com/profile/job_details/1457041469462949"
+    },
+    "1838924999834487": {
+      "first_seen": 1775249868.477667,
+      "posted": "",
+      "title": "Software Engineer, Systems ML - SW/HW Co-design",
+      "job_id": "1838924999834487",
+      "url": "https://www.metacareers.com/profile/job_details/1838924999834487"
+    },
+    "908469695239826": {
+      "first_seen": 1775249868.477668,
+      "posted": "",
+      "title": "Battery Systems Engineer",
+      "job_id": "908469695239826",
+      "url": "https://www.metacareers.com/profile/job_details/908469695239826"
+    },
+    "941167088592273": {
+      "first_seen": 1775249868.477668,
+      "posted": "",
+      "title": "AI Research Scientist, CoreML - Monetization AI",
+      "job_id": "941167088592273",
+      "url": "https://www.metacareers.com/profile/job_details/941167088592273"
+    },
+    "890189764010201": {
+      "first_seen": 1775249868.477668,
+      "posted": "",
+      "title": "Art Director - Reality Labs Research",
+      "job_id": "890189764010201",
+      "url": "https://www.metacareers.com/profile/job_details/890189764010201"
+    },
+    "939282615434416": {
+      "first_seen": 1775249868.477668,
+      "posted": "",
+      "title": "AI Research Scientist, Audio-Visual Understanding, FAIR",
+      "job_id": "939282615434416",
+      "url": "https://www.metacareers.com/profile/job_details/939282615434416"
+    },
+    "1061795906099278": {
+      "first_seen": 1775249868.4776692,
+      "posted": "",
+      "title": "Software Engineer - iOS (Technical Leadership)",
+      "job_id": "1061795906099278",
+      "url": "https://www.metacareers.com/profile/job_details/1061795906099278"
+    },
+    "1966362710596558": {
+      "first_seen": 1775249868.4776692,
+      "posted": "",
+      "title": "Reality Labs Accountant",
+      "job_id": "1966362710596558",
+      "url": "https://www.metacareers.com/profile/job_details/1966362710596558"
+    },
+    "2744410602616808": {
+      "first_seen": 1775249868.4776692,
+      "posted": "",
+      "title": "Software Engineer, iOS",
+      "job_id": "2744410602616808",
+      "url": "https://www.metacareers.com/profile/job_details/2744410602616808"
+    },
+    "1081929713616144": {
+      "first_seen": 1775249868.4776692,
+      "posted": "",
+      "title": "Controls Subject Matter Expert",
+      "job_id": "1081929713616144",
+      "url": "https://www.metacareers.com/profile/job_details/1081929713616144"
+    },
+    "1774592767280404": {
+      "first_seen": 1775249868.47767,
+      "posted": "",
+      "title": "AI Research Scientist, FAIR | Chercheur(se) en IA, FAIR",
+      "job_id": "1774592767280404",
+      "url": "https://www.metacareers.com/profile/job_details/1774592767280404"
+    },
+    "573448089134627": {
+      "first_seen": 1775249868.47767,
+      "posted": "",
+      "title": "Site Logistics Operations Specialist",
+      "job_id": "573448089134627",
+      "url": "https://www.metacareers.com/profile/job_details/573448089134627"
+    },
+    "1604051480563991": {
+      "first_seen": 1775249868.47767,
+      "posted": "",
+      "title": "Site Logistics Operations Lead",
+      "job_id": "1604051480563991",
+      "url": "https://www.metacareers.com/profile/job_details/1604051480563991"
+    },
+    "924772973600235": {
+      "first_seen": 1775249868.47767,
+      "posted": "",
+      "title": "Media Planning Manager, Global (Reality Labs) Wearables + Metaverse",
+      "job_id": "924772973600235",
+      "url": "https://www.metacareers.com/profile/job_details/924772973600235"
+    },
+    "3713685685437806": {
+      "first_seen": 1775249868.477671,
+      "posted": "",
+      "title": "Data Engineer, Product Analytics",
+      "job_id": "3713685685437806",
+      "url": "https://www.metacareers.com/profile/job_details/3713685685437806"
+    },
+    "1229945984832289": {
+      "first_seen": 1775249868.477671,
+      "posted": "",
+      "title": "Product Designer",
+      "job_id": "1229945984832289",
+      "url": "https://www.metacareers.com/profile/job_details/1229945984832289"
+    },
+    "2278790245981983": {
+      "first_seen": 1775249868.477671,
+      "posted": "",
+      "title": "Data Scientist, Products & Applied Research",
+      "job_id": "2278790245981983",
+      "url": "https://www.metacareers.com/profile/job_details/2278790245981983"
+    },
+    "3296639157162089": {
+      "first_seen": 1775249868.477671,
+      "posted": "",
+      "title": "Data Scientist, Products & Applied Research",
+      "job_id": "3296639157162089",
+      "url": "https://www.metacareers.com/profile/job_details/3296639157162089"
+    },
+    "1727567115072477": {
+      "first_seen": 1775249868.4776719,
+      "posted": "",
+      "title": "Research Scientist, Sensor and Systems Robotics (PhD)",
+      "job_id": "1727567115072477",
+      "url": "https://www.metacareers.com/profile/job_details/1727567115072477"
+    },
+    "1187958502273564": {
+      "first_seen": 1775249868.4776719,
+      "posted": "",
+      "title": "Software Engineer (Technical Leadership)",
+      "job_id": "1187958502273564",
+      "url": "https://www.metacareers.com/profile/job_details/1187958502273564"
+    },
+    "2206089106840647": {
+      "first_seen": 1775249868.4776719,
+      "posted": "",
+      "title": "Art Director",
+      "job_id": "2206089106840647",
+      "url": "https://www.metacareers.com/profile/job_details/2206089106840647"
+    },
+    "1435963384723269": {
+      "first_seen": 1775249868.4776719,
+      "posted": "",
+      "title": "AI Research Scientist, Media - Meta Superintelligence Labs",
+      "job_id": "1435963384723269",
+      "url": "https://www.metacareers.com/profile/job_details/1435963384723269"
+    },
+    "1865758441490305": {
+      "first_seen": 1775249868.477673,
+      "posted": "",
+      "title": "AI Research Scientist, CoreML - Monetization",
+      "job_id": "1865758441490305",
+      "url": "https://www.metacareers.com/profile/job_details/1865758441490305"
+    },
+    "813052371718120": {
+      "first_seen": 1775249868.477673,
+      "posted": "",
+      "title": "Research Scientist, Monetization Generative AI (PhD)",
+      "job_id": "813052371718120",
+      "url": "https://www.metacareers.com/profile/job_details/813052371718120"
+    },
+    "1305413621435612": {
+      "first_seen": 1775249868.477673,
+      "posted": "",
+      "title": "Product Designer",
+      "job_id": "1305413621435612",
+      "url": "https://www.metacareers.com/profile/job_details/1305413621435612"
+    },
+    "3615643631915581": {
+      "first_seen": 1775249868.477673,
+      "posted": "",
+      "title": "User Experience Researcher, Qualitative",
+      "job_id": "3615643631915581",
+      "url": "https://www.metacareers.com/profile/job_details/3615643631915581"
+    },
+    "1458653882636382": {
+      "first_seen": 1775249868.477674,
+      "posted": "",
+      "title": "GenAI Product Policy Manager",
+      "job_id": "1458653882636382",
+      "url": "https://www.metacareers.com/profile/job_details/1458653882636382"
+    },
+    "935955435634812": {
+      "first_seen": 1775249868.477674,
+      "posted": "",
+      "title": "NPI Product Operations Manager",
+      "job_id": "935955435634812",
+      "url": "https://www.metacareers.com/profile/job_details/935955435634812"
+    },
+    "852803947781269": {
+      "first_seen": 1775249868.477674,
+      "posted": "",
+      "title": "Data Scientist, Evaluations - Meta Superintelligence Labs",
+      "job_id": "852803947781269",
+      "url": "https://www.metacareers.com/profile/job_details/852803947781269"
+    },
+    "1435494154152569": {
+      "first_seen": 1775249868.477674,
+      "posted": "",
+      "title": "Critical Facility Engineer",
+      "job_id": "1435494154152569",
+      "url": "https://www.metacareers.com/profile/job_details/1435494154152569"
+    },
+    "712777775196261": {
+      "first_seen": 1775249868.477675,
+      "posted": "",
+      "title": "Integrated Enterprise Campaigns Lead",
+      "job_id": "712777775196261",
+      "url": "https://www.metacareers.com/profile/job_details/712777775196261"
+    },
+    "1948676762393750": {
+      "first_seen": 1775249868.477675,
+      "posted": "",
+      "title": "Head of Label Business Development (Music)",
+      "job_id": "1948676762393750",
+      "url": "https://www.metacareers.com/profile/job_details/1948676762393750"
+    },
+    "25677405118576008": {
+      "first_seen": 1775249868.477675,
+      "posted": "",
+      "title": "Account Manager, Small and Medium Business Group (SMBG)",
+      "job_id": "25677405118576008",
+      "url": "https://www.metacareers.com/profile/job_details/25677405118576008"
+    },
+    "1092822929374881": {
+      "first_seen": 1775249868.477675,
+      "posted": "",
+      "title": "Product Design Engineer",
+      "job_id": "1092822929374881",
+      "url": "https://www.metacareers.com/profile/job_details/1092822929374881"
+    },
+    "3394432087379356": {
+      "first_seen": 1775249868.477676,
+      "posted": "",
+      "title": "Strategic Planning and Operations Manager, Business Marketing",
+      "job_id": "3394432087379356",
+      "url": "https://www.metacareers.com/profile/job_details/3394432087379356"
+    },
+    "849551784823465": {
+      "first_seen": 1775249868.477676,
+      "posted": "",
+      "title": "Director, Campaign Effectiveness",
+      "job_id": "849551784823465",
+      "url": "https://www.metacareers.com/profile/job_details/849551784823465"
+    },
+    "1253893466685626": {
+      "first_seen": 1775249868.477676,
+      "posted": "",
+      "title": "Director, Strategic Cloud Infrastructure Deals Finance",
+      "job_id": "1253893466685626",
+      "url": "https://www.metacareers.com/profile/job_details/1253893466685626"
+    },
+    "1561285168379383": {
+      "first_seen": 1775249868.477676,
+      "posted": "",
+      "title": "Group Creative Director, Design",
+      "job_id": "1561285168379383",
+      "url": "https://www.metacareers.com/profile/job_details/1561285168379383"
+    },
+    "1344144467490177": {
+      "first_seen": 1775249868.477677,
+      "posted": "",
+      "title": "Network Engineer, Deployment & Support",
+      "job_id": "1344144467490177",
+      "url": "https://www.metacareers.com/profile/job_details/1344144467490177"
+    },
+    "606551888496600": {
+      "first_seen": 1775249868.477677,
+      "posted": "",
+      "title": "Network Engineer, Deployment & Support",
+      "job_id": "606551888496600",
+      "url": "https://www.metacareers.com/profile/job_details/606551888496600"
+    },
+    "1281177703893886": {
+      "first_seen": 1775249868.477677,
+      "posted": "",
+      "title": "Network Engineer, Foundation & Support (DC Design)",
+      "job_id": "1281177703893886",
+      "url": "https://www.metacareers.com/profile/job_details/1281177703893886"
+    },
+    "4055679534697858": {
+      "first_seen": 1775249868.477677,
+      "posted": "",
+      "title": "Network Engineer, Foundation and Support (Edge/Backbone Infrastructure Design)",
+      "job_id": "4055679534697858",
+      "url": "https://www.metacareers.com/profile/job_details/4055679534697858"
+    },
+    "1270129837873902": {
+      "first_seen": 1775249868.477678,
+      "posted": "",
+      "title": "Data Center Strategic Partnerships Manager",
+      "job_id": "1270129837873902",
+      "url": "https://www.metacareers.com/profile/job_details/1270129837873902"
+    },
+    "1674048120400549": {
+      "first_seen": 1775249868.477678,
+      "posted": "",
+      "title": "Research Scientist, Robotics Systems",
+      "job_id": "1674048120400549",
+      "url": "https://www.metacareers.com/profile/job_details/1674048120400549"
+    },
+    "687385904215332": {
+      "first_seen": 1775249868.477678,
+      "posted": "",
+      "title": "Mechanical Subject Matter Expert",
+      "job_id": "687385904215332",
+      "url": "https://www.metacareers.com/profile/job_details/687385904215332"
+    },
+    "702859492372628": {
+      "first_seen": 1775249868.477678,
+      "posted": "",
+      "title": "Systems Software Engineering Manager",
+      "job_id": "702859492372628",
+      "url": "https://www.metacareers.com/profile/job_details/702859492372628"
+    },
+    "2978397055676196": {
+      "first_seen": 1775249868.477679,
+      "posted": "",
+      "title": "Electrical Engineer",
+      "job_id": "2978397055676196",
+      "url": "https://www.metacareers.com/profile/job_details/2978397055676196"
+    },
+    "1452658876443607": {
+      "first_seen": 1775249868.477679,
+      "posted": "",
+      "title": "Manufacturing Test Engineer",
+      "job_id": "1452658876443607",
+      "url": "https://www.metacareers.com/profile/job_details/1452658876443607"
+    },
+    "1953343938901157": {
+      "first_seen": 1775249868.477679,
+      "posted": "",
+      "title": "Hardware Electrical Engineer",
+      "job_id": "1953343938901157",
+      "url": "https://www.metacareers.com/profile/job_details/1953343938901157"
+    },
+    "1955426332047476": {
+      "first_seen": 1775249868.477679,
+      "posted": "",
+      "title": "AI Specialist - Product and Applied Research",
+      "job_id": "1955426332047476",
+      "url": "https://www.metacareers.com/profile/job_details/1955426332047476"
+    },
+    "1442106720912499": {
+      "first_seen": 1775249868.4776802,
+      "posted": "",
+      "title": "UX Researcher, Mixed Methods",
+      "job_id": "1442106720912499",
+      "url": "https://www.metacareers.com/profile/job_details/1442106720912499"
+    },
+    "706939532499569": {
+      "first_seen": 1775249868.4776802,
+      "posted": "",
+      "title": "Lead Building Engineer",
+      "job_id": "706939532499569",
+      "url": "https://www.metacareers.com/profile/job_details/706939532499569"
+    },
+    "2727073531024425": {
+      "first_seen": 1775249868.4776802,
+      "posted": "",
+      "title": "Product Manager (Leadership) - PAR",
+      "job_id": "2727073531024425",
+      "url": "https://www.metacareers.com/profile/job_details/2727073531024425"
+    },
+    "1388106673071978": {
+      "first_seen": 1775249868.4776802,
+      "posted": "",
+      "title": "Enterprise Technical Sales Specialist, NORAM",
+      "job_id": "1388106673071978",
+      "url": "https://www.metacareers.com/profile/job_details/1388106673071978"
+    },
+    "930844143206869": {
+      "first_seen": 1775249868.477681,
+      "posted": "",
+      "title": "Enterprise Technical Sales Manager, NORAM",
+      "job_id": "930844143206869",
+      "url": "https://www.metacareers.com/profile/job_details/930844143206869"
+    },
+    "1031032768371242": {
+      "first_seen": 1775249868.477681,
+      "posted": "",
+      "title": "Production Engineer",
+      "job_id": "1031032768371242",
+      "url": "https://www.metacareers.com/profile/job_details/1031032768371242"
+    },
+    "820579730450107": {
+      "first_seen": 1775249868.477681,
+      "posted": "",
+      "title": "AI Research Scientist - Voice AI Team, Meta Superintelligence Labs",
+      "job_id": "820579730450107",
+      "url": "https://www.metacareers.com/profile/job_details/820579730450107"
+    },
+    "4369903346590060": {
+      "first_seen": 1775249868.477681,
+      "posted": "",
+      "title": "Software Engineer, AI Native",
+      "job_id": "4369903346590060",
+      "url": "https://www.metacareers.com/profile/job_details/4369903346590060"
+    },
+    "24685460184490030": {
+      "first_seen": 1775249868.4776819,
+      "posted": "",
+      "title": "On-Site BMS Quality Manager (BQM) - Data Center Design, Engineering and Construction",
+      "job_id": "24685460184490030",
+      "url": "https://www.metacareers.com/profile/job_details/24685460184490030"
+    },
+    "687249053364137": {
+      "first_seen": 1775249868.4776819,
+      "posted": "",
+      "title": "Technical Program Manager",
+      "job_id": "687249053364137",
+      "url": "https://www.metacareers.com/profile/job_details/687249053364137"
+    },
+    "860406887033740": {
+      "first_seen": 1775249868.4776819,
+      "posted": "",
+      "title": "Software Engineer, AI Native",
+      "job_id": "860406887033740",
+      "url": "https://www.metacareers.com/profile/job_details/860406887033740"
+    },
+    "1901003240752810": {
+      "first_seen": 1775249868.4776819,
+      "posted": "",
+      "title": "Software Engineering Manager, Product",
+      "job_id": "1901003240752810",
+      "url": "https://www.metacareers.com/profile/job_details/1901003240752810"
+    },
+    "1230546830998535": {
+      "first_seen": 1775249868.4776828,
+      "posted": "",
+      "title": "Data Science Manager, Analytics",
+      "job_id": "1230546830998535",
+      "url": "https://www.metacareers.com/profile/job_details/1230546830998535"
+    },
+    "878373488536895": {
+      "first_seen": 1775249868.4776828,
+      "posted": "",
+      "title": "Component Sourcing Engineer",
+      "job_id": "878373488536895",
+      "url": "https://www.metacareers.com/profile/job_details/878373488536895"
+    },
+    "1502023458236548": {
+      "first_seen": 1775249868.4776828,
+      "posted": "",
+      "title": "Operations Platform Engineer",
+      "job_id": "1502023458236548",
+      "url": "https://www.metacareers.com/profile/job_details/1502023458236548"
+    },
+    "1402404575021400": {
+      "first_seen": 1775249868.4776828,
+      "posted": "",
+      "title": "Area Project Controls Lead",
+      "job_id": "1402404575021400",
+      "url": "https://www.metacareers.com/profile/job_details/1402404575021400"
+    },
+    "1792812501450334": {
+      "first_seen": 1775249868.477684,
+      "posted": "",
+      "title": "Research Scientist, Central Applied Science (PhD)",
+      "job_id": "1792812501450334",
+      "url": "https://www.metacareers.com/profile/job_details/1792812501450334"
+    },
+    "1857052629019467": {
+      "first_seen": 1775249868.477684,
+      "posted": "",
+      "title": "Sensor-to-Display Architecture & Modeling Engineer",
+      "job_id": "1857052629019467",
+      "url": "https://www.metacareers.com/profile/job_details/1857052629019467"
+    },
+    "1453290079211931": {
+      "first_seen": 1775249868.477684,
+      "posted": "",
+      "title": "Area Project Controls Lead, Hyperion",
+      "job_id": "1453290079211931",
+      "url": "https://www.metacareers.com/profile/job_details/1453290079211931"
+    },
+    "627190180131226": {
+      "first_seen": 1775249868.477684,
+      "posted": "",
+      "title": "Software Engineer, Systems ML - Compilers",
+      "job_id": "627190180131226",
+      "url": "https://www.metacareers.com/profile/job_details/627190180131226"
+    },
+    "724650760083360": {
+      "first_seen": 1775249868.477685,
+      "posted": "",
+      "title": "Electrical Subject Matter Expert",
+      "job_id": "724650760083360",
+      "url": "https://www.metacareers.com/profile/job_details/724650760083360"
+    },
+    "967830298136473": {
+      "first_seen": 1775249868.477685,
+      "posted": "",
+      "title": "Connectivity Engineer - Data Center Design, Engineering, & Construction",
+      "job_id": "967830298136473",
+      "url": "https://www.metacareers.com/profile/job_details/967830298136473"
+    },
+    "613354727793690": {
+      "first_seen": 1775249868.477685,
+      "posted": "",
+      "title": "Data Scientist, Analytics (Technical Leadership)",
+      "job_id": "613354727793690",
+      "url": "https://www.metacareers.com/profile/job_details/613354727793690"
+    },
+    "906136745437046": {
+      "first_seen": 1775249868.477685,
+      "posted": "",
+      "title": "AI Research Scientist, Media Data Research - MSL FAIR",
+      "job_id": "906136745437046",
+      "url": "https://www.metacareers.com/profile/job_details/906136745437046"
+    },
+    "874898091996160": {
+      "first_seen": 1775249868.477686,
+      "posted": "",
+      "title": "Research Engineer - MSL FAIR Foundations",
+      "job_id": "874898091996160",
+      "url": "https://www.metacareers.com/profile/job_details/874898091996160"
+    },
+    "812085245170536": {
+      "first_seen": 1775249868.4776871,
+      "posted": "",
+      "title": "Network Operations Engineer",
+      "job_id": "812085245170536",
+      "url": "https://www.metacareers.com/profile/job_details/812085245170536"
+    },
+    "1570058567041872": {
+      "first_seen": 1775249868.4776871,
+      "posted": "",
+      "title": "Software Engineer (Robotics)",
+      "job_id": "1570058567041872",
+      "url": "https://www.metacareers.com/profile/job_details/1570058567041872"
+    },
+    "1667346154398983": {
+      "first_seen": 1775249868.477688,
+      "posted": "",
+      "title": "Data Engineer, PAR",
+      "job_id": "1667346154398983",
+      "url": "https://www.metacareers.com/profile/job_details/1667346154398983"
+    },
+    "24324188627252460": {
+      "first_seen": 1775249868.477688,
+      "posted": "",
+      "title": "Site Logistics Operations Specialist",
+      "job_id": "24324188627252460",
+      "url": "https://www.metacareers.com/profile/job_details/24324188627252460"
+    },
+    "2176819739360965": {
+      "first_seen": 1775249868.477688,
+      "posted": "",
+      "title": "Production Engineering",
+      "job_id": "2176819739360965",
+      "url": "https://www.metacareers.com/profile/job_details/2176819739360965"
+    },
+    "1367923134875313": {
+      "first_seen": 1775249868.477688,
+      "posted": "",
+      "title": "Technical Program Manager, Ranking AI",
+      "job_id": "1367923134875313",
+      "url": "https://www.metacareers.com/profile/job_details/1367923134875313"
+    },
+    "1224406199534798": {
+      "first_seen": 1775249868.477689,
+      "posted": "",
+      "title": "Staff Research Engineer, MetaAI Assistant Measurement",
+      "job_id": "1224406199534798",
+      "url": "https://www.metacareers.com/profile/job_details/1224406199534798"
+    },
+    "2174882726662324": {
+      "first_seen": 1775249868.477689,
+      "posted": "",
+      "title": "Marketing Technology Manager, AI",
+      "job_id": "2174882726662324",
+      "url": "https://www.metacareers.com/profile/job_details/2174882726662324"
+    },
+    "2041354459763514": {
+      "first_seen": 1775249868.477689,
+      "posted": "",
+      "title": "Enterprise Technical Sales Manager, NORAM",
+      "job_id": "2041354459763514",
+      "url": "https://www.metacareers.com/profile/job_details/2041354459763514"
+    },
+    "4454202801475108": {
+      "first_seen": 1775249868.477689,
+      "posted": "",
+      "title": "Product Designer - RealTime AI",
+      "job_id": "4454202801475108",
+      "url": "https://www.metacareers.com/profile/job_details/4454202801475108"
+    },
+    "683446558092073": {
+      "first_seen": 1775249868.477689,
+      "posted": "",
+      "title": "Director, Business Operations, MSL Infra",
+      "job_id": "683446558092073",
+      "url": "https://www.metacareers.com/profile/job_details/683446558092073"
+    },
+    "772164378954613": {
+      "first_seen": 1775249868.4776902,
+      "posted": "",
+      "title": "Director, Product Marketing - Meta Subscriptions",
+      "job_id": "772164378954613",
+      "url": "https://www.metacareers.com/profile/job_details/772164378954613"
+    },
+    "877951731747100": {
+      "first_seen": 1775249868.4776902,
+      "posted": "",
+      "title": "Software Engineer, AI Native",
+      "job_id": "877951731747100",
+      "url": "https://www.metacareers.com/profile/job_details/877951731747100"
+    },
+    "2137838357059518": {
+      "first_seen": 1775249868.4776902,
+      "posted": "",
+      "title": "Enterprise Technical Sales Director, NORAM",
+      "job_id": "2137838357059518",
+      "url": "https://www.metacareers.com/profile/job_details/2137838357059518"
+    },
+    "847362961218887": {
+      "first_seen": 1775249868.477691,
+      "posted": "",
+      "title": "Product Designer",
+      "job_id": "847362961218887",
+      "url": "https://www.metacareers.com/profile/job_details/847362961218887"
+    },
+    "4221679158093418": {
+      "first_seen": 1775249868.477691,
+      "posted": "",
+      "title": "Product Designer",
+      "job_id": "4221679158093418",
+      "url": "https://www.metacareers.com/profile/job_details/4221679158093418"
+    },
+    "26451197637809713": {
+      "first_seen": 1775249868.477691,
+      "posted": "",
+      "title": "Internal Audit Manager",
+      "job_id": "26451197637809713",
+      "url": "https://www.metacareers.com/profile/job_details/26451197637809713"
+    },
+    "3269411016541258": {
+      "first_seen": 1775249868.477691,
+      "posted": "",
+      "title": "Finance Manager, Infrastructure",
+      "job_id": "3269411016541258",
+      "url": "https://www.metacareers.com/profile/job_details/3269411016541258"
+    },
+    "828506516459407": {
+      "first_seen": 1775249868.477692,
+      "posted": "",
+      "title": "Finance Portfolio Manager",
+      "job_id": "828506516459407",
+      "url": "https://www.metacareers.com/profile/job_details/828506516459407"
+    },
+    "872499102357200": {
+      "first_seen": 1775249868.477692,
+      "posted": "",
+      "title": "Finance Manager, Reality Labs",
+      "job_id": "872499102357200",
+      "url": "https://www.metacareers.com/profile/job_details/872499102357200"
+    },
+    "801036419335498": {
+      "first_seen": 1775249868.477692,
+      "posted": "",
+      "title": "Director of Finance, G&A",
+      "job_id": "801036419335498",
+      "url": "https://www.metacareers.com/profile/job_details/801036419335498"
+    },
+    "866533876198184": {
+      "first_seen": 1775249868.477692,
+      "posted": "",
+      "title": "Director of Treasury Technology, Controls & Infrastructure",
+      "job_id": "866533876198184",
+      "url": "https://www.metacareers.com/profile/job_details/866533876198184"
+    },
+    "900302159174798": {
+      "first_seen": 1775249868.4776928,
+      "posted": "",
+      "title": "Director of Finance, Finance Operations and AI Enablement",
+      "job_id": "900302159174798",
+      "url": "https://www.metacareers.com/profile/job_details/900302159174798"
+    },
+    "1758813528141938": {
+      "first_seen": 1775249868.4776928,
+      "posted": "",
+      "title": "Research Engineer - Computer Vision and Robotics",
+      "job_id": "1758813528141938",
+      "url": "https://www.metacareers.com/profile/job_details/1758813528141938"
+    },
+    "817408744460767": {
+      "first_seen": 1775249868.4776928,
+      "posted": "",
+      "title": "Electrical Engineer: Robotics Hardware Engineering",
+      "job_id": "817408744460767",
+      "url": "https://www.metacareers.com/profile/job_details/817408744460767"
+    },
+    "910946137964331": {
+      "first_seen": 1775249868.4776928,
+      "posted": "",
+      "title": "Mechanical Engineer: Electronics Packaging and Sensor Integration",
+      "job_id": "910946137964331",
+      "url": "https://www.metacareers.com/profile/job_details/910946137964331"
+    },
+    "1202694615347622": {
+      "first_seen": 1775249868.477694,
+      "posted": "",
+      "title": "Software Engineer, Systems ML - Compilers / Backend",
+      "job_id": "1202694615347622",
+      "url": "https://www.metacareers.com/profile/job_details/1202694615347622"
+    },
+    "888754603702049": {
+      "first_seen": 1775249868.477694,
+      "posted": "",
+      "title": "Research Engineer - Perception and Machine Learning",
+      "job_id": "888754603702049",
+      "url": "https://www.metacareers.com/profile/job_details/888754603702049"
+    },
+    "3234241820079923": {
+      "first_seen": 1775249868.477694,
+      "posted": "",
+      "title": "Research Scientist, MSL, Realtime AI Voice Team",
+      "job_id": "3234241820079923",
+      "url": "https://www.metacareers.com/profile/job_details/3234241820079923"
+    },
+    "1168614265088108": {
+      "first_seen": 1775249868.477694,
+      "posted": "",
+      "title": "Marketing Science Consultant",
+      "job_id": "1168614265088108",
+      "url": "https://www.metacareers.com/profile/job_details/1168614265088108"
+    },
+    "1850249585639156": {
+      "first_seen": 1775249868.477694,
+      "posted": "",
+      "title": "Lifecycle Marketing Manager",
+      "job_id": "1850249585639156",
+      "url": "https://www.metacareers.com/profile/job_details/1850249585639156"
+    },
+    "912183671524252": {
+      "first_seen": 1775249868.477695,
+      "posted": "",
+      "title": "Data Scientist, Technical Lead - Infrastructure Data Center (IDC)",
+      "job_id": "912183671524252",
+      "url": "https://www.metacareers.com/profile/job_details/912183671524252"
+    },
+    "1445438187630465": {
+      "first_seen": 1775249868.477695,
+      "posted": "",
+      "title": "Business Engineer, Business AI",
+      "job_id": "1445438187630465",
+      "url": "https://www.metacareers.com/profile/job_details/1445438187630465"
+    },
+    "952970263773928": {
+      "first_seen": 1775249868.477695,
+      "posted": "",
+      "title": "Enterprise Technical Sales Specialist (NORAM)",
+      "job_id": "952970263773928",
+      "url": "https://www.metacareers.com/profile/job_details/952970263773928"
+    },
+    "1488593099162645": {
+      "first_seen": 1775249868.477695,
+      "posted": "",
+      "title": "Research Engineer - Contextual AI",
+      "job_id": "1488593099162645",
+      "url": "https://www.metacareers.com/profile/job_details/1488593099162645"
+    },
+    "2127299944710856": {
+      "first_seen": 1775249868.477696,
+      "posted": "",
+      "title": "Contextual AI Research Scientist",
+      "job_id": "2127299944710856",
+      "url": "https://www.metacareers.com/profile/job_details/2127299944710856"
+    },
+    "1987818765405291": {
+      "first_seen": 1775249868.477696,
+      "posted": "",
+      "title": "Director, Technical Program Management (Ranking AI)",
+      "job_id": "1987818765405291",
+      "url": "https://www.metacareers.com/profile/job_details/1987818765405291"
+    },
+    "842857065154845": {
+      "first_seen": 1775249868.477696,
+      "posted": "",
+      "title": "Sensor Hardware Engineer",
+      "job_id": "842857065154845",
+      "url": "https://www.metacareers.com/profile/job_details/842857065154845"
+    },
+    "1435115618352630": {
+      "first_seen": 1775249868.477696,
+      "posted": "",
+      "title": "Executive Administrative Partner",
+      "job_id": "1435115618352630",
+      "url": "https://www.metacareers.com/profile/job_details/1435115618352630"
+    },
+    "867197706089391": {
+      "first_seen": 1775249868.4776971,
+      "posted": "",
+      "title": "Application Manager, Workday",
+      "job_id": "867197706089391",
+      "url": "https://www.metacareers.com/profile/job_details/867197706089391"
+    },
+    "1260249072270616": {
+      "first_seen": 1775249868.4776971,
+      "posted": "",
+      "title": "Account Manager, Small and Medium Business Group (SMBG)",
+      "job_id": "1260249072270616",
+      "url": "https://www.metacareers.com/profile/job_details/1260249072270616"
+    },
+    "2195102661318568": {
+      "first_seen": 1775249868.4776971,
+      "posted": "",
+      "title": "Data Engineer, PAR",
+      "job_id": "2195102661318568",
+      "url": "https://www.metacareers.com/profile/job_details/2195102661318568"
+    },
+    "3212685352239662": {
+      "first_seen": 1775249868.4776971,
+      "posted": "",
+      "title": "AI Research Scientist, Media - Meta Superintelligence Labs",
+      "job_id": "3212685352239662",
+      "url": "https://www.metacareers.com/profile/job_details/3212685352239662"
+    },
+    "1867505357124325": {
+      "first_seen": 1775249868.477698,
+      "posted": "",
+      "title": "Product Design Engineer",
+      "job_id": "1867505357124325",
+      "url": "https://www.metacareers.com/profile/job_details/1867505357124325"
+    },
+    "1240605408142190": {
+      "first_seen": 1775249868.477698,
+      "posted": "",
+      "title": "AI Research Scientist - Meta Superintelligence Labs (PhD)",
+      "job_id": "1240605408142190",
+      "url": "https://www.metacareers.com/profile/job_details/1240605408142190"
+    },
+    "812449874977786": {
+      "first_seen": 1775249868.477698,
+      "posted": "",
+      "title": "Construction Manager, Leased",
+      "job_id": "812449874977786",
+      "url": "https://www.metacareers.com/profile/job_details/812449874977786"
+    },
+    "1482104636877829": {
+      "first_seen": 1775249868.477698,
+      "posted": "",
+      "title": "Network Engineer, Foundation & Support",
+      "job_id": "1482104636877829",
+      "url": "https://www.metacareers.com/profile/job_details/1482104636877829"
+    },
+    "1057427173269828": {
+      "first_seen": 1775249868.477699,
+      "posted": "",
+      "title": "Construction Manager - Data Center Design, Engineering and Construction",
+      "job_id": "1057427173269828",
+      "url": "https://www.metacareers.com/profile/job_details/1057427173269828"
+    },
+    "868134742926332": {
+      "first_seen": 1775249868.477699,
+      "posted": "",
+      "title": "Enterprise Technical Sales Specialist, NORAM",
+      "job_id": "868134742926332",
+      "url": "https://www.metacareers.com/profile/job_details/868134742926332"
+    },
+    "1597477687973171": {
+      "first_seen": 1775249868.477699,
+      "posted": "",
+      "title": "Robotics Program Manager, Product Data Operations",
+      "job_id": "1597477687973171",
+      "url": "https://www.metacareers.com/profile/job_details/1597477687973171"
+    },
+    "1229417152165739": {
+      "first_seen": 1775249868.477699,
+      "posted": "",
+      "title": "Data Science Leader, Analytics",
+      "job_id": "1229417152165739",
+      "url": "https://www.metacareers.com/profile/job_details/1229417152165739"
+    },
+    "660780803565125": {
+      "first_seen": 1775249868.477699,
+      "posted": "",
+      "title": "Manufacturing Design Engineer - Mechanical",
+      "job_id": "660780803565125",
+      "url": "https://www.metacareers.com/profile/job_details/660780803565125"
+    },
+    "627248663708498": {
+      "first_seen": 1775249868.4777,
+      "posted": "",
+      "title": "Software Engineer, OS Frameworks",
+      "job_id": "627248663708498",
+      "url": "https://www.metacareers.com/profile/job_details/627248663708498"
+    },
+    "731761899383646": {
+      "first_seen": 1775249868.4777,
+      "posted": "",
+      "title": "Software Engineer, OS Frameworks",
+      "job_id": "731761899383646",
+      "url": "https://www.metacareers.com/profile/job_details/731761899383646"
+    },
+    "1141161127815427": {
+      "first_seen": 1775249868.4777,
+      "posted": "",
+      "title": "Research Scientist, Reinforcement Learning (PhD)",
+      "job_id": "1141161127815427",
+      "url": "https://www.metacareers.com/profile/job_details/1141161127815427"
+    },
+    "1615030889533579": {
+      "first_seen": 1775249868.4777,
+      "posted": "",
+      "title": "AI Research Scientist, Robotics",
+      "job_id": "1615030889533579",
+      "url": "https://www.metacareers.com/profile/job_details/1615030889533579"
+    },
+    "2279878759495611": {
+      "first_seen": 1775249868.4777012,
+      "posted": "",
+      "title": "Marketing Science Partner - Small and Medium Business Group",
+      "job_id": "2279878759495611",
+      "url": "https://www.metacareers.com/profile/job_details/2279878759495611"
+    },
+    "1997512017719908": {
+      "first_seen": 1775249868.4777012,
+      "posted": "",
+      "title": "Research Scientist (PhD)",
+      "job_id": "1997512017719908",
+      "url": "https://www.metacareers.com/profile/job_details/1997512017719908"
+    },
+    "1276288230539605": {
+      "first_seen": 1775249868.4777012,
+      "posted": "",
+      "title": "AI Research Scientist, MRS AI (PhD)",
+      "job_id": "1276288230539605",
+      "url": "https://www.metacareers.com/profile/job_details/1276288230539605"
+    },
+    "1115317270438682": {
+      "first_seen": 1775249868.4777012,
+      "posted": "",
+      "title": "Silicon Validation Engineer, Reality Labs",
+      "job_id": "1115317270438682",
+      "url": "https://www.metacareers.com/profile/job_details/1115317270438682"
+    },
+    "2422368444865623": {
+      "first_seen": 1775249868.477702,
+      "posted": "",
+      "title": "Data Scientist, Products & Applied Research",
+      "job_id": "2422368444865623",
+      "url": "https://www.metacareers.com/profile/job_details/2422368444865623"
+    },
+    "4286215408276349": {
+      "first_seen": 1775249868.477702,
+      "posted": "",
+      "title": "Executive Administrative Assistant",
+      "job_id": "4286215408276349",
+      "url": "https://www.metacareers.com/profile/job_details/4286215408276349"
+    },
+    "937868132236764": {
+      "first_seen": 1775249868.477702,
+      "posted": "",
+      "title": "Marketing Insights Researcher",
+      "job_id": "937868132236764",
+      "url": "https://www.metacareers.com/profile/job_details/937868132236764"
+    },
+    "1457312006182185": {
+      "first_seen": 1775249868.477702,
+      "posted": "",
+      "title": "Creative Coder",
+      "job_id": "1457312006182185",
+      "url": "https://www.metacareers.com/profile/job_details/1457312006182185"
+    },
+    "1173569561387577": {
+      "first_seen": 1775249868.4777029,
+      "posted": "",
+      "title": "Public Policy Manager, Consumer Safety and Threat Disruption",
+      "job_id": "1173569561387577",
+      "url": "https://www.metacareers.com/profile/job_details/1173569561387577"
+    },
+    "1943287409548906": {
+      "first_seen": 1775249868.4777029,
+      "posted": "",
+      "title": "Site Logistics Operations Lead",
+      "job_id": "1943287409548906",
+      "url": "https://www.metacareers.com/profile/job_details/1943287409548906"
+    },
+    "1454740309523513": {
+      "first_seen": 1775249868.4777029,
+      "posted": "",
+      "title": "Partner Engineer, Connected TV",
+      "job_id": "1454740309523513",
+      "url": "https://www.metacareers.com/profile/job_details/1454740309523513"
+    },
+    "1203016587809246": {
+      "first_seen": 1775249868.4777029,
+      "posted": "",
+      "title": "Software Engineer, iOS",
+      "job_id": "1203016587809246",
+      "url": "https://www.metacareers.com/profile/job_details/1203016587809246"
+    },
+    "1201679578735137": {
+      "first_seen": 1775249868.477704,
+      "posted": "",
+      "title": "Network Engineer, Foundations and Support",
+      "job_id": "1201679578735137",
+      "url": "https://www.metacareers.com/profile/job_details/1201679578735137"
+    },
+    "1558027058755557": {
+      "first_seen": 1775249868.477704,
+      "posted": "",
+      "title": "Product Validation Engineer",
+      "job_id": "1558027058755557",
+      "url": "https://www.metacareers.com/profile/job_details/1558027058755557"
+    },
+    "2194921961254379": {
+      "first_seen": 1775249868.477704,
+      "posted": "",
+      "title": "Environmental Health and Safety Lead",
+      "job_id": "2194921961254379",
+      "url": "https://www.metacareers.com/profile/job_details/2194921961254379"
+    },
+    "1413926650044261": {
+      "first_seen": 1775249868.477704,
+      "posted": "",
+      "title": "Manufacturing Technical Manager",
+      "job_id": "1413926650044261",
+      "url": "https://www.metacareers.com/profile/job_details/1413926650044261"
+    },
+    "1214258273805665": {
+      "first_seen": 1775249868.477705,
+      "posted": "",
+      "title": "Technical Program Manager, Displays and Optics",
+      "job_id": "1214258273805665",
+      "url": "https://www.metacareers.com/profile/job_details/1214258273805665"
+    },
+    "769709699353828": {
+      "first_seen": 1775249868.477705,
+      "posted": "",
+      "title": "Network Engineer, Deployment & Support",
+      "job_id": "769709699353828",
+      "url": "https://www.metacareers.com/profile/job_details/769709699353828"
+    },
+    "1250945876568739": {
+      "first_seen": 1775249868.477705,
+      "posted": "",
+      "title": "AI Research Scientist - FAIR Social Intelligence",
+      "job_id": "1250945876568739",
+      "url": "https://www.metacareers.com/profile/job_details/1250945876568739"
+    },
+    "744914351191839": {
+      "first_seen": 1775249868.477705,
+      "posted": "",
+      "title": "Critical Facility Engineer",
+      "job_id": "744914351191839",
+      "url": "https://www.metacareers.com/profile/job_details/744914351191839"
+    },
+    "1593695548519562": {
+      "first_seen": 1775249868.477706,
+      "posted": "",
+      "title": "NPI Operations Program Manager",
+      "job_id": "1593695548519562",
+      "url": "https://www.metacareers.com/profile/job_details/1593695548519562"
+    },
+    "807895135485725": {
+      "first_seen": 1775249868.477706,
+      "posted": "",
+      "title": "Manager, Partner Engineering, Incubation",
+      "job_id": "807895135485725",
+      "url": "https://www.metacareers.com/profile/job_details/807895135485725"
+    },
+    "1594361795310835": {
+      "first_seen": 1775249868.477706,
+      "posted": "",
+      "title": "Product Growth Analyst",
+      "job_id": "1594361795310835",
+      "url": "https://www.metacareers.com/profile/job_details/1594361795310835"
+    },
+    "873327785607518": {
+      "first_seen": 1775249868.477706,
+      "posted": "",
+      "title": "Product Designer, Meta Superintelligence Labs Media",
+      "job_id": "873327785607518",
+      "url": "https://www.metacareers.com/profile/job_details/873327785607518"
+    },
+    "945080131354140": {
+      "first_seen": 1775249868.477707,
+      "posted": "",
+      "title": "Area Project Controls Lead, Leased Data Centers",
+      "job_id": "945080131354140",
+      "url": "https://www.metacareers.com/profile/job_details/945080131354140"
+    },
+    "1479762266903375": {
+      "first_seen": 1775249868.477707,
+      "posted": "",
+      "title": "Product Designer, Instagram Private Sharing",
+      "job_id": "1479762266903375",
+      "url": "https://www.metacareers.com/profile/job_details/1479762266903375"
+    },
+    "1580048536407574": {
+      "first_seen": 1775249868.477707,
+      "posted": "",
+      "title": "Product Designer - Instagram Creators and Commerce",
+      "job_id": "1580048536407574",
+      "url": "https://www.metacareers.com/profile/job_details/1580048536407574"
+    },
+    "1217678796398272": {
+      "first_seen": 1775249868.477707,
+      "posted": "",
+      "title": "Controls Subject Matter Expert",
+      "job_id": "1217678796398272",
+      "url": "https://www.metacareers.com/profile/job_details/1217678796398272"
+    },
+    "2192824904462966": {
+      "first_seen": 1775249868.477708,
+      "posted": "",
+      "title": "Regional Quality Manager - Data Center Design, Engineering & Construction",
+      "job_id": "2192824904462966",
+      "url": "https://www.metacareers.com/profile/job_details/2192824904462966"
+    },
+    "1132517168952699": {
+      "first_seen": 1775249868.477708,
+      "posted": "",
+      "title": "Prototype Build Engineer",
+      "job_id": "1132517168952699",
+      "url": "https://www.metacareers.com/profile/job_details/1132517168952699"
+    },
+    "760975743579088": {
+      "first_seen": 1775249868.477708,
+      "posted": "",
+      "title": "Construction Manager - Data Center Design, Engineering, & Construction",
+      "job_id": "760975743579088",
+      "url": "https://www.metacareers.com/profile/job_details/760975743579088"
+    },
+    "699608119727078": {
+      "first_seen": 1775249868.477708,
+      "posted": "",
+      "title": "Software Engineer - Android (Technical Leadership)",
+      "job_id": "699608119727078",
+      "url": "https://www.metacareers.com/profile/job_details/699608119727078"
+    },
+    "1184652109720068": {
+      "first_seen": 1775249868.477709,
+      "posted": "",
+      "title": "AI Research Scientist, Media Data Research - MSL FAIR",
+      "job_id": "1184652109720068",
+      "url": "https://www.metacareers.com/profile/job_details/1184652109720068"
+    },
+    "785443042902505": {
+      "first_seen": 1775249868.477709,
+      "posted": "",
+      "title": "UX Researcher, Quantitative",
+      "job_id": "785443042902505",
+      "url": "https://www.metacareers.com/profile/job_details/785443042902505"
+    },
+    "3882902818612530": {
+      "first_seen": 1775249868.477709,
+      "posted": "",
+      "title": "AI Research Scientist, VLM (vision language models)",
+      "job_id": "3882902818612530",
+      "url": "https://www.metacareers.com/profile/job_details/3882902818612530"
+    },
+    "1091964779380326": {
+      "first_seen": 1775249868.477709,
+      "posted": "",
+      "title": "AI Research Scientist, Computer Vision - Facebook Video Intelligence",
+      "job_id": "1091964779380326",
+      "url": "https://www.metacareers.com/profile/job_details/1091964779380326"
+    },
+    "1108948753413269": {
+      "first_seen": 1775249868.47771,
+      "posted": "",
+      "title": "Software Engineer, Systems ML - SW/HW Co-design",
+      "job_id": "1108948753413269",
+      "url": "https://www.metacareers.com/profile/job_details/1108948753413269"
+    },
+    "911058361722396": {
+      "first_seen": 1775249868.47771,
+      "posted": "",
+      "title": "QA Engineering Lead, AI Native",
+      "job_id": "911058361722396",
+      "url": "https://www.metacareers.com/profile/job_details/911058361722396"
+    },
+    "868410305690417": {
+      "first_seen": 1775249868.47771,
+      "posted": "",
+      "title": "Network Engineer, Foundation & Support",
+      "job_id": "868410305690417",
+      "url": "https://www.metacareers.com/profile/job_details/868410305690417"
+    },
+    "1685882255708764": {
+      "first_seen": 1775249868.47771,
+      "posted": "",
+      "title": "Software Engineer, Video AI/ML Specialist (Technical Leadership)",
+      "job_id": "1685882255708764",
+      "url": "https://www.metacareers.com/profile/job_details/1685882255708764"
+    },
+    "869107912660498": {
+      "first_seen": 1775249868.4777112,
+      "posted": "",
+      "title": "Machine Learning Performance Modeling Architect",
+      "job_id": "869107912660498",
+      "url": "https://www.metacareers.com/profile/job_details/869107912660498"
+    },
+    "1629957844676203": {
+      "first_seen": 1775249868.4777112,
+      "posted": "",
+      "title": "IP Validation Engineer - Machine Learning Accelerators",
+      "job_id": "1629957844676203",
+      "url": "https://www.metacareers.com/profile/job_details/1629957844676203"
+    },
+    "1634559064243323": {
+      "first_seen": 1775249868.4777112,
+      "posted": "",
+      "title": "VP, Total Rewards",
+      "job_id": "1634559064243323",
+      "url": "https://www.metacareers.com/profile/job_details/1634559064243323"
+    },
+    "3490087297796438": {
+      "first_seen": 1775249868.4777112,
+      "posted": "",
+      "title": "Research Engineer, Media Data Research - MSL FAIR",
+      "job_id": "3490087297796438",
+      "url": "https://www.metacareers.com/profile/job_details/3490087297796438"
+    },
+    "816158320844730": {
+      "first_seen": 1775249868.477712,
+      "posted": "",
+      "title": "Product Content Engineer",
+      "job_id": "816158320844730",
+      "url": "https://www.metacareers.com/profile/job_details/816158320844730"
+    },
+    "776672288833325": {
+      "first_seen": 1775249868.477712,
+      "posted": "",
+      "title": "Solutions Architect",
+      "job_id": "776672288833325",
+      "url": "https://www.metacareers.com/profile/job_details/776672288833325"
+    },
+    "766813029714580": {
+      "first_seen": 1775249868.477712,
+      "posted": "",
+      "title": "AI Specialist - Product and Applied Research",
+      "job_id": "766813029714580",
+      "url": "https://www.metacareers.com/profile/job_details/766813029714580"
+    },
+    "1213492757409350": {
+      "first_seen": 1775249868.477712,
+      "posted": "",
+      "title": "Technical Program Manager - MSL (Meta SuperIntelligence Labs)",
+      "job_id": "1213492757409350",
+      "url": "https://www.metacareers.com/profile/job_details/1213492757409350"
+    },
+    "903804022277159": {
+      "first_seen": 1775249868.4777129,
+      "posted": "",
+      "title": "Product Manager, Central Product",
+      "job_id": "903804022277159",
+      "url": "https://www.metacareers.com/profile/job_details/903804022277159"
+    },
+    "902497998816139": {
+      "first_seen": 1775249868.4777129,
+      "posted": "",
+      "title": "Software Engineer, Video AI/ML Specialist",
+      "job_id": "902497998816139",
+      "url": "https://www.metacareers.com/profile/job_details/902497998816139"
+    },
+    "915768267709333": {
+      "first_seen": 1775249868.4777129,
+      "posted": "",
+      "title": "CMF Developer",
+      "job_id": "915768267709333",
+      "url": "https://www.metacareers.com/profile/job_details/915768267709333"
+    },
+    "1496490525381530": {
+      "first_seen": 1775249868.4777129,
+      "posted": "",
+      "title": "Software Engineer, Audio Embedded DSP - Reality Labs",
+      "job_id": "1496490525381530",
+      "url": "https://www.metacareers.com/profile/job_details/1496490525381530"
+    },
+    "2709819839377555": {
+      "first_seen": 1775249868.4777138,
+      "posted": "",
+      "title": "AI Research Scientist - MSL FAIR Foundations",
+      "job_id": "2709819839377555",
+      "url": "https://www.metacareers.com/profile/job_details/2709819839377555"
+    },
+    "850032361405650": {
+      "first_seen": 1775249868.4777138,
+      "posted": "",
+      "title": "Research Engineer - MSL FAIR Foundations (Technical Leadership)",
+      "job_id": "850032361405650",
+      "url": "https://www.metacareers.com/profile/job_details/850032361405650"
+    },
+    "1670353460809164": {
+      "first_seen": 1775249868.4777138,
+      "posted": "",
+      "title": "AI Research Engineer, FAIR Chemistry",
+      "job_id": "1670353460809164",
+      "url": "https://www.metacareers.com/profile/job_details/1670353460809164"
+    },
+    "1394915781774041": {
+      "first_seen": 1775249868.4777138,
+      "posted": "",
+      "title": "Software Engineer, Android",
+      "job_id": "1394915781774041",
+      "url": "https://www.metacareers.com/profile/job_details/1394915781774041"
+    },
+    "1604218924214255": {
+      "first_seen": 1775249868.477715,
+      "posted": "",
+      "title": "Public Policy Manager, AI Policy",
+      "job_id": "1604218924214255",
+      "url": "https://www.metacareers.com/profile/job_details/1604218924214255"
+    },
+    "607741089007139": {
+      "first_seen": 1775249868.477715,
+      "posted": "",
+      "title": "Critical Operations Manager",
+      "job_id": "607741089007139",
+      "url": "https://www.metacareers.com/profile/job_details/607741089007139"
+    },
+    "2471900343171573": {
+      "first_seen": 1775249868.477715,
+      "posted": "",
+      "title": "Product Designer, Meta",
+      "job_id": "2471900343171573",
+      "url": "https://www.metacareers.com/profile/job_details/2471900343171573"
+    },
+    "1815415389242149": {
+      "first_seen": 1775249868.477715,
+      "posted": "",
+      "title": "Research Scientist, AI & Systems Co-design (PhD)",
+      "job_id": "1815415389242149",
+      "url": "https://www.metacareers.com/profile/job_details/1815415389242149"
+    },
+    "1575576557006000": {
+      "first_seen": 1775249868.477716,
+      "posted": "",
+      "title": "Product Manager, Business AI",
+      "job_id": "1575576557006000",
+      "url": "https://www.metacareers.com/profile/job_details/1575576557006000"
+    },
+    "1436863750312686": {
+      "first_seen": 1775249868.477716,
+      "posted": "",
+      "title": "Product Manager, Machine Learning",
+      "job_id": "1436863750312686",
+      "url": "https://www.metacareers.com/profile/job_details/1436863750312686"
+    },
+    "879753681726501": {
+      "first_seen": 1775249868.477716,
+      "posted": "",
+      "title": "Product Manager - Retail",
+      "job_id": "879753681726501",
+      "url": "https://www.metacareers.com/profile/job_details/879753681726501"
+    },
+    "875077395010020": {
+      "first_seen": 1775249868.477716,
+      "posted": "",
+      "title": "Data Engineer, Analytics (Technical Leadership)",
+      "job_id": "875077395010020",
+      "url": "https://www.metacareers.com/profile/job_details/875077395010020"
+    },
+    "889311297281949": {
+      "first_seen": 1775249868.477717,
+      "posted": "",
+      "title": "AI Research Scientist, FAIR Chemistry",
+      "job_id": "889311297281949",
+      "url": "https://www.metacareers.com/profile/job_details/889311297281949"
+    },
+    "754713570820476": {
+      "first_seen": 1775249868.477717,
+      "posted": "",
+      "title": "Critical Facility Engineer",
+      "job_id": "754713570820476",
+      "url": "https://www.metacareers.com/profile/job_details/754713570820476"
+    },
+    "1252374446400654": {
+      "first_seen": 1775249868.477717,
+      "posted": "",
+      "title": "AI Research Scientist - FAIR Social Intelligence",
+      "job_id": "1252374446400654",
+      "url": "https://www.metacareers.com/profile/job_details/1252374446400654"
+    },
+    "1238602571585612": {
+      "first_seen": 1775249868.477717,
+      "posted": "",
+      "title": "AI Research Scientist - Meta Superintelligence Labs",
+      "job_id": "1238602571585612",
+      "url": "https://www.metacareers.com/profile/job_details/1238602571585612"
+    },
+    "1454266803001728": {
+      "first_seen": 1775249868.477718,
+      "posted": "",
+      "title": "Network Engineer, Operations & Support",
+      "job_id": "1454266803001728",
+      "url": "https://www.metacareers.com/profile/job_details/1454266803001728"
+    },
+    "1356112026275636": {
+      "first_seen": 1775249868.477718,
+      "posted": "",
+      "title": "Area Schedule Lead, Leased Data Centers",
+      "job_id": "1356112026275636",
+      "url": "https://www.metacareers.com/profile/job_details/1356112026275636"
+    },
+    "1660199085162701": {
+      "first_seen": 1775249868.477718,
+      "posted": "",
+      "title": "Logistics Capacity Program Manager",
+      "job_id": "1660199085162701",
+      "url": "https://www.metacareers.com/profile/job_details/1660199085162701"
+    },
+    "1256940803045134": {
+      "first_seen": 1775249868.477718,
+      "posted": "",
+      "title": "Industrial Designer - Packaging",
+      "job_id": "1256940803045134",
+      "url": "https://www.metacareers.com/profile/job_details/1256940803045134"
+    },
+    "781326574627503": {
+      "first_seen": 1775249868.477719,
+      "posted": "",
+      "title": "Manager, SOX Compliance",
+      "job_id": "781326574627503",
+      "url": "https://www.metacareers.com/profile/job_details/781326574627503"
+    },
+    "1466736958204384": {
+      "first_seen": 1775249868.477719,
+      "posted": "",
+      "title": "Director, Business Operations, Meta Horizon",
+      "job_id": "1466736958204384",
+      "url": "https://www.metacareers.com/profile/job_details/1466736958204384"
+    },
+    "2218235721999708": {
+      "first_seen": 1775249868.477719,
+      "posted": "",
+      "title": "Network Engineer, Operations & Support",
+      "job_id": "2218235721999708",
+      "url": "https://www.metacareers.com/profile/job_details/2218235721999708"
+    },
+    "3995284920763353": {
+      "first_seen": 1775249868.477719,
+      "posted": "",
+      "title": "Research Engineer, Post-Training - Meta Superintelligence Labs",
+      "job_id": "3995284920763353",
+      "url": "https://www.metacareers.com/profile/job_details/3995284920763353"
+    },
+    "599243686293692": {
+      "first_seen": 1775249868.47772,
+      "posted": "",
+      "title": "UX Researcher, Qualitative",
+      "job_id": "599243686293692",
+      "url": "https://www.metacareers.com/profile/job_details/599243686293692"
+    },
+    "1807518976538281": {
+      "first_seen": 1775249868.47772,
+      "posted": "",
+      "title": "AI Specialist - Product and Applied Research",
+      "job_id": "1807518976538281",
+      "url": "https://www.metacareers.com/profile/job_details/1807518976538281"
+    },
+    "954925830524757": {
+      "first_seen": 1775249868.47772,
+      "posted": "",
+      "title": "AI Research Scientist, SysML - FAIR",
+      "job_id": "954925830524757",
+      "url": "https://www.metacareers.com/profile/job_details/954925830524757"
+    },
+    "957646837091743": {
+      "first_seen": 1775249868.47772,
+      "posted": "",
+      "title": "Partner Solutions Manager, Media & News NORAM",
+      "job_id": "957646837091743",
+      "url": "https://www.metacareers.com/profile/job_details/957646837091743"
+    },
+    "761418328802327": {
+      "first_seen": 1775249868.477721,
+      "posted": "",
+      "title": "Software Engineer, Systems ML - Frameworks / Compilers / Kernels",
+      "job_id": "761418328802327",
+      "url": "https://www.metacareers.com/profile/job_details/761418328802327"
+    },
+    "1943984976330610": {
+      "first_seen": 1775249868.477721,
+      "posted": "",
+      "title": "AI Research Engineer, Media - Meta Superintelligence Labs",
+      "job_id": "1943984976330610",
+      "url": "https://www.metacareers.com/profile/job_details/1943984976330610"
+    },
+    "1663048827996120": {
+      "first_seen": 1775249868.477721,
+      "posted": "",
+      "title": "AI Research Scientist - Voice AI Team, Meta Superintelligence Lab",
+      "job_id": "1663048827996120",
+      "url": "https://www.metacareers.com/profile/job_details/1663048827996120"
+    },
+    "1455906419254137": {
+      "first_seen": 1775249868.477721,
+      "posted": "",
+      "title": "DTC Operations Lead",
+      "job_id": "1455906419254137",
+      "url": "https://www.metacareers.com/profile/job_details/1455906419254137"
+    },
+    "1287364610007364": {
+      "first_seen": 1775249868.4777222,
+      "posted": "",
+      "title": "Robotics Engineering: Mechanical Design Engineer - Test and Measurement",
+      "job_id": "1287364610007364",
+      "url": "https://www.metacareers.com/profile/job_details/1287364610007364"
+    },
+    "1989137095336503": {
+      "first_seen": 1775249868.4777222,
+      "posted": "",
+      "title": "Global Security Area Manager",
+      "job_id": "1989137095336503",
+      "url": "https://www.metacareers.com/profile/job_details/1989137095336503"
+    },
+    "3177584549296666": {
+      "first_seen": 1775249868.4777222,
+      "posted": "",
+      "title": "NPI Operations Program Manager",
+      "job_id": "3177584549296666",
+      "url": "https://www.metacareers.com/profile/job_details/3177584549296666"
+    },
+    "4296541857326606": {
+      "first_seen": 1775249868.4777222,
+      "posted": "",
+      "title": "Contract Manufacturing Manager",
+      "job_id": "4296541857326606",
+      "url": "https://www.metacareers.com/profile/job_details/4296541857326606"
+    },
+    "876553018176323": {
+      "first_seen": 1775249868.477723,
+      "posted": "",
+      "title": "Contract Manufacturing Manager",
+      "job_id": "876553018176323",
+      "url": "https://www.metacareers.com/profile/job_details/876553018176323"
+    },
+    "1247269954046749": {
+      "first_seen": 1775249868.477723,
+      "posted": "",
+      "title": "Executive Administrative Partner",
+      "job_id": "1247269954046749",
+      "url": "https://www.metacareers.com/profile/job_details/1247269954046749"
+    },
+    "9894073944045791": {
+      "first_seen": 1775249868.477723,
+      "posted": "",
+      "title": "Product Designer, Reality Labs",
+      "job_id": "9894073944045791",
+      "url": "https://www.metacareers.com/profile/job_details/9894073944045791"
+    },
+    "804887005316076": {
+      "first_seen": 1775249868.477723,
+      "posted": "",
+      "title": "Network Engineer, Foundation and Support",
+      "job_id": "804887005316076",
+      "url": "https://www.metacareers.com/profile/job_details/804887005316076"
+    },
+    "1350566577077010": {
+      "first_seen": 1775249868.4777238,
+      "posted": "",
+      "title": "Campus Construction Manager",
+      "job_id": "1350566577077010",
+      "url": "https://www.metacareers.com/profile/job_details/1350566577077010"
+    },
+    "913166131507808": {
+      "first_seen": 1775249868.4777238,
+      "posted": "",
+      "title": "Safety Policy Manager, AI Youth Well-Being & Child Safety",
+      "job_id": "913166131507808",
+      "url": "https://www.metacareers.com/profile/job_details/913166131507808"
+    },
+    "763749726537117": {
+      "first_seen": 1775249868.4777238,
+      "posted": "",
+      "title": "Global Head of Executive Engagement",
+      "job_id": "763749726537117",
+      "url": "https://www.metacareers.com/profile/job_details/763749726537117"
+    },
+    "1727980214842395": {
+      "first_seen": 1775249868.4777238,
+      "posted": "",
+      "title": "Manager, Marketing Audiences",
+      "job_id": "1727980214842395",
+      "url": "https://www.metacareers.com/profile/job_details/1727980214842395"
+    },
+    "965134885836613": {
+      "first_seen": 1775249868.477725,
+      "posted": "",
+      "title": "Product Content Engineer",
+      "job_id": "965134885836613",
+      "url": "https://www.metacareers.com/profile/job_details/965134885836613"
+    },
+    "2097203087769470": {
+      "first_seen": 1775249868.477725,
+      "posted": "",
+      "title": "Executive Administrative Partner",
+      "job_id": "2097203087769470",
+      "url": "https://www.metacareers.com/profile/job_details/2097203087769470"
+    },
+    "749897384786083": {
+      "first_seen": 1775249868.477725,
+      "posted": "",
+      "title": "Mechanical Design Verification Engineer",
+      "job_id": "749897384786083",
+      "url": "https://www.metacareers.com/profile/job_details/749897384786083"
+    },
+    "1927852644809839": {
+      "first_seen": 1775249868.477725,
+      "posted": "",
+      "title": "AI Research Scientist, Text Data Research - MSL FAIR",
+      "job_id": "1927852644809839",
+      "url": "https://www.metacareers.com/profile/job_details/1927852644809839"
+    },
+    "1191763712880441": {
+      "first_seen": 1775249868.477726,
+      "posted": "",
+      "title": "Product Designer",
+      "job_id": "1191763712880441",
+      "url": "https://www.metacareers.com/profile/job_details/1191763712880441"
+    },
+    "1641813936765342": {
+      "first_seen": 1775249868.477726,
+      "posted": "",
+      "title": "Silicon Emulation Engineer, Reality Labs",
+      "job_id": "1641813936765342",
+      "url": "https://www.metacareers.com/profile/job_details/1641813936765342"
+    },
+    "1493576408770360": {
+      "first_seen": 1775249868.477726,
+      "posted": "",
+      "title": "Media Strategy and Planning Manager",
+      "job_id": "1493576408770360",
+      "url": "https://www.metacareers.com/profile/job_details/1493576408770360"
+    },
+    "893690770143024": {
+      "first_seen": 1775249868.477726,
+      "posted": "",
+      "title": "Solutions Architect, Business AI",
+      "job_id": "893690770143024",
+      "url": "https://www.metacareers.com/profile/job_details/893690770143024"
+    },
+    "2459800684438004": {
+      "first_seen": 1775249868.477727,
+      "posted": "",
+      "title": "Meta Superintelligence Labs HR Business Partner",
+      "job_id": "2459800684438004",
+      "url": "https://www.metacareers.com/profile/job_details/2459800684438004"
+    },
+    "697140496580988": {
+      "first_seen": 1775249868.477727,
+      "posted": "",
+      "title": "Lead Building Engineer",
+      "job_id": "697140496580988",
+      "url": "https://www.metacareers.com/profile/job_details/697140496580988"
+    },
+    "946793071180753": {
+      "first_seen": 1775249868.477727,
+      "posted": "",
+      "title": "Opto-Mechanical Engineer, Research",
+      "job_id": "946793071180753",
+      "url": "https://www.metacareers.com/profile/job_details/946793071180753"
+    },
+    "1246408913660986": {
+      "first_seen": 1775249868.477728,
+      "posted": "",
+      "title": "AI Research Engineer, Language - Reality Labs Multimodal AI Assistant Team",
+      "job_id": "1246408913660986",
+      "url": "https://www.metacareers.com/profile/job_details/1246408913660986"
+    },
+    "1248205983443986": {
+      "first_seen": 1775249868.477728,
+      "posted": "",
+      "title": "Reality Labs (RL) Logistics Operations Program Manager",
+      "job_id": "1248205983443986",
+      "url": "https://www.metacareers.com/profile/job_details/1248205983443986"
+    },
+    "1206350587598691": {
+      "first_seen": 1775249868.477728,
+      "posted": "",
+      "title": "Mega-Site Construction Manager",
+      "job_id": "1206350587598691",
+      "url": "https://www.metacareers.com/profile/job_details/1206350587598691"
+    },
+    "1245547964185672": {
+      "first_seen": 1775249868.477728,
+      "posted": "",
+      "title": "Operations Program Manager (Core Technologies)",
+      "job_id": "1245547964185672",
+      "url": "https://www.metacareers.com/profile/job_details/1245547964185672"
+    },
+    "1484683386051329": {
+      "first_seen": 1775249868.477729,
+      "posted": "",
+      "title": "Mechanical Subject Matter Expert",
+      "job_id": "1484683386051329",
+      "url": "https://www.metacareers.com/profile/job_details/1484683386051329"
+    },
+    "1983969512481492": {
+      "first_seen": 1775249868.477729,
+      "posted": "",
+      "title": "Retail Technology Program Manager, Interactive Technologies",
+      "job_id": "1983969512481492",
+      "url": "https://www.metacareers.com/profile/job_details/1983969512481492"
+    },
+    "946712221314676": {
+      "first_seen": 1775249868.477729,
+      "posted": "",
+      "title": "Executive Administrative Partner",
+      "job_id": "946712221314676",
+      "url": "https://www.metacareers.com/profile/job_details/946712221314676"
+    },
+    "1977972046442671": {
+      "first_seen": 1775249868.477729,
+      "posted": "",
+      "title": "AI Research Scientist, Post-Training - Meta Superintelligence Labs",
+      "job_id": "1977972046442671",
+      "url": "https://www.metacareers.com/profile/job_details/1977972046442671"
+    },
+    "900416202772371": {
+      "first_seen": 1775249868.4777322,
+      "posted": "",
+      "title": "Public Policy Manager",
+      "job_id": "900416202772371",
+      "url": "https://www.metacareers.com/profile/job_details/900416202772371"
+    },
+    "1944275393083944": {
+      "first_seen": 1775249868.4777322,
+      "posted": "",
+      "title": "Network Engineer, Deployment & Support",
+      "job_id": "1944275393083944",
+      "url": "https://www.metacareers.com/profile/job_details/1944275393083944"
+    },
+    "2872918039706384": {
+      "first_seen": 1775249868.4777322,
+      "posted": "",
+      "title": "Environmental Health and Safety Lead",
+      "job_id": "2872918039706384",
+      "url": "https://www.metacareers.com/profile/job_details/2872918039706384"
+    },
+    "3779544725683772": {
+      "first_seen": 1775249868.4777331,
+      "posted": "",
+      "title": "Product Design Manager",
+      "job_id": "3779544725683772",
+      "url": "https://www.metacareers.com/profile/job_details/3779544725683772"
+    },
+    "897666313042706": {
+      "first_seen": 1775249868.4777331,
+      "posted": "",
+      "title": "Music Operations",
+      "job_id": "897666313042706",
+      "url": "https://www.metacareers.com/profile/job_details/897666313042706"
+    },
+    "2847891075561116": {
+      "first_seen": 1775249868.4777331,
+      "posted": "",
+      "title": "Computer Science Research - US - IC5",
+      "job_id": "2847891075561116",
+      "url": "https://www.metacareers.com/profile/job_details/2847891075561116"
+    },
+    "1456365319180681": {
+      "first_seen": 1775249868.4777331,
+      "posted": "",
+      "title": "Software Engineer, Systems ML - Compilers / Backend",
+      "job_id": "1456365319180681",
+      "url": "https://www.metacareers.com/profile/job_details/1456365319180681"
+    },
+    "1701181874626220": {
+      "first_seen": 1775249868.4777331,
+      "posted": "",
+      "title": "Network Engineer, Deployment & Support",
+      "job_id": "1701181874626220",
+      "url": "https://www.metacareers.com/profile/job_details/1701181874626220"
+    },
+    "880508634844716": {
+      "first_seen": 1775249868.4777339,
+      "posted": "",
+      "title": "Business Development Manager, AI Partnerships",
+      "job_id": "880508634844716",
+      "url": "https://www.metacareers.com/profile/job_details/880508634844716"
+    },
+    "2173207720084499": {
+      "first_seen": 1775249868.4777339,
+      "posted": "",
+      "title": "Business Development Manager - AI Partnerships",
+      "job_id": "2173207720084499",
+      "url": "https://www.metacareers.com/profile/job_details/2173207720084499"
+    },
+    "1187350126138459": {
+      "first_seen": 1775249868.4777339,
+      "posted": "",
+      "title": "AI Research Scientist, Media Data Research - MSL FAIR",
+      "job_id": "1187350126138459",
+      "url": "https://www.metacareers.com/profile/job_details/1187350126138459"
+    },
+    "892520053653115": {
+      "first_seen": 1775249868.4777339,
+      "posted": "",
+      "title": "Machine Learning Hardware Research Scientist",
+      "job_id": "892520053653115",
+      "url": "https://www.metacareers.com/profile/job_details/892520053653115"
+    },
+    "1337915113900850": {
+      "first_seen": 1775249868.4777348,
+      "posted": "",
+      "title": "Software Engineer - Language (Technical Leadership)",
+      "job_id": "1337915113900850",
+      "url": "https://www.metacareers.com/profile/job_details/1337915113900850"
+    },
+    "835248762906258": {
+      "first_seen": 1775249868.4777348,
+      "posted": "",
+      "title": "Product Designer (Wearables)",
+      "job_id": "835248762906258",
+      "url": "https://www.metacareers.com/profile/job_details/835248762906258"
+    },
+    "1184619503498227": {
+      "first_seen": 1775249868.4777348,
+      "posted": "",
+      "title": "Silicon Power Engineer",
+      "job_id": "1184619503498227",
+      "url": "https://www.metacareers.com/profile/job_details/1184619503498227"
+    },
+    "1863634317584034": {
+      "first_seen": 1775249868.4777348,
+      "posted": "",
+      "title": "Head of Environmental Health & Safety Operations, West Coast",
+      "job_id": "1863634317584034",
+      "url": "https://www.metacareers.com/profile/job_details/1863634317584034"
+    },
+    "1152714783341468": {
+      "first_seen": 1775249868.477736,
+      "posted": "",
+      "title": "Area Schedule Lead - Data Center Design, Engineering and Construction",
+      "job_id": "1152714783341468",
+      "url": "https://www.metacareers.com/profile/job_details/1152714783341468"
+    },
+    "1209701300291153": {
+      "first_seen": 1775249868.477736,
+      "posted": "",
+      "title": "Mega-Site Construction Manager",
+      "job_id": "1209701300291153",
+      "url": "https://www.metacareers.com/profile/job_details/1209701300291153"
+    },
+    "926105033281973": {
+      "first_seen": 1775249868.477736,
+      "posted": "",
+      "title": "Virtual Platforms & SoC Modeling Engineer",
+      "job_id": "926105033281973",
+      "url": "https://www.metacareers.com/profile/job_details/926105033281973"
+    },
+    "949328787662145": {
+      "first_seen": 1775249868.477736,
+      "posted": "",
+      "title": "Silicon Physical Design Engineer",
+      "job_id": "949328787662145",
+      "url": "https://www.metacareers.com/profile/job_details/949328787662145"
+    },
+    "1427741542177280": {
+      "first_seen": 1775249868.477737,
+      "posted": "",
+      "title": "Research Engineer, Systems ML - Compilers - Reality Labs Silicon AI Team",
+      "job_id": "1427741542177280",
+      "url": "https://www.metacareers.com/profile/job_details/1427741542177280"
+    },
+    "1615626972785965": {
+      "first_seen": 1775249868.477737,
+      "posted": "",
+      "title": "Business Development Manager - Connected TV",
+      "job_id": "1615626972785965",
+      "url": "https://www.metacareers.com/profile/job_details/1615626972785965"
+    },
+    "1616625545924433": {
+      "first_seen": 1775249868.477737,
+      "posted": "",
+      "title": "Partner Engineering GenAI - US",
+      "job_id": "1616625545924433",
+      "url": "https://www.metacareers.com/profile/job_details/1616625545924433"
+    },
+    "3809221556051813": {
+      "first_seen": 1775249868.477737,
+      "posted": "",
+      "title": "Client Partner",
+      "job_id": "3809221556051813",
+      "url": "https://www.metacareers.com/profile/job_details/3809221556051813"
+    },
+    "1694826561881194": {
+      "first_seen": 1775249868.477738,
+      "posted": "",
+      "title": "Silicon Performance Architect",
+      "job_id": "1694826561881194",
+      "url": "https://www.metacareers.com/profile/job_details/1694826561881194"
+    },
+    "1655866082102133": {
+      "first_seen": 1775249868.477738,
+      "posted": "",
+      "title": "Electrical Engineer, Reality Labs Research",
+      "job_id": "1655866082102133",
+      "url": "https://www.metacareers.com/profile/job_details/1655866082102133"
+    },
+    "770725172471480": {
+      "first_seen": 1775249868.477738,
+      "posted": "",
+      "title": "Concept Modeling Designer",
+      "job_id": "770725172471480",
+      "url": "https://www.metacareers.com/profile/job_details/770725172471480"
+    },
+    "788152294069957": {
+      "first_seen": 1775249868.477738,
+      "posted": "",
+      "title": "Industrial Design Architect (ME/PDE)",
+      "job_id": "788152294069957",
+      "url": "https://www.metacareers.com/profile/job_details/788152294069957"
+    },
+    "1411755247143557": {
+      "first_seen": 1775249868.477739,
+      "posted": "",
+      "title": "Network Engineer, Operations & Support",
+      "job_id": "1411755247143557",
+      "url": "https://www.metacareers.com/profile/job_details/1411755247143557"
+    },
+    "1407796804128683": {
+      "first_seen": 1775249868.477739,
+      "posted": "",
+      "title": "Network Engineer, Operations & Support (OSP)",
+      "job_id": "1407796804128683",
+      "url": "https://www.metacareers.com/profile/job_details/1407796804128683"
+    },
+    "834699345614049": {
+      "first_seen": 1775249868.477739,
+      "posted": "",
+      "title": "Product Design Manager, XR Tech Design",
+      "job_id": "834699345614049",
+      "url": "https://www.metacareers.com/profile/job_details/834699345614049"
+    },
+    "1209129764533307": {
+      "first_seen": 1775249868.477739,
+      "posted": "",
+      "title": "Medical Devices, Regulatory Affairs Specialist",
+      "job_id": "1209129764533307",
+      "url": "https://www.metacareers.com/profile/job_details/1209129764533307"
+    },
+    "25637373352571650": {
+      "first_seen": 1775249868.47774,
+      "posted": "",
+      "title": "Technical Program Manager, EE - AI Glasses",
+      "job_id": "25637373352571650",
+      "url": "https://www.metacareers.com/profile/job_details/25637373352571650"
+    },
+    "1891532841791978": {
+      "first_seen": 1775249868.47774,
+      "posted": "",
+      "title": "Connectivity Engineer, Leased - Data Center Design, Engineering, & Construction",
+      "job_id": "1891532841791978",
+      "url": "https://www.metacareers.com/profile/job_details/1891532841791978"
+    },
+    "1435562978038791": {
+      "first_seen": 1775249868.47774,
+      "posted": "",
+      "title": "AI Production Engineer",
+      "job_id": "1435562978038791",
+      "url": "https://www.metacareers.com/profile/job_details/1435562978038791"
+    },
+    "2764274517243093": {
+      "first_seen": 1775249868.47774,
+      "posted": "",
+      "title": "Area Schedule Lead, Project Hyperion",
+      "job_id": "2764274517243093",
+      "url": "https://www.metacareers.com/profile/job_details/2764274517243093"
+    },
+    "33826510916964882": {
+      "first_seen": 1775249868.47774,
+      "posted": "",
+      "title": "Research Engineer - Multimodal Embodiment Trust (multiple locations)",
+      "job_id": "33826510916964882",
+      "url": "https://www.metacareers.com/profile/job_details/33826510916964882"
+    },
+    "1088116780040391": {
+      "first_seen": 1775249868.477741,
+      "posted": "",
+      "title": "Product Designer, Reality Labs",
+      "job_id": "1088116780040391",
+      "url": "https://www.metacareers.com/profile/job_details/1088116780040391"
+    },
+    "1311440420431368": {
+      "first_seen": 1775249868.477741,
+      "posted": "",
+      "title": "Security Engineer",
+      "job_id": "1311440420431368",
+      "url": "https://www.metacareers.com/profile/job_details/1311440420431368"
+    },
+    "1223094479921593": {
+      "first_seen": 1775249868.477741,
+      "posted": "",
+      "title": "Research Engineer, Language - Personalization, Meta Superintelligence Labs",
+      "job_id": "1223094479921593",
+      "url": "https://www.metacareers.com/profile/job_details/1223094479921593"
+    },
+    "1542262643754949": {
+      "first_seen": 1775249868.477741,
+      "posted": "",
+      "title": "BMS Quality Manager (BQM) - Data Center Design, Engineering and Construction",
+      "job_id": "1542262643754949",
+      "url": "https://www.metacareers.com/profile/job_details/1542262643754949"
+    },
+    "1233209308873998": {
+      "first_seen": 1775249868.4777422,
+      "posted": "",
+      "title": "Partner Engineer, Generative AI",
+      "job_id": "1233209308873998",
+      "url": "https://www.metacareers.com/profile/job_details/1233209308873998"
+    },
+    "846766988117151": {
+      "first_seen": 1775249868.4777422,
+      "posted": "",
+      "title": "Manager, Foundation & Support",
+      "job_id": "846766988117151",
+      "url": "https://www.metacareers.com/profile/job_details/846766988117151"
+    },
+    "2065281677624998": {
+      "first_seen": 1775249868.4777422,
+      "posted": "",
+      "title": "AI Research Scientist (Technical Leadership), Data Research - MSL FAIR",
+      "job_id": "2065281677624998",
+      "url": "https://www.metacareers.com/profile/job_details/2065281677624998"
+    },
+    "1640661157100613": {
+      "first_seen": 1775249868.4777422,
+      "posted": "",
+      "title": "Executive Administrative Partner",
+      "job_id": "1640661157100613",
+      "url": "https://www.metacareers.com/profile/job_details/1640661157100613"
+    },
+    "823940180472347": {
+      "first_seen": 1775249868.4777431,
+      "posted": "",
+      "title": "Executive Administrative Assistant",
+      "job_id": "823940180472347",
+      "url": "https://www.metacareers.com/profile/job_details/823940180472347"
+    },
+    "2864638960409054": {
+      "first_seen": 1775249868.4777431,
+      "posted": "",
+      "title": "AI Research Scientist - Safety Alignment Team",
+      "job_id": "2864638960409054",
+      "url": "https://www.metacareers.com/profile/job_details/2864638960409054"
+    },
+    "1949481595892560": {
+      "first_seen": 1775249868.4777431,
+      "posted": "",
+      "title": "Generator Specialist, Subject Matter Expert",
+      "job_id": "1949481595892560",
+      "url": "https://www.metacareers.com/profile/job_details/1949481595892560"
+    }
+  }
+}
