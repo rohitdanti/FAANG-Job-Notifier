@@ -33,7 +33,7 @@ async def _seed_company_jobs(browser, slug: str) -> bool:
     try:
         runtime_config = config.get_company_runtime(slug)
         unique_jobs = await collect_jobs(browser, runtime_config, runtime_config.full_scrape_max_pages)
-        replace_seen_jobs(runtime_config.slug, unique_jobs)
+        replace_seen_jobs(runtime_config, unique_jobs)
         print(
             f"[full-scrape] Saved {len(unique_jobs)} entries for "
             f"{runtime_config.display_name} to {config.SEEN_JOBS_DIR}"

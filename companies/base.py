@@ -1,10 +1,11 @@
 from dataclasses import dataclass
-from typing import Callable
+from typing import Awaitable, Callable
 
 Job = dict[str, str]
 PageMetricExtractor = Callable[[str], int | None]
 ParseJobs = Callable[[str], list[Job]]
 BuildSearchUrl = Callable[[str, int], str]
+FetchPageHtml = Callable[..., Awaitable[str]]
 
 
 @dataclass(frozen=True)
@@ -19,5 +20,8 @@ class CompanyDefinition:
     parse_jobs: ParseJobs
     get_total_pages: PageMetricExtractor
     get_total_results: PageMetricExtractor
+    fetch_page_html: FetchPageHtml | None = None
+    full_scrape_posted_strategy: str = "source"
+    regular_scrape_posted_strategy: str = "new-only-today"
     excluded_role_keywords: tuple[str, ...] = ()
     excluded_title_phrases: tuple[str, ...] = ()

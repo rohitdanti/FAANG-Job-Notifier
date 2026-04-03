@@ -8,6 +8,7 @@ from datetime import date
 from typing import Any, Sequence
 
 import config
+from config import CompanyRuntimeConfig
 
 STATE_VERSION = 3
 
@@ -129,30 +130,57 @@ def _job_state_payload(job: dict, posted_override: str | None = None) -> dict[st
     }
 
 
-def filter_new_jobs(company_slug: str, jobs: list[dict]) -> list[dict]:
-    seen = load_seen_jobs(company_slug)
+def _resolve_posted_value(job: dict, strategy: str, today: str) -> str:
+    if strategy in {"empty", "blank"}:
+        return ""
+    if strategy in {"today", "new-only-today", "all-found-today"}:
+        return today
+    return job.get("posted", "")
+
+
+def filter_new_jobs(runtime_config: CompanyRuntimeConfig, jobs: list[dict]) -> list[dict]:
+    seen = load_seen_jobs(runtime_config.slug)
     new_jobs = []
     discovered_on = _today_date_string()
+    changed = False
 
     for job in jobs:
         key = job.get("key") or job.get("job_id") or job.get("role_number")
         if not key:
             continue
+        strategy = runtime_config.definition.regular_scrape_posted_strategy
+        posted_value = _resolve_posted_value(job, strategy, discovered_on)
+        job["posted"] = posted_value
+
         if key not in seen:
             new_jobs.append(job)
-            seen[key] = _job_state_payload(job, posted_override=discovered_on)
+            seen[key] = _job_state_payload(job, posted_override=posted_value)
+            changed = True
+            continue
 
-    if new_jobs:
-        save_seen_jobs(company_slug, seen)
+        if strategy == "all-found-today":
+            first_seen = seen[key].get("first_seen", time.time())
+            seen[key] = _job_state_payload(job, posted_override=posted_value)
+            seen[key]["first_seen"] = first_seen
+            changed = True
+
+    if changed:
+        save_seen_jobs(runtime_config.slug, seen)
 
     return new_jobs
 
 
-def replace_seen_jobs(company_slug: str, jobs: list[dict]) -> None:
+def replace_seen_jobs(runtime_config: CompanyRuntimeConfig, jobs: list[dict]) -> None:
     seen = {}
+    posted_strategy = runtime_config.definition.full_scrape_posted_strategy
+    today = _today_date_string()
+
     for job in jobs:
         key = job.get("key") or job.get("job_id") or job.get("role_number")
         if not key:
             continue
-        seen[key] = _job_state_payload(job)
-    save_seen_jobs(company_slug, seen)
+        seen[key] = _job_state_payload(
+            job,
+            posted_override=_resolve_posted_value(job, posted_strategy, today),
+        )
+    save_seen_jobs(runtime_config.slug, seen)

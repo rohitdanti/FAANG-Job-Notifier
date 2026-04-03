@@ -11,6 +11,9 @@ BROWSER_VIEWPORT = {"width": 1440, "height": 1200}
 
 
 async def scrape_page(page, runtime_config: config.CompanyRuntimeConfig, url: str) -> str:
+    if runtime_config.definition.fetch_page_html:
+        return await runtime_config.definition.fetch_page_html(page, runtime_config, url)
+
     print(f"[{runtime_config.slug}] Loading: {url}")
     await page.goto(url, wait_until="domcontentloaded", timeout=config.PAGE_LOAD_TIMEOUT)
 

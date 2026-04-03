@@ -43,7 +43,7 @@ async def _run_company_scrape(browser, slug: str) -> bool:
             )
             return False
 
-        new_jobs = filter_new_jobs(runtime_config.slug, unique_jobs)
+        new_jobs = filter_new_jobs(runtime_config, unique_jobs)
         print(f"[{runtime_config.slug}] New jobs (not seen before): {len(new_jobs)}")
 
         before = len(new_jobs)

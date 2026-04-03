@@ -2,7 +2,7 @@
 
 Scrapes job boards for one or more companies, tracks previously seen openings per company, and sends Telegram alerts when new matches appear.
 
-The project is now structured around company adapters. Apple, Amazon, and Goldman Sachs are bundled, and additional companies can be added without creating a new repo.
+The project is now structured around company adapters. Apple, Amazon, Goldman Sachs, and Salesforce are bundled, and additional companies can be added without creating a new repo.
 
 ## How it works
 
@@ -50,7 +50,7 @@ TELEGRAM_CHAT_ID=...
 Optional shared overrides:
 
 ```bash
-COMPANIES=apple,amazon,goldman-sachs
+COMPANIES=apple,amazon,goldman-sachs,salesforce
 PAGE_LOAD_TIMEOUT=15000
 JOB_CARD_TIMEOUT=8000
 MAX_SEEN_JOBS=3000
@@ -78,6 +78,14 @@ For Goldman Sachs:
 GOLDMAN_SACHS_SEARCH_URL="https://higher.gs.com/results?EXPERIENCE_LEVEL=Analyst|Associate&JOB_FUNCTION=Software%20Engineering&LOCATION=Albany|New%20York|Atlanta|Boston|Chicago|Dallas|Houston|Irving|Richardson|Denver|Detroit|Troy|Draper|Salt%20Lake%20City|Jersey%20City|Morristown|Los%20Angeles|Menlo%20Park|Newport%20Beach|San%20Francisco|Miami|West%20Palm%20Beach|Minneapolis|Philadelphia|Pittsburgh|Seattle|Washington|Wilmington&page=1&sort=POSTED_DATE"
 GOLDMAN_SACHS_MAX_PAGES=2
 GOLDMAN_SACHS_FULL_SCRAPE_MAX_PAGES=30
+```
+
+For Salesforce:
+
+```bash
+SALESFORCE_SEARCH_URL="https://salesforce.wd12.myworkdayjobs.com/en-US/external_career_site?redirect=/en-US/external_career_site/userHome&CF_-_REC_-_LRV_-_Job_Posting_Anchor_-_Country_from_Job_Posting_Location_Extended=bc33aa3152ec42d4995f4791a106ed09&timeType=0e28126347c3100fe3b402cf26290000&jobFamilyGroup=14fa3452ec7c1011f90d0002a2100000&workerSubType=3a910852b2c31010f48d2bbc8b020000"
+SALESFORCE_MAX_PAGES=2
+SALESFORCE_FULL_SCRAPE_MAX_PAGES=6
 ```
 
 Run a subset of companies from the CLI:
@@ -156,7 +164,7 @@ seen_jobs/                  One state file per company
 
 ## Notes
 
-- The repository now supports multiple companies in a single run, with Apple, Amazon, and Goldman Sachs bundled today.
+- The repository now supports multiple companies in a single run, with Apple, Amazon, Goldman Sachs, and Salesforce bundled today.
 - State is stored as separate files per company under `seen_jobs/`.
 - Apple search pagination still uses the `page=` query param and Apple parsing remains based on visible card text such as `Role Number`, `Location`, and `Weekly Hours`.
 - Amazon uses paginated search offsets and extracts result cards via `/en/jobs/<id>/...` links plus nearby `Job ID` metadata.

@@ -2,11 +2,13 @@ from companies.amazon import COMPANY as AMAZON
 from companies.apple import COMPANY as APPLE
 from companies.base import CompanyDefinition
 from companies.goldman_sachs import COMPANY as GOLDMAN_SACHS
+from companies.salesforce import COMPANY as SALESFORCE
 
 COMPANIES: dict[str, CompanyDefinition] = {
     AMAZON.slug: AMAZON,
     APPLE.slug: APPLE,
     GOLDMAN_SACHS.slug: GOLDMAN_SACHS,
+    SALESFORCE.slug: SALESFORCE,
 }
 
 
