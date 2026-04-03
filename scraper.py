@@ -28,6 +28,68 @@ def parse_args() -> argparse.Namespace:
     return parser.parse_args()
 
 
+async def _run_company_scrape(browser, slug: str) -> bool:
+    runtime_config = None
+
+    try:
+        runtime_config = config.get_company_runtime(slug)
+        unique_jobs = await collect_jobs(browser, runtime_config, runtime_config.max_pages)
+
+        if not unique_jobs:
+            print(f"[scraper] No jobs were extracted for {runtime_config.display_name}.")
+            await send_error(
+                runtime_config.display_name,
+                "No jobs extracted. The page structure may have changed.",
+            )
+            return False
+
+        new_jobs = filter_new_jobs(runtime_config.slug, unique_jobs)
+        print(f"[{runtime_config.slug}] New jobs (not seen before): {len(new_jobs)}")
+
+        before = len(new_jobs)
+        new_jobs = [
+            job
+            for job in new_jobs
+            if not should_exclude_title(
+                job.get("title", ""),
+                runtime_config.excluded_role_keywords,
+                runtime_config.excluded_title_phrases,
+            )
+        ]
+        new_jobs = [
+            job
+            for job in new_jobs
+            if not is_excluded_role(job.get("title", ""), runtime_config.excluded_role_keywords)
+        ]
+        excluded = before - len(new_jobs)
+        if excluded:
+            print(f"[{runtime_config.slug}] Excluded {excluded} job(s) by title filter")
+
+        if new_jobs:
+            print(f"[{runtime_config.slug}] Sending {len(new_jobs)} Telegram notification(s)...")
+            for index, job in enumerate(new_jobs, 1):
+                print(f"  [{index}/{len(new_jobs)}] {job['title']}")
+                success = await send_job_alert_for_company(runtime_config.display_name, job)
+                if not success:
+                    print(f"[{runtime_config.slug}] Failed to send notification")
+                if index < len(new_jobs):
+                    await asyncio.sleep(0.5)
+            await send_summary(runtime_config.display_name, len(new_jobs), len(unique_jobs))
+        else:
+            print(f"[{runtime_config.slug}] No new jobs to notify.")
+
+        print(
+            f"[{runtime_config.slug}] Seen jobs database: "
+            f"{len(load_seen_jobs(runtime_config.slug))} entries"
+        )
+        return True
+    except Exception as exc:
+        company_name = runtime_config.display_name if runtime_config else slug
+        print(f"[{slug}] Unexpected company failure: {exc}")
+        await send_error(company_name, f"Unexpected error: {exc}")
+        return False
+
+
 async def run_scraper(selected_companies: list[str] | None = None) -> None:
     """Main scraper entry point."""
     start_time = time.time()
@@ -52,57 +114,8 @@ async def run_scraper(selected_companies: list[str] | None = None) -> None:
         browser = await p.chromium.launch(headless=True)
         try:
             for slug in requested_companies:
-                runtime_config = config.get_company_runtime(slug)
-                unique_jobs = await collect_jobs(browser, runtime_config, runtime_config.max_pages)
-
-                if not unique_jobs:
-                    print(f"[scraper] No jobs were extracted for {runtime_config.display_name}.")
-                    await send_error(
-                        runtime_config.display_name,
-                        "No jobs extracted. The page structure may have changed.",
-                    )
-                    failed_companies.append(runtime_config.slug)
-                    continue
-
-                new_jobs = filter_new_jobs(runtime_config.slug, unique_jobs)
-                print(f"[{runtime_config.slug}] New jobs (not seen before): {len(new_jobs)}")
-
-                before = len(new_jobs)
-                new_jobs = [
-                    job
-                    for job in new_jobs
-                    if not should_exclude_title(
-                        job.get("title", ""),
-                        runtime_config.excluded_role_keywords,
-                        runtime_config.excluded_title_phrases,
-                    )
-                ]
-                new_jobs = [
-                    job
-                    for job in new_jobs
-                    if not is_excluded_role(job.get("title", ""), runtime_config.excluded_role_keywords)
-                ]
-                excluded = before - len(new_jobs)
-                if excluded:
-                    print(f"[{runtime_config.slug}] Excluded {excluded} job(s) by title filter")
-
-                if new_jobs:
-                    print(f"[{runtime_config.slug}] Sending {len(new_jobs)} Telegram notification(s)...")
-                    for index, job in enumerate(new_jobs, 1):
-                        print(f"  [{index}/{len(new_jobs)}] {job['title']}")
-                        success = await send_job_alert_for_company(runtime_config.display_name, job)
-                        if not success:
-                            print(f"[{runtime_config.slug}] Failed to send notification")
-                        if index < len(new_jobs):
-                            await asyncio.sleep(0.5)
-                    await send_summary(runtime_config.display_name, len(new_jobs), len(unique_jobs))
-                else:
-                    print(f"[{runtime_config.slug}] No new jobs to notify.")
-
-                print(
-                    f"[{runtime_config.slug}] Seen jobs database: "
-                    f"{len(load_seen_jobs(runtime_config.slug))} entries"
-                )
+                if not await _run_company_scrape(browser, slug):
+                    failed_companies.append(slug)
         finally:
             await browser.close()
 

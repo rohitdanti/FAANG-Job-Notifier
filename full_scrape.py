@@ -6,6 +6,7 @@ Run this locally once if you want future notifier runs to alert only on newly po
 
 import argparse
 import asyncio
+import sys
 import time
 
 from playwright.async_api import async_playwright
@@ -26,6 +27,24 @@ def parse_args() -> argparse.Namespace:
     return parser.parse_args()
 
 
+async def _seed_company_jobs(browser, slug: str) -> bool:
+    runtime_config = None
+
+    try:
+        runtime_config = config.get_company_runtime(slug)
+        unique_jobs = await collect_jobs(browser, runtime_config, runtime_config.full_scrape_max_pages)
+        replace_seen_jobs(runtime_config.slug, unique_jobs)
+        print(
+            f"[full-scrape] Saved {len(unique_jobs)} entries for "
+            f"{runtime_config.display_name} to {config.SEEN_JOBS_DIR}"
+        )
+        return True
+    except Exception as exc:
+        company_name = runtime_config.display_name if runtime_config else slug
+        print(f"[{slug}] Failed to seed {company_name}: {exc}")
+        return False
+
+
 async def scrape_all_jobs(selected_companies: list[str] | None = None) -> None:
     requested_companies = config.get_selected_company_slugs(selected_companies)
 
@@ -34,21 +53,22 @@ async def scrape_all_jobs(selected_companies: list[str] | None = None) -> None:
     print(f"[full-scrape] Companies: {', '.join(requested_companies)}")
     print("=" * 60)
 
+    failed_companies = []
+
     async with async_playwright() as p:
         browser = await p.chromium.launch(headless=True)
         try:
             for slug in requested_companies:
-                runtime_config = config.get_company_runtime(slug)
-                unique_jobs = await collect_jobs(browser, runtime_config, runtime_config.full_scrape_max_pages)
-                replace_seen_jobs(runtime_config.slug, unique_jobs)
-                print(
-                    f"[full-scrape] Saved {len(unique_jobs)} entries for "
-                    f"{runtime_config.display_name} to {config.SEEN_JOBS_DIR}"
-                )
+                if not await _seed_company_jobs(browser, slug):
+                    failed_companies.append(slug)
         finally:
             await browser.close()
 
     print("[full-scrape] Done.")
+
+    if failed_companies:
+        print(f"[full-scrape] Failed companies: {', '.join(failed_companies)}")
+        sys.exit(1)
 
 
 if __name__ == "__main__":
