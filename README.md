@@ -2,7 +2,7 @@
 
 Scrapes job boards for one or more companies, tracks previously seen openings per company, and sends Telegram alerts when new matches appear.
 
-The project is now structured around company adapters. Apple, Amazon, Goldman Sachs, Meta, and Salesforce are bundled, and additional companies can be added without creating a new repo.
+The project is now structured around company adapters. Apple, Amazon, Goldman Sachs, Google, Meta, and Salesforce are bundled, and additional companies can be added without creating a new repo.
 
 ## How it works
 
@@ -50,7 +50,7 @@ TELEGRAM_CHAT_ID=...
 Optional shared overrides:
 
 ```bash
-COMPANIES=apple,amazon,goldman-sachs,meta,salesforce
+COMPANIES=apple,amazon,goldman-sachs,google,meta,salesforce
 PAGE_LOAD_TIMEOUT=15000
 JOB_CARD_TIMEOUT=8000
 MAX_SEEN_JOBS=3000
@@ -94,6 +94,14 @@ For Meta:
 META_SEARCH_URL="https://www.metacareers.com/jobsearch/?sort_by_new=true&roles[0]=Full%20time%20employment&offices[0]=Irvine%2C%20CA&offices[1]=Newark%2C%20CA&offices[2]=Fremont%2C%20CA&offices[3]=Pasadena%2C%20CA&offices[4]=San%20Diego%2C%20CA&offices[5]=San%20Mateo%2C%20CA&offices[6]=Sausalito%2C%20CA&offices[7]=Menlo%20Park%2C%20CA&offices[8]=Sunnyvale%2C%20CA&offices[9]=Cambridge%2C%20MA&offices[10]=Foster%20City%2C%20CA&offices[11]=Los%20Angeles%2C%20CA&offices[12]=Santa%20Clara%2C%20CA&offices[13]=Mountain%20View%2C%20CA&offices[14]=San%20Francisco%2C%20CA&offices[15]=Northridge%2C%20CA&offices[16]=Boston%2C%20MA&offices[17]=Redmond%2C%20WA&offices[18]=Seattle%2C%20WA&offices[19]=Bellevue%2C%20WA&offices[20]=New%20York%2C%20NY&offices[21]=Austin%2C%20TX&offices[22]=Temple%2C%20TX&offices[23]=El%20Paso%2C%20TX&offices[24]=Garland%2C%20TX&offices[25]=Houston%2C%20TX&offices[26]=Fort%20Worth%2C%20TX&offices[27]=Chicago%2C%20IL&offices[28]=Miami%2C%20Florida&offices[29]=Mesa%2C%20AZ&offices[30]=Chandler%2C%20AZ&offices[31]=Atlanta%2C%20GA&offices[32]=North%20America"
 META_MAX_PAGES=1
 META_FULL_SCRAPE_MAX_PAGES=1
+```
+
+For Google:
+
+```bash
+GOOGLE_SEARCH_URL="https://www.google.com/about/careers/applications/jobs/results/?location=United%20States&target_level=MID&target_level=EARLY&employment_type=FULL_TIME&sort_by=date&q=%22Software%20Engineer%22"
+GOOGLE_MAX_PAGES=3
+GOOGLE_FULL_SCRAPE_MAX_PAGES=25
 ```
 
 Run a subset of companies from the CLI:
@@ -172,7 +180,7 @@ seen_jobs/                  One state file per company
 
 ## Notes
 
-- The repository now supports multiple companies in a single run, with Apple, Amazon, Goldman Sachs, Meta, and Salesforce bundled today.
+- The repository now supports multiple companies in a single run, with Apple, Amazon, Goldman Sachs, Google, Meta, and Salesforce bundled today.
 - State is stored as separate files per company under `seen_jobs/`.
 - Apple search pagination still uses the `page=` query param and Apple parsing remains based on visible card text such as `Role Number`, `Location`, and `Weekly Hours`.
 - Amazon uses paginated search offsets and extracts result cards via `/en/jobs/<id>/...` links plus nearby `Job ID` metadata.
