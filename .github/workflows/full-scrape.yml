@@ -6,7 +6,7 @@ on:
       companies:
         description: Comma-separated company slugs to seed into seen_jobs/
         required: false
-        default: apple,amazon,goldman-sachs
+        default: apple,amazon,goldman-sachs,google,meta,salesforce
 
 permissions:
   contents: write
