@@ -2,7 +2,7 @@
 
 Scrapes job boards for one or more companies, tracks previously seen openings per company, and sends Telegram alerts when new matches appear.
 
-The project is now structured around company adapters. Apple, Amazon, Goldman Sachs, Google, Meta, and Salesforce are bundled, and additional companies can be added without creating a new repo.
+The project is now structured around company adapters. Apple, Amazon, Goldman Sachs, Google, Meta, Salesforce, and Uber are bundled, and additional companies can be added without creating a new repo.
 
 ## How it works
 
@@ -50,7 +50,7 @@ TELEGRAM_CHAT_ID=...
 Optional shared overrides:
 
 ```bash
-COMPANIES=apple,amazon,goldman-sachs,google,meta,salesforce
+COMPANIES=apple,amazon,goldman-sachs,google,meta,salesforce,uber
 PAGE_LOAD_TIMEOUT=15000
 JOB_CARD_TIMEOUT=8000
 MAX_SEEN_JOBS=3000
@@ -102,6 +102,14 @@ For Google:
 GOOGLE_SEARCH_URL="https://www.google.com/about/careers/applications/jobs/results/?location=United%20States&target_level=MID&target_level=EARLY&employment_type=FULL_TIME&sort_by=date&q=%22Software%20Engineer%22"
 GOOGLE_MAX_PAGES=3
 GOOGLE_FULL_SCRAPE_MAX_PAGES=25
+```
+
+For Uber:
+
+```bash
+UBER_SEARCH_URL="https://www.uber.com/us/en/careers/list/?department=Engineering&location=USA-California-San%20Francisco&location=USA-California-Sunnyvale&location=USA-California-Los%20Angeles&location=USA-New%20York-New%20York&location=USA-Illinois-Chicago&location=USA-Washington-Seattle&location=USA-Florida-Miami&location=USA-Arizona-Phoenix&location=USA-Texas-Dallas&location=USA-Massachusetts-Boston&location=USA-District%20of%20Columbia-Washington&location=USA-Tennessee-Nashville&location=USA-Colorado-Denver&location=USA-Georgia-Atlanta"
+UBER_MAX_PAGES=4
+UBER_FULL_SCRAPE_MAX_PAGES=200
 ```
 
 Run a subset of companies from the CLI:
@@ -180,8 +188,9 @@ seen_jobs/                  One state file per company
 
 ## Notes
 
-- The repository now supports multiple companies in a single run, with Apple, Amazon, Goldman Sachs, Google, Meta, and Salesforce bundled today.
+- The repository now supports multiple companies in a single run, with Apple, Amazon, Goldman Sachs, Google, Meta, Salesforce, and Uber bundled today.
 - State is stored as separate files per company under `seen_jobs/`.
 - Apple search pagination still uses the `page=` query param and Apple parsing remains based on visible card text such as `Role Number`, `Location`, and `Weekly Hours`.
 - Amazon uses paginated search offsets and extracts result cards via `/en/jobs/<id>/...` links plus nearby `Job ID` metadata.
 - Goldman Sachs uses `page=` pagination and parses `/roles/<id>` result cards plus the `Showing ... of ... matches` result count.
+- Uber uses the page's `Show more openings` button instead of numbered pagination. Regular scrapes load the initial set plus 3 button clicks by default, while full scrapes keep clicking until the visible job count reaches the total shown at the top of the list.

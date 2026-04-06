@@ -5,6 +5,7 @@ from companies.goldman_sachs import COMPANY as GOLDMAN_SACHS
 from companies.google import COMPANY as GOOGLE
 from companies.meta import COMPANY as META
 from companies.salesforce import COMPANY as SALESFORCE
+from companies.uber import COMPANY as UBER
 
 COMPANIES: dict[str, CompanyDefinition] = {
     AMAZON.slug: AMAZON,
@@ -13,6 +14,7 @@ COMPANIES: dict[str, CompanyDefinition] = {
     GOOGLE.slug: GOOGLE,
     META.slug: META,
     SALESFORCE.slug: SALESFORCE,
+    UBER.slug: UBER,
 }
 
 
