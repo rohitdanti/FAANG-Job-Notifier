@@ -1,4 +1,4 @@
-# Multi-Company Jobs Notifier
+# FAANG+ Jobs Notifier
 
 Scrapes job boards for FAANG+ companies, tracks previously seen openings per company, and sends Telegram alerts when new matches appear.
 The workflow is set to run every 10 minutes, ensuring that I don’t miss out on applying to new job opportunities.
