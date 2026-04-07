@@ -1,0 +1,36 @@
+{
+  "_meta": {
+    "version": 3,
+    "company": "lyft"
+  },
+  "jobs": {
+    "8448176002": {
+      "first_seen": 1775583994.9632251,
+      "posted": "",
+      "title": "Software Engineer, Data Platform",
+      "job_id": "8448176002",
+      "url": "https://app.careerpuck.com/job-board/lyft/job/8448176002?departmentId=qcV0nZaT&locationId=cYcPOWC-"
+    },
+    "8483819002": {
+      "first_seen": 1775583994.963229,
+      "posted": "",
+      "title": "Software Engineer, Gov Tech",
+      "job_id": "8483819002",
+      "url": "https://app.careerpuck.com/job-board/lyft/job/8483819002?departmentId=qcV0nZaT&locationId=cYcPOWC-"
+    },
+    "8326337002": {
+      "first_seen": 1775583994.9632409,
+      "posted": "",
+      "title": "Software Engineer, Lyft Business",
+      "job_id": "8326337002",
+      "url": "https://app.careerpuck.com/job-board/lyft/job/8326337002?departmentId=qcV0nZaT&locationId=cYcPOWC-"
+    },
+    "8452280002": {
+      "first_seen": 1775583994.963242,
+      "posted": "",
+      "title": "Software Engineer, Rider",
+      "job_id": "8452280002",
+      "url": "https://app.careerpuck.com/job-board/lyft/job/8452280002?departmentId=qcV0nZaT&locationId=cYcPOWC-"
+    }
+  }
+}
