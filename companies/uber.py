@@ -1,4 +1,5 @@
-from urllib.parse import urlsplit, urlunsplit
+import json
+from urllib.parse import parse_qs, urlsplit, urlunsplit
 
 from playwright.async_api import TimeoutError as PlaywrightTimeout
 
@@ -36,6 +37,7 @@ EXCLUDED_ROLE_KEYWORDS = (
 )
 
 RESULTS_PER_PAGE = 10
+UBER_API_URL = "https://www.uber.com/api/loadSearchJobsResults?localeCode=en"
 
 
 def build_search_url(search_url: str, page_num: int) -> str:
@@ -53,44 +55,57 @@ def _page_num_from_url(url: str) -> int:
     return 1
 
 
-async def fetch_page_html(page, runtime_config, url: str) -> str:
-    parsed = urlsplit(url)
-    base_url = urlunsplit(parsed._replace(fragment=""))
-    page_num = _page_num_from_url(url)
+def _build_api_payload(search_url: str, page_num: int) -> dict:
+    parsed = urlsplit(search_url)
+    params = parse_qs(parsed.query)
 
-    print(f"[{runtime_config.slug}] Loading: {base_url} (page {page_num})")
-    await page.goto(base_url, wait_until="domcontentloaded", timeout=30000)
-
-    for selector in runtime_config.definition.wait_selectors:
-        try:
-            await page.wait_for_selector(selector, timeout=8000)
-            print(f"[{runtime_config.slug}] Results detected via selector: {selector}")
-            break
-        except Exception:
+    locations = []
+    for raw_location in params.get("location", []):
+        parts = raw_location.split("-")
+        if len(parts) < 3:
             continue
 
-    if page_num > 1:
-        show_more_button = page.get_by_role("button", name="Show more openings")
-        for _ in range(2, page_num + 1):
-            try:
-                await show_more_button.wait_for(state="visible", timeout=8000)
-            except PlaywrightTimeout as exc:
-                raise RuntimeError(f"Uber results page did not expose page {page_num} via Show more openings") from exc
+        country, region, city_parts = parts[0], parts[1], parts[2:]
+        locations.append(
+            {
+                "country": country,
+                "region": region.replace("%20", " "),
+                "city": "-".join(city_parts).replace("%20", " "),
+            }
+        )
 
-            prior_link_count = await page.locator('a[href*="/careers/list/"]').count()
-            await show_more_button.click()
-            await page.wait_for_timeout(1500)
-            try:
-                await page.wait_for_function(
-                    "previousCount => document.querySelectorAll('a[href*=\"/careers/list/\"]').length > previousCount",
-                    arg=prior_link_count,
-                    timeout=10000,
-                )
-            except PlaywrightTimeout:
-                pass
+    departments = [value.replace("%20", " ") for value in params.get("department", [])]
 
-    await page.wait_for_timeout(500)
-    return await page.content()
+    return {
+        "limit": RESULTS_PER_PAGE,
+        "page": max(0, page_num - 1),
+        "params": {
+            "location": locations,
+            "department": departments,
+        },
+    }
+
+
+async def fetch_page_html(page, runtime_config, url: str) -> str:
+    page_num = _page_num_from_url(url)
+    payload = _build_api_payload(runtime_config.search_url, page_num)
+
+    print(f"[{runtime_config.slug}] Loading API page {page_num}: {UBER_API_URL}")
+    response = await page.context.request.post(
+        UBER_API_URL,
+        headers={
+            "content-type": "application/json",
+            "referer": runtime_config.search_url,
+            "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
+            "x-csrf-token": "x",
+            "x-uber-sites-page-edge-cache-enabled": "true",
+        },
+        data=json.dumps(payload),
+        timeout=30000,
+    )
+    if not response.ok:
+        raise RuntimeError(f"Uber API request failed with status {response.status}")
+    return await response.text()
 
 
 COMPANY = CompanyDefinition(
