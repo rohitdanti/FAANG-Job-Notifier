@@ -21,6 +21,7 @@ EXCLUDED_ROLE_KEYWORDS = (
     "manager",
     "lead",
     "director",
+    "III",
 )
 
 
