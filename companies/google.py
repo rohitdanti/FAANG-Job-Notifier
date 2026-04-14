@@ -17,6 +17,7 @@ EXCLUDED_ROLE_KEYWORDS = (
     "principal",
     "staff",
     "senior",
+    "Senior",
     "sr.",
     "manager",
     "lead",
