@@ -7,8 +7,12 @@ from bs4 import BeautifulSoup
 LYFT_BASE_URL = "https://app.careerpuck.com"
 LYFT_JOB_LINK_RE = re.compile(r"/job-board/lyft/job/(?P<job_id>\d+)")
 LYFT_TOTAL_RESULTS_RE = re.compile(r"(?P<count>\d+)\s+job postings found", re.IGNORECASE)
-EXCLUDED_LOCATION_PHRASE = "toronto coworking"
 LYFT_DEPARTMENT_NAME = "Software Engineering"
+ALLOWED_LOCATIONS = {
+    "new york, ny",
+    "san francisco, ca",
+    "seattle, wa",
+}
 
 
 def parse_jobs(payload: str) -> list[dict]:
@@ -58,7 +62,7 @@ def _normalize_json_job(raw_job: dict) -> dict | None:
         if isinstance(office, dict) and office.get("name")
     ]
     location = str(raw_job.get("location") or "").strip()
-    if _should_exclude_location(location) or any(_should_exclude_location(name) for name in office_names):
+    if not _is_allowed_location(location):
         return None
 
     job_id = str(raw_job.get("atsSourceId") or raw_job.get("requisitionId") or "").strip()
@@ -100,7 +104,7 @@ def _parse_jobs_from_html(html: str) -> list[dict]:
             continue
 
         title, location, team = _extract_card_fields(link.get_text("\n", strip=True))
-        if not title or _should_exclude_location(location):
+        if not title or not _is_allowed_location(location):
             continue
 
         jobs.append(
@@ -136,8 +140,9 @@ def _extract_card_fields(card_text: str) -> tuple[str, str, str]:
     return title, location.strip(), team.strip()
 
 
-def _should_exclude_location(location: str) -> bool:
-    return EXCLUDED_LOCATION_PHRASE in location.strip().lower()
+def _is_allowed_location(location: str) -> bool:
+    normalized_location = " ".join(location.strip().lower().split())
+    return normalized_location in ALLOWED_LOCATIONS
 
 
 def get_total_results(payload: str) -> int | None:
