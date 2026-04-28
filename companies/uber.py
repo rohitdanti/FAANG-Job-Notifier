@@ -112,8 +112,10 @@ COMPANY = CompanyDefinition(
     slug="uber",
     display_name="Uber",
     default_search_url=UBER_SEARCH_URL,
-    default_max_pages=4,
-    default_full_scrape_max_pages=200,
+    # Uber listings are loaded incrementally ("Show more openings") and are not sorted
+    # by recency, so regular runs should cover the full filtered result set.
+    default_max_pages=50,
+    default_full_scrape_max_pages=50,
     wait_selectors=(
         'a[href*="/careers/list/"]',
         'text=open roles',
