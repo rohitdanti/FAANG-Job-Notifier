@@ -3,7 +3,7 @@
 Scrapes job boards for FAANG+ companies, tracks previously seen openings per company, and sends Telegram alerts when new matches appear.
 The workflow is set to run every 10 minutes, ensuring that I don’t miss out on applying to new job opportunities.
 
-The project is now structured around company adapters. Apple, Amazon, Goldman Sachs, Google, Meta, Salesforce, and Uber are bundled, and additional companies can be added without creating a new repo.
+The project is now structured around company adapters. Apple, Amazon, CVS Health, Goldman Sachs, Google, Meta, Salesforce, and Uber are bundled, and additional companies can be added without creating a new repo.
 
 ## How it works
 
