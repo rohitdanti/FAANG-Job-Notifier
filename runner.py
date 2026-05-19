@@ -14,8 +14,20 @@ async def scrape_page(page, runtime_config: config.CompanyRuntimeConfig, url: st
     if runtime_config.definition.fetch_page_html:
         return await runtime_config.definition.fetch_page_html(page, runtime_config, url)
 
-    print(f"[{runtime_config.slug}] Loading: {url}")
-    await page.goto(url, wait_until="domcontentloaded", timeout=config.PAGE_LOAD_TIMEOUT)
+    max_attempts = 3
+    for attempt in range(1, max_attempts + 1):
+        try:
+            print(f"[{runtime_config.slug}] Loading: {url}")
+            await page.goto(url, wait_until="domcontentloaded", timeout=config.PAGE_LOAD_TIMEOUT)
+            break
+        except PlaywrightTimeout:
+            if attempt < max_attempts:
+                print(
+                    f"[{runtime_config.slug}] Timeout on goto (attempt {attempt}/{max_attempts}), retrying..."
+                )
+                await page.wait_for_timeout(2000)
+            else:
+                raise
 
     for selector in runtime_config.definition.wait_selectors:
         try:
