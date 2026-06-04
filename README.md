@@ -1,5 +1,6 @@
 # FAANG+ Jobs Notifier
 
+Got bored checking careers page for major tech companies so I vibe coded a Job Notifier (Scrapes every 10 mins).
 A fully automated job-board monitor that scrapes career pages across 10 major tech and finance companies, deduplicates listings against a persisted state store, and fires real-time Telegram alerts the moment a new opening appears. Runs on GitHub Actions every 10 minutes so you never miss an application window.
 
 ## Features
