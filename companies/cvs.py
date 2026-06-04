@@ -41,9 +41,15 @@ async def fetch_page_html(page, runtime_config, url: str) -> str:
     print(f"[{runtime_config.slug}] Loading: {base_url} (page {page_num})")
     await page.goto(base_url, wait_until="domcontentloaded", timeout=30000)
 
+    # Wait for client-side rendering to complete before checking selectors
+    try:
+        await page.wait_for_load_state("networkidle", timeout=20000)
+    except Exception:
+        pass
+
     for selector in runtime_config.definition.wait_selectors:
         try:
-            await page.wait_for_selector(selector, timeout=8000)
+            await page.wait_for_selector(selector, timeout=15000)
             print(f"[{runtime_config.slug}] Results detected via selector: {selector}")
             break
         except Exception:

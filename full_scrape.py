@@ -75,7 +75,10 @@ async def scrape_all_jobs(selected_companies: list[str] | None = None) -> None:
     failed_companies = []
 
     async with async_playwright() as p:
-        browser = await p.chromium.launch(headless=True)
+        browser = await p.chromium.launch(
+            headless=True,
+            args=["--disable-blink-features=AutomationControlled"],
+        )
         try:
             for slug in requested_companies:
                 if not await _seed_company_jobs(browser, slug):

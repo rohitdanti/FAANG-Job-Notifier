@@ -55,6 +55,9 @@ async def collect_jobs(browser, runtime_config: config.CompanyRuntimeConfig, pag
     context = await browser.new_context(user_agent=BROWSER_USER_AGENT, viewport=BROWSER_VIEWPORT)
     page = await context.new_page()
 
+    await context.add_init_script(
+        "Object.defineProperty(navigator, 'webdriver', {get: () => undefined})"
+    )
     try:
         for page_num in range(1, page_limit + 1):
             url = runtime_config.definition.build_search_url(runtime_config.search_url, page_num)
