@@ -3,6 +3,7 @@
 import os
 import re
 from dataclasses import dataclass
+from pathlib import Path
 
 from dotenv import load_dotenv
 
@@ -23,6 +24,11 @@ JOB_CARD_TIMEOUT = int(os.getenv("JOB_CARD_TIMEOUT", "8000"))
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 SEEN_JOBS_DIR = os.path.join(BASE_DIR, "seen_jobs")
 MAX_SEEN_JOBS = int(os.getenv("MAX_SEEN_JOBS", "3000"))
+
+# Diagnostics
+SCRAPE_ARTIFACTS_DIR = Path(
+    os.getenv("SCRAPE_ARTIFACTS_DIR", os.path.join(BASE_DIR, "artifacts"))
+)
 
 DEFAULT_COMPANIES = ("apple",)
 

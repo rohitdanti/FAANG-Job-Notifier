@@ -1,3 +1,5 @@
+from pathlib import Path
+
 from playwright.async_api import TimeoutError as PlaywrightTimeout
 
 import config
@@ -84,6 +86,13 @@ async def collect_jobs(browser, runtime_config: config.CompanyRuntimeConfig, pag
                     print(f"[{runtime_config.slug}] Scraping up to {target_pages} page(s) this run")
 
                 if not jobs:
+                    await _capture_diagnostics(
+                        page,
+                        runtime_config,
+                        page_num,
+                        "no_jobs_found",
+                        html=html,
+                    )
                     print(f"[{runtime_config.slug}] No jobs found on page {page_num}; stopping pagination.")
                     break
 
@@ -95,9 +104,11 @@ async def collect_jobs(browser, runtime_config: config.CompanyRuntimeConfig, pag
                 await page.wait_for_timeout(500)
 
             except PlaywrightTimeout as exc:
+                await _capture_diagnostics(page, runtime_config, page_num, "playwright_timeout")
                 print(f"[{runtime_config.slug}] Timeout on page {page_num}: {exc}")
                 break
             except Exception as exc:
+                await _capture_diagnostics(page, runtime_config, page_num, "unexpected_error")
                 print(f"[{runtime_config.slug}] Error on page {page_num}: {exc}")
                 break
     finally:
@@ -114,3 +125,60 @@ async def collect_jobs(browser, runtime_config: config.CompanyRuntimeConfig, pag
 
     print(f"[{runtime_config.slug}] Total unique jobs scraped: {len(unique_jobs)}")
     return unique_jobs
+
+
+async def _capture_diagnostics(
+    page,
+    runtime_config: config.CompanyRuntimeConfig,
+    page_num: int,
+    reason: str,
+    *,
+    html: str | None = None,
+) -> None:
+    safe_reason = reason.replace(" ", "_").lower()
+    base_dir = config.SCRAPE_ARTIFACTS_DIR / runtime_config.slug / f"page-{page_num}-{safe_reason}"
+    base_dir.mkdir(parents=True, exist_ok=True)
+
+    html_path = base_dir / "page.html"
+    meta_path = base_dir / "meta.txt"
+    screenshot_path = base_dir / "page.png"
+
+    if html is None:
+        try:
+            html = await page.content()
+        except Exception as exc:
+            html = f"<!-- failed to capture html: {exc} -->"
+
+    html_path.write_text(html, encoding="utf-8")
+
+    try:
+        await page.screenshot(path=str(screenshot_path), full_page=True)
+    except Exception as exc:
+        screenshot_path.write_text(f"screenshot capture failed: {exc}\n", encoding="utf-8")
+
+    try:
+        current_url = page.url
+    except Exception:
+        current_url = ""
+
+    try:
+        title = await page.title()
+    except Exception:
+        title = ""
+
+    meta_path.write_text(
+        "\n".join(
+            (
+                f"company={runtime_config.slug}",
+                f"reason={reason}",
+                f"page_num={page_num}",
+                f"url={current_url}",
+                f"title={title}",
+            )
+        )
+        + "\n",
+        encoding="utf-8",
+    )
+
+    relative_dir = base_dir.relative_to(Path(config.BASE_DIR))
+    print(f"[{runtime_config.slug}] Saved diagnostics to {relative_dir}")

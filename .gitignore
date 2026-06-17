@@ -7,5 +7,6 @@ venv/
 *.log
 .pytest_cache/
 .mypy_cache/
+artifacts/
 seen_jobs/
 .env.example

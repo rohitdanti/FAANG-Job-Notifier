@@ -13,7 +13,7 @@ permissions:
 
 jobs:
   scrape:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
     timeout-minutes: 8
 
     steps:
@@ -45,7 +45,16 @@ jobs:
           COMPANIES: ${{ inputs.companies }}
         run: python scraper.py
 
+      - name: Upload scraper diagnostics
+        if: failure() && hashFiles('artifacts/**') != ''
+        uses: actions/upload-artifact@v4
+        with:
+          name: scraper-diagnostics
+          path: artifacts/
+          if-no-files-found: ignore
+
       - name: Commit updated seen-job files
+        if: success()
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
