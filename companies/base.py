@@ -25,3 +25,4 @@ class CompanyDefinition:
     regular_scrape_posted_strategy: str = "new-only-today"
     excluded_role_keywords: tuple[str, ...] = ()
     excluded_title_phrases: tuple[str, ...] = ()
+    allow_empty_results: bool = False

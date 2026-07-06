@@ -7,6 +7,8 @@ from bs4 import BeautifulSoup
 UBER_BASE_URL = "https://www.uber.com"
 UBER_JOB_URL_TEMPLATE = f"{UBER_BASE_URL}/careers/list/{{job_id}}"
 UBER_JOB_LINK_RE = re.compile(r"/careers/list/(?P<job_id>\d+)", re.I)
+UBER_JOBS_SITE_BASE_URL = "https://jobs.uber.com"
+UBER_JOBS_SITE_LINK_RE = re.compile(r"/en/jobs/(?P<job_slug>[^/?#\"'>\s]+)", re.I)
 UBER_TOTAL_RESULTS_RE = re.compile(r"([\d,]+)\s+open\s+roles", re.I)
 UBER_RESULTS_PER_PAGE = 10
 
@@ -24,8 +26,8 @@ def _parse_jobs_from_json(payload: str) -> list[dict] | None:
     except json.JSONDecodeError:
         return None
 
-    results = data.get("data", {}).get("results")
-    if not isinstance(results, list):
+    results = _extract_results(data)
+    if results is None:
         return None
 
     jobs = []
@@ -37,6 +39,35 @@ def _parse_jobs_from_json(payload: str) -> list[dict] | None:
         seen_ids.add(job["key"])
         jobs.append(job)
     return jobs
+
+
+def _extract_results(data: dict) -> list[dict] | None:
+    if not isinstance(data, dict):
+        return None
+
+    nested_data = data.get("data", {})
+    if isinstance(nested_data, dict):
+        nested_results = nested_data.get("results")
+        if isinstance(nested_results, list):
+            return nested_results
+        if isinstance(nested_results, dict):
+            nested_items = nested_results.get("items")
+            if isinstance(nested_items, list):
+                return nested_items
+
+        nested_jobs = nested_data.get("jobs")
+        if isinstance(nested_jobs, list):
+            return nested_jobs
+
+    top_level_results = data.get("results")
+    if isinstance(top_level_results, list):
+        return top_level_results
+
+    top_level_jobs = data.get("jobs")
+    if isinstance(top_level_jobs, list):
+        return top_level_jobs
+
+    return None
 
 
 def _normalize_json_job(raw_job: dict) -> dict | None:
@@ -144,6 +175,44 @@ def _parse_jobs_from_html(html: str) -> list[dict]:
             }
         )
         seen_ids.add(job_id)
+
+    if jobs:
+        return jobs
+
+    for link in soup.find_all("a", href=UBER_JOBS_SITE_LINK_RE):
+        href = (link.get("href") or "").strip()
+        if "/saved-jobs/" in href or href.endswith("#main-content"):
+            continue
+
+        match = UBER_JOBS_SITE_LINK_RE.search(href)
+        if not match:
+            continue
+
+        job_slug = match.group("job_slug")
+        if not job_slug or job_slug in seen_ids:
+            continue
+
+        title = link.get_text(" ", strip=True)
+        if not title:
+            continue
+
+        jobs.append(
+            {
+                "key": job_slug,
+                "job_id": job_slug,
+                "title": title,
+                "team": "",
+                "location": "",
+                "posted": "",
+                "description": "",
+                "url": (
+                    f"{UBER_JOBS_SITE_BASE_URL}{href}"
+                    if href.startswith("/")
+                    else href
+                ),
+            }
+        )
+        seen_ids.add(job_slug)
 
     return jobs
 

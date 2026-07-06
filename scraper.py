@@ -36,6 +36,13 @@ async def _run_company_scrape(browser, slug: str) -> bool:
         unique_jobs = await collect_jobs(browser, runtime_config, runtime_config.max_pages)
 
         if not unique_jobs:
+            if runtime_config.definition.allow_empty_results:
+                print(
+                    f"[scraper] WARNING: No jobs were extracted for "
+                    f"{runtime_config.display_name}. Treating as non-fatal for this company."
+                )
+                return True
+
             print(f"[scraper] No jobs were extracted for {runtime_config.display_name}.")
             await send_error(
                 runtime_config.display_name,
