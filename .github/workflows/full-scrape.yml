@@ -41,12 +41,14 @@ jobs:
         run: python -m playwright install chromium --with-deps
 
       - name: Run full scraper
+        id: run_full_scraper
+        continue-on-error: true
         env:
           COMPANIES: ${{ inputs.companies }}
         run: python full_scrape.py
 
       - name: Upload full-scrape diagnostics
-        if: failure() && hashFiles('artifacts/**') != ''
+        if: steps.run_full_scraper.outcome == 'failure' && hashFiles('artifacts/**') != ''
         uses: actions/upload-artifact@v5
         with:
           name: full-scrape-diagnostics
