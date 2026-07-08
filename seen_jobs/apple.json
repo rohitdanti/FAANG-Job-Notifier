@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200655292-3543": {
-      "first_seen": 1775163183.861408,
-      "posted": "",
-      "title": "Audio Quality Engineer",
-      "job_id": "200655292-3543"
-    },
     "200652732-0836": {
       "first_seen": 1775163183.861408,
       "posted": "",
@@ -19320,6 +19314,13 @@
       "title": "Sr Software Engineer (Swift UI), Employee Experience & Productivity",
       "job_id": "200671390-0157",
       "url": "https://jobs.apple.com/en-us/details/200671390-0157/sr-software-engineer-swift-ui-employee-experience-productivity?team=SFTWR"
+    },
+    "200668257-0157": {
+      "first_seen": 1783531322.5077977,
+      "posted": "2026-07-08",
+      "title": "Senior Engineering Project Manager (Web Portal Platforms), G&A Solutions Engineering (GSE)",
+      "job_id": "200668257-0157",
+      "url": "https://jobs.apple.com/en-us/details/200668257-0157/senior-engineering-project-manager-web-portal-platforms-g-a-solutions-engineering-gse?team=SFTWR"
     }
   }
 }
