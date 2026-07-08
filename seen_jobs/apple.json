@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200655487-3337": {
-      "first_seen": 1775163183.861409,
-      "posted": "",
-      "title": "Staff Software Engineer (Apache Spark Poweruser / Committer)",
-      "job_id": "200655487-3337"
-    },
     "200655491-0836": {
       "first_seen": 1775163183.861409,
       "posted": "",
@@ -19322,6 +19316,13 @@
       "title": "Safety and Location Software Engineer",
       "job_id": "200670529-0836",
       "url": "https://jobs.apple.com/en-us/details/200670529-0836/safety-and-location-software-engineer?team=SFTWR"
+    },
+    "200671606-3956": {
+      "first_seen": 1783542108.0205452,
+      "posted": "2026-07-08",
+      "title": "Studies Engineering Program Manager - Health",
+      "job_id": "200671606-3956",
+      "url": "https://jobs.apple.com/en-us/details/200671606-3956/studies-engineering-program-manager-health?team=SFTWR"
     }
   }
 }
