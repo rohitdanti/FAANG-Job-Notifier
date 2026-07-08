@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200653299-0836": {
-      "first_seen": 1775163183.861407,
-      "posted": "",
-      "title": "Engineering Manager - Cloud Compute Software",
-      "job_id": "200653299-0836"
-    },
     "200654127-3337": {
       "first_seen": 1775163183.861407,
       "posted": "",
@@ -19317,6 +19311,13 @@
       "title": "Sr Metal Frameworks Engineering Manager",
       "job_id": "200671265-0836",
       "url": "https://jobs.apple.com/en-us/details/200671265-0836/sr-metal-frameworks-engineering-manager?team=SFTWR"
+    },
+    "200670925-2459": {
+      "first_seen": 1783470716.8000455,
+      "posted": "2026-07-08",
+      "title": "Senior Software Engineer, Ad Platforms",
+      "job_id": "200670925-2459",
+      "url": "https://jobs.apple.com/en-us/details/200670925-2459/senior-software-engineer-ad-platforms?team=SFTWR"
     }
   }
 }
