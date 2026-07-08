@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200655491-0836": {
-      "first_seen": 1775163183.861409,
-      "posted": "",
-      "title": "Software Engineering Manager, Apple Services Engineering",
-      "job_id": "200655491-0836"
-    },
     "200648085-3401": {
       "first_seen": 1775163183.861409,
       "posted": "",
@@ -19323,6 +19317,13 @@
       "title": "Studies Engineering Program Manager - Health",
       "job_id": "200671606-3956",
       "url": "https://jobs.apple.com/en-us/details/200671606-3956/studies-engineering-program-manager-health?team=SFTWR"
+    },
+    "200671621-0670": {
+      "first_seen": 1783545718.3798351,
+      "posted": "2026-07-08",
+      "title": "Global Pricing Operations Analyst \u2013 Services",
+      "job_id": "200671621-0670",
+      "url": "https://jobs.apple.com/en-us/details/200671621-0670/global-pricing-operations-analyst-services?team=SFTWR"
     }
   }
 }
