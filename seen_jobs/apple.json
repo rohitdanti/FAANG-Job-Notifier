@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200652732-0836": {
-      "first_seen": 1775163183.861408,
-      "posted": "",
-      "title": "Sr. Software Engineering Manager, Intelligent System Experience",
-      "job_id": "200652732-0836"
-    },
     "200655487-3337": {
       "first_seen": 1775163183.861409,
       "posted": "",
@@ -19321,6 +19315,13 @@
       "title": "Senior Engineering Project Manager (Web Portal Platforms), G&A Solutions Engineering (GSE)",
       "job_id": "200668257-0157",
       "url": "https://jobs.apple.com/en-us/details/200668257-0157/senior-engineering-project-manager-web-portal-platforms-g-a-solutions-engineering-gse?team=SFTWR"
+    },
+    "200670529-0836": {
+      "first_seen": 1783538521.9393232,
+      "posted": "2026-07-08",
+      "title": "Safety and Location Software Engineer",
+      "job_id": "200670529-0836",
+      "url": "https://jobs.apple.com/en-us/details/200670529-0836/safety-and-location-software-engineer?team=SFTWR"
     }
   }
 }
