@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200654988-0836": {
-      "first_seen": 1775163183.861412,
-      "posted": "",
-      "title": "Optical Systems Integration Engineer",
-      "job_id": "200654988-0836"
-    },
     "200637828-0240": {
       "first_seen": 1775163183.861412,
       "posted": "",
@@ -19333,6 +19327,13 @@
       "title": "Senior Performance Engineer - Apple Frameworks",
       "job_id": "200671644-0836",
       "url": "https://jobs.apple.com/en-us/details/200671644-0836/senior-performance-engineer-apple-frameworks?team=SFTWR"
+    },
+    "200671732-0836": {
+      "first_seen": 1783623092.1168945,
+      "posted": "2026-07-09",
+      "title": "Sr. UI Web Engineer - iCloud",
+      "job_id": "200671732-0836",
+      "url": "https://jobs.apple.com/en-us/details/200671732-0836/sr-ui-web-engineer-icloud?team=SFTWR"
     }
   }
 }
