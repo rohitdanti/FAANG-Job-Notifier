@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200636450-3543": {
-      "first_seen": 1775163183.861411,
-      "posted": "",
-      "title": "Senior Backend Software Engineer (Golang)",
-      "job_id": "200636450-3543"
-    },
     "200654988-0836": {
       "first_seen": 1775163183.861412,
       "posted": "",
@@ -19332,6 +19326,13 @@
       "title": "Senior Software Engineer - FoundationDB",
       "job_id": "200671654-3337",
       "url": "https://jobs.apple.com/en-us/details/200671654-3337/senior-software-engineer-foundationdb?team=SFTWR"
+    },
+    "200671644-0836": {
+      "first_seen": 1783613496.577764,
+      "posted": "2026-07-09",
+      "title": "Senior Performance Engineer - Apple Frameworks",
+      "job_id": "200671644-0836",
+      "url": "https://jobs.apple.com/en-us/details/200671644-0836/senior-performance-engineer-apple-frameworks?team=SFTWR"
     }
   }
 }
