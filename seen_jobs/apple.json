@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200654205-3337": {
-      "first_seen": 1775163183.861414,
-      "posted": "",
-      "title": "Sr. Ruby on Rails Engineer, ASE",
-      "job_id": "200654205-3337"
-    },
     "200655221-3337": {
       "first_seen": 1775163183.861414,
       "posted": "",
@@ -19339,6 +19333,13 @@
       "title": "Sr. WebKit Performance Engineer",
       "job_id": "200653988-3543",
       "url": "https://jobs.apple.com/en-us/details/200653988-3543/sr-webkit-performance-engineer?team=SFTWR"
+    },
+    "200671605-3337": {
+      "first_seen": 1783632699.391501,
+      "posted": "2026-07-09",
+      "title": "Senior Software Engineering Manager, Agentic Infrastructure",
+      "job_id": "200671605-3337",
+      "url": "https://jobs.apple.com/en-us/details/200671605-3337/senior-software-engineering-manager-agentic-infrastructure?team=SFTWR"
     }
   }
 }
