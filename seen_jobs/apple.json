@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200643802-3337": {
-      "first_seen": 1775163183.861414,
-      "posted": "",
-      "title": "Senior Security Engineering Manager",
-      "job_id": "200643802-3337"
-    },
     "200653279-3337": {
       "first_seen": 1775163183.861415,
       "posted": "",
@@ -19341,6 +19335,13 @@
       "title": "Front End Engineer - Retail and Marcom Engineering'",
       "job_id": "200671418-3956",
       "url": "https://jobs.apple.com/en-us/details/200671418-3956/front-end-engineer-retail-and-marcom-engineering?team=SFTWR"
+    },
+    "200671641-0836": {
+      "first_seen": 1783641092.7665458,
+      "posted": "2026-07-09",
+      "title": "Engineering Project Manager (Xcode), Dev Experience & Operations",
+      "job_id": "200671641-0836",
+      "url": "https://jobs.apple.com/en-us/details/200671641-0836/engineering-project-manager-xcode-dev-experience-operations?team=SFTWR"
     }
   }
 }
