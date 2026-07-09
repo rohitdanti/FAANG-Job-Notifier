@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200650806-0157": {
-      "first_seen": 1775163183.861413,
-      "posted": "",
-      "title": "Machine Learning Engineer - Strategic Data Solutions",
-      "job_id": "200650806-0157"
-    },
     "200650806-3337": {
       "first_seen": 1775163183.861414,
       "posted": "",
@@ -19337,6 +19331,13 @@
       "title": "Sr. Software Engineer, Continuous Integration",
       "job_id": "200671642-3543",
       "url": "https://jobs.apple.com/en-us/details/200671642-3543/sr-software-engineer-continuous-integration?team=SFTWR"
+    },
+    "200671782-0836": {
+      "first_seen": 1783630297.0593057,
+      "posted": "2026-07-09",
+      "title": "Machine Learning Engineer - Model Inference",
+      "job_id": "200671782-0836",
+      "url": "https://jobs.apple.com/en-us/details/200671782-0836/machine-learning-engineer-model-inference?team=SFTWR"
     }
   }
 }
