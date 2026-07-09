@@ -4,30 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200650596-2605": {
-      "first_seen": 1775163183.8614101,
-      "posted": "",
-      "title": "Triage Screener, Vision Products Software",
-      "job_id": "200650596-2605"
-    },
-    "200652474-3337": {
-      "first_seen": 1775163183.8614101,
-      "posted": "",
-      "title": "Senior Software Data Engineer",
-      "job_id": "200652474-3337"
-    },
-    "200648306-3956": {
-      "first_seen": 1775163183.8614101,
-      "posted": "",
-      "title": "Senior Software Engineer",
-      "job_id": "200648306-3956"
-    },
-    "200643356-3956": {
-      "first_seen": 1775163183.861411,
-      "posted": "",
-      "title": "Principal Product Manager - Claris",
-      "job_id": "200643356-3956"
-    },
     "200633261-0836": {
       "first_seen": 1775163183.861411,
       "posted": "",
@@ -19325,6 +19301,34 @@
       "title": "ML Engineering Program Manager, Apple Ads",
       "job_id": "200671591-0836",
       "url": "https://jobs.apple.com/en-us/details/200671591-0836/ml-engineering-program-manager-apple-ads?team=SFTWR"
+    },
+    "200671634-0836": {
+      "first_seen": 1783602306.4948575,
+      "posted": "2026-07-09",
+      "title": "Software Engineer - Model Performance - Special Projects",
+      "job_id": "200671634-0836",
+      "url": "https://jobs.apple.com/en-us/details/200671634-0836/software-engineer-model-performance-special-projects?team=SFTWR"
+    },
+    "200671460-3760": {
+      "first_seen": 1783602306.4948623,
+      "posted": "2026-07-09",
+      "title": "Senior Tactile Research Engineer - Special Projects (Robotics)",
+      "job_id": "200671460-3760",
+      "url": "https://jobs.apple.com/en-us/details/200671460-3760/senior-tactile-research-engineer-special-projects-robotics?team=SFTWR"
+    },
+    "200671459-3760": {
+      "first_seen": 1783602306.4948645,
+      "posted": "2026-07-09",
+      "title": "Senior Tactile Embedded Controls Research Engineer - Special Projects (Robotics)",
+      "job_id": "200671459-3760",
+      "url": "https://jobs.apple.com/en-us/details/200671459-3760/senior-tactile-embedded-controls-research-engineer-special-projects-robotics?team=SFTWR"
+    },
+    "200671454-3760": {
+      "first_seen": 1783602306.4948657,
+      "posted": "2026-07-09",
+      "title": "Senior Tactile Research Engineer - Special Projects (Robotics)",
+      "job_id": "200671454-3760",
+      "url": "https://jobs.apple.com/en-us/details/200671454-3760/senior-tactile-research-engineer-special-projects-robotics?team=SFTWR"
     }
   }
 }
