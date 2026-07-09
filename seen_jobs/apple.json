@@ -4,24 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200633261-0836": {
-      "first_seen": 1775163183.861411,
-      "posted": "",
-      "title": "Senior Visual Generative Modeling Research Engineer (Apple Intelligence), SIML - ISE",
-      "job_id": "200633261-0836"
-    },
-    "200653523-3401": {
-      "first_seen": 1775163183.861411,
-      "posted": "",
-      "title": "Engineering Project Manager (SAP Landscape Modernization), IS&T Enterprise Systems",
-      "job_id": "200653523-3401"
-    },
-    "200636450-0157": {
-      "first_seen": 1775163183.861411,
-      "posted": "",
-      "title": "Senior Backend Software Engineer (Golang)",
-      "job_id": "200636450-0157"
-    },
     "200636450-3543": {
       "first_seen": 1775163183.861411,
       "posted": "",
@@ -19329,6 +19311,27 @@
       "title": "Senior Tactile Research Engineer - Special Projects (Robotics)",
       "job_id": "200671454-3760",
       "url": "https://jobs.apple.com/en-us/details/200671454-3760/senior-tactile-research-engineer-special-projects-robotics?team=SFTWR"
+    },
+    "200671654-0836": {
+      "first_seen": 1783610502.746375,
+      "posted": "2026-07-09",
+      "title": "Senior Software Engineer - FoundationDB",
+      "job_id": "200671654-0836",
+      "url": "https://jobs.apple.com/en-us/details/200671654-0836/senior-software-engineer-foundationdb?team=SFTWR"
+    },
+    "200671654-3577": {
+      "first_seen": 1783610502.7463796,
+      "posted": "2026-07-09",
+      "title": "Senior Software Engineer - FoundationDB",
+      "job_id": "200671654-3577",
+      "url": "https://jobs.apple.com/en-us/details/200671654-3577/senior-software-engineer-foundationdb?team=SFTWR"
+    },
+    "200671654-3337": {
+      "first_seen": 1783610502.7463813,
+      "posted": "2026-07-09",
+      "title": "Senior Software Engineer - FoundationDB",
+      "job_id": "200671654-3337",
+      "url": "https://jobs.apple.com/en-us/details/200671654-3337/senior-software-engineer-foundationdb?team=SFTWR"
     }
   }
 }
