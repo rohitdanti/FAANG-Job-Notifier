@@ -4,18 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200637828-0240": {
-      "first_seen": 1775163183.861412,
-      "posted": "",
-      "title": "Software Engineer (SAP Application Engineer), IS&T Enterprise Systems",
-      "job_id": "200637828-0240"
-    },
-    "200654800-0670": {
-      "first_seen": 1775163183.861412,
-      "posted": "",
-      "title": "UI Designer - Music Creation Apps",
-      "job_id": "200654800-0670"
-    },
     "200654800-0836": {
       "first_seen": 1775163183.861412,
       "posted": "",
@@ -19334,6 +19322,20 @@
       "title": "Sr. UI Web Engineer - iCloud",
       "job_id": "200671732-0836",
       "url": "https://jobs.apple.com/en-us/details/200671732-0836/sr-ui-web-engineer-icloud?team=SFTWR"
+    },
+    "200669876-3956": {
+      "first_seen": 1783625497.5716631,
+      "posted": "2026-07-09",
+      "title": "Facilitator, Employee Experience and Productivity",
+      "job_id": "200669876-3956",
+      "url": "https://jobs.apple.com/en-us/details/200669876-3956/facilitator-employee-experience-and-productivity?team=SFTWR"
+    },
+    "200670536-3956": {
+      "first_seen": 1783625497.5716696,
+      "posted": "2026-07-09",
+      "title": "Audio Visual Program Manager, Employee Experience & Productivity",
+      "job_id": "200670536-3956",
+      "url": "https://jobs.apple.com/en-us/details/200670536-3956/audio-visual-program-manager-employee-experience-productivity?team=SFTWR"
     }
   }
 }
