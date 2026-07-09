@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200655221-3337": {
-      "first_seen": 1775163183.861414,
-      "posted": "",
-      "title": "Software Engineer - Traffic, Envoy",
-      "job_id": "200655221-3337"
-    },
     "200643802-3337": {
       "first_seen": 1775163183.861414,
       "posted": "",
@@ -19340,6 +19334,13 @@
       "title": "Senior Software Engineering Manager, Agentic Infrastructure",
       "job_id": "200671605-3337",
       "url": "https://jobs.apple.com/en-us/details/200671605-3337/senior-software-engineering-manager-agentic-infrastructure?team=SFTWR"
+    },
+    "200671418-3956": {
+      "first_seen": 1783636886.63603,
+      "posted": "2026-07-09",
+      "title": "Front End Engineer - Retail and Marcom Engineering'",
+      "job_id": "200671418-3956",
+      "url": "https://jobs.apple.com/en-us/details/200671418-3956/front-end-engineer-retail-and-marcom-engineering?team=SFTWR"
     }
   }
 }
