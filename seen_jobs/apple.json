@@ -4,18 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200655171-3337": {
-      "first_seen": 1775163183.861415,
-      "posted": "",
-      "title": "AI Experience Researcher, Product Evaluation, Vision Products Group",
-      "job_id": "200655171-3337"
-    },
-    "200655171-3956": {
-      "first_seen": 1775163183.8614159,
-      "posted": "",
-      "title": "AI Experience Researcher, Product Evaluation, Vision Products Group",
-      "job_id": "200655171-3956"
-    },
     "200654955-0836": {
       "first_seen": 1775163183.8614159,
       "posted": "",
@@ -19345,6 +19333,20 @@
       "title": "Software Engineer, Trusted Execution",
       "job_id": "200671767-0836",
       "url": "https://jobs.apple.com/en-us/details/200671767-0836/software-engineer-trusted-execution?team=SFTWR"
+    },
+    "200671928-3337": {
+      "first_seen": 1783704101.1568112,
+      "posted": "2026-07-10",
+      "title": "Compute Runtime Software Engineer",
+      "job_id": "200671928-3337",
+      "url": "https://jobs.apple.com/en-us/details/200671928-3337/compute-runtime-software-engineer?team=SFTWR"
+    },
+    "200671378-3337": {
+      "first_seen": 1783704101.1568174,
+      "posted": "2026-07-10",
+      "title": "Staff Machine Learning Research Engineer, App Store Search",
+      "job_id": "200671378-3337",
+      "url": "https://jobs.apple.com/en-us/details/200671378-3337/staff-machine-learning-research-engineer-app-store-search?team=SFTWR"
     }
   }
 }
