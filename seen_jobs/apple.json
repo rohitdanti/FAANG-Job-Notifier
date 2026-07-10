@@ -4,18 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200653279-3337": {
-      "first_seen": 1775163183.861415,
-      "posted": "",
-      "title": "Senior Software Engineer - ASE Data Platform",
-      "job_id": "200653279-3337"
-    },
-    "200655171-0365": {
-      "first_seen": 1775163183.861415,
-      "posted": "",
-      "title": "AI Experience Researcher, Product Evaluation, Vision Products Group",
-      "job_id": "200655171-0365"
-    },
     "200655171-2605": {
       "first_seen": 1775163183.861415,
       "posted": "",
@@ -19342,6 +19330,20 @@
       "title": "Engineering Project Manager (Xcode), Dev Experience & Operations",
       "job_id": "200671641-0836",
       "url": "https://jobs.apple.com/en-us/details/200671641-0836/engineering-project-manager-xcode-dev-experience-operations?team=SFTWR"
+    },
+    "200671828-0157": {
+      "first_seen": 1783688507.392716,
+      "posted": "2026-07-10",
+      "title": "Distributed Systems Software Engineer (Golang)",
+      "job_id": "200671828-0157",
+      "url": "https://jobs.apple.com/en-us/details/200671828-0157/distributed-systems-software-engineer-golang?team=SFTWR"
+    },
+    "200669881-3956": {
+      "first_seen": 1783688507.392729,
+      "posted": "2026-07-10",
+      "title": "Video Production Specialist, Employee Experience & Productivity",
+      "job_id": "200669881-3956",
+      "url": "https://jobs.apple.com/en-us/details/200669881-3956/video-production-specialist-employee-experience-productivity?team=SFTWR"
     }
   }
 }
