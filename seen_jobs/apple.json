@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200648349-3760": {
-      "first_seen": 1775163183.8614159,
-      "posted": "",
-      "title": "Senior Staff Machine Learning Engineer, Apple Search & Knowledge Platforms",
-      "job_id": "200648349-3760"
-    },
     "200648349-3337": {
       "first_seen": 1775163183.861417,
       "posted": "",
@@ -19350,6 +19344,13 @@
       "title": "Program Manager, SWE Central Operations",
       "job_id": "200671930-0836",
       "url": "https://jobs.apple.com/en-us/details/200671930-0836/program-manager-swe-central-operations?team=SFTWR"
+    },
+    "200671798-3337": {
+      "first_seen": 1783714294.3966033,
+      "posted": "2026-07-10",
+      "title": "Sr. Video Software Engineer, Camera & Photos",
+      "job_id": "200671798-3337",
+      "url": "https://jobs.apple.com/en-us/details/200671798-3337/sr-video-software-engineer-camera-photos?team=SFTWR"
     }
   }
 }
