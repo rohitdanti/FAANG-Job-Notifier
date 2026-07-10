@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200654955-0836": {
-      "first_seen": 1775163183.8614159,
-      "posted": "",
-      "title": "Software QA Engineer, Siri Speech",
-      "job_id": "200654955-0836"
-    },
     "200655217-0836": {
       "first_seen": 1775163183.8614159,
       "posted": "",
@@ -19347,6 +19341,13 @@
       "title": "Staff Machine Learning Research Engineer, App Store Search",
       "job_id": "200671378-3337",
       "url": "https://jobs.apple.com/en-us/details/200671378-3337/staff-machine-learning-research-engineer-app-store-search?team=SFTWR"
+    },
+    "200671937-0836": {
+      "first_seen": 1783708305.538655,
+      "posted": "2026-07-10",
+      "title": "Engineering Program Manager - Wireless",
+      "job_id": "200671937-0836",
+      "url": "https://jobs.apple.com/en-us/details/200671937-0836/engineering-program-manager-wireless?team=SFTWR"
     }
   }
 }
