@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200653318-0836": {
-      "first_seen": 1775163183.8614159,
-      "posted": "",
-      "title": "Staff Engineer, App Store Analytics & Data Engineering",
-      "job_id": "200653318-0836"
-    },
     "200648349-3760": {
       "first_seen": 1775163183.8614159,
       "posted": "",
@@ -19349,6 +19343,13 @@
       "title": "WPC Apple Card Data Scientist",
       "job_id": "200671949-0836",
       "url": "https://jobs.apple.com/en-us/details/200671949-0836/wpc-apple-card-data-scientist?team=SFTWR"
+    },
+    "200671930-0836": {
+      "first_seen": 1783713091.061099,
+      "posted": "2026-07-10",
+      "title": "Program Manager, SWE Central Operations",
+      "job_id": "200671930-0836",
+      "url": "https://jobs.apple.com/en-us/details/200671930-0836/program-manager-swe-central-operations?team=SFTWR"
     }
   }
 }
