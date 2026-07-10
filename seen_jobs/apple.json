@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200652929-0157": {
-      "first_seen": 1775163183.861417,
-      "posted": "",
-      "title": "Quality Engineer - Mail & Calendar Infrastructure, Enterprise Technology Services",
-      "job_id": "200652929-0157"
-    },
     "200654192-3337": {
       "first_seen": 1775163183.861418,
       "posted": "",
@@ -19355,6 +19349,13 @@
       "title": "Senior Engineering Manager, Live Sports and Media Analytics",
       "job_id": "200671801-3337",
       "url": "https://jobs.apple.com/en-us/details/200671801-3337/senior-engineering-manager-live-sports-and-media-analytics?team=SFTWR"
+    },
+    "200671639-3337": {
+      "first_seen": 1783721499.2124412,
+      "posted": "2026-07-10",
+      "title": "Senior Software Security Engineering",
+      "job_id": "200671639-3337",
+      "url": "https://jobs.apple.com/en-us/details/200671639-3337/senior-software-security-engineering?team=SFTWR"
     }
   }
 }
