@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200654799-0836": {
-      "first_seen": 1775163183.861419,
-      "posted": "",
-      "title": "Machine Learning Engineer \u2014 Trust and Safety (Account Trust)",
-      "job_id": "200654799-0836"
-    },
     "200654963-0836": {
       "first_seen": 1775163183.86142,
       "posted": "",
@@ -19359,6 +19353,13 @@
       "title": "Software Development Engineer (Distributed Systems) - Cloud",
       "job_id": "200671416-0836",
       "url": "https://jobs.apple.com/en-us/details/200671416-0836/software-development-engineer-distributed-systems-cloud?team=SFTWR"
+    },
+    "200671991-0836": {
+      "first_seen": 1783730496.4878807,
+      "posted": "2026-07-11",
+      "title": "Software Development Engineer in Test, Sensing & Connectivity",
+      "job_id": "200671991-0836",
+      "url": "https://jobs.apple.com/en-us/details/200671991-0836/software-development-engineer-in-test-sensing-connectivity?team=SFTWR"
     }
   }
 }
