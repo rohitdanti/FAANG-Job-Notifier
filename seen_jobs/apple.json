@@ -4,18 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200654816-0836": {
-      "first_seen": 1775163183.861421,
-      "posted": "",
-      "title": "Quality & Test Automation Engineer \u2013 Xcode",
-      "job_id": "200654816-0836"
-    },
-    "200653994-0836": {
-      "first_seen": 1775163183.861422,
-      "posted": "",
-      "title": "Senior Software Engineer - Distributed Build Systems",
-      "job_id": "200653994-0836"
-    },
     "200653991-0836": {
       "first_seen": 1775163183.861422,
       "posted": "",
@@ -19367,6 +19355,20 @@
       "title": "UI and iOS Platform Software Engineer, Safari",
       "job_id": "200671616-0836",
       "url": "https://jobs.apple.com/en-us/details/200671616-0836/ui-and-ios-platform-software-engineer-safari?team=SFTWR"
+    },
+    "200671783-0157": {
+      "first_seen": 1783969307.0194817,
+      "posted": "2026-07-13",
+      "title": "Software Development Engineer - Applications",
+      "job_id": "200671783-0157",
+      "url": "https://jobs.apple.com/en-us/details/200671783-0157/software-development-engineer-applications?team=SFTWR"
+    },
+    "200671793-0157": {
+      "first_seen": 1783969307.0194864,
+      "posted": "2026-07-13",
+      "title": "Engineering Project Manager",
+      "job_id": "200671793-0157",
+      "url": "https://jobs.apple.com/en-us/details/200671793-0157/engineering-project-manager?team=SFTWR"
     }
   }
 }
