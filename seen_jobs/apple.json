@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200654875-0836": {
-      "first_seen": 1775163183.861421,
-      "posted": "",
-      "title": "FindMy Data Scientist",
-      "job_id": "200654875-0836"
-    },
     "200654877-0836": {
       "first_seen": 1775163183.861421,
       "posted": "",
@@ -19365,6 +19359,13 @@
       "title": "Wi-Fi Firmware Development Engineer, Wireless Technologies & Ecosystems",
       "job_id": "200671983-0836",
       "url": "https://jobs.apple.com/en-us/details/200671983-0836/wi-fi-firmware-development-engineer-wireless-technologies-ecosystems?team=SFTWR"
+    },
+    "200672212-0836": {
+      "first_seen": 1783967510.2537463,
+      "posted": "2026-07-13",
+      "title": "Wi-Fi Tools and Automation Engineer, Wireless Technologies & Ecosystems",
+      "job_id": "200672212-0836",
+      "url": "https://jobs.apple.com/en-us/details/200672212-0836/wi-fi-tools-and-automation-engineer-wireless-technologies-ecosystems?team=SFTWR"
     }
   }
 }
