@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200653991-0836": {
-      "first_seen": 1775163183.861422,
-      "posted": "",
-      "title": "Software Engineer - Distributed Build Systems",
-      "job_id": "200653991-0836"
-    },
     "200654762-1435": {
       "first_seen": 1775163183.861422,
       "posted": "",
@@ -19369,6 +19363,13 @@
       "title": "Engineering Project Manager",
       "job_id": "200671793-0157",
       "url": "https://jobs.apple.com/en-us/details/200671793-0157/engineering-project-manager?team=SFTWR"
+    },
+    "200644580-3543": {
+      "first_seen": 1783974097.6370974,
+      "posted": "2026-07-13",
+      "title": "Senior Software Engineer, Energy Services",
+      "job_id": "200644580-3543",
+      "url": "https://jobs.apple.com/en-us/details/200644580-3543/senior-software-engineer-energy-services?team=SFTWR"
     }
   }
 }
