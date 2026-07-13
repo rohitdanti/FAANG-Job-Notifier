@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200654877-0836": {
-      "first_seen": 1775163183.861421,
-      "posted": "",
-      "title": "Wireless Software Engineer, Wireless Technologies & Ecosystems",
-      "job_id": "200654877-0836"
-    },
     "200654816-0836": {
       "first_seen": 1775163183.861421,
       "posted": "",
@@ -19366,6 +19360,13 @@
       "title": "Wi-Fi Tools and Automation Engineer, Wireless Technologies & Ecosystems",
       "job_id": "200672212-0836",
       "url": "https://jobs.apple.com/en-us/details/200672212-0836/wi-fi-tools-and-automation-engineer-wireless-technologies-ecosystems?team=SFTWR"
+    },
+    "200671616-0836": {
+      "first_seen": 1783968700.069002,
+      "posted": "2026-07-13",
+      "title": "UI and iOS Platform Software Engineer, Safari",
+      "job_id": "200671616-0836",
+      "url": "https://jobs.apple.com/en-us/details/200671616-0836/ui-and-ios-platform-software-engineer-safari?team=SFTWR"
     }
   }
 }
