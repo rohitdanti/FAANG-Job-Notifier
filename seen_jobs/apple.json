@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200654571-0365": {
-      "first_seen": 1775163183.861421,
-      "posted": "",
-      "title": "Software Quality Manager, Audio - Apple Vision Pro",
-      "job_id": "200654571-0365"
-    },
     "200654947-3337": {
       "first_seen": 1775163183.861421,
       "posted": "",
@@ -19363,6 +19357,13 @@
       "title": "AI Software Engineer, Apple Cloud AI Platform",
       "job_id": "200671631-0836",
       "url": "https://jobs.apple.com/en-us/details/200671631-0836/ai-software-engineer-apple-cloud-ai-platform?team=SFTWR"
+    },
+    "200672192-0836": {
+      "first_seen": 1783963305.0121164,
+      "posted": "2026-07-13",
+      "title": "SW ML Optimization Engineer",
+      "job_id": "200672192-0836",
+      "url": "https://jobs.apple.com/en-us/details/200672192-0836/sw-ml-optimization-engineer?team=SFTWR"
     }
   }
 }
