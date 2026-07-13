@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200636333-2228": {
-      "first_seen": 1775163183.861423,
-      "posted": "",
-      "title": "Engineering Program Manager, Data Center Operations",
-      "job_id": "200636333-2228"
-    },
     "200636333-6172": {
       "first_seen": 1775163183.861423,
       "posted": "",
@@ -19374,6 +19368,13 @@
       "title": "Feature Integration Quality Engineer",
       "job_id": "200672268-0836",
       "url": "https://jobs.apple.com/en-us/details/200672268-0836/feature-integration-quality-engineer?team=SFTWR"
+    },
+    "200671985-0836": {
+      "first_seen": 1783985503.9479358,
+      "posted": "2026-07-13",
+      "title": "Systems Software Engineer, Wireless Technologies & Ecosystems",
+      "job_id": "200671985-0836",
+      "url": "https://jobs.apple.com/en-us/details/200671985-0836/systems-software-engineer-wireless-technologies-ecosystems?team=SFTWR"
     }
   }
 }
