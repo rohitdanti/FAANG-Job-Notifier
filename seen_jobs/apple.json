@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200648923-2605": {
-      "first_seen": 1775163183.8614268,
-      "posted": "",
-      "title": "Software Engineer, Vision Products Software",
-      "job_id": "200648923-2605"
-    },
     "200648923-3337": {
       "first_seen": 1775163183.8614268,
       "posted": "",
@@ -19392,6 +19386,13 @@
       "title": "Camera Software - Sr. Machine Learning Engineer",
       "job_id": "200644537-0836",
       "url": "https://jobs.apple.com/en-us/details/200644537-0836/camera-software-sr-machine-learning-engineer?team=SFTWR"
+    },
+    "200672429-0836": {
+      "first_seen": 1784070105.4257166,
+      "posted": "2026-07-14",
+      "title": "Core Services Media API Engineering Manager - Platforms Team",
+      "job_id": "200672429-0836",
+      "url": "https://jobs.apple.com/en-us/details/200672429-0836/core-services-media-api-engineering-manager-platforms-team?team=SFTWR"
     }
   }
 }
