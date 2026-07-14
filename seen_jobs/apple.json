@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200654467-0836": {
-      "first_seen": 1775163183.8614242,
-      "posted": "",
-      "title": "Product Manager, Apple Wallet",
-      "job_id": "200654467-0836"
-    },
     "200635456-3401": {
       "first_seen": 1775163183.8614242,
       "posted": "",
@@ -19379,6 +19373,13 @@
       "title": "IT Support Data Scientist, Employee Experience & Productivity, IS&T",
       "job_id": "200669063-3956",
       "url": "https://jobs.apple.com/en-us/details/200669063-3956/it-support-data-scientist-employee-experience-productivity-is-t?team=SFTWR"
+    },
+    "200669616-0157": {
+      "first_seen": 1784051498.2380705,
+      "posted": "2026-07-14",
+      "title": "Product Data Scentist, Employee Experience & Productivity, IS&T",
+      "job_id": "200669616-0157",
+      "url": "https://jobs.apple.com/en-us/details/200669616-0157/product-data-scentist-employee-experience-productivity-is-t?team=SFTWR"
     }
   }
 }
