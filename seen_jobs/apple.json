@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200653246-3337": {
-      "first_seen": 1775163183.8614242,
-      "posted": "",
-      "title": "Data Engineer - AIML Evaluation",
-      "job_id": "200653246-3337"
-    },
     "200654467-0836": {
       "first_seen": 1775163183.8614242,
       "posted": "",
@@ -19378,6 +19372,13 @@
       "title": "Senior Privacy Software Engineer, Sensing and Intelligence",
       "job_id": "200672290-0836",
       "url": "https://jobs.apple.com/en-us/details/200672290-0836/senior-privacy-software-engineer-sensing-and-intelligence?team=SFTWR"
+    },
+    "200669063-3956": {
+      "first_seen": 1784050902.2283602,
+      "posted": "2026-07-14",
+      "title": "IT Support Data Scientist, Employee Experience & Productivity, IS&T",
+      "job_id": "200669063-3956",
+      "url": "https://jobs.apple.com/en-us/details/200669063-3956/it-support-data-scientist-employee-experience-productivity-is-t?team=SFTWR"
     }
   }
 }
