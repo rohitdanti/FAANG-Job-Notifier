@@ -4,48 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200647030-3956": {
-      "first_seen": 1775163183.861425,
-      "posted": "",
-      "title": "iOS Engineer, Retail & Marcom Engineering",
-      "job_id": "200647030-3956"
-    },
-    "200653925-3337": {
-      "first_seen": 1775163183.861425,
-      "posted": "",
-      "title": "Engineering Program Manager, Data Services - Apple Services Engineering",
-      "job_id": "200653925-3337"
-    },
-    "200654700-3956": {
-      "first_seen": 1775163183.861425,
-      "posted": "",
-      "title": "Machine Learning System Software Engineer",
-      "job_id": "200654700-3956"
-    },
-    "200654558-0836": {
-      "first_seen": 1775163183.8614259,
-      "posted": "",
-      "title": "Data Scientist - Multimodal Training Data & Tools - SIML",
-      "job_id": "200654558-0836"
-    },
-    "200633177-0836": {
-      "first_seen": 1775163183.8614259,
-      "posted": "",
-      "title": "Manager: UI Frameworks Engineering",
-      "job_id": "200633177-0836"
-    },
-    "200653884-3401": {
-      "first_seen": 1775163183.8614259,
-      "posted": "",
-      "title": "IS&T Engineering Project Manager (SAP), IS&T Enterprise Systems",
-      "job_id": "200653884-3401"
-    },
-    "200650901-0836": {
-      "first_seen": 1775163183.8614259,
-      "posted": "",
-      "title": "Software Engineer - Video Applications Audio Engineering",
-      "job_id": "200650901-0836"
-    },
     "200639098-3401": {
       "first_seen": 1775163183.8614259,
       "posted": "",
@@ -19383,6 +19341,55 @@
       "title": "Engineering Program Manager- Customer Systems",
       "job_id": "200671980-0157",
       "url": "https://jobs.apple.com/en-us/details/200671980-0157/engineering-program-manager-customer-systems?team=SFTWR"
+    },
+    "200668896-0836": {
+      "first_seen": 1784060500.5127017,
+      "posted": "2026-07-14",
+      "title": "Engineering Project Manager, Developer Publications",
+      "job_id": "200668896-0836",
+      "url": "https://jobs.apple.com/en-us/details/200668896-0836/engineering-project-manager-developer-publications?team=SFTWR"
+    },
+    "200654519-3337": {
+      "first_seen": 1784060500.5127065,
+      "posted": "2026-07-14",
+      "title": "Senior Software Engineer",
+      "job_id": "200654519-3337",
+      "url": "https://jobs.apple.com/en-us/details/200654519-3337/senior-software-engineer?team=SFTWR"
+    },
+    "200649127-1435": {
+      "first_seen": 1784060500.5127091,
+      "posted": "2026-07-14",
+      "title": "Software Engineer - Creator Studio",
+      "job_id": "200649127-1435",
+      "url": "https://jobs.apple.com/en-us/details/200649127-1435/software-engineer-creator-studio?team=SFTWR"
+    },
+    "200649127-0836": {
+      "first_seen": 1784060500.5127106,
+      "posted": "2026-07-14",
+      "title": "Software Engineer - Creator Studio",
+      "job_id": "200649127-0836",
+      "url": "https://jobs.apple.com/en-us/details/200649127-0836/software-engineer-creator-studio?team=SFTWR"
+    },
+    "200649127-2926": {
+      "first_seen": 1784060500.5127122,
+      "posted": "2026-07-14",
+      "title": "Software Engineer - Creator Studio",
+      "job_id": "200649127-2926",
+      "url": "https://jobs.apple.com/en-us/details/200649127-2926/software-engineer-creator-studio?team=SFTWR"
+    },
+    "200649127-3543": {
+      "first_seen": 1784060500.5127134,
+      "posted": "2026-07-14",
+      "title": "Software Engineer - Creator Studio",
+      "job_id": "200649127-3543",
+      "url": "https://jobs.apple.com/en-us/details/200649127-3543/software-engineer-creator-studio?team=SFTWR"
+    },
+    "200649127-3337": {
+      "first_seen": 1784060500.5127149,
+      "posted": "2026-07-14",
+      "title": "Software Engineer - Creator Studio",
+      "job_id": "200649127-3337",
+      "url": "https://jobs.apple.com/en-us/details/200649127-3337/software-engineer-creator-studio?team=SFTWR"
     }
   }
 }
