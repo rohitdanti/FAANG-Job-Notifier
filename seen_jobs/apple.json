@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200636333-6709": {
-      "first_seen": 1775163183.861423,
-      "posted": "",
-      "title": "Engineering Program Manager, Data Center Operations",
-      "job_id": "200636333-6709"
-    },
     "200651918-3956": {
       "first_seen": 1775163183.861423,
       "posted": "",
@@ -19376,6 +19370,13 @@
       "title": "Kernel Software Development Engineer - Core Drivers Architecture",
       "job_id": "200672281-0836",
       "url": "https://jobs.apple.com/en-us/details/200672281-0836/kernel-software-development-engineer-core-drivers-architecture?team=SFTWR"
+    },
+    "200672256-0836": {
+      "first_seen": 1784044308.49738,
+      "posted": "2026-07-14",
+      "title": "Full Stack Software Engineer - Camera & Photos Tools & AI Team",
+      "job_id": "200672256-0836",
+      "url": "https://jobs.apple.com/en-us/details/200672256-0836/full-stack-software-engineer-camera-photos-tools-ai-team?team=SFTWR"
     }
   }
 }
