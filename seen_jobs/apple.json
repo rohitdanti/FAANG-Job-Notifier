@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200639098-2605": {
-      "first_seen": 1775163183.8614268,
-      "posted": "",
-      "title": "AR/VR Realtime Rendering and Graphics Software Engineer, RealityKit, Vision Products Software",
-      "job_id": "200639098-2605"
-    },
     "200648923-2605": {
       "first_seen": 1775163183.8614268,
       "posted": "",
@@ -19391,6 +19385,13 @@
       "title": "Software Engineer, Music Search",
       "job_id": "200671628-3337",
       "url": "https://jobs.apple.com/en-us/details/200671628-3337/software-engineer-music-search?team=SFTWR"
+    },
+    "200644537-0836": {
+      "first_seen": 1784065302.5412378,
+      "posted": "2026-07-14",
+      "title": "Camera Software - Sr. Machine Learning Engineer",
+      "job_id": "200644537-0836",
+      "url": "https://jobs.apple.com/en-us/details/200644537-0836/camera-software-sr-machine-learning-engineer?team=SFTWR"
     }
   }
 }
