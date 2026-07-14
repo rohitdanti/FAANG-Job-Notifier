@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200651918-3956": {
-      "first_seen": 1775163183.861423,
-      "posted": "",
-      "title": "Software Development Engineer - Test, Customer Systems",
-      "job_id": "200651918-3956"
-    },
     "200653246-3337": {
       "first_seen": 1775163183.8614242,
       "posted": "",
@@ -19377,6 +19371,13 @@
       "title": "Full Stack Software Engineer - Camera & Photos Tools & AI Team",
       "job_id": "200672256-0836",
       "url": "https://jobs.apple.com/en-us/details/200672256-0836/full-stack-software-engineer-camera-photos-tools-ai-team?team=SFTWR"
+    },
+    "200672290-0836": {
+      "first_seen": 1784049699.3214848,
+      "posted": "2026-07-14",
+      "title": "Senior Privacy Software Engineer, Sensing and Intelligence",
+      "job_id": "200672290-0836",
+      "url": "https://jobs.apple.com/en-us/details/200672290-0836/senior-privacy-software-engineer-sensing-and-intelligence?team=SFTWR"
     }
   }
 }
