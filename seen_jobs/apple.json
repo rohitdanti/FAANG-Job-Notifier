@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200654501-0157": {
-      "first_seen": 1775163183.861432,
-      "posted": "",
-      "title": "Software Engineer (Python) - Supply Chain Integration",
-      "job_id": "200654501-0157"
-    },
     "200634812-0836": {
       "first_seen": 1775163183.861432,
       "posted": "",
@@ -19409,6 +19403,13 @@
       "title": "Apple News Editor, Local News",
       "job_id": "200672375-1427",
       "url": "https://jobs.apple.com/en-us/details/200672375-1427/apple-news-editor-local-news?team=SFTWR"
+    },
+    "200672389-0670": {
+      "first_seen": 1784155899.7723784,
+      "posted": "2026-07-15",
+      "title": "Technical Project Manager, Employee Experience & Productivity",
+      "job_id": "200672389-0670",
+      "url": "https://jobs.apple.com/en-us/details/200672389-0670/technical-project-manager-employee-experience-productivity?team=SFTWR"
     }
   }
 }
