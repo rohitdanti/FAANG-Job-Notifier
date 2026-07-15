@@ -4,30 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200646382-3956": {
-      "first_seen": 1775163183.861428,
-      "posted": "",
-      "title": "Sr. Applied AI Software Engineer- Vision Products Group & Siri",
-      "job_id": "200646382-3956"
-    },
-    "200646379-2605": {
-      "first_seen": 1775163183.861428,
-      "posted": "",
-      "title": "Sr. Applied AI Software Engineer- Vision Products Group & Siri",
-      "job_id": "200646379-2605"
-    },
-    "200646379-3956": {
-      "first_seen": 1775163183.861428,
-      "posted": "",
-      "title": "Sr. Applied AI Software Engineer- Vision Products Group & Siri",
-      "job_id": "200646379-3956"
-    },
-    "200643241-2605": {
-      "first_seen": 1775163183.861429,
-      "posted": "",
-      "title": "Machine Learning Engineer - Vision Products Software",
-      "job_id": "200643241-2605"
-    },
     "200643241-3956": {
       "first_seen": 1775163183.861429,
       "posted": "",
@@ -19397,6 +19373,34 @@
       "title": "Engineering Manager, FileMaker Server",
       "job_id": "200668089-3956",
       "url": "https://jobs.apple.com/en-us/details/200668089-3956/engineering-manager-filemaker-server?team=SFTWR"
+    },
+    "200672467-3543": {
+      "first_seen": 1784130097.1898425,
+      "posted": "2026-07-15",
+      "title": "Sr. Software Engineering Manager, Internal Tools",
+      "job_id": "200672467-3543",
+      "url": "https://jobs.apple.com/en-us/details/200672467-3543/sr-software-engineering-manager-internal-tools?team=SFTWR"
+    },
+    "200672498-0836": {
+      "first_seen": 1784130097.1898472,
+      "posted": "2026-07-15",
+      "title": "Java Server Engineer - ASE Products",
+      "job_id": "200672498-0836",
+      "url": "https://jobs.apple.com/en-us/details/200672498-0836/java-server-engineer-ase-products?team=SFTWR"
+    },
+    "200672500-0836": {
+      "first_seen": 1784130097.1898494,
+      "posted": "2026-07-15",
+      "title": "Sr. Software Engineer - Apple Cloud Product Services",
+      "job_id": "200672500-0836",
+      "url": "https://jobs.apple.com/en-us/details/200672500-0836/sr-software-engineer-apple-cloud-product-services?team=SFTWR"
+    },
+    "200672496-0836": {
+      "first_seen": 1784130097.1898503,
+      "posted": "2026-07-15",
+      "title": "SW Dev Engineer - ASE - Back-End",
+      "job_id": "200672496-0836",
+      "url": "https://jobs.apple.com/en-us/details/200672496-0836/sw-dev-engineer-ase-back-end?team=SFTWR"
     }
   }
 }
