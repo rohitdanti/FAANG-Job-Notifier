@@ -4,18 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200628261-3956": {
-      "first_seen": 1775163183.86143,
-      "posted": "",
-      "title": "Sr. AR/VR/AI Experience Prototyper- Vision Products Software",
-      "job_id": "200628261-3956"
-    },
-    "200645852-3337": {
-      "first_seen": 1775163183.86143,
-      "posted": "",
-      "title": "Sr. Applied AI Software Engineer- Vision Products Group & Siri",
-      "job_id": "200645852-3337"
-    },
     "200645788-3956": {
       "first_seen": 1775163183.8614311,
       "posted": "",
@@ -19402,6 +19390,20 @@
       "title": "Machine Learning Engineer, ASE Search Team",
       "job_id": "200672184-3337",
       "url": "https://jobs.apple.com/en-us/details/200672184-3337/machine-learning-engineer-ase-search-team?team=SFTWR"
+    },
+    "200672383-3760": {
+      "first_seen": 1784137310.3356519,
+      "posted": "2026-07-15",
+      "title": "Machine Learning Manager, Search & Knowledge Platforms",
+      "job_id": "200672383-3760",
+      "url": "https://jobs.apple.com/en-us/details/200672383-3760/machine-learning-manager-search-knowledge-platforms?team=SFTWR"
+    },
+    "200672383-3337": {
+      "first_seen": 1784137310.3356574,
+      "posted": "2026-07-15",
+      "title": "Machine Learning Manager, Search & Knowledge Platforms",
+      "job_id": "200672383-3337",
+      "url": "https://jobs.apple.com/en-us/details/200672383-3337/machine-learning-manager-search-knowledge-platforms?team=SFTWR"
     }
   }
 }
