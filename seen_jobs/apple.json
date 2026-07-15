@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200652311-3337": {
-      "first_seen": 1775163183.861432,
-      "posted": "",
-      "title": "Production Services Engineer - Apple Services Engineering",
-      "job_id": "200652311-3337"
-    },
     "200654501-0157": {
       "first_seen": 1775163183.861432,
       "posted": "",
@@ -19408,6 +19402,13 @@
       "title": "Quality Engineer, Tools and Automation",
       "job_id": "200672382-3337",
       "url": "https://jobs.apple.com/en-us/details/200672382-3337/quality-engineer-tools-and-automation?team=SFTWR"
+    },
+    "200672375-1427": {
+      "first_seen": 1784151699.4260848,
+      "posted": "2026-07-15",
+      "title": "Apple News Editor, Local News",
+      "job_id": "200672375-1427",
+      "url": "https://jobs.apple.com/en-us/details/200672375-1427/apple-news-editor-local-news?team=SFTWR"
     }
   }
 }
