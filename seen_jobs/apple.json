@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200632669-3401": {
-      "first_seen": 1775163183.861428,
-      "posted": "",
-      "title": "Software QA Engineer, Apple Vision Pro, Vision Products Software",
-      "job_id": "200632669-3401"
-    },
     "200646382-3956": {
       "first_seen": 1775163183.861428,
       "posted": "",
@@ -19396,6 +19390,13 @@
       "title": "SW Dev Engineer - ASE - Back-End",
       "job_id": "200668099-0836",
       "url": "https://jobs.apple.com/en-us/details/200668099-0836/sw-dev-engineer-ase-back-end?team=SFTWR"
+    },
+    "200668089-3956": {
+      "first_seen": 1784127090.9130049,
+      "posted": "2026-07-15",
+      "title": "Engineering Manager, FileMaker Server",
+      "job_id": "200668089-3956",
+      "url": "https://jobs.apple.com/en-us/details/200668089-3956/engineering-manager-filemaker-server?team=SFTWR"
     }
   }
 }
