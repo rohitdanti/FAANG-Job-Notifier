@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200643241-3956": {
-      "first_seen": 1775163183.861429,
-      "posted": "",
-      "title": "Machine Learning Engineer - Vision Products Software",
-      "job_id": "200643241-3956"
-    },
     "200628261-3956": {
       "first_seen": 1775163183.86143,
       "posted": "",
@@ -19401,6 +19395,13 @@
       "title": "SW Dev Engineer - ASE - Back-End",
       "job_id": "200672496-0836",
       "url": "https://jobs.apple.com/en-us/details/200672496-0836/sw-dev-engineer-ase-back-end?team=SFTWR"
+    },
+    "200672184-3337": {
+      "first_seen": 1784134906.2349226,
+      "posted": "2026-07-15",
+      "title": "Machine Learning Engineer, ASE Search Team",
+      "job_id": "200672184-3337",
+      "url": "https://jobs.apple.com/en-us/details/200672184-3337/machine-learning-engineer-ase-search-team?team=SFTWR"
     }
   }
 }
