@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200628596-2605": {
-      "first_seen": 1775163183.861428,
-      "posted": "",
-      "title": "Software Engineer, Vision Products Software",
-      "job_id": "200628596-2605"
-    },
     "200632669-3401": {
       "first_seen": 1775163183.861428,
       "posted": "",
@@ -19395,6 +19389,13 @@
       "title": "Wireless Bluetooth QA Engineer, Wireless Technologies & Ecosystems",
       "job_id": "200669521-0836",
       "url": "https://jobs.apple.com/en-us/details/200669521-0836/wireless-bluetooth-qa-engineer-wireless-technologies-ecosystems?team=SFTWR"
+    },
+    "200668099-0836": {
+      "first_seen": 1784080293.323334,
+      "posted": "2026-07-15",
+      "title": "SW Dev Engineer - ASE - Back-End",
+      "job_id": "200668099-0836",
+      "url": "https://jobs.apple.com/en-us/details/200668099-0836/sw-dev-engineer-ase-back-end?team=SFTWR"
     }
   }
 }
