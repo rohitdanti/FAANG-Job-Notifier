@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200628596-3401": {
-      "first_seen": 1775163183.8614268,
-      "posted": "",
-      "title": "Software Engineer, Vision Products Software",
-      "job_id": "200628596-3401"
-    },
     "200628596-2605": {
       "first_seen": 1775163183.861428,
       "posted": "",
@@ -19394,6 +19388,13 @@
       "title": "iOS API Developer",
       "job_id": "200672219-0157",
       "url": "https://jobs.apple.com/en-us/details/200672219-0157/ios-api-developer?team=SFTWR"
+    },
+    "200669521-0836": {
+      "first_seen": 1784079096.4641838,
+      "posted": "2026-07-15",
+      "title": "Wireless Bluetooth QA Engineer, Wireless Technologies & Ecosystems",
+      "job_id": "200669521-0836",
+      "url": "https://jobs.apple.com/en-us/details/200669521-0836/wireless-bluetooth-qa-engineer-wireless-technologies-ecosystems?team=SFTWR"
     }
   }
 }
