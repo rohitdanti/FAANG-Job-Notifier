@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200645785-3401": {
-      "first_seen": 1775163183.8614311,
-      "posted": "",
-      "title": "Sr. Applied AI Software Engineer- Vision Products Group & Siri",
-      "job_id": "200645785-3401"
-    },
     "200645699-3956": {
       "first_seen": 1775163183.8614311,
       "posted": "",
@@ -19405,6 +19399,13 @@
       "title": "Software Engineering Manager, Retail Foundations",
       "job_id": "200671138-0157",
       "url": "https://jobs.apple.com/en-us/details/200671138-0157/software-engineering-manager-retail-foundations?team=SFTWR"
+    },
+    "200672608-0836": {
+      "first_seen": 1784143295.9569907,
+      "posted": "2026-07-15",
+      "title": "Wireless Bluetooth QA Engineer, Wireless Technologies & Ecosystems",
+      "job_id": "200672608-0836",
+      "url": "https://jobs.apple.com/en-us/details/200672608-0836/wireless-bluetooth-qa-engineer-wireless-technologies-ecosystems?team=SFTWR"
     }
   }
 }
