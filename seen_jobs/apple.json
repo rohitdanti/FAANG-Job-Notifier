@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200645788-3956": {
-      "first_seen": 1775163183.8614311,
-      "posted": "",
-      "title": "Applied AI Software Engineer - Vision Products Group & Siri",
-      "job_id": "200645788-3956"
-    },
     "200645785-3401": {
       "first_seen": 1775163183.8614311,
       "posted": "",
@@ -19404,6 +19398,13 @@
       "title": "Machine Learning Manager, Search & Knowledge Platforms",
       "job_id": "200672383-3337",
       "url": "https://jobs.apple.com/en-us/details/200672383-3337/machine-learning-manager-search-knowledge-platforms?team=SFTWR"
+    },
+    "200671138-0157": {
+      "first_seen": 1784139099.7713325,
+      "posted": "2026-07-15",
+      "title": "Software Engineering Manager, Retail Foundations",
+      "job_id": "200671138-0157",
+      "url": "https://jobs.apple.com/en-us/details/200671138-0157/software-engineering-manager-retail-foundations?team=SFTWR"
     }
   }
 }
