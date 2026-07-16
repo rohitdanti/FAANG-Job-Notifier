@@ -4,18 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200654506-0836": {
-      "first_seen": 1775163183.861432,
-      "posted": "",
-      "title": "Software QA Engineer, Wireless Technologies & Ecosystems",
-      "job_id": "200654506-0836"
-    },
-    "200654485-0836": {
-      "first_seen": 1775163183.861433,
-      "posted": "",
-      "title": "Senior iOS Software Engineer - Proximity",
-      "job_id": "200654485-0836"
-    },
     "200614973-0157": {
       "first_seen": 1775163183.861433,
       "posted": "",
@@ -19413,6 +19401,20 @@
       "title": "Firmware Security Researcher, SEAR",
       "job_id": "200672673-0836",
       "url": "https://jobs.apple.com/en-us/details/200672673-0836/firmware-security-researcher-sear?team=SFTWR"
+    },
+    "200672753-0836": {
+      "first_seen": 1784224301.494317,
+      "posted": "2026-07-16",
+      "title": "Software Engineer",
+      "job_id": "200672753-0836",
+      "url": "https://jobs.apple.com/en-us/details/200672753-0836/software-engineer?team=SFTWR"
+    },
+    "200672753-3543": {
+      "first_seen": 1784224301.494323,
+      "posted": "2026-07-16",
+      "title": "Software Engineer",
+      "job_id": "200672753-3543",
+      "url": "https://jobs.apple.com/en-us/details/200672753-3543/software-engineer?team=SFTWR"
     }
   }
 }
