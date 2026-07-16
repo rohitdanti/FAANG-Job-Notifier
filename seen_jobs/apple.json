@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200614973-0157": {
-      "first_seen": 1775163183.861433,
-      "posted": "",
-      "title": "Senior Software Engineer, Data Science & Analytics Platform Engineering",
-      "job_id": "200614973-0157"
-    },
     "200654427-0157": {
       "first_seen": 1775163183.861433,
       "posted": "",
@@ -19415,6 +19409,13 @@
       "title": "Software Engineer",
       "job_id": "200672753-3543",
       "url": "https://jobs.apple.com/en-us/details/200672753-3543/software-engineer?team=SFTWR"
+    },
+    "200672801-0836": {
+      "first_seen": 1784242899.817727,
+      "posted": "2026-07-16",
+      "title": "Siri Screening & Triage Engineer",
+      "job_id": "200672801-0836",
+      "url": "https://jobs.apple.com/en-us/details/200672801-0836/siri-screening-triage-engineer?team=SFTWR"
     }
   }
 }
