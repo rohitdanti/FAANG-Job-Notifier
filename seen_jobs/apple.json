@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200634812-0836": {
-      "first_seen": 1775163183.861432,
-      "posted": "",
-      "title": "Manager, Machine Learning Research - SIML, ISE",
-      "job_id": "200634812-0836"
-    },
     "200654275-0836": {
       "first_seen": 1775163183.861432,
       "posted": "",
@@ -19410,6 +19404,13 @@
       "title": "Technical Project Manager, Employee Experience & Productivity",
       "job_id": "200672389-0670",
       "url": "https://jobs.apple.com/en-us/details/200672389-0670/technical-project-manager-employee-experience-productivity?team=SFTWR"
+    },
+    "200672483-0836": {
+      "first_seen": 1784160106.753148,
+      "posted": "2026-07-16",
+      "title": "Sr. Content Support Engineer, ASE",
+      "job_id": "200672483-0836",
+      "url": "https://jobs.apple.com/en-us/details/200672483-0836/sr-content-support-engineer-ase?team=SFTWR"
     }
   }
 }
