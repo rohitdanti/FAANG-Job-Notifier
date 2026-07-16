@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200654275-3543": {
-      "first_seen": 1775163183.861432,
-      "posted": "",
-      "title": "Software Engineer in Test, System Experience",
-      "job_id": "200654275-3543"
-    },
     "200654506-0836": {
       "first_seen": 1775163183.861432,
       "posted": "",
@@ -19412,6 +19406,13 @@
       "title": "Engineering Manager, Machine Learning & NLP, Input Experience",
       "job_id": "200671833-0836",
       "url": "https://jobs.apple.com/en-us/details/200671833-0836/engineering-manager-machine-learning-nlp-input-experience?team=SFTWR"
+    },
+    "200672673-0836": {
+      "first_seen": 1784218886.7506347,
+      "posted": "2026-07-16",
+      "title": "Firmware Security Researcher, SEAR",
+      "job_id": "200672673-0836",
+      "url": "https://jobs.apple.com/en-us/details/200672673-0836/firmware-security-researcher-sear?team=SFTWR"
     }
   }
 }
