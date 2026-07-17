@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200654441-3337": {
-      "first_seen": 1775163183.861433,
-      "posted": "",
-      "title": "Senior Detection Creation Engineer",
-      "job_id": "200654441-3337"
-    },
     "200653252-3956": {
       "first_seen": 1775163183.8614342,
       "posted": "",
@@ -19418,6 +19412,13 @@
       "title": "Senior Software Engineer - Apple Cloud Products - iCloud Photos",
       "job_id": "200672829-3577",
       "url": "https://jobs.apple.com/en-us/details/200672829-3577/senior-software-engineer-apple-cloud-products-icloud-photos?team=SFTWR"
+    },
+    "200672501-0836": {
+      "first_seen": 1784293295.3757005,
+      "posted": "2026-07-17",
+      "title": "Sr. Software Engineer - Apple Cloud Product Services",
+      "job_id": "200672501-0836",
+      "url": "https://jobs.apple.com/en-us/details/200672501-0836/sr-software-engineer-apple-cloud-product-services?team=SFTWR"
     }
   }
 }
