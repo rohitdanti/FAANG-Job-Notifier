@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200653252-3956": {
-      "first_seen": 1775163183.8614342,
-      "posted": "",
-      "title": "Software Engineer, Information Systems & Technology",
-      "job_id": "200653252-3956"
-    },
     "200647490-0836": {
       "first_seen": 1775163183.8614342,
       "posted": "",
@@ -19419,6 +19413,13 @@
       "title": "Sr. Software Engineer - Apple Cloud Product Services",
       "job_id": "200672501-0836",
       "url": "https://jobs.apple.com/en-us/details/200672501-0836/sr-software-engineer-apple-cloud-product-services?team=SFTWR"
+    },
+    "200672768-0836": {
+      "first_seen": 1784299288.696867,
+      "posted": "2026-07-17",
+      "title": "Software Engineer, AI Infrastructure",
+      "job_id": "200672768-0836",
+      "url": "https://jobs.apple.com/en-us/details/200672768-0836/software-engineer-ai-infrastructure?team=SFTWR"
     }
   }
 }
