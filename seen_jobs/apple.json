@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200644156-0836": {
-      "first_seen": 1775163183.8614342,
-      "posted": "",
-      "title": "Sr Engineering Program Manager",
-      "job_id": "200644156-0836"
-    },
     "200632382-3337": {
       "first_seen": 1775163183.8614342,
       "posted": "",
@@ -19423,6 +19417,13 @@
       "title": "IS&T Early Career Engineering Program Manager Opportunities",
       "job_id": "200672968-0157",
       "url": "https://jobs.apple.com/en-us/details/200672968-0157/is-t-early-career-engineering-program-manager-opportunities?team=SFTWR"
+    },
+    "200672977-0836": {
+      "first_seen": 1784327490.8969831,
+      "posted": "2026-07-17",
+      "title": "Software Engineer - Distributed Systems, Compute Platform",
+      "job_id": "200672977-0836",
+      "url": "https://jobs.apple.com/en-us/details/200672977-0836/software-engineer-distributed-systems-compute-platform?team=SFTWR"
     }
   }
 }
