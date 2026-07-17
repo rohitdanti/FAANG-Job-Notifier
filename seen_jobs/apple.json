@@ -4,18 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200654427-0157": {
-      "first_seen": 1775163183.861433,
-      "posted": "",
-      "title": "Data Product Engineering Lead - Wallet, Payments & Commerce",
-      "job_id": "200654427-0157"
-    },
-    "200654427-0836": {
-      "first_seen": 1775163183.861433,
-      "posted": "",
-      "title": "Data Product Engineering Lead - Wallet, Payments & Commerce",
-      "job_id": "200654427-0836"
-    },
     "200654441-3337": {
       "first_seen": 1775163183.861433,
       "posted": "",
@@ -19416,6 +19404,20 @@
       "title": "Siri Screening & Triage Engineer",
       "job_id": "200672801-0836",
       "url": "https://jobs.apple.com/en-us/details/200672801-0836/siri-screening-triage-engineer?team=SFTWR"
+    },
+    "200672824-3543": {
+      "first_seen": 1784253703.905748,
+      "posted": "2026-07-17",
+      "title": "Senior Software Engineer - Messaging Identity Services",
+      "job_id": "200672824-3543",
+      "url": "https://jobs.apple.com/en-us/details/200672824-3543/senior-software-engineer-messaging-identity-services?team=SFTWR"
+    },
+    "200672829-3577": {
+      "first_seen": 1784253703.9057565,
+      "posted": "2026-07-17",
+      "title": "Senior Software Engineer - Apple Cloud Products - iCloud Photos",
+      "job_id": "200672829-3577",
+      "url": "https://jobs.apple.com/en-us/details/200672829-3577/senior-software-engineer-apple-cloud-products-icloud-photos?team=SFTWR"
     }
   }
 }
