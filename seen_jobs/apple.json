@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200641853-3956": {
-      "first_seen": 1775163183.8614342,
-      "posted": "",
-      "title": "Full Stack Software Engineer, Customer Systems",
-      "job_id": "200641853-3956"
-    },
     "200644156-0836": {
       "first_seen": 1775163183.8614342,
       "posted": "",
@@ -19422,6 +19416,13 @@
       "title": "Fitness Technologies Product Manager",
       "job_id": "200672914-0836",
       "url": "https://jobs.apple.com/en-us/details/200672914-0836/fitness-technologies-product-manager?team=SFTWR"
+    },
+    "200672968-0157": {
+      "first_seen": 1784326284.8229647,
+      "posted": "2026-07-17",
+      "title": "IS&T Early Career Engineering Program Manager Opportunities",
+      "job_id": "200672968-0157",
+      "url": "https://jobs.apple.com/en-us/details/200672968-0157/is-t-early-career-engineering-program-manager-opportunities?team=SFTWR"
     }
   }
 }
