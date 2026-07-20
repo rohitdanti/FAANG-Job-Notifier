@@ -4,18 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200654151-0836": {
-      "first_seen": 1775163183.8614368,
-      "posted": "",
-      "title": "Software Device Driver Engineer - Core I/O, Core OS",
-      "job_id": "200654151-0836"
-    },
-    "200654207-3543": {
-      "first_seen": 1775163183.8614368,
-      "posted": "",
-      "title": "Software Quality Assurance Engineer, Apps",
-      "job_id": "200654207-3543"
-    },
     "200653224-0670": {
       "first_seen": 1775163183.8614368,
       "posted": "",
@@ -19438,6 +19426,20 @@
       "title": "Swift Compiler Engineer",
       "job_id": "200673075-0836",
       "url": "https://jobs.apple.com/en-us/details/200673075-0836/swift-compiler-engineer?team=SFTWR"
+    },
+    "200624075-0836": {
+      "first_seen": 1784589687.9528482,
+      "posted": "2026-07-20",
+      "title": "Software QA Engineer, Watch Software",
+      "job_id": "200624075-0836",
+      "url": "https://jobs.apple.com/en-us/details/200624075-0836/software-qa-engineer-watch-software?team=SFTWR"
+    },
+    "200624075-3543": {
+      "first_seen": 1784589687.9528525,
+      "posted": "2026-07-20",
+      "title": "Software QA Engineer, Watch Software",
+      "job_id": "200624075-3543",
+      "url": "https://jobs.apple.com/en-us/details/200624075-3543/software-qa-engineer-watch-software?team=SFTWR"
     }
   }
 }
