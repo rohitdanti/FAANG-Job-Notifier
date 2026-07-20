@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200615746-0157": {
-      "first_seen": 1775163183.861436,
-      "posted": "",
-      "title": "SAP Functional Engineer, Supply Chain & Logistics",
-      "job_id": "200615746-0157"
-    },
     "200639904-0836": {
       "first_seen": 1775163183.861436,
       "posted": "",
@@ -19434,6 +19428,13 @@
       "title": "Machine Learning Research Engineer, App Store Search",
       "job_id": "200671370-3337",
       "url": "https://jobs.apple.com/en-us/details/200671370-3337/machine-learning-research-engineer-app-store-search?team=SFTWR"
+    },
+    "200673149-3337": {
+      "first_seen": 1784581300.8549082,
+      "posted": "2026-07-20",
+      "title": "Software Engineer, Authorization",
+      "job_id": "200673149-3337",
+      "url": "https://jobs.apple.com/en-us/details/200673149-3337/software-engineer-authorization?team=SFTWR"
     }
   }
 }
