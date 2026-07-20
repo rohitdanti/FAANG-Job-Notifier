@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200654193-0836": {
-      "first_seen": 1775163183.861435,
-      "posted": "",
-      "title": "Data Scientist",
-      "job_id": "200654193-0836"
-    },
     "200653189-3337": {
       "first_seen": 1775163183.861435,
       "posted": "",
@@ -19429,6 +19423,13 @@
       "title": "Software Engineer, AirPlay 3rd Party",
       "job_id": "200668233-3543",
       "url": "https://jobs.apple.com/en-us/details/200668233-3543/software-engineer-airplay-3rd-party?team=SFTWR"
+    },
+    "200673117-3543": {
+      "first_seen": 1784570492.7185333,
+      "posted": "2026-07-20",
+      "title": "Wi-Fi/Bluetooth Software System Performance Engineer, Wireless Technologies & Ecosystems",
+      "job_id": "200673117-3543",
+      "url": "https://jobs.apple.com/en-us/details/200673117-3543/wi-fi-bluetooth-software-system-performance-engineer-wireless-technologies-ecosystems?team=SFTWR"
     }
   }
 }
