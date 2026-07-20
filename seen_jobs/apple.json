@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200639904-0836": {
-      "first_seen": 1775163183.861436,
-      "posted": "",
-      "title": "Software Engineer, Test Platform Intelligence",
-      "job_id": "200639904-0836"
-    },
     "200653418-3543": {
       "first_seen": 1775163183.8614368,
       "posted": "",
@@ -19435,6 +19429,13 @@
       "title": "Software Engineer, Authorization",
       "job_id": "200673149-3337",
       "url": "https://jobs.apple.com/en-us/details/200673149-3337/software-engineer-authorization?team=SFTWR"
+    },
+    "200672974-0836": {
+      "first_seen": 1784583086.3162837,
+      "posted": "2026-07-20",
+      "title": "Sr Engineering Program Manager, AIML Foundation Models",
+      "job_id": "200672974-0836",
+      "url": "https://jobs.apple.com/en-us/details/200672974-0836/sr-engineering-program-manager-aiml-foundation-models?team=SFTWR"
     }
   }
 }
