@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200653418-3543": {
-      "first_seen": 1775163183.8614368,
-      "posted": "",
-      "title": "Data Scientist",
-      "job_id": "200653418-3543"
-    },
     "200606688-0836": {
       "first_seen": 1775163183.8614368,
       "posted": "",
@@ -19436,6 +19430,13 @@
       "title": "Sr Engineering Program Manager, AIML Foundation Models",
       "job_id": "200672974-0836",
       "url": "https://jobs.apple.com/en-us/details/200672974-0836/sr-engineering-program-manager-aiml-foundation-models?team=SFTWR"
+    },
+    "200672992-0836": {
+      "first_seen": 1784586690.0005322,
+      "posted": "2026-07-20",
+      "title": "Software Engineer, Algorithms (SDE)",
+      "job_id": "200672992-0836",
+      "url": "https://jobs.apple.com/en-us/details/200672992-0836/software-engineer-algorithms-sde?team=SFTWR"
     }
   }
 }
