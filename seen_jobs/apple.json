@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200654406-0157": {
-      "first_seen": 1775163183.861435,
-      "posted": "",
-      "title": "Site Reliability Engineer, Apple Data Platform / Druid",
-      "job_id": "200654406-0157"
-    },
     "200654414-3543": {
       "first_seen": 1775163183.861435,
       "posted": "",
@@ -19427,6 +19421,13 @@
       "title": "Sr. Front-End Engineer - Apple Business Essentials - ASE",
       "job_id": "200672504-3337",
       "url": "https://jobs.apple.com/en-us/details/200672504-3337/sr-front-end-engineer-apple-business-essentials-ase?team=SFTWR"
+    },
+    "200668060-0836": {
+      "first_seen": 1784568090.9577074,
+      "posted": "2026-07-20",
+      "title": "Senior Leader, Product Management for Pricing Systems",
+      "job_id": "200668060-0836",
+      "url": "https://jobs.apple.com/en-us/details/200668060-0836/senior-leader-product-management-for-pricing-systems?team=SFTWR"
     }
   }
 }
