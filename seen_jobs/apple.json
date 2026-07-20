@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200636330-3956": {
-      "first_seen": 1775163183.861436,
-      "posted": "",
-      "title": "Technical Operations & Site Reliability Engineer, Customer Systems",
-      "job_id": "200636330-3956"
-    },
     "200615746-0157": {
       "first_seen": 1775163183.861436,
       "posted": "",
@@ -19433,6 +19427,13 @@
       "title": "Creative Intelligence Software Engineer - Camera and Photos",
       "job_id": "200672908-3401",
       "url": "https://jobs.apple.com/en-us/details/200672908-3401/creative-intelligence-software-engineer-camera-and-photos?team=SFTWR"
+    },
+    "200671370-3337": {
+      "first_seen": 1784580695.2831073,
+      "posted": "2026-07-20",
+      "title": "Machine Learning Research Engineer, App Store Search",
+      "job_id": "200671370-3337",
+      "url": "https://jobs.apple.com/en-us/details/200671370-3337/machine-learning-research-engineer-app-store-search?team=SFTWR"
     }
   }
 }
