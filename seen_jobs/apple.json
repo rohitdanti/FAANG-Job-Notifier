@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200654414-3543": {
-      "first_seen": 1775163183.861435,
-      "posted": "",
-      "title": "Senior Video SRE",
-      "job_id": "200654414-3543"
-    },
     "200654193-0836": {
       "first_seen": 1775163183.861435,
       "posted": "",
@@ -19428,6 +19422,13 @@
       "title": "Senior Leader, Product Management for Pricing Systems",
       "job_id": "200668060-0836",
       "url": "https://jobs.apple.com/en-us/details/200668060-0836/senior-leader-product-management-for-pricing-systems?team=SFTWR"
+    },
+    "200668233-3543": {
+      "first_seen": 1784568702.0540452,
+      "posted": "2026-07-20",
+      "title": "Software Engineer, AirPlay 3rd Party",
+      "job_id": "200668233-3543",
+      "url": "https://jobs.apple.com/en-us/details/200668233-3543/software-engineer-airplay-3rd-party?team=SFTWR"
     }
   }
 }
