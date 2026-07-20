@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200653006-3337": {
-      "first_seen": 1775163183.861435,
-      "posted": "",
-      "title": "Senior Detection Creation Engineer",
-      "job_id": "200653006-3337"
-    },
     "200647924-0670": {
       "first_seen": 1775163183.861435,
       "posted": "",
@@ -19425,6 +19419,13 @@
       "title": "Software Quality Engineer, Wallet Payments & Commerce",
       "job_id": "200672175-0157",
       "url": "https://jobs.apple.com/en-us/details/200672175-0157/software-quality-engineer-wallet-payments-commerce?team=SFTWR"
+    },
+    "200672818-0836": {
+      "first_seen": 1784552498.4551985,
+      "posted": "2026-07-20",
+      "title": "Car Experience Software Engineer - UI, Wireless Technologies & Ecosystems",
+      "job_id": "200672818-0836",
+      "url": "https://jobs.apple.com/en-us/details/200672818-0836/car-experience-software-engineer-ui-wireless-technologies-ecosystems?team=SFTWR"
     }
   }
 }
