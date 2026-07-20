@@ -4,18 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200653189-3337": {
-      "first_seen": 1775163183.861435,
-      "posted": "",
-      "title": "Software Tools and Automation",
-      "job_id": "200653189-3337"
-    },
-    "200654277-0836": {
-      "first_seen": 1775163183.861436,
-      "posted": "",
-      "title": "Software Engineer, iOS Keyboard",
-      "job_id": "200654277-0836"
-    },
     "200654389-0836": {
       "first_seen": 1775163183.861436,
       "posted": "",
@@ -19430,6 +19418,20 @@
       "title": "Wi-Fi/Bluetooth Software System Performance Engineer, Wireless Technologies & Ecosystems",
       "job_id": "200673117-3543",
       "url": "https://jobs.apple.com/en-us/details/200673117-3543/wi-fi-bluetooth-software-system-performance-engineer-wireless-technologies-ecosystems?team=SFTWR"
+    },
+    "200673111-0836": {
+      "first_seen": 1784576485.7650118,
+      "posted": "2026-07-20",
+      "title": "Wireless Charging Firmware Engineer",
+      "job_id": "200673111-0836",
+      "url": "https://jobs.apple.com/en-us/details/200673111-0836/wireless-charging-firmware-engineer?team=SFTWR"
+    },
+    "200673102-0836": {
+      "first_seen": 1784576485.7650168,
+      "posted": "2026-07-20",
+      "title": "Audio Software Test Engineer - Airpods",
+      "job_id": "200673102-0836",
+      "url": "https://jobs.apple.com/en-us/details/200673102-0836/audio-software-test-engineer-airpods?team=SFTWR"
     }
   }
 }
