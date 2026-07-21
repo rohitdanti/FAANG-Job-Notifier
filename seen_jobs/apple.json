@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200631692-0505": {
-      "first_seen": 1775163183.861438,
-      "posted": "",
-      "title": "Software Engineer, System Services & Daemons, Core OS",
-      "job_id": "200631692-0505"
-    },
     "200635979-0836": {
       "first_seen": 1775163183.861439,
       "posted": "",
@@ -19446,6 +19440,13 @@
       "title": "AI Security Engineer - Red Team",
       "job_id": "200672350-3337",
       "url": "https://jobs.apple.com/en-us/details/200672350-3337/ai-security-engineer-red-team?team=SFTWR"
+    },
+    "200672960-2459": {
+      "first_seen": 1784645492.7796295,
+      "posted": "2026-07-21",
+      "title": "AIML Data Operations - Account & Program Manager",
+      "job_id": "200672960-2459",
+      "url": "https://jobs.apple.com/en-us/details/200672960-2459/aiml-data-operations-account-program-manager?team=SFTWR"
     }
   }
 }
