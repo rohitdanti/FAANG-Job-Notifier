@@ -4,18 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200634591-0157": {
-      "first_seen": 1775163183.86144,
-      "posted": "",
-      "title": "Software Device Driver Engineer - Core I/O, Core OS",
-      "job_id": "200634591-0157"
-    },
-    "200625094-0836": {
-      "first_seen": 1775163183.86144,
-      "posted": "",
-      "title": "Virtualization Software Development Engineer in Test (SDET), Core OS",
-      "job_id": "200625094-0836"
-    },
     "200653706-3749": {
       "first_seen": 1775163183.86144,
       "posted": "",
@@ -19452,6 +19440,20 @@
       "title": "Engineering Program Manager, Enterprise Technology Services",
       "job_id": "200668653-3956",
       "url": "https://jobs.apple.com/en-us/details/200668653-3956/engineering-program-manager-enterprise-technology-services?team=SFTWR"
+    },
+    "200672682-0365": {
+      "first_seen": 1784671300.2019682,
+      "posted": "2026-07-21",
+      "title": "Software Engineer - Activity & Fitness, Watch Software",
+      "job_id": "200672682-0365",
+      "url": "https://jobs.apple.com/en-us/details/200672682-0365/software-engineer-activity-fitness-watch-software?team=SFTWR"
+    },
+    "200672682-0836": {
+      "first_seen": 1784671300.2019734,
+      "posted": "2026-07-21",
+      "title": "Software Engineer - Activity & Fitness, Watch Software",
+      "job_id": "200672682-0836",
+      "url": "https://jobs.apple.com/en-us/details/200672682-0836/software-engineer-activity-fitness-watch-software?team=SFTWR"
     }
   }
 }
