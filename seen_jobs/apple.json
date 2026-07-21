@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200654152-3337": {
-      "first_seen": 1775163183.86144,
-      "posted": "",
-      "title": "System Integration Electrical Engineer - Apple Vision Pro",
-      "job_id": "200654152-3337"
-    },
     "200634591-0157": {
       "first_seen": 1775163183.86144,
       "posted": "",
@@ -19451,6 +19445,13 @@
       "title": "LLM Machine Learning Engineer, Models and Agent Science, AIML",
       "job_id": "200672423-3337",
       "url": "https://jobs.apple.com/en-us/details/200672423-3337/llm-machine-learning-engineer-models-and-agent-science-aiml?team=SFTWR"
+    },
+    "200668653-3956": {
+      "first_seen": 1784665891.4917812,
+      "posted": "2026-07-21",
+      "title": "Engineering Program Manager, Enterprise Technology Services",
+      "job_id": "200668653-3956",
+      "url": "https://jobs.apple.com/en-us/details/200668653-3956/engineering-program-manager-enterprise-technology-services?team=SFTWR"
     }
   }
 }
