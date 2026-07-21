@@ -4,18 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200620192-3543": {
-      "first_seen": 1775163183.861439,
-      "posted": "",
-      "title": "Bluetooth Software Performance Engineer, Wireless Technologies & Ecosystems",
-      "job_id": "200620192-3543"
-    },
-    "200654152-0836": {
-      "first_seen": 1775163183.861439,
-      "posted": "",
-      "title": "System Integration Electrical Engineer - Apple Vision Pro",
-      "job_id": "200654152-0836"
-    },
     "200654152-3337": {
       "first_seen": 1775163183.86144,
       "posted": "",
@@ -19449,6 +19437,20 @@
       "title": "Senior Security Engineer - Red Team",
       "job_id": "200673234-3337",
       "url": "https://jobs.apple.com/en-us/details/200673234-3337/senior-security-engineer-red-team?team=SFTWR"
+    },
+    "200672423-0836": {
+      "first_seen": 1784663508.6510491,
+      "posted": "2026-07-21",
+      "title": "LLM Machine Learning Engineer, Models and Agent Science, AIML",
+      "job_id": "200672423-0836",
+      "url": "https://jobs.apple.com/en-us/details/200672423-0836/llm-machine-learning-engineer-models-and-agent-science-aiml?team=SFTWR"
+    },
+    "200672423-3337": {
+      "first_seen": 1784663508.6510534,
+      "posted": "2026-07-21",
+      "title": "LLM Machine Learning Engineer, Models and Agent Science, AIML",
+      "job_id": "200672423-3337",
+      "url": "https://jobs.apple.com/en-us/details/200672423-3337/llm-machine-learning-engineer-models-and-agent-science-aiml?team=SFTWR"
     }
   }
 }
