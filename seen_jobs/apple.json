@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200640422-3337": {
-      "first_seen": 1775163183.861442,
-      "posted": "",
-      "title": "Software Engineer - Systems & Rendering Performance (Freeform), Vision Products Software",
-      "job_id": "200640422-3337"
-    },
     "200640036-0836": {
       "first_seen": 1775163183.861442,
       "posted": "",
@@ -19465,6 +19459,13 @@
       "title": "Software Quality Engineer, G&A Solutions Engineering (GSE)",
       "job_id": "200672967-0157",
       "url": "https://jobs.apple.com/en-us/details/200672967-0157/software-quality-engineer-g-a-solutions-engineering-gse?team=SFTWR"
+    },
+    "200672814-3956": {
+      "first_seen": 1784756489.6613848,
+      "posted": "2026-07-22",
+      "title": "IT Knowledge & Training Data Scientist, Employee Experience & Productivity, IS&T",
+      "job_id": "200672814-3956",
+      "url": "https://jobs.apple.com/en-us/details/200672814-3956/it-knowledge-training-data-scientist-employee-experience-productivity-is-t?team=SFTWR"
     }
   }
 }
