@@ -4,18 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200641429-0836": {
-      "first_seen": 1775163183.8614411,
-      "posted": "",
-      "title": "Wi-Fi AI/ML Software Engineer, Wireless Technologies & Ecosystems",
-      "job_id": "200641429-0836"
-    },
-    "200643430-0836": {
-      "first_seen": 1775163183.8614411,
-      "posted": "",
-      "title": "Display Device Driver SW Engineer, Core OS",
-      "job_id": "200643430-0836"
-    },
     "200642864-0836": {
       "first_seen": 1775163183.8614411,
       "posted": "",
@@ -19458,6 +19446,20 @@
       "title": "Full Stack Software Engineer, AI/ML Tools",
       "job_id": "200673375-0157",
       "url": "https://jobs.apple.com/en-us/details/200673375-0157/full-stack-software-engineer-ai-ml-tools?team=SFTWR"
+    },
+    "200672748-0836": {
+      "first_seen": 1784741501.764571,
+      "posted": "2026-07-22",
+      "title": "On-device ML Engineering Manager (Tools & Services)",
+      "job_id": "200672748-0836",
+      "url": "https://jobs.apple.com/en-us/details/200672748-0836/on-device-ml-engineering-manager-tools-services?team=SFTWR"
+    },
+    "200672759-0836": {
+      "first_seen": 1784741501.7645762,
+      "posted": "2026-07-22",
+      "title": "GPU ML Engineer",
+      "job_id": "200672759-0836",
+      "url": "https://jobs.apple.com/en-us/details/200672759-0836/gpu-ml-engineer?team=SFTWR"
     }
   }
 }
