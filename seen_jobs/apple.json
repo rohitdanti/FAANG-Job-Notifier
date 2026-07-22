@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200644139-0836": {
-      "first_seen": 1775163183.861442,
-      "posted": "",
-      "title": "Quality Engineering Manager - Bluetooth, Wireless Technologies & Ecosystems",
-      "job_id": "200644139-0836"
-    },
     "200641069-0836": {
       "first_seen": 1775163183.861442,
       "posted": "",
@@ -19463,6 +19457,13 @@
       "title": "On-device ML Engineering Manager (Tools & Services)",
       "job_id": "200672748-3337",
       "url": "https://jobs.apple.com/en-us/details/200672748-3337/on-device-ml-engineering-manager-tools-services?team=SFTWR"
+    },
+    "200673590-0836": {
+      "first_seen": 1784750511.122164,
+      "posted": "2026-07-22",
+      "title": "Software Development Engineer in Test",
+      "job_id": "200673590-0836",
+      "url": "https://jobs.apple.com/en-us/details/200673590-0836/software-development-engineer-in-test?team=SFTWR"
     }
   }
 }
