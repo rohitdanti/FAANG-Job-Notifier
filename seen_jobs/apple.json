@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200653706-3749": {
-      "first_seen": 1775163183.86144,
-      "posted": "",
-      "title": "Hardware System Design Engineer - Apple Vision Pro",
-      "job_id": "200653706-3749"
-    },
     "200653706-3337": {
       "first_seen": 1775163183.86144,
       "posted": "",
@@ -19454,6 +19448,13 @@
       "title": "Software Engineer - Activity & Fitness, Watch Software",
       "job_id": "200672682-0836",
       "url": "https://jobs.apple.com/en-us/details/200672682-0836/software-engineer-activity-fitness-watch-software?team=SFTWR"
+    },
+    "200673483-3337": {
+      "first_seen": 1784686890.3473604,
+      "posted": "2026-07-22",
+      "title": "Engineering Program Manager, AI and Data Platform, Apple Services Engineering",
+      "job_id": "200673483-3337",
+      "url": "https://jobs.apple.com/en-us/details/200673483-3337/engineering-program-manager-ai-and-data-platform-apple-services-engineering?team=SFTWR"
     }
   }
 }
