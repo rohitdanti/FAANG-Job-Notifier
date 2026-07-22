@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200637401-0836": {
-      "first_seen": 1775163183.861442,
-      "posted": "",
-      "title": "Senior Data Analyst - Storage Technologies, Core OS",
-      "job_id": "200637401-0836"
-    },
     "200644139-0836": {
       "first_seen": 1775163183.861442,
       "posted": "",
@@ -19462,6 +19456,13 @@
       "title": "AIML - Sr Software Engineer in Test, Evaluation",
       "job_id": "200654947-3337",
       "url": "https://jobs.apple.com/en-us/details/200654947-3337/aiml-sr-software-engineer-in-test-evaluation?team=SFTWR"
+    },
+    "200672748-3337": {
+      "first_seen": 1784748085.9802473,
+      "posted": "2026-07-22",
+      "title": "On-device ML Engineering Manager (Tools & Services)",
+      "job_id": "200672748-3337",
+      "url": "https://jobs.apple.com/en-us/details/200672748-3337/on-device-ml-engineering-manager-tools-services?team=SFTWR"
     }
   }
 }
