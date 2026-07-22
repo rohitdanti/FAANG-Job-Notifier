@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200641069-0836": {
-      "first_seen": 1775163183.861442,
-      "posted": "",
-      "title": "AirPods Software Engineer, Sensing & Connectivity",
-      "job_id": "200641069-0836"
-    },
     "200640422-3337": {
       "first_seen": 1775163183.861442,
       "posted": "",
@@ -19464,6 +19458,13 @@
       "title": "Software Development Engineer in Test",
       "job_id": "200673590-0836",
       "url": "https://jobs.apple.com/en-us/details/200673590-0836/software-development-engineer-in-test?team=SFTWR"
+    },
+    "200672967-0157": {
+      "first_seen": 1784756191.159555,
+      "posted": "2026-07-22",
+      "title": "Software Quality Engineer, G&A Solutions Engineering (GSE)",
+      "job_id": "200672967-0157",
+      "url": "https://jobs.apple.com/en-us/details/200672967-0157/software-quality-engineer-g-a-solutions-engineering-gse?team=SFTWR"
     }
   }
 }
