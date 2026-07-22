@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200643346-3543": {
-      "first_seen": 1775163183.861442,
-      "posted": "",
-      "title": "Systems Software Engineer, Process Management and Device Attestation, Core OS",
-      "job_id": "200643346-3543"
-    },
     "200637401-0836": {
       "first_seen": 1775163183.861442,
       "posted": "",
@@ -19461,6 +19455,13 @@
       "title": "Senior/Staff Software Engineer, Apple Services Engineering",
       "job_id": "200673591-3337",
       "url": "https://jobs.apple.com/en-us/details/200673591-3337/senior-staff-software-engineer-apple-services-engineering?team=SFTWR"
+    },
+    "200654947-3337": {
+      "first_seen": 1784744494.1013677,
+      "posted": "2026-07-22",
+      "title": "AIML - Sr Software Engineer in Test, Evaluation",
+      "job_id": "200654947-3337",
+      "url": "https://jobs.apple.com/en-us/details/200654947-3337/aiml-sr-software-engineer-in-test-evaluation?team=SFTWR"
     }
   }
 }
