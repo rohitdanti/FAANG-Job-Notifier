@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200642864-0836": {
-      "first_seen": 1775163183.8614411,
-      "posted": "",
-      "title": "Wi-Fi UI Engineer, Wireless Technologies & Ecosystems",
-      "job_id": "200642864-0836"
-    },
     "200643346-3543": {
       "first_seen": 1775163183.861442,
       "posted": "",
@@ -19460,6 +19454,13 @@
       "title": "GPU ML Engineer",
       "job_id": "200672759-0836",
       "url": "https://jobs.apple.com/en-us/details/200672759-0836/gpu-ml-engineer?team=SFTWR"
+    },
+    "200673591-3337": {
+      "first_seen": 1784742684.2327466,
+      "posted": "2026-07-22",
+      "title": "Senior/Staff Software Engineer, Apple Services Engineering",
+      "job_id": "200673591-3337",
+      "url": "https://jobs.apple.com/en-us/details/200673591-3337/senior-staff-software-engineer-apple-services-engineering?team=SFTWR"
     }
   }
 }
