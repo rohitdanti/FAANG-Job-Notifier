@@ -4,24 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200643254-3543": {
-      "first_seen": 1775163183.861444,
-      "posted": "",
-      "title": "Sr. Privacy Systems Software Engineer, Sensing & Connectivity",
-      "job_id": "200643254-3543"
-    },
-    "200633549-3401": {
-      "first_seen": 1775163183.861444,
-      "posted": "",
-      "title": "Sr AR/VR Software Engineer - UI Frameworks, Vision Products Software",
-      "job_id": "200633549-3401"
-    },
-    "200633549-0365": {
-      "first_seen": 1775163183.861444,
-      "posted": "",
-      "title": "Sr AR/VR Software Engineer - UI Frameworks, Vision Products Software",
-      "job_id": "200633549-0365"
-    },
     "200643682-0836": {
       "first_seen": 1775163183.861444,
       "posted": "",
@@ -19472,6 +19454,27 @@
       "title": "Headphones and Accessories Tools & Automation Quality Engineer, Sensing & Connectivity",
       "job_id": "200673114-0836",
       "url": "https://jobs.apple.com/en-us/details/200673114-0836/headphones-and-accessories-tools-automation-quality-engineer-sensing-connectivity?team=SFTWR"
+    },
+    "200673775-1292": {
+      "first_seen": 1784830883.9722311,
+      "posted": "2026-07-23",
+      "title": "Claris Enterprise Field Sales Representative",
+      "job_id": "200673775-1292",
+      "url": "https://jobs.apple.com/en-us/details/200673775-1292/claris-enterprise-field-sales-representative?team=SFTWR"
+    },
+    "200673775-3543": {
+      "first_seen": 1784830883.9722352,
+      "posted": "2026-07-23",
+      "title": "Claris Enterprise Field Sales Representative",
+      "job_id": "200673775-3543",
+      "url": "https://jobs.apple.com/en-us/details/200673775-3543/claris-enterprise-field-sales-representative?team=SFTWR"
+    },
+    "200673775-3956": {
+      "first_seen": 1784830883.972237,
+      "posted": "2026-07-23",
+      "title": "Claris Enterprise Field Sales Representative",
+      "job_id": "200673775-3956",
+      "url": "https://jobs.apple.com/en-us/details/200673775-3956/claris-enterprise-field-sales-representative?team=SFTWR"
     }
   }
 }
