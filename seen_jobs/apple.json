@@ -4,18 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200641237-3543": {
-      "first_seen": 1775163183.861443,
-      "posted": "",
-      "title": "Headphones and Accessories Tools & Automation Quality Engineer, Sensing & Connectivity",
-      "job_id": "200641237-3543"
-    },
-    "200644146-0505": {
-      "first_seen": 1775163183.861443,
-      "posted": "",
-      "title": "Platform Systems Engineering Manager, Core OS",
-      "job_id": "200644146-0505"
-    },
     "200649460-3401": {
       "first_seen": 1775163183.861443,
       "posted": "",
@@ -19468,6 +19456,20 @@
       "title": "Senior iOS Developer",
       "job_id": "200653312-3577",
       "url": "https://jobs.apple.com/en-us/details/200653312-3577/senior-ios-developer?team=SFTWR"
+    },
+    "200673732-0953": {
+      "first_seen": 1784824884.2821286,
+      "posted": "2026-07-23",
+      "title": "Senior Software Engineer, Identity Security (Golang)",
+      "job_id": "200673732-0953",
+      "url": "https://jobs.apple.com/en-us/details/200673732-0953/senior-software-engineer-identity-security-golang?team=SFTWR"
+    },
+    "200673732-3337": {
+      "first_seen": 1784824884.282134,
+      "posted": "2026-07-23",
+      "title": "Senior Software Engineer, Identity Security (Golang)",
+      "job_id": "200673732-3337",
+      "url": "https://jobs.apple.com/en-us/details/200673732-3337/senior-software-engineer-identity-security-golang?team=SFTWR"
     }
   }
 }
