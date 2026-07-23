@@ -4,24 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200649673-3401": {
-      "first_seen": 1775163183.861444,
-      "posted": "",
-      "title": "Sr AR/VR Software Engineer - visionOS Apps, Vision Products Software",
-      "job_id": "200649673-3401"
-    },
-    "200631962-0836": {
-      "first_seen": 1775163183.8614452,
-      "posted": "",
-      "title": "File Systems Software Engineer, Core OS",
-      "job_id": "200631962-0836"
-    },
-    "200640806-0836": {
-      "first_seen": 1775163183.8614452,
-      "posted": "",
-      "title": "Firmware Development Engineer, Wireless Technologies & Ecosystems",
-      "job_id": "200640806-0836"
-    },
     "200639881-3401": {
       "first_seen": 1775163183.8614452,
       "posted": "",
@@ -19476,6 +19458,27 @@
       "title": "Operations Software Engineer- Customer Systems",
       "job_id": "200673256-0157",
       "url": "https://jobs.apple.com/en-us/details/200673256-0157/operations-software-engineer-customer-systems?team=SFTWR"
+    },
+    "200673904-3337": {
+      "first_seen": 1784832704.903062,
+      "posted": "2026-07-23",
+      "title": "Software Engineer, Core Services - Apple Services Engineering",
+      "job_id": "200673904-3337",
+      "url": "https://jobs.apple.com/en-us/details/200673904-3337/software-engineer-core-services-apple-services-engineering?team=SFTWR"
+    },
+    "200673902-0836": {
+      "first_seen": 1784832704.9030666,
+      "posted": "2026-07-23",
+      "title": "Senior Tax Product Manager, Apple Services Engineering",
+      "job_id": "200673902-0836",
+      "url": "https://jobs.apple.com/en-us/details/200673902-0836/senior-tax-product-manager-apple-services-engineering?team=SFTWR"
+    },
+    "200673911-3337": {
+      "first_seen": 1784832704.9030678,
+      "posted": "2026-07-23",
+      "title": "Service Reliability Engineer (SRE)",
+      "job_id": "200673911-3337",
+      "url": "https://jobs.apple.com/en-us/details/200673911-3337/service-reliability-engineer-sre?team=SFTWR"
     }
   }
 }
