@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200643682-0836": {
-      "first_seen": 1775163183.861444,
-      "posted": "",
-      "title": "AirPods Software Engineer, Sensing & Connectivity",
-      "job_id": "200643682-0836"
-    },
     "200649673-3401": {
       "first_seen": 1775163183.861444,
       "posted": "",
@@ -19475,6 +19469,13 @@
       "title": "Claris Enterprise Field Sales Representative",
       "job_id": "200673775-3956",
       "url": "https://jobs.apple.com/en-us/details/200673775-3956/claris-enterprise-field-sales-representative?team=SFTWR"
+    },
+    "200673256-0157": {
+      "first_seen": 1784832093.7416885,
+      "posted": "2026-07-23",
+      "title": "Operations Software Engineer- Customer Systems",
+      "job_id": "200673256-0157",
+      "url": "https://jobs.apple.com/en-us/details/200673256-0157/operations-software-engineer-customer-systems?team=SFTWR"
     }
   }
 }
