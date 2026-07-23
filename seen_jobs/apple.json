@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200640285-3543": {
-      "first_seen": 1775163183.861444,
-      "posted": "",
-      "title": "Core Wi-Fi Embedded Software Engineer, Wireless Technologies & Ecosystems",
-      "job_id": "200640285-3543"
-    },
     "200643254-3543": {
       "first_seen": 1775163183.861444,
       "posted": "",
@@ -19471,6 +19465,13 @@
       "title": "Software Development Engineer in Test, Creative Apps",
       "job_id": "200673694-0836",
       "url": "https://jobs.apple.com/en-us/details/200673694-0836/software-development-engineer-in-test-creative-apps?team=SFTWR"
+    },
+    "200673114-0836": {
+      "first_seen": 1784829703.616405,
+      "posted": "2026-07-23",
+      "title": "Headphones and Accessories Tools & Automation Quality Engineer, Sensing & Connectivity",
+      "job_id": "200673114-0836",
+      "url": "https://jobs.apple.com/en-us/details/200673114-0836/headphones-and-accessories-tools-automation-quality-engineer-sensing-connectivity?team=SFTWR"
     }
   }
 }
