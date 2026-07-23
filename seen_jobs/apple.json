@@ -4,18 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200639881-3401": {
-      "first_seen": 1775163183.8614452,
-      "posted": "",
-      "title": "Software Engineer, Connected Audio, Sensing & Connectivity",
-      "job_id": "200639881-3401"
-    },
-    "200641952-3401": {
-      "first_seen": 1775163183.8614452,
-      "posted": "",
-      "title": "AR/VR UI Software Engineer - FaceTime, Vision Products Software",
-      "job_id": "200641952-3401"
-    },
     "200573152-3543": {
       "first_seen": 1775163183.8614452,
       "posted": "",
@@ -19479,6 +19467,20 @@
       "title": "Service Reliability Engineer (SRE)",
       "job_id": "200673911-3337",
       "url": "https://jobs.apple.com/en-us/details/200673911-3337/service-reliability-engineer-sre?team=SFTWR"
+    },
+    "200673757-0836": {
+      "first_seen": 1784833295.021756,
+      "posted": "2026-07-23",
+      "title": "Software Engineer, Shortcuts, Proactive",
+      "job_id": "200673757-0836",
+      "url": "https://jobs.apple.com/en-us/details/200673757-0836/software-engineer-shortcuts-proactive?team=SFTWR"
+    },
+    "200673880-0836": {
+      "first_seen": 1784833295.0217607,
+      "posted": "2026-07-23",
+      "title": "Senior Software Engineer, Apple Data Platform",
+      "job_id": "200673880-0836",
+      "url": "https://jobs.apple.com/en-us/details/200673880-0836/senior-software-engineer-apple-data-platform?team=SFTWR"
     }
   }
 }
