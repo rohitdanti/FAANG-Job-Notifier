@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200573152-3543": {
-      "first_seen": 1775163183.8614452,
-      "posted": "",
-      "title": "Software Development Engineer Wi-Fi Experience, Wireless Technologies & Ecosystems",
-      "job_id": "200573152-3543"
-    },
     "200629354-0836": {
       "first_seen": 1775163183.861446,
       "posted": "",
@@ -19481,6 +19475,13 @@
       "title": "Senior Software Engineer, Apple Data Platform",
       "job_id": "200673880-0836",
       "url": "https://jobs.apple.com/en-us/details/200673880-0836/senior-software-engineer-apple-data-platform?team=SFTWR"
+    },
+    "200673868-6709": {
+      "first_seen": 1784835702.4606438,
+      "posted": "2026-07-23",
+      "title": "Critical Facilities Technician, Data Center Operations",
+      "job_id": "200673868-6709",
+      "url": "https://jobs.apple.com/en-us/details/200673868-6709/critical-facilities-technician-data-center-operations?team=SFTWR"
     }
   }
 }
