@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200629354-0836": {
-      "first_seen": 1775163183.861446,
-      "posted": "",
-      "title": "Sr. System Software Engineer, AirPods, Sensing & Connectivity",
-      "job_id": "200629354-0836"
-    },
     "200593210-0836": {
       "first_seen": 1775163183.861446,
       "posted": "",
@@ -19482,6 +19476,13 @@
       "title": "Critical Facilities Technician, Data Center Operations",
       "job_id": "200673868-6709",
       "url": "https://jobs.apple.com/en-us/details/200673868-6709/critical-facilities-technician-data-center-operations?team=SFTWR"
+    },
+    "200673946-0836": {
+      "first_seen": 1784839304.5847719,
+      "posted": "2026-07-23",
+      "title": "Senior iOS Experiences Engineer - Services Special Project",
+      "job_id": "200673946-0836",
+      "url": "https://jobs.apple.com/en-us/details/200673946-0836/senior-ios-experiences-engineer-services-special-project?team=SFTWR"
     }
   }
 }
