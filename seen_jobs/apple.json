@@ -4,24 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200643009-0836": {
-      "first_seen": 1775163183.861446,
-      "posted": "",
-      "title": "Core Bring Up Engineer, Core OS",
-      "job_id": "200643009-0836"
-    },
-    "200624315-3543": {
-      "first_seen": 1775163183.861446,
-      "posted": "",
-      "title": "Bluetooth Software Engineer, Wireless Technologies & Ecosystems",
-      "job_id": "200624315-3543"
-    },
-    "200636343-3401": {
-      "first_seen": 1775163183.861446,
-      "posted": "",
-      "title": "SpringBoard Multitasking Experience",
-      "job_id": "200636343-3401"
-    },
     "200572773-0836": {
       "first_seen": 1775163183.861448,
       "posted": "",
@@ -19484,6 +19466,27 @@
       "title": "Big Data Systems Engineer",
       "job_id": "200673652-0157",
       "url": "https://jobs.apple.com/en-us/details/200673652-0157/big-data-systems-engineer?team=SFTWR"
+    },
+    "200673930-3337": {
+      "first_seen": 1784847696.3651955,
+      "posted": "2026-07-23",
+      "title": "Senior Software Engineer, Apple's Streaming Platform and Solutions",
+      "job_id": "200673930-3337",
+      "url": "https://jobs.apple.com/en-us/details/200673930-3337/senior-software-engineer-apple-s-streaming-platform-and-solutions?team=SFTWR"
+    },
+    "200673967-0157": {
+      "first_seen": 1784847696.3651996,
+      "posted": "2026-07-23",
+      "title": "Database Systems Engineer",
+      "job_id": "200673967-0157",
+      "url": "https://jobs.apple.com/en-us/details/200673967-0157/database-systems-engineer?team=SFTWR"
+    },
+    "200673991-0157": {
+      "first_seen": 1784847696.3652015,
+      "posted": "2026-07-23",
+      "title": "Linux Systems Engineer",
+      "job_id": "200673991-0157",
+      "url": "https://jobs.apple.com/en-us/details/200673991-0157/linux-systems-engineer?team=SFTWR"
     }
   }
 }
