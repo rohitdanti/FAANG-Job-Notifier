@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200642546-0836": {
-      "first_seen": 1775163183.861452,
-      "posted": "",
-      "title": "Research Scientist, Applied Machine Learning Security (Agent Systems)",
-      "job_id": "200642546-0836"
-    },
     "200646692-3543": {
       "first_seen": 1775163183.861452,
       "posted": "",
@@ -19506,6 +19500,13 @@
       "title": "Studio Producer - Fitness+",
       "job_id": "200673879-3326",
       "url": "https://jobs.apple.com/en-us/details/200673879-3326/studio-producer-fitness?team=SFTWR"
+    },
+    "200674154-0836": {
+      "first_seen": 1784935285.1226988,
+      "posted": "2026-07-24",
+      "title": "Camera Framework Tooling Engineer - Photo Capture, Camera & Photos",
+      "job_id": "200674154-0836",
+      "url": "https://jobs.apple.com/en-us/details/200674154-0836/camera-framework-tooling-engineer-photo-capture-camera-photos?team=SFTWR"
     }
   }
 }
