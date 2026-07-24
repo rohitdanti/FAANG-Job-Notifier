@@ -4,18 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200636140-0836": {
-      "first_seen": 1775163183.861449,
-      "posted": "",
-      "title": "Systems Software Engineer, Wireless Technologies & Ecosystems",
-      "job_id": "200636140-0836"
-    },
-    "200592486-0836": {
-      "first_seen": 1775163183.861449,
-      "posted": "",
-      "title": "Software Engineer, Trusted Execution (Secure Boot)",
-      "job_id": "200592486-0836"
-    },
     "200595175-3543": {
       "first_seen": 1775163183.861449,
       "posted": "",
@@ -19494,6 +19482,20 @@
       "title": "Site Reliability Engineer - Kafka",
       "job_id": "200674028-3337",
       "url": "https://jobs.apple.com/en-us/details/200674028-3337/site-reliability-engineer-kafka?team=SFTWR"
+    },
+    "200673955-3543": {
+      "first_seen": 1784911317.3710728,
+      "posted": "2026-07-24",
+      "title": "Software Engineer - Customer Feedback",
+      "job_id": "200673955-3543",
+      "url": "https://jobs.apple.com/en-us/details/200673955-3543/software-engineer-customer-feedback?team=SFTWR"
+    },
+    "200674011-0836": {
+      "first_seen": 1784911317.3710773,
+      "posted": "2026-07-24",
+      "title": "Storage Infrastructure - Apple Services Engineering",
+      "job_id": "200674011-0836",
+      "url": "https://jobs.apple.com/en-us/details/200674011-0836/storage-infrastructure-apple-services-engineering?team=SFTWR"
     }
   }
 }
