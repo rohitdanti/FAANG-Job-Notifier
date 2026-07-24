@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200589802-0836": {
-      "first_seen": 1775163183.86145,
-      "posted": "",
-      "title": "Software Engineering Manager, Security",
-      "job_id": "200589802-0836"
-    },
     "200620920-0836": {
       "first_seen": 1775163183.86145,
       "posted": "",
@@ -19500,6 +19494,13 @@
       "title": "Senior / Staff Machine Learning Engineer",
       "job_id": "200674140-3337",
       "url": "https://jobs.apple.com/en-us/details/200674140-3337/senior-staff-machine-learning-engineer?team=SFTWR"
+    },
+    "200673805-0157": {
+      "first_seen": 1784922700.1597066,
+      "posted": "2026-07-24",
+      "title": "Site Reliability Engineer, AiDP Production Engineering",
+      "job_id": "200673805-0157",
+      "url": "https://jobs.apple.com/en-us/details/200673805-0157/site-reliability-engineer-aidp-production-engineering?team=SFTWR"
     }
   }
 }
