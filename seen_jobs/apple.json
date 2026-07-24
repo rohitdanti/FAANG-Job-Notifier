@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200622834-3543": {
-      "first_seen": 1775163183.861449,
-      "posted": "",
-      "title": "Software Development Engineer in Test - Platform Productization, Core OS",
-      "job_id": "200622834-3543"
-    },
     "200636140-0836": {
       "first_seen": 1775163183.861449,
       "posted": "",
@@ -19493,6 +19487,13 @@
       "title": "Compute Runtime Software Engineer",
       "job_id": "200673894-3337",
       "url": "https://jobs.apple.com/en-us/details/200673894-3337/compute-runtime-software-engineer?team=SFTWR"
+    },
+    "200674028-3337": {
+      "first_seen": 1784910703.30176,
+      "posted": "2026-07-24",
+      "title": "Site Reliability Engineer - Kafka",
+      "job_id": "200674028-3337",
+      "url": "https://jobs.apple.com/en-us/details/200674028-3337/site-reliability-engineer-kafka?team=SFTWR"
     }
   }
 }
