@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200595175-3543": {
-      "first_seen": 1775163183.861449,
-      "posted": "",
-      "title": "Software Engineer, Applied ML Connected Experiences, Sensing & Connectivity",
-      "job_id": "200595175-3543"
-    },
     "200645076-3956": {
       "first_seen": 1775163183.86145,
       "posted": "",
@@ -19496,6 +19490,13 @@
       "title": "Storage Infrastructure - Apple Services Engineering",
       "job_id": "200674011-0836",
       "url": "https://jobs.apple.com/en-us/details/200674011-0836/storage-infrastructure-apple-services-engineering?team=SFTWR"
+    },
+    "200674093-0836": {
+      "first_seen": 1784913693.4328535,
+      "posted": "2026-07-24",
+      "title": "Search Engineer - Services Special Projects",
+      "job_id": "200674093-0836",
+      "url": "https://jobs.apple.com/en-us/details/200674093-0836/search-engineer-services-special-projects?team=SFTWR"
     }
   }
 }
