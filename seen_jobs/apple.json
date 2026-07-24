@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200631667-0836": {
-      "first_seen": 1775163183.861448,
-      "posted": "",
-      "title": "Apple Watch Performance, Tools & Automation Engineer, Sensing & Connectivity",
-      "job_id": "200631667-0836"
-    },
     "200630136-0836": {
       "first_seen": 1775163183.861449,
       "posted": "",
@@ -19491,6 +19485,13 @@
       "title": "SOC Power Management Software Engineer",
       "job_id": "200673682-0836",
       "url": "https://jobs.apple.com/en-us/details/200673682-0836/soc-power-management-software-engineer?team=SFTWR"
+    },
+    "200673386-0157": {
+      "first_seen": 1784904698.4923358,
+      "posted": "2026-07-24",
+      "title": "Software Asset Program Manager",
+      "job_id": "200673386-0157",
+      "url": "https://jobs.apple.com/en-us/details/200673386-0157/software-asset-program-manager?team=SFTWR"
     }
   }
 }
