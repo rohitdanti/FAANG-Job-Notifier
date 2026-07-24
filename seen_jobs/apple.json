@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200636068-3543": {
-      "first_seen": 1775163183.861451,
-      "posted": "",
-      "title": "Wireless Bluetooth QA Engineer, Wireless Technologies & Ecosystems",
-      "job_id": "200636068-3543"
-    },
     "200644622-0836": {
       "first_seen": 1775163183.861451,
       "posted": "",
@@ -19503,6 +19497,13 @@
       "title": "IT Producer",
       "job_id": "200673235-3956",
       "url": "https://jobs.apple.com/en-us/details/200673235-3956/it-producer?team=SFTWR"
+    },
+    "200674160-3337": {
+      "first_seen": 1784931686.7908797,
+      "posted": "2026-07-24",
+      "title": "Software Engineer - Security Framework",
+      "job_id": "200674160-3337",
+      "url": "https://jobs.apple.com/en-us/details/200674160-3337/software-engineer-security-framework?team=SFTWR"
     }
   }
 }
