@@ -4,24 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200631825-3543": {
-      "first_seen": 1775163183.861448,
-      "posted": "",
-      "title": "Wi-Fi / Bluetooth Software System Performance Engineer, Wireless Technologies & Ecosystems",
-      "job_id": "200631825-3543"
-    },
-    "200635981-3401": {
-      "first_seen": 1775163183.861448,
-      "posted": "",
-      "title": "AR/VR Graphics Software Engineer - Personas, Vision Products Software",
-      "job_id": "200635981-3401"
-    },
-    "200611790-0836": {
-      "first_seen": 1775163183.861448,
-      "posted": "",
-      "title": "Virtual Memory Kernel Engineer, Core OS",
-      "job_id": "200611790-0836"
-    },
     "200631667-0836": {
       "first_seen": 1775163183.861448,
       "posted": "",
@@ -19488,6 +19470,27 @@
       "title": "Senior Data Analyst, Health Operations (MSO)",
       "job_id": "200674019-0836",
       "url": "https://jobs.apple.com/en-us/details/200674019-0836/senior-data-analyst-health-operations-mso?team=SFTWR"
+    },
+    "200673963-3401": {
+      "first_seen": 1784898113.2749238,
+      "posted": "2026-07-24",
+      "title": "Software Integration Engineer, CoreOS",
+      "job_id": "200673963-3401",
+      "url": "https://jobs.apple.com/en-us/details/200673963-3401/software-integration-engineer-coreos?team=SFTWR"
+    },
+    "200673952-3401": {
+      "first_seen": 1784898113.2749286,
+      "posted": "2026-07-24",
+      "title": "Software Development Engineer, System Analytics & Intelligence (SAIL)",
+      "job_id": "200673952-3401",
+      "url": "https://jobs.apple.com/en-us/details/200673952-3401/software-development-engineer-system-analytics-intelligence-sail?team=SFTWR"
+    },
+    "200673682-0836": {
+      "first_seen": 1784898113.2749307,
+      "posted": "2026-07-24",
+      "title": "SOC Power Management Software Engineer",
+      "job_id": "200673682-0836",
+      "url": "https://jobs.apple.com/en-us/details/200673682-0836/soc-power-management-software-engineer?team=SFTWR"
     }
   }
 }
