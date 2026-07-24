@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200630136-0836": {
-      "first_seen": 1775163183.861449,
-      "posted": "",
-      "title": "Sr. Software Engineer, Core Location, Sensing & Connectivity",
-      "job_id": "200630136-0836"
-    },
     "200622834-3543": {
       "first_seen": 1775163183.861449,
       "posted": "",
@@ -19492,6 +19486,13 @@
       "title": "Software Asset Program Manager",
       "job_id": "200673386-0157",
       "url": "https://jobs.apple.com/en-us/details/200673386-0157/software-asset-program-manager?team=SFTWR"
+    },
+    "200673894-3337": {
+      "first_seen": 1784908906.088441,
+      "posted": "2026-07-24",
+      "title": "Compute Runtime Software Engineer",
+      "job_id": "200673894-3337",
+      "url": "https://jobs.apple.com/en-us/details/200673894-3337/compute-runtime-software-engineer?team=SFTWR"
     }
   }
 }
