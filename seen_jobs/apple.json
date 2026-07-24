@@ -4,18 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200645076-3956": {
-      "first_seen": 1775163183.86145,
-      "posted": "",
-      "title": "Wireless Validation Engineer - Stability, Wireless Technologies & Ecosystems",
-      "job_id": "200645076-3956"
-    },
-    "200646650-0836": {
-      "first_seen": 1775163183.86145,
-      "posted": "",
-      "title": "User Secrets, Software Engineer",
-      "job_id": "200646650-0836"
-    },
     "200642948-0836": {
       "first_seen": 1775163183.86145,
       "posted": "",
@@ -19497,6 +19485,20 @@
       "title": "Search Engineer - Services Special Projects",
       "job_id": "200674093-0836",
       "url": "https://jobs.apple.com/en-us/details/200674093-0836/search-engineer-services-special-projects?team=SFTWR"
+    },
+    "200631825-3543": {
+      "first_seen": 1784919083.0915966,
+      "posted": "2026-07-24",
+      "title": "Wi-Fi / Bluetooth Software System Performance Engineer, Wireless Technologies & Ecosystems",
+      "job_id": "200631825-3543",
+      "url": "https://jobs.apple.com/en-us/details/200631825-3543/wi-fi-bluetooth-software-system-performance-engineer-wireless-technologies-ecosystems?team=SFTWR"
+    },
+    "200673653-0836": {
+      "first_seen": 1784919083.0916007,
+      "posted": "2026-07-24",
+      "title": "Senior Privacy Engineer, Privacy Engineering",
+      "job_id": "200673653-0836",
+      "url": "https://jobs.apple.com/en-us/details/200673653-0836/senior-privacy-engineer-privacy-engineering?team=SFTWR"
     }
   }
 }
