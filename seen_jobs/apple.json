@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200642948-0836": {
-      "first_seen": 1775163183.86145,
-      "posted": "",
-      "title": "Software Development Engineer in Test - Kernel Quality Engineering, Core OS",
-      "job_id": "200642948-0836"
-    },
     "200589802-0836": {
       "first_seen": 1775163183.86145,
       "posted": "",
@@ -19499,6 +19493,13 @@
       "title": "Senior Privacy Engineer, Privacy Engineering",
       "job_id": "200673653-0836",
       "url": "https://jobs.apple.com/en-us/details/200673653-0836/senior-privacy-engineer-privacy-engineering?team=SFTWR"
+    },
+    "200674140-3337": {
+      "first_seen": 1784919703.2259896,
+      "posted": "2026-07-24",
+      "title": "Senior / Staff Machine Learning Engineer",
+      "job_id": "200674140-3337",
+      "url": "https://jobs.apple.com/en-us/details/200674140-3337/senior-staff-machine-learning-engineer?team=SFTWR"
     }
   }
 }
