@@ -4,18 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200644622-0836": {
-      "first_seen": 1775163183.861451,
-      "posted": "",
-      "title": "User Secrets - Software Engineer",
-      "job_id": "200644622-0836"
-    },
-    "200641114-0836": {
-      "first_seen": 1775163183.861451,
-      "posted": "",
-      "title": "GPU Compiler Engineer, Graphics, Game and ML",
-      "job_id": "200641114-0836"
-    },
     "200642546-0836": {
       "first_seen": 1775163183.861452,
       "posted": "",
@@ -19504,6 +19492,20 @@
       "title": "Software Engineer - Security Framework",
       "job_id": "200674160-3337",
       "url": "https://jobs.apple.com/en-us/details/200674160-3337/software-engineer-security-framework?team=SFTWR"
+    },
+    "200673162-3337": {
+      "first_seen": 1784934099.7879276,
+      "posted": "2026-07-24",
+      "title": "Manager, Software Engineering, App Store",
+      "job_id": "200673162-3337",
+      "url": "https://jobs.apple.com/en-us/details/200673162-3337/manager-software-engineering-app-store?team=SFTWR"
+    },
+    "200673879-3326": {
+      "first_seen": 1784934099.787934,
+      "posted": "2026-07-24",
+      "title": "Studio Producer - Fitness+",
+      "job_id": "200673879-3326",
+      "url": "https://jobs.apple.com/en-us/details/200673879-3326/studio-producer-fitness?team=SFTWR"
     }
   }
 }
