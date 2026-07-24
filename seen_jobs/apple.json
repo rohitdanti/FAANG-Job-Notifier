@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200572773-0836": {
-      "first_seen": 1775163183.861448,
-      "posted": "",
-      "title": "ML Framework (MetalLM) Engineer, Graphics, Game and ML",
-      "job_id": "200572773-0836"
-    },
     "200631825-3543": {
       "first_seen": 1775163183.861448,
       "posted": "",
@@ -19487,6 +19481,13 @@
       "title": "Linux Systems Engineer",
       "job_id": "200673991-0157",
       "url": "https://jobs.apple.com/en-us/details/200673991-0157/linux-systems-engineer?team=SFTWR"
+    },
+    "200674019-0836": {
+      "first_seen": 1784852501.2501256,
+      "posted": "2026-07-24",
+      "title": "Senior Data Analyst, Health Operations (MSO)",
+      "job_id": "200674019-0836",
+      "url": "https://jobs.apple.com/en-us/details/200674019-0836/senior-data-analyst-health-operations-mso?team=SFTWR"
     }
   }
 }
