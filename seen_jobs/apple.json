@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200615328-0836": {
-      "first_seen": 1775163183.861452,
-      "posted": "",
-      "title": "Sr. Software Engineer, AirPods, Sensing & Connectivity",
-      "job_id": "200615328-0836"
-    },
     "200635847-0836": {
       "first_seen": 1775163183.861452,
       "posted": "",
@@ -19509,6 +19503,13 @@
       "title": "Software Engineer, SDLC Analytics",
       "job_id": "200671850-3543",
       "url": "https://jobs.apple.com/en-us/details/200671850-3543/software-engineer-sdlc-analytics?team=SFTWR"
+    },
+    "200674174-0157": {
+      "first_seen": 1784941913.1193874,
+      "posted": "2026-07-25",
+      "title": "Swift Ecosystem and Education Engineer",
+      "job_id": "200674174-0157",
+      "url": "https://jobs.apple.com/en-us/details/200674174-0157/swift-ecosystem-and-education-engineer?team=SFTWR"
     }
   }
 }
