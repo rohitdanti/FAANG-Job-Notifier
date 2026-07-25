@@ -4,18 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200646692-3543": {
-      "first_seen": 1775163183.861452,
-      "posted": "",
-      "title": "Wireless Software Test Engineer, Wireless Technologies & Ecosystems",
-      "job_id": "200646692-3543"
-    },
-    "200648341-0836": {
-      "first_seen": 1775163183.861452,
-      "posted": "",
-      "title": "Core Bring Up Engineer, Core OS",
-      "job_id": "200648341-0836"
-    },
     "200615328-0836": {
       "first_seen": 1775163183.861452,
       "posted": "",
@@ -19507,6 +19495,20 @@
       "title": "Camera Framework Tooling Engineer - Photo Capture, Camera & Photos",
       "job_id": "200674154-0836",
       "url": "https://jobs.apple.com/en-us/details/200674154-0836/camera-framework-tooling-engineer-photo-capture-camera-photos?team=SFTWR"
+    },
+    "200671850-0836": {
+      "first_seen": 1784938895.7325432,
+      "posted": "2026-07-25",
+      "title": "Software Engineer, SDLC Analytics",
+      "job_id": "200671850-0836",
+      "url": "https://jobs.apple.com/en-us/details/200671850-0836/software-engineer-sdlc-analytics?team=SFTWR"
+    },
+    "200671850-3543": {
+      "first_seen": 1784938895.732549,
+      "posted": "2026-07-25",
+      "title": "Software Engineer, SDLC Analytics",
+      "job_id": "200671850-3543",
+      "url": "https://jobs.apple.com/en-us/details/200671850-3543/software-engineer-sdlc-analytics?team=SFTWR"
     }
   }
 }
