@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200646170-0836": {
-      "first_seen": 1775163183.8614552,
-      "posted": "",
-      "title": "Display Driver Engineer, Graphics, Games, & ML",
-      "job_id": "200646170-0836"
-    },
     "200647491-0836": {
       "first_seen": 1775163183.8614552,
       "posted": "",
@@ -19525,6 +19519,13 @@
       "title": "Senior Software Engineer \u2014 CloudKit Client",
       "job_id": "200673183-0836",
       "url": "https://jobs.apple.com/en-us/details/200673183-0836/senior-software-engineer-cloudkit-client?team=SFTWR"
+    },
+    "200674386-0836": {
+      "first_seen": 1785189699.6195111,
+      "posted": "2026-07-27",
+      "title": "Senior Software Engineer - Intelligence Platform Data Foundations, Proactive",
+      "job_id": "200674386-0836",
+      "url": "https://jobs.apple.com/en-us/details/200674386-0836/senior-software-engineer-intelligence-platform-data-foundations-proactive?team=SFTWR"
     }
   }
 }
