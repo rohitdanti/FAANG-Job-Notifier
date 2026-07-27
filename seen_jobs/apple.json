@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200630065-0836": {
-      "first_seen": 1775163183.861454,
-      "posted": "",
-      "title": "Apple Silicon GPU Driver Engineer - Performance, Graphics, Games, & ML",
-      "job_id": "200630065-0836"
-    },
     "200646833-0836": {
       "first_seen": 1775163183.861454,
       "posted": "",
@@ -19520,6 +19514,13 @@
       "title": "Senior Manager, Spatial Platform Engineering, Vision Products Group",
       "job_id": "200665515-3956",
       "url": "https://jobs.apple.com/en-us/details/200665515-3956/senior-manager-spatial-platform-engineering-vision-products-group?team=SFTWR"
+    },
+    "200672193-3956": {
+      "first_seen": 1785178282.2633746,
+      "posted": "2026-07-27",
+      "title": "Engineering Manager- Server, Pro/Go, Cloud",
+      "job_id": "200672193-3956",
+      "url": "https://jobs.apple.com/en-us/details/200672193-3956/engineering-manager-server-pro-go-cloud?team=SFTWR"
     }
   }
 }
