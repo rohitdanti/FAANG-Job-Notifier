@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200631702-0836": {
-      "first_seen": 1775163183.861454,
-      "posted": "",
-      "title": "Pre-silicon ML and Compute Framework Engineer, Graphics, Game and ML",
-      "job_id": "200631702-0836"
-    },
     "200630065-0836": {
       "first_seen": 1775163183.861454,
       "posted": "",
@@ -19519,6 +19513,13 @@
       "title": "Senior Software Engineer, Ads",
       "job_id": "200674155-0836",
       "url": "https://jobs.apple.com/en-us/details/200674155-0836/senior-software-engineer-ads?team=SFTWR"
+    },
+    "200665515-3956": {
+      "first_seen": 1785176502.9475257,
+      "posted": "2026-07-27",
+      "title": "Senior Manager, Spatial Platform Engineering, Vision Products Group",
+      "job_id": "200665515-3956",
+      "url": "https://jobs.apple.com/en-us/details/200665515-3956/senior-manager-spatial-platform-engineering-vision-products-group?team=SFTWR"
     }
   }
 }
