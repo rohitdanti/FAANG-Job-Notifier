@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200647885-3543": {
-      "first_seen": 1775163183.8614552,
-      "posted": "",
-      "title": "Wireless System Validation Engineer, Wireless Technologies & Ecosystems",
-      "job_id": "200647885-3543"
-    },
     "200623717-0836": {
       "first_seen": 1775163183.8614552,
       "posted": "",
@@ -19527,6 +19521,13 @@
       "title": "Observability SRE Manager, Apple Services Engineering",
       "job_id": "200674418-3337",
       "url": "https://jobs.apple.com/en-us/details/200674418-3337/observability-sre-manager-apple-services-engineering?team=SFTWR"
+    },
+    "200671806-0836": {
+      "first_seen": 1785193900.0860517,
+      "posted": "2026-07-27",
+      "title": "Engineering Program Manager, Cloud Capacity Engineering, Apple Services Engineering",
+      "job_id": "200671806-0836",
+      "url": "https://jobs.apple.com/en-us/details/200671806-0836/engineering-program-manager-cloud-capacity-engineering-apple-services-engineering?team=SFTWR"
     }
   }
 }
