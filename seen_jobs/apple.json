@@ -4,24 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200624813-0836": {
-      "first_seen": 1775163183.861453,
-      "posted": "",
-      "title": "Senior Security Software Engineer - Secure Transports",
-      "job_id": "200624813-0836"
-    },
-    "200628202-0836": {
-      "first_seen": 1775163183.861453,
-      "posted": "",
-      "title": "GPU Software Architecture Engineer, Graphics, Games, & ML",
-      "job_id": "200628202-0836"
-    },
-    "200628574-0836": {
-      "first_seen": 1775163183.861453,
-      "posted": "",
-      "title": "Metal GPU Driver Engineer, Graphics, Games, & ML",
-      "job_id": "200628574-0836"
-    },
     "200649068-0836": {
       "first_seen": 1775163183.861453,
       "posted": "",
@@ -19514,6 +19496,27 @@
       "title": "Staff Applied Scientist, UI Control Models",
       "job_id": "200674216-0836",
       "url": "https://jobs.apple.com/en-us/details/200674216-0836/staff-applied-scientist-ui-control-models?team=SFTWR"
+    },
+    "200673514-0836": {
+      "first_seen": 1785171701.2775946,
+      "posted": "2026-07-27",
+      "title": "Agent Sciences and Infrastructure Engineer, AIML",
+      "job_id": "200673514-0836",
+      "url": "https://jobs.apple.com/en-us/details/200673514-0836/agent-sciences-and-infrastructure-engineer-aiml?team=SFTWR"
+    },
+    "200673514-3337": {
+      "first_seen": 1785171701.277601,
+      "posted": "2026-07-27",
+      "title": "Agent Sciences and Infrastructure Engineer, AIML",
+      "job_id": "200673514-3337",
+      "url": "https://jobs.apple.com/en-us/details/200673514-3337/agent-sciences-and-infrastructure-engineer-aiml?team=SFTWR"
+    },
+    "200674117-0836": {
+      "first_seen": 1785171701.2776034,
+      "posted": "2026-07-27",
+      "title": "GPU Image Processing Framework Software Engineer",
+      "job_id": "200674117-0836",
+      "url": "https://jobs.apple.com/en-us/details/200674117-0836/gpu-image-processing-framework-software-engineer?team=SFTWR"
     }
   }
 }
