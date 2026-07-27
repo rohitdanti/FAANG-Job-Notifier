@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200636915-0836": {
-      "first_seen": 1775163183.861454,
-      "posted": "",
-      "title": "Junior UI Compositing Engineer, Graphics, Games, & ML",
-      "job_id": "200636915-0836"
-    },
     "200651342-3543": {
       "first_seen": 1775163183.8614552,
       "posted": "",
@@ -19522,6 +19516,13 @@
       "title": "Software Engineer, Apple Video Services",
       "job_id": "200674370-3337",
       "url": "https://jobs.apple.com/en-us/details/200674370-3337/software-engineer-apple-video-services?team=SFTWR"
+    },
+    "200673748-0836": {
+      "first_seen": 1785181295.574246,
+      "posted": "2026-07-27",
+      "title": "Software Development Engineer - Data",
+      "job_id": "200673748-0836",
+      "url": "https://jobs.apple.com/en-us/details/200673748-0836/software-development-engineer-data?team=SFTWR"
     }
   }
 }
