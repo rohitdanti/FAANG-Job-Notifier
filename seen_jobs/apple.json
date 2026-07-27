@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200623717-0836": {
-      "first_seen": 1775163183.8614552,
-      "posted": "",
-      "title": "Wireless Thread Ecosystem Engineer, Wireless Technologies & Ecosystems",
-      "job_id": "200623717-0836"
-    },
     "200633051-3543": {
       "first_seen": 1775163183.861456,
       "posted": "",
@@ -19528,6 +19522,13 @@
       "title": "Engineering Program Manager, Cloud Capacity Engineering, Apple Services Engineering",
       "job_id": "200671806-0836",
       "url": "https://jobs.apple.com/en-us/details/200671806-0836/engineering-program-manager-cloud-capacity-engineering-apple-services-engineering?team=SFTWR"
+    },
+    "200674442-0836": {
+      "first_seen": 1785195696.7638001,
+      "posted": "2026-07-27",
+      "title": "Marketing Manager - Wallet, Payments & Commerce",
+      "job_id": "200674442-0836",
+      "url": "https://jobs.apple.com/en-us/details/200674442-0836/marketing-manager-wallet-payments-commerce?team=SFTWR"
     }
   }
 }
