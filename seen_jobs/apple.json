@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200635847-0836": {
-      "first_seen": 1775163183.861452,
-      "posted": "",
-      "title": "Security Software Engineer - Secure Transports",
-      "job_id": "200635847-0836"
-    },
     "200638678-0836": {
       "first_seen": 1775163183.861452,
       "posted": "",
@@ -19510,6 +19504,13 @@
       "title": "Swift Ecosystem and Education Engineer",
       "job_id": "200674174-0157",
       "url": "https://jobs.apple.com/en-us/details/200674174-0157/swift-ecosystem-and-education-engineer?team=SFTWR"
+    },
+    "200673272-0836": {
+      "first_seen": 1785157306.1970804,
+      "posted": "2026-07-27",
+      "title": "Senior Strategic Risk Manager - Account Security",
+      "job_id": "200673272-0836",
+      "url": "https://jobs.apple.com/en-us/details/200673272-0836/senior-strategic-risk-manager-account-security?team=SFTWR"
     }
   }
 }
