@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200647491-0836": {
-      "first_seen": 1775163183.8614552,
-      "posted": "",
-      "title": "Product Display Driver Engineer, Graphics, Games, & ML",
-      "job_id": "200647491-0836"
-    },
     "200647885-3543": {
       "first_seen": 1775163183.8614552,
       "posted": "",
@@ -19526,6 +19520,13 @@
       "title": "Senior Software Engineer - Intelligence Platform Data Foundations, Proactive",
       "job_id": "200674386-0836",
       "url": "https://jobs.apple.com/en-us/details/200674386-0836/senior-software-engineer-intelligence-platform-data-foundations-proactive?team=SFTWR"
+    },
+    "200674418-3337": {
+      "first_seen": 1785190292.3636088,
+      "posted": "2026-07-27",
+      "title": "Observability SRE Manager, Apple Services Engineering",
+      "job_id": "200674418-3337",
+      "url": "https://jobs.apple.com/en-us/details/200674418-3337/observability-sre-manager-apple-services-engineering?team=SFTWR"
     }
   }
 }
