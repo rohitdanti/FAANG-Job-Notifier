@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200651342-3543": {
-      "first_seen": 1775163183.8614552,
-      "posted": "",
-      "title": "Senior Media Applications Engineer, Audio & Media Technologies",
-      "job_id": "200651342-3543"
-    },
     "200649186-3543": {
       "first_seen": 1775163183.8614552,
       "posted": "",
@@ -19523,6 +19517,13 @@
       "title": "Software Development Engineer - Data",
       "job_id": "200673748-0836",
       "url": "https://jobs.apple.com/en-us/details/200673748-0836/software-development-engineer-data?team=SFTWR"
+    },
+    "200674204-3337": {
+      "first_seen": 1785186694.1646285,
+      "posted": "2026-07-27",
+      "title": "Senior Software Engineer - Host Access",
+      "job_id": "200674204-3337",
+      "url": "https://jobs.apple.com/en-us/details/200674204-3337/senior-software-engineer-host-access?team=SFTWR"
     }
   }
 }
