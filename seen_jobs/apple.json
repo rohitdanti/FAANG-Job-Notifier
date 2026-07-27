@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200649186-3543": {
-      "first_seen": 1775163183.8614552,
-      "posted": "",
-      "title": "Product System Test Engineer, Wireless Technologies & Ecosystems",
-      "job_id": "200649186-3543"
-    },
     "200646170-0836": {
       "first_seen": 1775163183.8614552,
       "posted": "",
@@ -19524,6 +19518,13 @@
       "title": "Senior Software Engineer - Host Access",
       "job_id": "200674204-3337",
       "url": "https://jobs.apple.com/en-us/details/200674204-3337/senior-software-engineer-host-access?team=SFTWR"
+    },
+    "200673183-0836": {
+      "first_seen": 1785189090.448934,
+      "posted": "2026-07-27",
+      "title": "Senior Software Engineer \u2014 CloudKit Client",
+      "job_id": "200673183-0836",
+      "url": "https://jobs.apple.com/en-us/details/200673183-0836/senior-software-engineer-cloudkit-client?team=SFTWR"
     }
   }
 }
