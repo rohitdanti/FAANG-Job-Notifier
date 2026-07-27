@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200649068-0836": {
-      "first_seen": 1775163183.861453,
-      "posted": "",
-      "title": "Security Software Engineer, Data Protection",
-      "job_id": "200649068-0836"
-    },
     "200638218-3543": {
       "first_seen": 1775163183.861454,
       "posted": "",
@@ -19517,6 +19511,13 @@
       "title": "GPU Image Processing Framework Software Engineer",
       "job_id": "200674117-0836",
       "url": "https://jobs.apple.com/en-us/details/200674117-0836/gpu-image-processing-framework-software-engineer?team=SFTWR"
+    },
+    "200674365-0836": {
+      "first_seen": 1785173490.9334276,
+      "posted": "2026-07-27",
+      "title": "Sr. Engineering Project Manager, Subscription Enterprise Apps",
+      "job_id": "200674365-0836",
+      "url": "https://jobs.apple.com/en-us/details/200674365-0836/sr-engineering-project-manager-subscription-enterprise-apps?team=SFTWR"
     }
   }
 }
