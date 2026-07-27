@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200638218-3543": {
-      "first_seen": 1775163183.861454,
-      "posted": "",
-      "title": "Wireless Systems AI/ML Engineer, Wireless Technologies & Ecosystems",
-      "job_id": "200638218-3543"
-    },
     "200631702-0836": {
       "first_seen": 1775163183.861454,
       "posted": "",
@@ -19518,6 +19512,13 @@
       "title": "Sr. Engineering Project Manager, Subscription Enterprise Apps",
       "job_id": "200674365-0836",
       "url": "https://jobs.apple.com/en-us/details/200674365-0836/sr-engineering-project-manager-subscription-enterprise-apps?team=SFTWR"
+    },
+    "200674155-0836": {
+      "first_seen": 1785174108.9639037,
+      "posted": "2026-07-27",
+      "title": "Senior Software Engineer, Ads",
+      "job_id": "200674155-0836",
+      "url": "https://jobs.apple.com/en-us/details/200674155-0836/senior-software-engineer-ads?team=SFTWR"
     }
   }
 }
