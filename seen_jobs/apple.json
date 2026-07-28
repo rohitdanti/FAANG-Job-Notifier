@@ -4,66 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200649767-0836": {
-      "first_seen": 1775163183.86146,
-      "posted": "",
-      "title": "Wi-Fi Software Engineer, Wireless Technologies & Ecosystems",
-      "job_id": "200649767-0836"
-    },
-    "200648715-3543": {
-      "first_seen": 1775163183.86146,
-      "posted": "",
-      "title": "Tools & Frameworks Automation Engineer, Wireless Technologies & Ecosystems",
-      "job_id": "200648715-3543"
-    },
-    "200613406-0836": {
-      "first_seen": 1775163183.86146,
-      "posted": "",
-      "title": "Experienced Motion Scientist, Sensing & Connectivity",
-      "job_id": "200613406-0836"
-    },
-    "200606596-0836": {
-      "first_seen": 1775163183.86146,
-      "posted": "",
-      "title": "Senior UI Compositing Engineer, Graphics, Games, & ML",
-      "job_id": "200606596-0836"
-    },
-    "200635365-0836": {
-      "first_seen": 1775163183.86146,
-      "posted": "",
-      "title": "Software Engineer, Frameworks/Algorithms, Sensing & Connectivity",
-      "job_id": "200635365-0836"
-    },
-    "200636508-0836": {
-      "first_seen": 1775163183.861461,
-      "posted": "",
-      "title": "Machine Learning Engineer, Sensing & Connectivity",
-      "job_id": "200636508-0836"
-    },
-    "200652392-3543": {
-      "first_seen": 1775163183.861461,
-      "posted": "",
-      "title": "Video Machine Learning Engineer, Audio & Media Technologies",
-      "job_id": "200652392-3543"
-    },
-    "200650451-0836": {
-      "first_seen": 1775163183.861461,
-      "posted": "",
-      "title": "Wireless Networking Software Engineer, Wireless Technologies & Ecosystems",
-      "job_id": "200650451-0836"
-    },
-    "200627478-3543": {
-      "first_seen": 1775163183.861461,
-      "posted": "",
-      "title": "Cellular Protocol Development Engineer, Wireless Technologies & Ecosystems",
-      "job_id": "200627478-3543"
-    },
-    "200646829-3956": {
-      "first_seen": 1775163183.861462,
-      "posted": "",
-      "title": "Embedded System Firmware Engineer, Wireless Technologies & Ecosystems",
-      "job_id": "200646829-3956"
-    },
     "200653646-3543": {
       "first_seen": 1775163183.861462,
       "posted": "",
@@ -19552,6 +19492,76 @@
       "title": "Senior Machine Learning Engineer, Search & Knowledge Platforms",
       "job_id": "200670385-3337",
       "url": "https://jobs.apple.com/en-us/details/200670385-3337/senior-machine-learning-engineer-search-knowledge-platforms?team=SFTWR"
+    },
+    "200674467-0157": {
+      "first_seen": 1785280893.477153,
+      "posted": "2026-07-28",
+      "title": "Senior Machine Learning Engineer - News, Books, and Stocks Team",
+      "job_id": "200674467-0157",
+      "url": "https://jobs.apple.com/en-us/details/200674467-0157/senior-machine-learning-engineer-news-books-and-stocks-team?team=SFTWR"
+    },
+    "200674467-0365": {
+      "first_seen": 1785280893.477158,
+      "posted": "2026-07-28",
+      "title": "Senior Machine Learning Engineer - News, Books, and Stocks Team",
+      "job_id": "200674467-0365",
+      "url": "https://jobs.apple.com/en-us/details/200674467-0365/senior-machine-learning-engineer-news-books-and-stocks-team?team=SFTWR"
+    },
+    "200674467-1242": {
+      "first_seen": 1785280893.4771602,
+      "posted": "2026-07-28",
+      "title": "Senior Machine Learning Engineer - News, Books, and Stocks Team",
+      "job_id": "200674467-1242",
+      "url": "https://jobs.apple.com/en-us/details/200674467-1242/senior-machine-learning-engineer-news-books-and-stocks-team?team=SFTWR"
+    },
+    "200674467-1435": {
+      "first_seen": 1785280893.4771612,
+      "posted": "2026-07-28",
+      "title": "Senior Machine Learning Engineer - News, Books, and Stocks Team",
+      "job_id": "200674467-1435",
+      "url": "https://jobs.apple.com/en-us/details/200674467-1435/senior-machine-learning-engineer-news-books-and-stocks-team?team=SFTWR"
+    },
+    "200674467-0670": {
+      "first_seen": 1785280893.4771626,
+      "posted": "2026-07-28",
+      "title": "Senior Machine Learning Engineer - News, Books, and Stocks Team",
+      "job_id": "200674467-0670",
+      "url": "https://jobs.apple.com/en-us/details/200674467-0670/senior-machine-learning-engineer-news-books-and-stocks-team?team=SFTWR"
+    },
+    "200674467-0836": {
+      "first_seen": 1785280893.477164,
+      "posted": "2026-07-28",
+      "title": "Senior Machine Learning Engineer - News, Books, and Stocks Team",
+      "job_id": "200674467-0836",
+      "url": "https://jobs.apple.com/en-us/details/200674467-0836/senior-machine-learning-engineer-news-books-and-stocks-team?team=SFTWR"
+    },
+    "200674467-2926": {
+      "first_seen": 1785280893.4771652,
+      "posted": "2026-07-28",
+      "title": "Senior Machine Learning Engineer - News, Books, and Stocks Team",
+      "job_id": "200674467-2926",
+      "url": "https://jobs.apple.com/en-us/details/200674467-2926/senior-machine-learning-engineer-news-books-and-stocks-team?team=SFTWR"
+    },
+    "200674467-3543": {
+      "first_seen": 1785280893.4771662,
+      "posted": "2026-07-28",
+      "title": "Senior Machine Learning Engineer - News, Books, and Stocks Team",
+      "job_id": "200674467-3543",
+      "url": "https://jobs.apple.com/en-us/details/200674467-3543/senior-machine-learning-engineer-news-books-and-stocks-team?team=SFTWR"
+    },
+    "200674467-3337": {
+      "first_seen": 1785280893.477167,
+      "posted": "2026-07-28",
+      "title": "Senior Machine Learning Engineer - News, Books, and Stocks Team",
+      "job_id": "200674467-3337",
+      "url": "https://jobs.apple.com/en-us/details/200674467-3337/senior-machine-learning-engineer-news-books-and-stocks-team?team=SFTWR"
+    },
+    "200674467-3673": {
+      "first_seen": 1785280893.4771676,
+      "posted": "2026-07-28",
+      "title": "Senior Machine Learning Engineer - News, Books, and Stocks Team",
+      "job_id": "200674467-3673",
+      "url": "https://jobs.apple.com/en-us/details/200674467-3673/senior-machine-learning-engineer-news-books-and-stocks-team?team=SFTWR"
     }
   }
 }
