@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200644614-0836": {
-      "first_seen": 1775163183.8614578,
-      "posted": "",
-      "title": "Wi-Fi Software Engineer, Wireless Technologies & Ecosystems",
-      "job_id": "200644614-0836"
-    },
     "200649690-0836": {
       "first_seen": 1775163183.8614578,
       "posted": "",
@@ -19542,6 +19536,13 @@
       "title": "Software Engineering Technical Lead, Server Energy Services",
       "job_id": "200673124-3543",
       "url": "https://jobs.apple.com/en-us/details/200673124-3543/software-engineering-technical-lead-server-energy-services?team=SFTWR"
+    },
+    "200674590-3337": {
+      "first_seen": 1785269501.9416277,
+      "posted": "2026-07-28",
+      "title": "Senior Software Engineer, Apple Services Engineering - Kubernetes",
+      "job_id": "200674590-3337",
+      "url": "https://jobs.apple.com/en-us/details/200674590-3337/senior-software-engineer-apple-services-engineering-kubernetes?team=SFTWR"
     }
   }
 }
