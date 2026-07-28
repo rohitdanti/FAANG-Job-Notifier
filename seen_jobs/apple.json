@@ -4,18 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200633053-3543": {
-      "first_seen": 1775163183.8614569,
-      "posted": "",
-      "title": "AirPlay Audio Networking Engineer, Audio & Media Technologies",
-      "job_id": "200633053-3543"
-    },
-    "200610825-0836": {
-      "first_seen": 1775163183.8614569,
-      "posted": "",
-      "title": "40 Hours",
-      "job_id": "200610825-0836"
-    },
     "200644619-0836": {
       "first_seen": 1775163183.8614569,
       "posted": "",
@@ -19534,6 +19522,20 @@
       "title": "Senior Threat Intelligence Analyst, SEAR",
       "job_id": "200674432-4099",
       "url": "https://jobs.apple.com/en-us/details/200674432-4099/senior-threat-intelligence-analyst-sear?team=SFTWR"
+    },
+    "200673871-3543": {
+      "first_seen": 1785255694.0526388,
+      "posted": "2026-07-28",
+      "title": "Software Quality Automation Engineer - Phone, FaceTime and Contacts",
+      "job_id": "200673871-3543",
+      "url": "https://jobs.apple.com/en-us/details/200673871-3543/software-quality-automation-engineer-phone-facetime-and-contacts?team=SFTWR"
+    },
+    "200674473-0836": {
+      "first_seen": 1785255694.0526438,
+      "posted": "2026-07-28",
+      "title": "Software Engineer, Siri Attention and Invocation",
+      "job_id": "200674473-0836",
+      "url": "https://jobs.apple.com/en-us/details/200674473-0836/software-engineer-siri-attention-and-invocation?team=SFTWR"
     }
   }
 }
