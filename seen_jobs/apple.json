@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200631247-0836": {
-      "first_seen": 1775163183.8614569,
-      "posted": "",
-      "title": "On Device ML Engineer, PyTorch Interoperability, Graphics, Games & ML",
-      "job_id": "200631247-0836"
-    },
     "200630500-0836": {
       "first_seen": 1775163183.8614569,
       "posted": "",
@@ -19538,6 +19532,13 @@
       "title": "Software Development Manager, Device Services",
       "job_id": "200674572-3543",
       "url": "https://jobs.apple.com/en-us/details/200674572-3543/software-development-manager-device-services?team=SFTWR"
+    },
+    "200662651-3577": {
+      "first_seen": 1785261091.4103982,
+      "posted": "2026-07-28",
+      "title": "Site Reliability Engineer - Apple Services Engineering (ASE) / iCloud",
+      "job_id": "200662651-3577",
+      "url": "https://jobs.apple.com/en-us/details/200662651-3577/site-reliability-engineer-apple-services-engineering-ase-icloud?team=SFTWR"
     }
   }
 }
