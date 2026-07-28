@@ -4,18 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200649764-0836": {
-      "first_seen": 1775163183.861459,
-      "posted": "",
-      "title": "Wi-Fi Software Engineer, Wireless Technologies & Ecosystems",
-      "job_id": "200649764-0836"
-    },
-    "200634902-0836": {
-      "first_seen": 1775163183.861459,
-      "posted": "",
-      "title": "Safety & Contextual Algorithms Validation Engineer, Sensing & Connectivity",
-      "job_id": "200634902-0836"
-    },
     "200621016-0836": {
       "first_seen": 1775163183.861459,
       "posted": "",
@@ -19547,6 +19535,20 @@
       "title": "Software Engineering Manager, Apple Ads",
       "job_id": "200671934-2459",
       "url": "https://jobs.apple.com/en-us/details/200671934-2459/software-engineering-manager-apple-ads?team=SFTWR"
+    },
+    "200649605-0836": {
+      "first_seen": 1785276101.3111799,
+      "posted": "2026-07-28",
+      "title": "Senior ML Software Engineer - Apple Watch",
+      "job_id": "200649605-0836",
+      "url": "https://jobs.apple.com/en-us/details/200649605-0836/senior-ml-software-engineer-apple-watch?team=SFTWR"
+    },
+    "200649605-3337": {
+      "first_seen": 1785276101.311184,
+      "posted": "2026-07-28",
+      "title": "Senior ML Software Engineer - Apple Watch",
+      "job_id": "200649605-3337",
+      "url": "https://jobs.apple.com/en-us/details/200649605-3337/senior-ml-software-engineer-apple-watch?team=SFTWR"
     }
   }
 }
