@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200649704-3543": {
-      "first_seen": 1775163183.86146,
-      "posted": "",
-      "title": "Cellular Plane Development Engineer, Wireless Technologies & Ecosystems",
-      "job_id": "200649704-3543"
-    },
     "200649767-0836": {
       "first_seen": 1775163183.86146,
       "posted": "",
@@ -19551,6 +19545,13 @@
       "title": "Software Development Engineer (Developer Experience and Platform Tools)",
       "job_id": "200674593-0836",
       "url": "https://jobs.apple.com/en-us/details/200674593-0836/software-development-engineer-developer-experience-and-platform-tools?team=SFTWR"
+    },
+    "200670385-3337": {
+      "first_seen": 1785279703.3088052,
+      "posted": "2026-07-28",
+      "title": "Senior Machine Learning Engineer, Search & Knowledge Platforms",
+      "job_id": "200670385-3337",
+      "url": "https://jobs.apple.com/en-us/details/200670385-3337/senior-machine-learning-engineer-search-knowledge-platforms?team=SFTWR"
     }
   }
 }
