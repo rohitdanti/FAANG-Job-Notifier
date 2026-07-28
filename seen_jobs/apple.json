@@ -4,18 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200649690-0836": {
-      "first_seen": 1775163183.8614578,
-      "posted": "",
-      "title": "Networking and Realtime Streaming Engineer, Audio & Media Technologies",
-      "job_id": "200649690-0836"
-    },
-    "200631249-0836": {
-      "first_seen": 1775163183.8614578,
-      "posted": "",
-      "title": "On-Device ML Compiler Engineer, Model Compilation, Graphics, Games & ML",
-      "job_id": "200631249-0836"
-    },
     "200630418-0836": {
       "first_seen": 1775163183.861459,
       "posted": "",
@@ -19543,6 +19531,20 @@
       "title": "Senior Software Engineer, Apple Services Engineering - Kubernetes",
       "job_id": "200674590-3337",
       "url": "https://jobs.apple.com/en-us/details/200674590-3337/senior-software-engineer-apple-services-engineering-kubernetes?team=SFTWR"
+    },
+    "200673501-0670": {
+      "first_seen": 1785270095.9034197,
+      "posted": "2026-07-28",
+      "title": "Product Operations Manager - Child Safety",
+      "job_id": "200673501-0670",
+      "url": "https://jobs.apple.com/en-us/details/200673501-0670/product-operations-manager-child-safety?team=SFTWR"
+    },
+    "200673501-0836": {
+      "first_seen": 1785270095.9034243,
+      "posted": "2026-07-28",
+      "title": "Product Operations Manager - Child Safety",
+      "job_id": "200673501-0836",
+      "url": "https://jobs.apple.com/en-us/details/200673501-0836/product-operations-manager-child-safety?team=SFTWR"
     }
   }
 }
