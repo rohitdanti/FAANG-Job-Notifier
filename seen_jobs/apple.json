@@ -4,18 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200644619-0836": {
-      "first_seen": 1775163183.8614569,
-      "posted": "",
-      "title": "Wi-Fi Software Engineer, Wireless Technologies & Ecosystems",
-      "job_id": "200644619-0836"
-    },
-    "200642239-0836": {
-      "first_seen": 1775163183.8614569,
-      "posted": "",
-      "title": "Senior Software Engineer, Sensing & Connectivity",
-      "job_id": "200642239-0836"
-    },
     "200631247-0836": {
       "first_seen": 1775163183.8614569,
       "posted": "",
@@ -19536,6 +19524,20 @@
       "title": "Software Engineer, Siri Attention and Invocation",
       "job_id": "200674473-0836",
       "url": "https://jobs.apple.com/en-us/details/200674473-0836/software-engineer-siri-attention-and-invocation?team=SFTWR"
+    },
+    "200674572-0836": {
+      "first_seen": 1785256298.7989776,
+      "posted": "2026-07-28",
+      "title": "Software Development Manager, Device Services",
+      "job_id": "200674572-0836",
+      "url": "https://jobs.apple.com/en-us/details/200674572-0836/software-development-manager-device-services?team=SFTWR"
+    },
+    "200674572-3543": {
+      "first_seen": 1785256298.7989833,
+      "posted": "2026-07-28",
+      "title": "Software Development Manager, Device Services",
+      "job_id": "200674572-3543",
+      "url": "https://jobs.apple.com/en-us/details/200674572-3543/software-development-manager-device-services?team=SFTWR"
     }
   }
 }
