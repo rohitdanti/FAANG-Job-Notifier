@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200651242-0836": {
-      "first_seen": 1775163183.861456,
-      "posted": "",
-      "title": "Production Metal Frameworks Engineer, Graphics, Game and ML",
-      "job_id": "200651242-0836"
-    },
     "200640328-0836": {
       "first_seen": 1775163183.861456,
       "posted": "",
@@ -19530,6 +19524,13 @@
       "title": "Services Multimedia Engineer, Employee Experience & Productivity",
       "job_id": "200672489-0670",
       "url": "https://jobs.apple.com/en-us/details/200672489-0670/services-multimedia-engineer-employee-experience-productivity?team=SFTWR"
+    },
+    "200673482-3337": {
+      "first_seen": 1785199307.5166435,
+      "posted": "2026-07-28",
+      "title": "Senior Software Engineer - Host Access",
+      "job_id": "200673482-3337",
+      "url": "https://jobs.apple.com/en-us/details/200673482-3337/senior-software-engineer-host-access?team=SFTWR"
     }
   }
 }
