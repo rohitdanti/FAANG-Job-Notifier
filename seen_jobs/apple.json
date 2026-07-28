@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200625871-3956": {
-      "first_seen": 1775163183.8614578,
-      "posted": "",
-      "title": "Cellular Embedded Software Engineer, Wireless Technologies & Ecosystems",
-      "job_id": "200625871-3956"
-    },
     "200644614-0836": {
       "first_seen": 1775163183.8614578,
       "posted": "",
@@ -19541,6 +19535,13 @@
       "title": "Software Engineer, Agentic Developer Platform",
       "job_id": "200674539-3337",
       "url": "https://jobs.apple.com/en-us/details/200674539-3337/software-engineer-agentic-developer-platform?team=SFTWR"
+    },
+    "200673124-3543": {
+      "first_seen": 1785262884.2867532,
+      "posted": "2026-07-28",
+      "title": "Software Engineering Technical Lead, Server Energy Services",
+      "job_id": "200673124-3543",
+      "url": "https://jobs.apple.com/en-us/details/200673124-3543/software-engineering-technical-lead-server-energy-services?team=SFTWR"
     }
   }
 }
