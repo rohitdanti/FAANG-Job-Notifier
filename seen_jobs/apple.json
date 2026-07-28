@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200633051-3543": {
-      "first_seen": 1775163183.861456,
-      "posted": "",
-      "title": "Real-Time Streaming Media Software Engineer (AVConference), Audio & Media Technologies",
-      "job_id": "200633051-3543"
-    },
     "200651242-0836": {
       "first_seen": 1775163183.861456,
       "posted": "",
@@ -19529,6 +19523,13 @@
       "title": "Marketing Manager - Wallet, Payments & Commerce",
       "job_id": "200674442-0836",
       "url": "https://jobs.apple.com/en-us/details/200674442-0836/marketing-manager-wallet-payments-commerce?team=SFTWR"
+    },
+    "200672489-0670": {
+      "first_seen": 1785198088.1078854,
+      "posted": "2026-07-28",
+      "title": "Services Multimedia Engineer, Employee Experience & Productivity",
+      "job_id": "200672489-0670",
+      "url": "https://jobs.apple.com/en-us/details/200672489-0670/services-multimedia-engineer-employee-experience-productivity?team=SFTWR"
     }
   }
 }
