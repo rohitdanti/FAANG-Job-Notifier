@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200630418-0836": {
-      "first_seen": 1775163183.861459,
-      "posted": "",
-      "title": "On-device ML Infrastructure Engineer, Compiler & Runtime, Graphics, Games & ML",
-      "job_id": "200630418-0836"
-    },
     "200645181-3543": {
       "first_seen": 1775163183.861459,
       "posted": "",
@@ -19545,6 +19539,13 @@
       "title": "Product Operations Manager - Child Safety",
       "job_id": "200673501-0836",
       "url": "https://jobs.apple.com/en-us/details/200673501-0836/product-operations-manager-child-safety?team=SFTWR"
+    },
+    "200671812-3337": {
+      "first_seen": 1785274883.86639,
+      "posted": "2026-07-28",
+      "title": "Engineering Program Manager, Analytics Data Engineering, Commerce & Billings, Apple Services Engineering",
+      "job_id": "200671812-3337",
+      "url": "https://jobs.apple.com/en-us/details/200671812-3337/engineering-program-manager-analytics-data-engineering-commerce-billings-apple-services-engineering?team=SFTWR"
     }
   }
 }
