@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200621016-0836": {
-      "first_seen": 1775163183.861459,
-      "posted": "",
-      "title": "Software Development Engineer - Location Technologies, Sensing & Connectivity",
-      "job_id": "200621016-0836"
-    },
     "200622017-3401": {
       "first_seen": 1775163183.861459,
       "posted": "",
@@ -19549,6 +19543,13 @@
       "title": "Senior ML Software Engineer - Apple Watch",
       "job_id": "200649605-3337",
       "url": "https://jobs.apple.com/en-us/details/200649605-3337/senior-ml-software-engineer-apple-watch?team=SFTWR"
+    },
+    "200674668": {
+      "first_seen": 1785276682.8133495,
+      "posted": "2026-07-28",
+      "title": "Sr Messages Services and Security Engineer",
+      "job_id": "200674668",
+      "url": "https://jobs.apple.com/en-us/details/200674668/sr-messages-services-and-security-engineer?team=SFTWR"
     }
   }
 }
