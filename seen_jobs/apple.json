@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200653986-3577": {
-      "first_seen": 1775163183.861464,
-      "posted": "",
-      "title": "FoundationDB SRE Manager",
-      "job_id": "200653986-3577"
-    },
     "200653967-0836": {
       "first_seen": 1775163183.861465,
       "posted": "",
@@ -19576,6 +19570,13 @@
       "title": "Staff Machine Learning Engineer - News, Books, and Stocks Team",
       "job_id": "200674738-3673",
       "url": "https://jobs.apple.com/en-us/details/200674738-3673/staff-machine-learning-engineer-news-books-and-stocks-team?team=SFTWR"
+    },
+    "200674655-0836": {
+      "first_seen": 1785339107.385165,
+      "posted": "2026-07-29",
+      "title": "Software Quality Engineering Manager, Instructional Products",
+      "job_id": "200674655-0836",
+      "url": "https://jobs.apple.com/en-us/details/200674655-0836/software-quality-engineering-manager-instructional-products?team=SFTWR"
     }
   }
 }
