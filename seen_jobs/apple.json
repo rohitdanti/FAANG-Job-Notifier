@@ -4,18 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200653967-0836": {
-      "first_seen": 1775163183.861465,
-      "posted": "",
-      "title": "Sr. ML Engineer, Siri User Experience Metrics and Data",
-      "job_id": "200653967-0836"
-    },
-    "200653703-3749": {
-      "first_seen": 1775163183.861465,
-      "posted": "",
-      "title": "Systems Engineer - Apple Vision Pro",
-      "job_id": "200653703-3749"
-    },
     "200653703-3337": {
       "first_seen": 1775163183.861465,
       "posted": "",
@@ -19577,6 +19565,20 @@
       "title": "Software Quality Engineering Manager, Instructional Products",
       "job_id": "200674655-0836",
       "url": "https://jobs.apple.com/en-us/details/200674655-0836/software-quality-engineering-manager-instructional-products?team=SFTWR"
+    },
+    "200671410-0157": {
+      "first_seen": 1785340292.9257793,
+      "posted": "2026-07-29",
+      "title": "Front End Full-Stack Software Engineer - Wallet, Payments & Commerce (WPC)",
+      "job_id": "200671410-0157",
+      "url": "https://jobs.apple.com/en-us/details/200671410-0157/front-end-full-stack-software-engineer-wallet-payments-commerce-wpc?team=SFTWR"
+    },
+    "200674686-0836": {
+      "first_seen": 1785340292.925785,
+      "posted": "2026-07-29",
+      "title": "IOS SPRINGBOARD ENGINEER- GRAPHIC WALLPAPERS & SCREENSAVERS",
+      "job_id": "200674686-0836",
+      "url": "https://jobs.apple.com/en-us/details/200674686-0836/ios-springboard-engineer-graphic-wallpapers-screensavers?team=SFTWR"
     }
   }
 }
