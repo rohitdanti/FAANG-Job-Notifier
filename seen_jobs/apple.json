@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200653979-0157": {
-      "first_seen": 1775163183.861465,
-      "posted": "",
-      "title": "Senior UI Software Engineer - Video Applications",
-      "job_id": "200653979-0157"
-    },
     "200653979-0365": {
       "first_seen": 1775163183.861465,
       "posted": "",
@@ -19580,6 +19574,13 @@
       "title": "Machine Learning/ Search Engineer - Services Special Projects",
       "job_id": "200674796-0836",
       "url": "https://jobs.apple.com/en-us/details/200674796-0836/machine-learning-search-engineer-services-special-projects?team=SFTWR"
+    },
+    "200674698-3337": {
+      "first_seen": 1785343301.82783,
+      "posted": "2026-07-29",
+      "title": "Senior Data Engineering Manager - Capacity Engineering, Apple Services Engineering",
+      "job_id": "200674698-3337",
+      "url": "https://jobs.apple.com/en-us/details/200674698-3337/senior-data-engineering-manager-capacity-engineering-apple-services-engineering?team=SFTWR"
     }
   }
 }
