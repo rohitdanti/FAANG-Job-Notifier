@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200653979-3673": {
-      "first_seen": 1775163183.8614662,
-      "posted": "",
-      "title": "Senior UI Software Engineer - Video Applications",
-      "job_id": "200653979-3673"
-    },
     "200637172-0836": {
       "first_seen": 1775163183.8614662,
       "posted": "",
@@ -19585,6 +19579,13 @@
       "title": "Senior ML Software Engineer - Apple Watch",
       "job_id": "200649605-0365",
       "url": "https://jobs.apple.com/en-us/details/200649605-0365/senior-ml-software-engineer-apple-watch?team=SFTWR"
+    },
+    "200674883-0836": {
+      "first_seen": 1785354687.0145662,
+      "posted": "2026-07-29",
+      "title": "Machine Learning Engineer - AI Evaluation & LLM Systems",
+      "job_id": "200674883-0836",
+      "url": "https://jobs.apple.com/en-us/details/200674883-0836/machine-learning-engineer-ai-evaluation-llm-systems?team=SFTWR"
     }
   }
 }
