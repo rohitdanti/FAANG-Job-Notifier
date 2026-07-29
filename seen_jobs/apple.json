@@ -4,66 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200624338-0836": {
-      "first_seen": 1775163183.861462,
-      "posted": "",
-      "title": "iOS Location Engineer, Sensing & Connectivity",
-      "job_id": "200624338-0836"
-    },
-    "200648555-0836": {
-      "first_seen": 1775163183.861463,
-      "posted": "",
-      "title": "Applied Sensing & Health Software Engineer, Sensing & Connectivity",
-      "job_id": "200648555-0836"
-    },
-    "200653574-0836": {
-      "first_seen": 1775163183.861463,
-      "posted": "",
-      "title": "Certification Engineering Program Manager, Wireless Technologies & Ecosystems",
-      "job_id": "200653574-0836"
-    },
-    "200653448-3543": {
-      "first_seen": 1775163183.861463,
-      "posted": "",
-      "title": "Wireless Software Engineer, Wireless Technologies & Ecosystems",
-      "job_id": "200653448-3543"
-    },
-    "200637055-0836": {
-      "first_seen": 1775163183.861463,
-      "posted": "",
-      "title": "Software Engineer, Sensing & Connectivity",
-      "job_id": "200637055-0836"
-    },
-    "200630023-3543": {
-      "first_seen": 1775163183.861463,
-      "posted": "",
-      "title": "Cellular Power Optimization Software Engineer, Wireless Technologies & Ecosystems",
-      "job_id": "200630023-3543"
-    },
-    "200651047-3543": {
-      "first_seen": 1775163183.861463,
-      "posted": "",
-      "title": "Location, Motion, and Connected Experiences Software Integrity Engineer, Sensing & Connectivity",
-      "job_id": "200651047-3543"
-    },
-    "200600702-3956": {
-      "first_seen": 1775163183.861464,
-      "posted": "",
-      "title": "Sr Software Engineer (Python), Supply Chain Integration",
-      "job_id": "200600702-3956"
-    },
-    "200645589-0157": {
-      "first_seen": 1775163183.861464,
-      "posted": "",
-      "title": "Site Reliability Engineer (Edge Services), Infrastructure Services",
-      "job_id": "200645589-0157"
-    },
-    "200645589-3956": {
-      "first_seen": 1775163183.861464,
-      "posted": "",
-      "title": "Site Reliability Engineer (Edge Services), Infrastructure Services",
-      "job_id": "200645589-3956"
-    },
     "200653986-3577": {
       "first_seen": 1775163183.861464,
       "posted": "",
@@ -19566,6 +19506,76 @@
       "title": "Machine Learning Engineer - News, Books, and Stocks Team",
       "job_id": "200674703-0836",
       "url": "https://jobs.apple.com/en-us/details/200674703-0836/machine-learning-engineer-news-books-and-stocks-team?team=SFTWR"
+    },
+    "200674738-0157": {
+      "first_seen": 1785336704.9400656,
+      "posted": "2026-07-29",
+      "title": "Staff Machine Learning Engineer - News, Books, and Stocks Team",
+      "job_id": "200674738-0157",
+      "url": "https://jobs.apple.com/en-us/details/200674738-0157/staff-machine-learning-engineer-news-books-and-stocks-team?team=SFTWR"
+    },
+    "200674738-0365": {
+      "first_seen": 1785336704.9400713,
+      "posted": "2026-07-29",
+      "title": "Staff Machine Learning Engineer - News, Books, and Stocks Team",
+      "job_id": "200674738-0365",
+      "url": "https://jobs.apple.com/en-us/details/200674738-0365/staff-machine-learning-engineer-news-books-and-stocks-team?team=SFTWR"
+    },
+    "200674738-1242": {
+      "first_seen": 1785336704.940074,
+      "posted": "2026-07-29",
+      "title": "Staff Machine Learning Engineer - News, Books, and Stocks Team",
+      "job_id": "200674738-1242",
+      "url": "https://jobs.apple.com/en-us/details/200674738-1242/staff-machine-learning-engineer-news-books-and-stocks-team?team=SFTWR"
+    },
+    "200674738-1435": {
+      "first_seen": 1785336704.9400759,
+      "posted": "2026-07-29",
+      "title": "Staff Machine Learning Engineer - News, Books, and Stocks Team",
+      "job_id": "200674738-1435",
+      "url": "https://jobs.apple.com/en-us/details/200674738-1435/staff-machine-learning-engineer-news-books-and-stocks-team?team=SFTWR"
+    },
+    "200674738-0670": {
+      "first_seen": 1785336704.9400778,
+      "posted": "2026-07-29",
+      "title": "Staff Machine Learning Engineer - News, Books, and Stocks Team",
+      "job_id": "200674738-0670",
+      "url": "https://jobs.apple.com/en-us/details/200674738-0670/staff-machine-learning-engineer-news-books-and-stocks-team?team=SFTWR"
+    },
+    "200674738-0836": {
+      "first_seen": 1785336704.9400797,
+      "posted": "2026-07-29",
+      "title": "Staff Machine Learning Engineer - News, Books, and Stocks Team",
+      "job_id": "200674738-0836",
+      "url": "https://jobs.apple.com/en-us/details/200674738-0836/staff-machine-learning-engineer-news-books-and-stocks-team?team=SFTWR"
+    },
+    "200674738-2926": {
+      "first_seen": 1785336704.9400811,
+      "posted": "2026-07-29",
+      "title": "Staff Machine Learning Engineer - News, Books, and Stocks Team",
+      "job_id": "200674738-2926",
+      "url": "https://jobs.apple.com/en-us/details/200674738-2926/staff-machine-learning-engineer-news-books-and-stocks-team?team=SFTWR"
+    },
+    "200674738-3543": {
+      "first_seen": 1785336704.9400826,
+      "posted": "2026-07-29",
+      "title": "Staff Machine Learning Engineer - News, Books, and Stocks Team",
+      "job_id": "200674738-3543",
+      "url": "https://jobs.apple.com/en-us/details/200674738-3543/staff-machine-learning-engineer-news-books-and-stocks-team?team=SFTWR"
+    },
+    "200674738-3337": {
+      "first_seen": 1785336704.9401038,
+      "posted": "2026-07-29",
+      "title": "Staff Machine Learning Engineer - News, Books, and Stocks Team",
+      "job_id": "200674738-3337",
+      "url": "https://jobs.apple.com/en-us/details/200674738-3337/staff-machine-learning-engineer-news-books-and-stocks-team?team=SFTWR"
+    },
+    "200674738-3673": {
+      "first_seen": 1785336704.9401052,
+      "posted": "2026-07-29",
+      "title": "Staff Machine Learning Engineer - News, Books, and Stocks Team",
+      "job_id": "200674738-3673",
+      "url": "https://jobs.apple.com/en-us/details/200674738-3673/staff-machine-learning-engineer-news-books-and-stocks-team?team=SFTWR"
     }
   }
 }
