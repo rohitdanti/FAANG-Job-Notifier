@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200653703-3337": {
-      "first_seen": 1775163183.861465,
-      "posted": "",
-      "title": "Systems Engineer - Apple Vision Pro",
-      "job_id": "200653703-3337"
-    },
     "200653979-0157": {
       "first_seen": 1775163183.861465,
       "posted": "",
@@ -19579,6 +19573,13 @@
       "title": "IOS SPRINGBOARD ENGINEER- GRAPHIC WALLPAPERS & SCREENSAVERS",
       "job_id": "200674686-0836",
       "url": "https://jobs.apple.com/en-us/details/200674686-0836/ios-springboard-engineer-graphic-wallpapers-screensavers?team=SFTWR"
+    },
+    "200674796-0836": {
+      "first_seen": 1785342695.2151985,
+      "posted": "2026-07-29",
+      "title": "Machine Learning/ Search Engineer - Services Special Projects",
+      "job_id": "200674796-0836",
+      "url": "https://jobs.apple.com/en-us/details/200674796-0836/machine-learning-search-engineer-services-special-projects?team=SFTWR"
     }
   }
 }
