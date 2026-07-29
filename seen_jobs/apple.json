@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200636078-3543": {
-      "first_seen": 1775163183.861462,
-      "posted": "",
-      "title": "Wireless Software Engineer, Wireless Technologies & Ecosystems",
-      "job_id": "200636078-3543"
-    },
     "200624338-0836": {
       "first_seen": 1775163183.861462,
       "posted": "",
@@ -19565,6 +19559,13 @@
       "title": "Sr. Software Engineer (Framework Solutions), AI & Data Platforms (AiDP)",
       "job_id": "200658482-3956",
       "url": "https://jobs.apple.com/en-us/details/200658482-3956/sr-software-engineer-framework-solutions-ai-data-platforms-aidp?team=SFTWR"
+    },
+    "200674703-0836": {
+      "first_seen": 1785330102.6129797,
+      "posted": "2026-07-29",
+      "title": "Machine Learning Engineer - News, Books, and Stocks Team",
+      "job_id": "200674703-0836",
+      "url": "https://jobs.apple.com/en-us/details/200674703-0836/machine-learning-engineer-news-books-and-stocks-team?team=SFTWR"
     }
   }
 }
