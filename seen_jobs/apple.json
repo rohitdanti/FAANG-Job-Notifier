@@ -4,24 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200652916-3956": {
-      "first_seen": 1775163183.86147,
-      "posted": "",
-      "title": "Product Manager, Employee Experience & Productivity",
-      "job_id": "200652916-3956"
-    },
-    "200652503-3956": {
-      "first_seen": 1775163183.86147,
-      "posted": "",
-      "title": "Software Engineering Manager (Data Solutions), Ai & Data Platforms",
-      "job_id": "200652503-3956"
-    },
-    "200653811-3956": {
-      "first_seen": 1775163183.86147,
-      "posted": "",
-      "title": "Software Engineering Program Manager (EPM) - Apple Vision Pro, Connectivity",
-      "job_id": "200653811-3956"
-    },
     "200653874-0836": {
       "first_seen": 1775163183.86147,
       "posted": "",
@@ -19606,6 +19588,27 @@
       "title": "Video Content Data Scientist",
       "job_id": "200675090-0670",
       "url": "https://jobs.apple.com/en-us/details/200675090-0670/video-content-data-scientist?team=SFTWR"
+    },
+    "200674212-0836": {
+      "first_seen": 1785448302.8149598,
+      "posted": "2026-07-30",
+      "title": "Software Engineer, Deployment Platform",
+      "job_id": "200674212-0836",
+      "url": "https://jobs.apple.com/en-us/details/200674212-0836/software-engineer-deployment-platform?team=SFTWR"
+    },
+    "200674212-3543": {
+      "first_seen": 1785448302.8149662,
+      "posted": "2026-07-30",
+      "title": "Software Engineer, Deployment Platform",
+      "job_id": "200674212-3543",
+      "url": "https://jobs.apple.com/en-us/details/200674212-3543/software-engineer-deployment-platform?team=SFTWR"
+    },
+    "200674228-3337": {
+      "first_seen": 1785448302.8149688,
+      "posted": "2026-07-30",
+      "title": "Software Engineer, Architecture Team (ASE)",
+      "job_id": "200674228-3337",
+      "url": "https://jobs.apple.com/en-us/details/200674228-3337/software-engineer-architecture-team-ase?team=SFTWR"
     }
   }
 }
