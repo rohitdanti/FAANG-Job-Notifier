@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200647129-0365": {
-      "first_seen": 1775163183.861471,
-      "posted": "",
-      "title": "Senior Applications Engineer - Data Layer",
-      "job_id": "200647129-0365"
-    },
     "200647129-0670": {
       "first_seen": 1775163183.861471,
       "posted": "",
@@ -19611,6 +19605,13 @@
       "title": "Cellular Power Optimization Software Engineer, Wireless Technologies & Ecosystems",
       "job_id": "200657382-3543",
       "url": "https://jobs.apple.com/en-us/details/200657382-3543/cellular-power-optimization-software-engineer-wireless-technologies-ecosystems?team=SFTWR"
+    },
+    "200675095-0836": {
+      "first_seen": 1785455497.0795813,
+      "posted": "2026-07-30",
+      "title": "Site Reliability Engineering (SRE) Manager, Apple Maps",
+      "job_id": "200675095-0836",
+      "url": "https://jobs.apple.com/en-us/details/200675095-0836/site-reliability-engineering-sre-manager-apple-maps?team=SFTWR"
     }
   }
 }
