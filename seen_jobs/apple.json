@@ -4,24 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200653982-3543": {
-      "first_seen": 1775163183.861467,
-      "posted": "",
-      "title": "Sr. Software Engineer Products - iCloud Anti Spam",
-      "job_id": "200653982-3543"
-    },
-    "200651077-3956": {
-      "first_seen": 1775163183.861467,
-      "posted": "",
-      "title": "SDET, Security Server Application, Enterprise Applications Engineering",
-      "job_id": "200651077-3956"
-    },
-    "200653966-0836": {
-      "first_seen": 1775163183.861467,
-      "posted": "",
-      "title": "Machine Learning Architect - Conversational Speech",
-      "job_id": "200653966-0836"
-    },
     "200653742-3577": {
       "first_seen": 1775163183.8614678,
       "posted": "",
@@ -19592,6 +19574,27 @@
       "title": "Software Engineer, Commerce",
       "job_id": "200673336-0836",
       "url": "https://jobs.apple.com/en-us/details/200673336-0836/software-engineer-commerce?team=SFTWR"
+    },
+    "200674352-0157": {
+      "first_seen": 1785423700.8917017,
+      "posted": "2026-07-30",
+      "title": "Site Reliability Engineer, Apple Data Platform / Multi-Cloud Infrastructure",
+      "job_id": "200674352-0157",
+      "url": "https://jobs.apple.com/en-us/details/200674352-0157/site-reliability-engineer-apple-data-platform-multi-cloud-infrastructure?team=SFTWR"
+    },
+    "200674426-0157": {
+      "first_seen": 1785423700.8917067,
+      "posted": "2026-07-30",
+      "title": "Site Reliability Engineer, Apple Data Platform / Big Data Platform",
+      "job_id": "200674426-0157",
+      "url": "https://jobs.apple.com/en-us/details/200674426-0157/site-reliability-engineer-apple-data-platform-big-data-platform?team=SFTWR"
+    },
+    "200662375-3956": {
+      "first_seen": 1785423700.8917084,
+      "posted": "2026-07-30",
+      "title": "Senior Business Operations Analyst, Enterprise Technology Services",
+      "job_id": "200662375-3956",
+      "url": "https://jobs.apple.com/en-us/details/200662375-3956/senior-business-operations-analyst-enterprise-technology-services?team=SFTWR"
     }
   }
 }
