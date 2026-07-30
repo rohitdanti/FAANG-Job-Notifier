@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200641254-0240": {
-      "first_seen": 1775163183.861469,
-      "posted": "",
-      "title": "Senior Software Engineer - Cloud Infrastructure, Golang",
-      "job_id": "200641254-0240"
-    },
     "200641254": {
       "first_seen": 1775163183.861469,
       "posted": "",
@@ -19601,6 +19595,13 @@
       "title": "Senior/Staff Machine Learning Engineer, Search & Knowledge Platforms",
       "job_id": "200675053-3760",
       "url": "https://jobs.apple.com/en-us/details/200675053-3760/senior-staff-machine-learning-engineer-search-knowledge-platforms?team=SFTWR"
+    },
+    "200675063-3337": {
+      "first_seen": 1785436893.9182549,
+      "posted": "2026-07-30",
+      "title": "Staff/Senior Machine Learning Engineer, Search & Knowledge Platform",
+      "job_id": "200675063-3337",
+      "url": "https://jobs.apple.com/en-us/details/200675063-3337/staff-senior-machine-learning-engineer-search-knowledge-platform?team=SFTWR"
     }
   }
 }
