@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200653874-0836": {
-      "first_seen": 1775163183.86147,
-      "posted": "",
-      "title": "Senior Machine Learning Engineering Manager \u2013 Ads Predictions",
-      "job_id": "200653874-0836"
-    },
     "200647129-0157": {
       "first_seen": 1775163183.86147,
       "posted": "",
@@ -19609,6 +19603,13 @@
       "title": "Software Engineer, Architecture Team (ASE)",
       "job_id": "200674228-3337",
       "url": "https://jobs.apple.com/en-us/details/200674228-3337/software-engineer-architecture-team-ase?team=SFTWR"
+    },
+    "200672278-0836": {
+      "first_seen": 1785451887.1010118,
+      "posted": "2026-07-30",
+      "title": "Developer Experience & Operations Engineer",
+      "job_id": "200672278-0836",
+      "url": "https://jobs.apple.com/en-us/details/200672278-0836/developer-experience-operations-engineer?team=SFTWR"
     }
   }
 }
