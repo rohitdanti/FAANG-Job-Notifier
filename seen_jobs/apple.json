@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200653924": {
-      "first_seen": 1775163183.8614678,
-      "posted": "",
-      "title": "Senior Engineering Manager, Apple Data Platform",
-      "job_id": "200653924"
-    },
     "200653708-3956": {
       "first_seen": 1775163183.8614678,
       "posted": "",
@@ -19597,6 +19591,13 @@
       "title": "Cellular Software Engineering Program Manager",
       "job_id": "200675034-3956",
       "url": "https://jobs.apple.com/en-us/details/200675034-3956/cellular-software-engineering-program-manager?team=SFTWR"
+    },
+    "200648715-3543": {
+      "first_seen": 1785428493.4592025,
+      "posted": "2026-07-30",
+      "title": "Automation and Infrastructure Engineer, Wireless Technologies & Ecosystems",
+      "job_id": "200648715-3543",
+      "url": "https://jobs.apple.com/en-us/details/200648715-3543/automation-and-infrastructure-engineer-wireless-technologies-ecosystems?team=SFTWR"
     }
   }
 }
