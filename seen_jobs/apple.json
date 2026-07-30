@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200653742-3577": {
-      "first_seen": 1775163183.8614678,
-      "posted": "",
-      "title": "Sr. Ruby on Rails Engineer, ASE",
-      "job_id": "200653742-3577"
-    },
     "200653924-3401": {
       "first_seen": 1775163183.8614678,
       "posted": "",
@@ -19595,6 +19589,13 @@
       "title": "Senior Business Operations Analyst, Enterprise Technology Services",
       "job_id": "200662375-3956",
       "url": "https://jobs.apple.com/en-us/details/200662375-3956/senior-business-operations-analyst-enterprise-technology-services?team=SFTWR"
+    },
+    "200674864-0157": {
+      "first_seen": 1785424299.766926,
+      "posted": "2026-07-30",
+      "title": "Senior ML Infrastructure SRE",
+      "job_id": "200674864-0157",
+      "url": "https://jobs.apple.com/en-us/details/200674864-0157/senior-ml-infrastructure-sre?team=SFTWR"
     }
   }
 }
