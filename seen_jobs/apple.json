@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200652380-0836": {
-      "first_seen": 1775163183.8614678,
-      "posted": "",
-      "title": "Software Development Engineer",
-      "job_id": "200652380-0836"
-    },
     "200653414-3956": {
       "first_seen": 1775163183.861469,
       "posted": "",
@@ -19599,6 +19593,13 @@
       "title": "Sr. Engineering Program Manager, GPU and Graphics",
       "job_id": "200675022-0836",
       "url": "https://jobs.apple.com/en-us/details/200675022-0836/sr-engineering-program-manager-gpu-and-graphics?team=SFTWR"
+    },
+    "200674953-0670": {
+      "first_seen": 1785430890.779517,
+      "posted": "2026-07-30",
+      "title": "Live Stream Reliability Engineer - AppleTV",
+      "job_id": "200674953-0670",
+      "url": "https://jobs.apple.com/en-us/details/200674953-0670/live-stream-reliability-engineer-appletv?team=SFTWR"
     }
   }
 }
