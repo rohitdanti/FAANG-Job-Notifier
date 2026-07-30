@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200653924-3401": {
-      "first_seen": 1775163183.8614678,
-      "posted": "",
-      "title": "Senior Engineering Manager, Apple Data Platform",
-      "job_id": "200653924-3401"
-    },
     "200653924": {
       "first_seen": 1775163183.8614678,
       "posted": "",
@@ -19596,6 +19590,13 @@
       "title": "Senior ML Infrastructure SRE",
       "job_id": "200674864-0157",
       "url": "https://jobs.apple.com/en-us/details/200674864-0157/senior-ml-infrastructure-sre?team=SFTWR"
+    },
+    "200675034-3956": {
+      "first_seen": 1785427902.1655724,
+      "posted": "2026-07-30",
+      "title": "Cellular Software Engineering Program Manager",
+      "job_id": "200675034-3956",
+      "url": "https://jobs.apple.com/en-us/details/200675034-3956/cellular-software-engineering-program-manager?team=SFTWR"
     }
   }
 }
