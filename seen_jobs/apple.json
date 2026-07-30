@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200647129-0157": {
-      "first_seen": 1775163183.86147,
-      "posted": "",
-      "title": "Senior Applications Engineer - Data Layer",
-      "job_id": "200647129-0157"
-    },
     "200647129-0365": {
       "first_seen": 1775163183.861471,
       "posted": "",
@@ -19610,6 +19604,13 @@
       "title": "Developer Experience & Operations Engineer",
       "job_id": "200672278-0836",
       "url": "https://jobs.apple.com/en-us/details/200672278-0836/developer-experience-operations-engineer?team=SFTWR"
+    },
+    "200657382-3543": {
+      "first_seen": 1785453092.0584626,
+      "posted": "2026-07-30",
+      "title": "Cellular Power Optimization Software Engineer, Wireless Technologies & Ecosystems",
+      "job_id": "200657382-3543",
+      "url": "https://jobs.apple.com/en-us/details/200657382-3543/cellular-power-optimization-software-engineer-wireless-technologies-ecosystems?team=SFTWR"
     }
   }
 }
