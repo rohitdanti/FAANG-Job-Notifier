@@ -4,18 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200653779-0836": {
-      "first_seen": 1775163183.861472,
-      "posted": "",
-      "title": "Emoji & Stickers Software Engineer",
-      "job_id": "200653779-0836"
-    },
-    "200652100-0157": {
-      "first_seen": 1775163183.861472,
-      "posted": "",
-      "title": "Engineering Project Coordinator",
-      "job_id": "200652100-0157"
-    },
     "200652098-3337": {
       "first_seen": 1775163183.861472,
       "posted": "",
@@ -19616,6 +19604,20 @@
       "title": "Compute Runtime Software Engineer",
       "job_id": "200675127-3337",
       "url": "https://jobs.apple.com/en-us/details/200675127-3337/compute-runtime-software-engineer?team=SFTWR"
+    },
+    "200675085-0157": {
+      "first_seen": 1785525709.6320755,
+      "posted": "2026-07-31",
+      "title": "Engineering Project Manager, Apps",
+      "job_id": "200675085-0157",
+      "url": "https://jobs.apple.com/en-us/details/200675085-0157/engineering-project-manager-apps?team=SFTWR"
+    },
+    "200675085-2926": {
+      "first_seen": 1785525709.6320817,
+      "posted": "2026-07-31",
+      "title": "Engineering Project Manager, Apps",
+      "job_id": "200675085-2926",
+      "url": "https://jobs.apple.com/en-us/details/200675085-2926/engineering-project-manager-apps?team=SFTWR"
     }
   }
 }
