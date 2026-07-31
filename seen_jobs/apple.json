@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200647129-3337": {
-      "first_seen": 1775163183.861471,
-      "posted": "",
-      "title": "Senior Applications Engineer - Data Layer",
-      "job_id": "200647129-3337"
-    },
     "200653779-0836": {
       "first_seen": 1775163183.861472,
       "posted": "",
@@ -19615,6 +19609,13 @@
       "title": "Quality Engineering Manager, Apple Services Engineering",
       "job_id": "200673912-0836",
       "url": "https://jobs.apple.com/en-us/details/200673912-0836/quality-engineering-manager-apple-services-engineering?team=SFTWR"
+    },
+    "200675127-3337": {
+      "first_seen": 1785522107.1916547,
+      "posted": "2026-07-31",
+      "title": "Compute Runtime Software Engineer",
+      "job_id": "200675127-3337",
+      "url": "https://jobs.apple.com/en-us/details/200675127-3337/compute-runtime-software-engineer?team=SFTWR"
     }
   }
 }
