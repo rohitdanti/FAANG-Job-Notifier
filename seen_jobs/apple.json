@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200652104-3337": {
-      "first_seen": 1775163183.861472,
-      "posted": "",
-      "title": "Software Development Engineer",
-      "job_id": "200652104-3337"
-    },
     "200652123-0157": {
       "first_seen": 1775163183.861473,
       "posted": "",
@@ -19620,6 +19614,13 @@
       "title": "Solutions Architect, AppleCare Technologies",
       "job_id": "200672989-3956",
       "url": "https://jobs.apple.com/en-us/details/200672989-3956/solutions-architect-applecare-technologies?team=SFTWR"
+    },
+    "200674218-0157": {
+      "first_seen": 1785535292.1424632,
+      "posted": "2026-07-31",
+      "title": "Software Engineer, Cloud Services ASE",
+      "job_id": "200674218-0157",
+      "url": "https://jobs.apple.com/en-us/details/200674218-0157/software-engineer-cloud-services-ase?team=SFTWR"
     }
   }
 }
