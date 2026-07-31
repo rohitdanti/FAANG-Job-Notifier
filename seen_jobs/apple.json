@@ -4,18 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200652123-0157": {
-      "first_seen": 1775163183.861473,
-      "posted": "",
-      "title": "Software Development Engineer",
-      "job_id": "200652123-0157"
-    },
-    "200652121-0836": {
-      "first_seen": 1775163183.861473,
-      "posted": "",
-      "title": "Data Scientist",
-      "job_id": "200652121-0836"
-    },
     "200652127-0836": {
       "first_seen": 1775163183.861473,
       "posted": "",
@@ -19621,6 +19609,20 @@
       "title": "Software Engineer, Cloud Services ASE",
       "job_id": "200674218-0157",
       "url": "https://jobs.apple.com/en-us/details/200674218-0157/software-engineer-cloud-services-ase?team=SFTWR"
+    },
+    "200675256-3401": {
+      "first_seen": 1785537088.224971,
+      "posted": "2026-07-31",
+      "title": "Senior AI Engineer - Services Special Projects",
+      "job_id": "200675256-3401",
+      "url": "https://jobs.apple.com/en-us/details/200675256-3401/senior-ai-engineer-services-special-projects?team=SFTWR"
+    },
+    "200675260-3401": {
+      "first_seen": 1785537088.2249758,
+      "posted": "2026-07-31",
+      "title": "Sr ML Engineering Manager, Search - Services Special Projects",
+      "job_id": "200675260-3401",
+      "url": "https://jobs.apple.com/en-us/details/200675260-3401/sr-ml-engineering-manager-search-services-special-projects?team=SFTWR"
     }
   }
 }
