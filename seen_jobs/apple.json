@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200652083-0836": {
-      "first_seen": 1775163183.861473,
-      "posted": "",
-      "title": "Machine Learning Engineer",
-      "job_id": "200652083-0836"
-    },
     "200652085-0836": {
       "first_seen": 1775163183.861474,
       "posted": "",
@@ -19626,6 +19620,13 @@
       "title": "Sr. Front End SW Engineer - iOS / Web - iCloud",
       "job_id": "200668116-3543",
       "url": "https://jobs.apple.com/en-us/details/200668116-3543/sr-front-end-sw-engineer-ios-web-icloud?team=SFTWR"
+    },
+    "200675289-0836": {
+      "first_seen": 1785541882.5084918,
+      "posted": "2026-07-31",
+      "title": "Software Engineer, Automations and Shortcuts, Proactive",
+      "job_id": "200675289-0836",
+      "url": "https://jobs.apple.com/en-us/details/200675289-0836/software-engineer-automations-and-shortcuts-proactive?team=SFTWR"
     }
   }
 }
