@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200647129-0836": {
-      "first_seen": 1775163183.861471,
-      "posted": "",
-      "title": "Senior Applications Engineer - Data Layer",
-      "job_id": "200647129-0836"
-    },
     "200647129-3543": {
       "first_seen": 1775163183.861471,
       "posted": "",
@@ -19613,6 +19607,13 @@
       "title": "Software Engineering Manager, Health",
       "job_id": "200675133-3956",
       "url": "https://jobs.apple.com/en-us/details/200675133-3956/software-engineering-manager-health?team=SFTWR"
+    },
+    "200674399-3956": {
+      "first_seen": 1785516094.3179202,
+      "posted": "2026-07-31",
+      "title": "Sr Software Engineer, Employee Experience & Productivity",
+      "job_id": "200674399-3956",
+      "url": "https://jobs.apple.com/en-us/details/200674399-3956/sr-software-engineer-employee-experience-productivity?team=SFTWR"
     }
   }
 }
