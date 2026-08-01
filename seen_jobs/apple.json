@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200652085-0836": {
-      "first_seen": 1775163183.861474,
-      "posted": "",
-      "title": "Software Development Engineer",
-      "job_id": "200652085-0836"
-    },
     "200652065-0836": {
       "first_seen": 1775163183.861474,
       "posted": "",
@@ -19627,6 +19621,13 @@
       "title": "Software Engineer, Automations and Shortcuts, Proactive",
       "job_id": "200675289-0836",
       "url": "https://jobs.apple.com/en-us/details/200675289-0836/software-engineer-automations-and-shortcuts-proactive?team=SFTWR"
+    },
+    "200675281-0836": {
+      "first_seen": 1785546094.9150724,
+      "posted": "2026-08-01",
+      "title": "Software Engineer, Braille Accessibility",
+      "job_id": "200675281-0836",
+      "url": "https://jobs.apple.com/en-us/details/200675281-0836/software-engineer-braille-accessibility?team=SFTWR"
     }
   }
 }
