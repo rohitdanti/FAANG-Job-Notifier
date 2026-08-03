@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200652151-0836": {
-      "first_seen": 1775163183.861475,
-      "posted": "",
-      "title": "Machine Learning",
-      "job_id": "200652151-0836"
-    },
     "200652155-0836": {
       "first_seen": 1775163183.861475,
       "posted": "",
@@ -19634,6 +19628,13 @@
       "title": "Software Engineer, Siri Runtime Systems and Interaction",
       "job_id": "200675517-3337",
       "url": "https://jobs.apple.com/en-us/details/200675517-3337/software-engineer-siri-runtime-systems-and-interaction?team=SFTWR"
+    },
+    "200668286-0157": {
+      "first_seen": 1785788500.7266445,
+      "posted": "2026-08-03",
+      "title": "Platform Security Certification Engineer",
+      "job_id": "200668286-0157",
+      "url": "https://jobs.apple.com/en-us/details/200668286-0157/platform-security-certification-engineer?team=SFTWR"
     }
   }
 }
