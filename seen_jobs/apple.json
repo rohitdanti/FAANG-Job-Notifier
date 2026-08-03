@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200646105-3543": {
-      "first_seen": 1775163183.8614762,
-      "posted": "",
-      "title": "Software Engineering Manager, ML Infrastructure - Creator Studio",
-      "job_id": "200646105-3543"
-    },
     "200646105-3337": {
       "first_seen": 1775163183.8614771,
       "posted": "",
@@ -19642,6 +19636,13 @@
       "title": "Software Engineer - Apple Cloud UI",
       "job_id": "200675500-0157",
       "url": "https://jobs.apple.com/en-us/details/200675500-0157/software-engineer-apple-cloud-ui?team=SFTWR"
+    },
+    "200654205-3337": {
+      "first_seen": 1785799901.2279308,
+      "posted": "2026-08-03",
+      "title": "Staff Ruby on Rails Engineer, ASE",
+      "job_id": "200654205-3337",
+      "url": "https://jobs.apple.com/en-us/details/200654205-3337/staff-ruby-on-rails-engineer-ase?team=SFTWR"
     }
   }
 }
