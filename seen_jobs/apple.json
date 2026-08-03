@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200652143-3543": {
-      "first_seen": 1775163183.861475,
-      "posted": "",
-      "title": "Software Engineer - Systems",
-      "job_id": "200652143-3543"
-    },
     "200652150-0836": {
       "first_seen": 1775163183.861475,
       "posted": "",
@@ -19632,6 +19626,13 @@
       "title": "Software Engineer, Employee Experience & Productivity",
       "job_id": "200675304-0670",
       "url": "https://jobs.apple.com/en-us/details/200675304-0670/software-engineer-employee-experience-productivity?team=SFTWR"
+    },
+    "200675491-0836": {
+      "first_seen": 1785783691.7468865,
+      "posted": "2026-08-03",
+      "title": "Power Management Software Engineer",
+      "job_id": "200675491-0836",
+      "url": "https://jobs.apple.com/en-us/details/200675491-0836/power-management-software-engineer?team=SFTWR"
     }
   }
 }
