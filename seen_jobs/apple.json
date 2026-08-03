@@ -4,18 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200646105-3337": {
-      "first_seen": 1775163183.8614771,
-      "posted": "",
-      "title": "Software Engineering Manager, ML Infrastructure - Creator Studio",
-      "job_id": "200646105-3337"
-    },
-    "200631930-0836": {
-      "first_seen": 1775163183.8614771,
-      "posted": "",
-      "title": "Senior Software Engineer, App Store Data",
-      "job_id": "200631930-0836"
-    },
     "200653772-1242": {
       "first_seen": 1775163183.8614771,
       "posted": "",
@@ -19643,6 +19631,20 @@
       "title": "Staff Ruby on Rails Engineer, ASE",
       "job_id": "200654205-3337",
       "url": "https://jobs.apple.com/en-us/details/200654205-3337/staff-ruby-on-rails-engineer-ase?team=SFTWR"
+    },
+    "200675147-0836": {
+      "first_seen": 1785800486.1699162,
+      "posted": "2026-08-03",
+      "title": "SW ML Optimization Engineer",
+      "job_id": "200675147-0836",
+      "url": "https://jobs.apple.com/en-us/details/200675147-0836/sw-ml-optimization-engineer?team=SFTWR"
+    },
+    "200660851-0157": {
+      "first_seen": 1785800486.1699216,
+      "posted": "2026-08-03",
+      "title": "Software Engineer - Early Career (Front-end)",
+      "job_id": "200660851-0157",
+      "url": "https://jobs.apple.com/en-us/details/200660851-0157/software-engineer-early-career-front-end?team=SFTWR"
     }
   }
 }
