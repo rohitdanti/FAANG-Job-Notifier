@@ -4,18 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200652543-0836": {
-      "first_seen": 1775163183.8614762,
-      "posted": "",
-      "title": "Solutions Engineering Manager - Marketing Technologies",
-      "job_id": "200652543-0836"
-    },
-    "200646105-1435": {
-      "first_seen": 1775163183.8614762,
-      "posted": "",
-      "title": "Software Engineering Manager, ML Infrastructure - Creator Studio",
-      "job_id": "200646105-1435"
-    },
     "200646105-2926": {
       "first_seen": 1775163183.8614762,
       "posted": "",
@@ -19639,6 +19627,20 @@
       "title": "Business Development Manager, Social Networking, Creator, and Entertainment Apps",
       "job_id": "200674696-0836",
       "url": "https://jobs.apple.com/en-us/details/200674696-0836/business-development-manager-social-networking-creator-and-entertainment-apps?team=SFTWR"
+    },
+    "200675508-0836": {
+      "first_seen": 1785798683.7849493,
+      "posted": "2026-08-03",
+      "title": "Senior Product Manager - Apple Cloud Infrastructure",
+      "job_id": "200675508-0836",
+      "url": "https://jobs.apple.com/en-us/details/200675508-0836/senior-product-manager-apple-cloud-infrastructure?team=SFTWR"
+    },
+    "200675508-3337": {
+      "first_seen": 1785798683.784954,
+      "posted": "2026-08-03",
+      "title": "Senior Product Manager - Apple Cloud Infrastructure",
+      "job_id": "200675508-3337",
+      "url": "https://jobs.apple.com/en-us/details/200675508-3337/senior-product-manager-apple-cloud-infrastructure?team=SFTWR"
     }
   }
 }
