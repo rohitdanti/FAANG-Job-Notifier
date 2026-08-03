@@ -4,18 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200652370-0836": {
-      "first_seen": 1775163183.861475,
-      "posted": "",
-      "title": "Software Engineer - Applications",
-      "job_id": "200652370-0836"
-    },
-    "200632611-3577": {
-      "first_seen": 1775163183.8614762,
-      "posted": "",
-      "title": "Software Engineer, Observability",
-      "job_id": "200632611-3577"
-    },
     "200652543-0836": {
       "first_seen": 1775163183.8614762,
       "posted": "",
@@ -19637,6 +19625,20 @@
       "title": "AI Software Service Manager, Binary Insights (SEAR)",
       "job_id": "200675543-0836",
       "url": "https://jobs.apple.com/en-us/details/200675543-0836/ai-software-service-manager-binary-insights-sear?team=SFTWR"
+    },
+    "200674696-0670": {
+      "first_seen": 1785795104.9313433,
+      "posted": "2026-08-03",
+      "title": "Business Development Manager, Social Networking, Creator, and Entertainment Apps",
+      "job_id": "200674696-0670",
+      "url": "https://jobs.apple.com/en-us/details/200674696-0670/business-development-manager-social-networking-creator-and-entertainment-apps?team=SFTWR"
+    },
+    "200674696-0836": {
+      "first_seen": 1785795104.9313495,
+      "posted": "2026-08-03",
+      "title": "Business Development Manager, Social Networking, Creator, and Entertainment Apps",
+      "job_id": "200674696-0836",
+      "url": "https://jobs.apple.com/en-us/details/200674696-0836/business-development-manager-social-networking-creator-and-entertainment-apps?team=SFTWR"
     }
   }
 }
