@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200652155-0836": {
-      "first_seen": 1775163183.861475,
-      "posted": "",
-      "title": "Software Engineering Systems",
-      "job_id": "200652155-0836"
-    },
     "200652231-0157": {
       "first_seen": 1775163183.861475,
       "posted": "",
@@ -19635,6 +19629,13 @@
       "title": "Platform Security Certification Engineer",
       "job_id": "200668286-0157",
       "url": "https://jobs.apple.com/en-us/details/200668286-0157/platform-security-certification-engineer?team=SFTWR"
+    },
+    "200674941-0836": {
+      "first_seen": 1785793295.0218406,
+      "posted": "2026-08-03",
+      "title": "Senior Software Development Engineer in Test \u2014 LLM Evaluation & Automation, T3E",
+      "job_id": "200674941-0836",
+      "url": "https://jobs.apple.com/en-us/details/200674941-0836/senior-software-development-engineer-in-test-llm-evaluation-automation-t3e?team=SFTWR"
     }
   }
 }
