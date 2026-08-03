@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200646105-2926": {
-      "first_seen": 1775163183.8614762,
-      "posted": "",
-      "title": "Software Engineering Manager, ML Infrastructure - Creator Studio",
-      "job_id": "200646105-2926"
-    },
     "200646105-3543": {
       "first_seen": 1775163183.8614762,
       "posted": "",
@@ -19641,6 +19635,13 @@
       "title": "Senior Product Manager - Apple Cloud Infrastructure",
       "job_id": "200675508-3337",
       "url": "https://jobs.apple.com/en-us/details/200675508-3337/senior-product-manager-apple-cloud-infrastructure?team=SFTWR"
+    },
+    "200675500-0157": {
+      "first_seen": 1785799300.0128584,
+      "posted": "2026-08-03",
+      "title": "Software Engineer - Apple Cloud UI",
+      "job_id": "200675500-0157",
+      "url": "https://jobs.apple.com/en-us/details/200675500-0157/software-engineer-apple-cloud-ui?team=SFTWR"
     }
   }
 }
