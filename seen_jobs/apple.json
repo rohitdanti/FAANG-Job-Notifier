@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200653803-0670": {
-      "first_seen": 1775163183.8614788,
-      "posted": "",
-      "title": "ML Engineer - Evaluation Analysis, Metric and Data Strategy",
-      "job_id": "200653803-0670"
-    },
     "200653803-0836": {
       "first_seen": 1775163183.8614788,
       "posted": "",
@@ -19654,6 +19648,13 @@
       "title": "Senior Engineering Manager, Agentic AI & Intelligent Reasoning",
       "job_id": "200675477-3337",
       "url": "https://jobs.apple.com/en-us/details/200675477-3337/senior-engineering-manager-agentic-ai-intelligent-reasoning?team=SFTWR"
+    },
+    "200673602-3337": {
+      "first_seen": 1785875499.2397606,
+      "posted": "2026-08-04",
+      "title": "Client Software Engineer - Private Cloud Compute",
+      "job_id": "200673602-3337",
+      "url": "https://jobs.apple.com/en-us/details/200673602-3337/client-software-engineer-private-cloud-compute?team=SFTWR"
     }
   }
 }
