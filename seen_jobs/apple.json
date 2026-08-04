@@ -4,30 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200631160-3956": {
-      "first_seen": 1775163183.8614771,
-      "posted": "",
-      "title": "Full-Stack RoR Engineer, Retail & Marcom Engineering",
-      "job_id": "200631160-3956"
-    },
-    "200653704-0670": {
-      "first_seen": 1775163183.8614779,
-      "posted": "",
-      "title": "ML Engineer - Automated Evaluation and Adversarial Design",
-      "job_id": "200653704-0670"
-    },
-    "200653704-0836": {
-      "first_seen": 1775163183.8614779,
-      "posted": "",
-      "title": "ML Engineer - Automated Evaluation and Adversarial Design",
-      "job_id": "200653704-0836"
-    },
-    "200653704-3543": {
-      "first_seen": 1775163183.8614779,
-      "posted": "",
-      "title": "ML Engineer - Automated Evaluation and Adversarial Design",
-      "job_id": "200653704-3543"
-    },
     "200653704-3337": {
       "first_seen": 1775163183.8614779,
       "posted": "",
@@ -19648,6 +19624,34 @@
       "title": "Tactile Simulation Research Engineer - Special Projects (Robotics)",
       "job_id": "200675548-3760",
       "url": "https://jobs.apple.com/en-us/details/200675548-3760/tactile-simulation-research-engineer-special-projects-robotics?team=SFTWR"
+    },
+    "200658572-0157": {
+      "first_seen": 1785868296.7649803,
+      "posted": "2026-08-04",
+      "title": "Trust & Safety Program Manager, Financial Fraud",
+      "job_id": "200658572-0157",
+      "url": "https://jobs.apple.com/en-us/details/200658572-0157/trust-safety-program-manager-financial-fraud?team=SFTWR"
+    },
+    "200658572-1435": {
+      "first_seen": 1785868296.7649848,
+      "posted": "2026-08-04",
+      "title": "Trust & Safety Program Manager, Financial Fraud",
+      "job_id": "200658572-1435",
+      "url": "https://jobs.apple.com/en-us/details/200658572-1435/trust-safety-program-manager-financial-fraud?team=SFTWR"
+    },
+    "200658572-0836": {
+      "first_seen": 1785868296.7649863,
+      "posted": "2026-08-04",
+      "title": "Trust & Safety Program Manager, Financial Fraud",
+      "job_id": "200658572-0836",
+      "url": "https://jobs.apple.com/en-us/details/200658572-0836/trust-safety-program-manager-financial-fraud?team=SFTWR"
+    },
+    "200658572-2459": {
+      "first_seen": 1785868296.764987,
+      "posted": "2026-08-04",
+      "title": "Trust & Safety Program Manager, Financial Fraud",
+      "job_id": "200658572-2459",
+      "url": "https://jobs.apple.com/en-us/details/200658572-2459/trust-safety-program-manager-financial-fraud?team=SFTWR"
     }
   }
 }
