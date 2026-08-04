@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200653704-3337": {
-      "first_seen": 1775163183.8614779,
-      "posted": "",
-      "title": "ML Engineer - Automated Evaluation and Adversarial Design",
-      "job_id": "200653704-3337"
-    },
     "200653784-1435": {
       "first_seen": 1775163183.8614788,
       "posted": "",
@@ -19652,6 +19646,13 @@
       "title": "Trust & Safety Program Manager, Financial Fraud",
       "job_id": "200658572-2459",
       "url": "https://jobs.apple.com/en-us/details/200658572-2459/trust-safety-program-manager-financial-fraud?team=SFTWR"
+    },
+    "200675802-0836": {
+      "first_seen": 1785869500.4468887,
+      "posted": "2026-08-04",
+      "title": "Senior Engineering Program Manager, Lead - Service Special Projects",
+      "job_id": "200675802-0836",
+      "url": "https://jobs.apple.com/en-us/details/200675802-0836/senior-engineering-program-manager-lead-service-special-projects?team=SFTWR"
     }
   }
 }
