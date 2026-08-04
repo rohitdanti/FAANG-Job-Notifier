@@ -4,24 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200653772-1242": {
-      "first_seen": 1775163183.8614771,
-      "posted": "",
-      "title": "Sr. Machine Learning Scientist, Siri Speech",
-      "job_id": "200653772-1242"
-    },
-    "200653762-3401": {
-      "first_seen": 1775163183.8614771,
-      "posted": "",
-      "title": "Software QA Engineer - Automation, Siri",
-      "job_id": "200653762-3401"
-    },
-    "200638270-3337": {
-      "first_seen": 1775163183.8614771,
-      "posted": "",
-      "title": "Sr. Software Engineer, Siri Devices",
-      "job_id": "200638270-3337"
-    },
     "200631160-3956": {
       "first_seen": 1775163183.8614771,
       "posted": "",
@@ -19645,6 +19627,27 @@
       "title": "Software Engineer - Early Career (Front-end)",
       "job_id": "200660851-0157",
       "url": "https://jobs.apple.com/en-us/details/200660851-0157/software-engineer-early-career-front-end?team=SFTWR"
+    },
+    "200675538-3577": {
+      "first_seen": 1785848503.6144922,
+      "posted": "2026-08-04",
+      "title": "ASE Compute - Senior SRE Software Engineer",
+      "job_id": "200675538-3577",
+      "url": "https://jobs.apple.com/en-us/details/200675538-3577/ase-compute-senior-sre-software-engineer?team=SFTWR"
+    },
+    "200675551-3760": {
+      "first_seen": 1785848503.6144998,
+      "posted": "2026-08-04",
+      "title": "Tactile AI Research Engineer - Special Projects (Robotics)",
+      "job_id": "200675551-3760",
+      "url": "https://jobs.apple.com/en-us/details/200675551-3760/tactile-ai-research-engineer-special-projects-robotics?team=SFTWR"
+    },
+    "200675548-3760": {
+      "first_seen": 1785848503.6145027,
+      "posted": "2026-08-04",
+      "title": "Tactile Simulation Research Engineer - Special Projects (Robotics)",
+      "job_id": "200675548-3760",
+      "url": "https://jobs.apple.com/en-us/details/200675548-3760/tactile-simulation-research-engineer-special-projects-robotics?team=SFTWR"
     }
   }
 }
