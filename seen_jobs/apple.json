@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200653598-0836": {
-      "first_seen": 1775163183.861482,
-      "posted": "",
-      "title": "Data Engineer for Crowdsourced Sensing",
-      "job_id": "200653598-0836"
-    },
     "200646752-0836": {
       "first_seen": 1775163183.861482,
       "posted": "",
@@ -19658,6 +19652,13 @@
       "title": "Wireless Bluetooth Quality Engineer, Wireless Technologies & Ecosystems",
       "job_id": "200675597-0836",
       "url": "https://jobs.apple.com/en-us/details/200675597-0836/wireless-bluetooth-quality-engineer-wireless-technologies-ecosystems?team=SFTWR"
+    },
+    "200675852-0836": {
+      "first_seen": 1785886291.1273766,
+      "posted": "2026-08-04",
+      "title": "Camera Image Processing Engineer",
+      "job_id": "200675852-0836",
+      "url": "https://jobs.apple.com/en-us/details/200675852-0836/camera-image-processing-engineer?team=SFTWR"
     }
   }
 }
