@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200648596-0836": {
-      "first_seen": 1775163183.861483,
-      "posted": "",
-      "title": "Game Designer / Senior Game Designer, Apple Arcade",
-      "job_id": "200648596-0836"
-    },
     "200652910-0836": {
       "first_seen": 1775163183.861483,
       "posted": "",
@@ -19663,6 +19657,13 @@
       "title": "AI Systems Security Engineer (Agent Systems), SEAR",
       "job_id": "200676078-0836",
       "url": "https://jobs.apple.com/en-us/details/200676078-0836/ai-systems-security-engineer-agent-systems-sear?team=SFTWR"
+    },
+    "200674799-3401": {
+      "first_seen": 1785949893.0967214,
+      "posted": "2026-08-05",
+      "title": "Senior Security Engineer, Data Center Network",
+      "job_id": "200674799-3401",
+      "url": "https://jobs.apple.com/en-us/details/200674799-3401/senior-security-engineer-data-center-network?team=SFTWR"
     }
   }
 }
