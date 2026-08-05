@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200652527-0157": {
-      "first_seen": 1775163183.8614862,
-      "posted": "",
-      "title": "software QA engineer, Pages",
-      "job_id": "200652527-0157"
-    },
     "200652527-0836": {
       "first_seen": 1775163183.8614862,
       "posted": "",
@@ -19681,6 +19675,13 @@
       "title": "SRE Engineering Program Manager: iCloud (ASE)",
       "job_id": "200674360-3337",
       "url": "https://jobs.apple.com/en-us/details/200674360-3337/sre-engineering-program-manager-icloud-ase?team=SFTWR"
+    },
+    "200675788-3956": {
+      "first_seen": 1785970896.8124857,
+      "posted": "2026-08-05",
+      "title": "Machine Learning Compiler Engineer",
+      "job_id": "200675788-3956",
+      "url": "https://jobs.apple.com/en-us/details/200675788-3956/machine-learning-compiler-engineer?team=SFTWR"
     }
   }
 }
