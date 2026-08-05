@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200632081-3401": {
-      "first_seen": 1775163183.8614862,
-      "posted": "",
-      "title": "Senior ML Data Engineer, ISE",
-      "job_id": "200632081-3401"
-    },
     "200653565-0836": {
       "first_seen": 1775163183.8614862,
       "posted": "",
@@ -19679,6 +19673,13 @@
       "title": "Robotics AI Engineer",
       "job_id": "200675878-0836",
       "url": "https://jobs.apple.com/en-us/details/200675878-0836/robotics-ai-engineer?team=SFTWR"
+    },
+    "200676103-0836": {
+      "first_seen": 1785967305.4500005,
+      "posted": "2026-08-05",
+      "title": "Data Quality Analyst - Creativity Apps",
+      "job_id": "200676103-0836",
+      "url": "https://jobs.apple.com/en-us/details/200676103-0836/data-quality-analyst-creativity-apps?team=SFTWR"
     }
   }
 }
