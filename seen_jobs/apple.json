@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200653560-3956": {
-      "first_seen": 1775163183.861482,
-      "posted": "",
-      "title": "Software Engineering Program Manager (EPM) - Apple Vision Pro",
-      "job_id": "200653560-3956"
-    },
     "200653801-0836": {
       "first_seen": 1775163183.861482,
       "posted": "",
@@ -19661,6 +19655,13 @@
       "title": "iOS Developer Tools Engineer \u2013 Car Experience, Wireless Technologies & Ecosystems",
       "job_id": "200675591-0836",
       "url": "https://jobs.apple.com/en-us/details/200675591-0836/ios-developer-tools-engineer-car-experience-wireless-technologies-ecosystems?team=SFTWR"
+    },
+    "200674941-3543": {
+      "first_seen": 1785946893.4012277,
+      "posted": "2026-08-05",
+      "title": "Senior Software Development Engineer in Test \u2014 LLM Evaluation & Automation, T3E",
+      "job_id": "200674941-3543",
+      "url": "https://jobs.apple.com/en-us/details/200674941-3543/senior-software-development-engineer-in-test-llm-evaluation-automation-t3e?team=SFTWR"
     }
   }
 }
