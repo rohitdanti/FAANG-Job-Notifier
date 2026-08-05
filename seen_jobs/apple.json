@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200653565-0836": {
-      "first_seen": 1775163183.8614862,
-      "posted": "",
-      "title": "Software QA Automation Engineer",
-      "job_id": "200653565-0836"
-    },
     "200652527-0157": {
       "first_seen": 1775163183.8614862,
       "posted": "",
@@ -19680,6 +19674,13 @@
       "title": "Data Quality Analyst - Creativity Apps",
       "job_id": "200676103-0836",
       "url": "https://jobs.apple.com/en-us/details/200676103-0836/data-quality-analyst-creativity-apps?team=SFTWR"
+    },
+    "200674360-3337": {
+      "first_seen": 1785967898.6707609,
+      "posted": "2026-08-05",
+      "title": "SRE Engineering Program Manager: iCloud (ASE)",
+      "job_id": "200674360-3337",
+      "url": "https://jobs.apple.com/en-us/details/200674360-3337/sre-engineering-program-manager-icloud-ase?team=SFTWR"
     }
   }
 }
