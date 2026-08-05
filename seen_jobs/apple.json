@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200653315-3337": {
-      "first_seen": 1775163183.861484,
-      "posted": "",
-      "title": "Senior Infrastructure SRE, Object Storage",
-      "job_id": "200653315-3337"
-    },
     "200653653-0836": {
       "first_seen": 1775163183.861484,
       "posted": "",
@@ -19669,6 +19663,13 @@
       "title": "Sr. Engineering Program Manager, Apple Cloud Network",
       "job_id": "200636892-3401",
       "url": "https://jobs.apple.com/en-us/details/200636892-3401/sr-engineering-program-manager-apple-cloud-network?team=SFTWR"
+    },
+    "200676125-3337": {
+      "first_seen": 1785957694.125151,
+      "posted": "2026-08-05",
+      "title": "Software Engineer, Agentic Workflows",
+      "job_id": "200676125-3337",
+      "url": "https://jobs.apple.com/en-us/details/200676125-3337/software-engineer-agentic-workflows?team=SFTWR"
     }
   }
 }
