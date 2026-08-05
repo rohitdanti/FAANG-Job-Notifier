@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200652910-0836": {
-      "first_seen": 1775163183.861483,
-      "posted": "",
-      "title": "Research Scientist / Engineer, Foundation Model Evaluation",
-      "job_id": "200652910-0836"
-    },
     "200633462-0836": {
       "first_seen": 1775163183.861483,
       "posted": "",
@@ -19664,6 +19658,13 @@
       "title": "Senior Security Engineer, Data Center Network",
       "job_id": "200674799-3401",
       "url": "https://jobs.apple.com/en-us/details/200674799-3401/senior-security-engineer-data-center-network?team=SFTWR"
+    },
+    "200674785-3956": {
+      "first_seen": 1785950488.8639746,
+      "posted": "2026-08-05",
+      "title": "Sr Software Engineer, Infrastructure Services",
+      "job_id": "200674785-3956",
+      "url": "https://jobs.apple.com/en-us/details/200674785-3956/sr-software-engineer-infrastructure-services?team=SFTWR"
     }
   }
 }
