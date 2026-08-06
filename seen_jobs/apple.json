@@ -4,18 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200653226-0836": {
-      "first_seen": 1775163183.86149,
-      "posted": "",
-      "title": "Lead Trust & Safety Data Engineer",
-      "job_id": "200653226-0836"
-    },
-    "200652682-3543": {
-      "first_seen": 1775163183.86149,
-      "posted": "",
-      "title": "Software Engineering Manager - HealthKit",
-      "job_id": "200652682-3543"
-    },
     "200652682-3956": {
       "first_seen": 1775163183.86149,
       "posted": "",
@@ -19701,6 +19689,20 @@
       "title": "System Test Engineer, 5G/6G Wireless Interoperability - Wireless Technologies and Ecosystems",
       "job_id": "200676417-3543",
       "url": "https://jobs.apple.com/en-us/details/200676417-3543/system-test-engineer-5g-6g-wireless-interoperability-wireless-technologies-and-ecosystems?team=SFTWR"
+    },
+    "200676225-0836": {
+      "first_seen": 1786054922.4402215,
+      "posted": "2026-08-06",
+      "title": "Engineering Project Manager",
+      "job_id": "200676225-0836",
+      "url": "https://jobs.apple.com/en-us/details/200676225-0836/engineering-project-manager?team=SFTWR"
+    },
+    "200676394-3337": {
+      "first_seen": 1786054922.4402266,
+      "posted": "2026-08-06",
+      "title": "UX and UI Software Engineer \u2014 Observability",
+      "job_id": "200676394-3337",
+      "url": "https://jobs.apple.com/en-us/details/200676394-3337/ux-and-ui-software-engineer-observability?team=SFTWR"
     }
   }
 }
