@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200652527-0836": {
-      "first_seen": 1775163183.8614862,
-      "posted": "",
-      "title": "software QA engineer, Pages",
-      "job_id": "200652527-0836"
-    },
     "200648567-0836": {
       "first_seen": 1775163183.8614862,
       "posted": "",
@@ -19682,6 +19676,13 @@
       "title": "Machine Learning Compiler Engineer",
       "job_id": "200675788-3956",
       "url": "https://jobs.apple.com/en-us/details/200675788-3956/machine-learning-compiler-engineer?team=SFTWR"
+    },
+    "200676200-3956": {
+      "first_seen": 1785974489.2938905,
+      "posted": "2026-08-06",
+      "title": "Software Data Architect, PostgreSQL Database - AiDP",
+      "job_id": "200676200-3956",
+      "url": "https://jobs.apple.com/en-us/details/200676200-3956/software-data-architect-postgresql-database-aidp?team=SFTWR"
     }
   }
 }
