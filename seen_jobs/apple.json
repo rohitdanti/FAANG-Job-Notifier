@@ -4,18 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200648567-0836": {
-      "first_seen": 1775163183.8614862,
-      "posted": "",
-      "title": "Xcode Intelligence Foundation Engineer",
-      "job_id": "200648567-0836"
-    },
-    "200653477-3401": {
-      "first_seen": 1775163183.8614872,
-      "posted": "",
-      "title": "AR/VR Applications Engineer - Photos, Vision Products Software",
-      "job_id": "200653477-3401"
-    },
     "200653477": {
       "first_seen": 1775163183.8614872,
       "posted": "",
@@ -19683,6 +19671,20 @@
       "title": "Software Data Architect, PostgreSQL Database - AiDP",
       "job_id": "200676200-3956",
       "url": "https://jobs.apple.com/en-us/details/200676200-3956/software-data-architect-postgresql-database-aidp?team=SFTWR"
+    },
+    "200676120-2459": {
+      "first_seen": 1785975781.371732,
+      "posted": "2026-08-06",
+      "title": "Senior Backend Software Engineer - Apple Sports",
+      "job_id": "200676120-2459",
+      "url": "https://jobs.apple.com/en-us/details/200676120-2459/senior-backend-software-engineer-apple-sports?team=SFTWR"
+    },
+    "200676213-3337": {
+      "first_seen": 1785975781.3717365,
+      "posted": "2026-08-06",
+      "title": "Senior Software Engineer, ML Build & Release Quality - Private Cloud Computing",
+      "job_id": "200676213-3337",
+      "url": "https://jobs.apple.com/en-us/details/200676213-3337/senior-software-engineer-ml-build-release-quality-private-cloud-computing?team=SFTWR"
     }
   }
 }
