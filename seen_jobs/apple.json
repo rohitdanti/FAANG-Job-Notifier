@@ -4,24 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200652682-3956": {
-      "first_seen": 1775163183.86149,
-      "posted": "",
-      "title": "Software Engineering Manager - HealthKit",
-      "job_id": "200652682-3956"
-    },
-    "200601461-0836": {
-      "first_seen": 1775163183.861491,
-      "posted": "",
-      "title": "Senior Software Engineer - System Experience Personalization",
-      "job_id": "200601461-0836"
-    },
-    "200653186-3956": {
-      "first_seen": 1775163183.861491,
-      "posted": "",
-      "title": "DevOps Engineer, Retail & Marcom Engineering",
-      "job_id": "200653186-3956"
-    },
     "200652977-3337": {
       "first_seen": 1775163183.861491,
       "posted": "",
@@ -19703,6 +19685,27 @@
       "title": "UX and UI Software Engineer \u2014 Observability",
       "job_id": "200676394-3337",
       "url": "https://jobs.apple.com/en-us/details/200676394-3337/ux-and-ui-software-engineer-observability?team=SFTWR"
+    },
+    "200669129-0240": {
+      "first_seen": 1786057338.3938084,
+      "posted": "2026-08-06",
+      "title": "Apple SkillBridge Fellowship Program",
+      "job_id": "200669129-0240",
+      "url": "https://jobs.apple.com/en-us/details/200669129-0240/apple-skillbridge-fellowship-program?team=SFTWR"
+    },
+    "200669129-3401": {
+      "first_seen": 1786057338.3938148,
+      "posted": "2026-08-06",
+      "title": "Apple SkillBridge Fellowship Program",
+      "job_id": "200669129-3401",
+      "url": "https://jobs.apple.com/en-us/details/200669129-3401/apple-skillbridge-fellowship-program?team=SFTWR"
+    },
+    "200669129-3543": {
+      "first_seen": 1786057338.3938174,
+      "posted": "2026-08-06",
+      "title": "Apple SkillBridge Fellowship Program",
+      "job_id": "200669129-3543",
+      "url": "https://jobs.apple.com/en-us/details/200669129-3543/apple-skillbridge-fellowship-program?team=SFTWR"
     }
   }
 }
