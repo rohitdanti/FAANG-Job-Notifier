@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200652977-3337": {
-      "first_seen": 1775163183.861491,
-      "posted": "",
-      "title": "Software Data Engineer",
-      "job_id": "200652977-3337"
-    },
     "200652784-3337": {
       "first_seen": 1775163183.861491,
       "posted": "",
@@ -19706,6 +19700,13 @@
       "title": "Apple SkillBridge Fellowship Program",
       "job_id": "200669129-3543",
       "url": "https://jobs.apple.com/en-us/details/200669129-3543/apple-skillbridge-fellowship-program?team=SFTWR"
+    },
+    "200672206-0836": {
+      "first_seen": 1786058503.8726313,
+      "posted": "2026-08-06",
+      "title": "CDN Solutions Engineer",
+      "job_id": "200672206-0836",
+      "url": "https://jobs.apple.com/en-us/details/200672206-0836/cdn-solutions-engineer?team=SFTWR"
     }
   }
 }
