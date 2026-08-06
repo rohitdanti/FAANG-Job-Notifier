@@ -4,36 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200649032-0836": {
-      "first_seen": 1775163183.8614888,
-      "posted": "",
-      "title": "Traffic and Secure Services Network SRE Engineer",
-      "job_id": "200649032-0836"
-    },
-    "200653266-0836": {
-      "first_seen": 1775163183.8614888,
-      "posted": "",
-      "title": "HomeKit Software Engineer, Wireless Technologies & Ecosystems",
-      "job_id": "200653266-0836"
-    },
-    "200653242-0836": {
-      "first_seen": 1775163183.8614888,
-      "posted": "",
-      "title": "Senior Computer Vision and Machine Learning Engineer, Creator Studio",
-      "job_id": "200653242-0836"
-    },
-    "200653242-3337": {
-      "first_seen": 1775163183.8614888,
-      "posted": "",
-      "title": "Senior Computer Vision and Machine Learning Engineer, Creator Studio",
-      "job_id": "200653242-3337"
-    },
-    "200652310-3337": {
-      "first_seen": 1775163183.8614888,
-      "posted": "",
-      "title": "Software Engineer",
-      "job_id": "200652310-3337"
-    },
     "200652942-3956": {
       "first_seen": 1775163183.8614888,
       "posted": "",
@@ -19694,6 +19664,41 @@
       "title": "Engineering Program Manager, Siri App Experience",
       "job_id": "200675038-3337",
       "url": "https://jobs.apple.com/en-us/details/200675038-3337/engineering-program-manager-siri-app-experience?team=SFTWR"
+    },
+    "200674687-0670": {
+      "first_seen": 1786045296.0287852,
+      "posted": "2026-08-06",
+      "title": "Software Applications Engineer - User Interface iOS",
+      "job_id": "200674687-0670",
+      "url": "https://jobs.apple.com/en-us/details/200674687-0670/software-applications-engineer-user-interface-ios?team=SFTWR"
+    },
+    "200674687-0836": {
+      "first_seen": 1786045296.0287893,
+      "posted": "2026-08-06",
+      "title": "Software Applications Engineer - User Interface iOS",
+      "job_id": "200674687-0836",
+      "url": "https://jobs.apple.com/en-us/details/200674687-0836/software-applications-engineer-user-interface-ios?team=SFTWR"
+    },
+    "200674687-3543": {
+      "first_seen": 1786045296.0287912,
+      "posted": "2026-08-06",
+      "title": "Software Applications Engineer - User Interface iOS",
+      "job_id": "200674687-3543",
+      "url": "https://jobs.apple.com/en-us/details/200674687-3543/software-applications-engineer-user-interface-ios?team=SFTWR"
+    },
+    "200674687-3337": {
+      "first_seen": 1786045296.0287926,
+      "posted": "2026-08-06",
+      "title": "Software Applications Engineer - User Interface iOS",
+      "job_id": "200674687-3337",
+      "url": "https://jobs.apple.com/en-us/details/200674687-3337/software-applications-engineer-user-interface-ios?team=SFTWR"
+    },
+    "200674165-0836": {
+      "first_seen": 1786045296.0287938,
+      "posted": "2026-08-06",
+      "title": "iOS/tvOS FaceTime Engineer",
+      "job_id": "200674165-0836",
+      "url": "https://jobs.apple.com/en-us/details/200674165-0836/ios-tvos-facetime-engineer?team=SFTWR"
     }
   }
 }
