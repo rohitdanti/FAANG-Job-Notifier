@@ -4,18 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200652942-3956": {
-      "first_seen": 1775163183.8614888,
-      "posted": "",
-      "title": "Senior Engineering Program Manager",
-      "job_id": "200652942-3956"
-    },
-    "200653184-0836": {
-      "first_seen": 1775163183.86149,
-      "posted": "",
-      "title": "Darwin Runtime Engineer, Core OS",
-      "job_id": "200653184-0836"
-    },
     "200653226-0836": {
       "first_seen": 1775163183.86149,
       "posted": "",
@@ -19699,6 +19687,20 @@
       "title": "iOS/tvOS FaceTime Engineer",
       "job_id": "200674165-0836",
       "url": "https://jobs.apple.com/en-us/details/200674165-0836/ios-tvos-facetime-engineer?team=SFTWR"
+    },
+    "200676475-0836": {
+      "first_seen": 1786051897.5415804,
+      "posted": "2026-08-06",
+      "title": "On-Device ML Infrastructure Engineer (ML User Experience APIs), Graphics, Games and Machine Learning",
+      "job_id": "200676475-0836",
+      "url": "https://jobs.apple.com/en-us/details/200676475-0836/on-device-ml-infrastructure-engineer-ml-user-experience-apis-graphics-games-and-machine-learning?team=SFTWR"
+    },
+    "200676417-3543": {
+      "first_seen": 1786051897.541586,
+      "posted": "2026-08-06",
+      "title": "System Test Engineer, 5G/6G Wireless Interoperability - Wireless Technologies and Ecosystems",
+      "job_id": "200676417-3543",
+      "url": "https://jobs.apple.com/en-us/details/200676417-3543/system-test-engineer-5g-6g-wireless-interoperability-wireless-technologies-and-ecosystems?team=SFTWR"
     }
   }
 }
