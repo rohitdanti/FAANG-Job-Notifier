@@ -4,30 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200652784-3337": {
-      "first_seen": 1775163183.861491,
-      "posted": "",
-      "title": "Staff Software Engineer / Technical Educator",
-      "job_id": "200652784-3337"
-    },
-    "200652883-0836": {
-      "first_seen": 1775163183.861491,
-      "posted": "",
-      "title": "Senior Software Engineer, Apple Batch, Apple Data Platform",
-      "job_id": "200652883-0836"
-    },
-    "200653063-3337": {
-      "first_seen": 1775163183.861491,
-      "posted": "",
-      "title": "IAM Architect",
-      "job_id": "200653063-3337"
-    },
-    "200652696-3543": {
-      "first_seen": 1775163183.861492,
-      "posted": "",
-      "title": "Data Scientist Audio Telemetry Intelligence",
-      "job_id": "200652696-3543"
-    },
     "200639054-2926": {
       "first_seen": 1775163183.861492,
       "posted": "",
@@ -19707,6 +19683,34 @@
       "title": "CDN Solutions Engineer",
       "job_id": "200672206-0836",
       "url": "https://jobs.apple.com/en-us/details/200672206-0836/cdn-solutions-engineer?team=SFTWR"
+    },
+    "200676528-0157": {
+      "first_seen": 1786107702.591117,
+      "posted": "2026-08-07",
+      "title": "Distributed Systems Software Engineer (Golang)",
+      "job_id": "200676528-0157",
+      "url": "https://jobs.apple.com/en-us/details/200676528-0157/distributed-systems-software-engineer-golang?team=SFTWR"
+    },
+    "200676528-3543": {
+      "first_seen": 1786107702.5911214,
+      "posted": "2026-08-07",
+      "title": "Distributed Systems Software Engineer (Golang)",
+      "job_id": "200676528-3543",
+      "url": "https://jobs.apple.com/en-us/details/200676528-3543/distributed-systems-software-engineer-golang?team=SFTWR"
+    },
+    "200675799-0836": {
+      "first_seen": 1786107702.591123,
+      "posted": "2026-08-07",
+      "title": "Staff Machine Learning Engineer, Tools and Framework AI",
+      "job_id": "200675799-0836",
+      "url": "https://jobs.apple.com/en-us/details/200675799-0836/staff-machine-learning-engineer-tools-and-framework-ai?team=SFTWR"
+    },
+    "200675476-0836": {
+      "first_seen": 1786107702.5911245,
+      "posted": "2026-08-07",
+      "title": "Xcode Intelligence Foundation Engineer",
+      "job_id": "200675476-0836",
+      "url": "https://jobs.apple.com/en-us/details/200675476-0836/xcode-intelligence-foundation-engineer?team=SFTWR"
     }
   }
 }
