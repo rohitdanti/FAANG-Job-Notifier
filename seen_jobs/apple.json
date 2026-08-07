@@ -4,24 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200615747-0836": {
-      "first_seen": 1775163183.861492,
-      "posted": "",
-      "title": "Software Automation QA Engineer - Security",
-      "job_id": "200615747-0836"
-    },
-    "200652988-0836": {
-      "first_seen": 1775163183.861492,
-      "posted": "",
-      "title": "Tooling & Infrastructure Engineer",
-      "job_id": "200652988-0836"
-    },
-    "200642870-3337": {
-      "first_seen": 1775163183.861492,
-      "posted": "",
-      "title": "Software Engineer, Apple Services Engineering",
-      "job_id": "200642870-3337"
-    },
     "200635784-0836": {
       "first_seen": 1775163183.861493,
       "posted": "",
@@ -19712,6 +19694,27 @@
       "title": "Staff Software Engineer, Apple Ads",
       "job_id": "200673649-3401",
       "url": "https://jobs.apple.com/en-us/details/200673649-3401/staff-software-engineer-apple-ads?team=SFTWR"
+    },
+    "200676435-0157": {
+      "first_seen": 1786125087.3605392,
+      "posted": "2026-08-07",
+      "title": "Data Scientist, AI/ML Model Quality",
+      "job_id": "200676435-0157",
+      "url": "https://jobs.apple.com/en-us/details/200676435-0157/data-scientist-ai-ml-model-quality?team=SFTWR"
+    },
+    "200676435-2459": {
+      "first_seen": 1786125087.3605435,
+      "posted": "2026-08-07",
+      "title": "Data Scientist, AI/ML Model Quality",
+      "job_id": "200676435-2459",
+      "url": "https://jobs.apple.com/en-us/details/200676435-2459/data-scientist-ai-ml-model-quality?team=SFTWR"
+    },
+    "200676435-3543": {
+      "first_seen": 1786125087.3605456,
+      "posted": "2026-08-07",
+      "title": "Data Scientist, AI/ML Model Quality",
+      "job_id": "200676435-3543",
+      "url": "https://jobs.apple.com/en-us/details/200676435-3543/data-scientist-ai-ml-model-quality?team=SFTWR"
     }
   }
 }
