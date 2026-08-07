@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200635784-0836": {
-      "first_seen": 1775163183.861493,
-      "posted": "",
-      "title": "Staff/Sr. iOS Engineer - AI, Search & Knowledge Platforms",
-      "job_id": "200635784-0836"
-    },
     "200635784-3760": {
       "first_seen": 1775163183.861493,
       "posted": "",
@@ -19715,6 +19709,13 @@
       "title": "Data Scientist, AI/ML Model Quality",
       "job_id": "200676435-3543",
       "url": "https://jobs.apple.com/en-us/details/200676435-3543/data-scientist-ai-ml-model-quality?team=SFTWR"
+    },
+    "200676368-0836": {
+      "first_seen": 1786129307.9662213,
+      "posted": "2026-08-07",
+      "title": "Engineering Program Manager, Siri Runtime Platform and Interaction",
+      "job_id": "200676368-0836",
+      "url": "https://jobs.apple.com/en-us/details/200676368-0836/engineering-program-manager-siri-runtime-platform-and-interaction?team=SFTWR"
     }
   }
 }
