@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200635784-3760": {
-      "first_seen": 1775163183.861493,
-      "posted": "",
-      "title": "Staff/Sr. iOS Engineer - AI, Search & Knowledge Platforms",
-      "job_id": "200635784-3760"
-    },
     "200652780-0836": {
       "first_seen": 1775163183.861493,
       "posted": "",
@@ -19716,6 +19710,13 @@
       "title": "Engineering Program Manager, Siri Runtime Platform and Interaction",
       "job_id": "200676368-0836",
       "url": "https://jobs.apple.com/en-us/details/200676368-0836/engineering-program-manager-siri-runtime-platform-and-interaction?team=SFTWR"
+    },
+    "200658053-3543": {
+      "first_seen": 1786130502.9910464,
+      "posted": "2026-08-07",
+      "title": "Senior Software Engineer, Swift - macOS",
+      "job_id": "200658053-3543",
+      "url": "https://jobs.apple.com/en-us/details/200658053-3543/senior-software-engineer-swift-macos?team=SFTWR"
     }
   }
 }
