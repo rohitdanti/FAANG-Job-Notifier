@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200639054-2926": {
-      "first_seen": 1775163183.861492,
-      "posted": "",
-      "title": "iOS Software Engineer, Siri Home Devices",
-      "job_id": "200639054-2926"
-    },
     "200615747-0836": {
       "first_seen": 1775163183.861492,
       "posted": "",
@@ -19711,6 +19705,13 @@
       "title": "Xcode Intelligence Foundation Engineer",
       "job_id": "200675476-0836",
       "url": "https://jobs.apple.com/en-us/details/200675476-0836/xcode-intelligence-foundation-engineer?team=SFTWR"
+    },
+    "200673649-3401": {
+      "first_seen": 1786118494.4295514,
+      "posted": "2026-08-07",
+      "title": "Staff Software Engineer, Apple Ads",
+      "job_id": "200673649-3401",
+      "url": "https://jobs.apple.com/en-us/details/200673649-3401/staff-software-engineer-apple-ads?team=SFTWR"
     }
   }
 }
