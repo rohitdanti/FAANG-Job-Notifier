@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200647343-0670": {
-      "first_seen": 1775163183.861494,
-      "posted": "",
-      "title": "Associate Creative Director, Photography, Sports",
-      "job_id": "200647343-0670"
-    },
     "200652779-0836": {
       "first_seen": 1775163183.861494,
       "posted": "",
@@ -19720,6 +19714,13 @@
       "title": "Senior Applied ML Researcher - Video Apps",
       "job_id": "200676658-0836",
       "url": "https://jobs.apple.com/en-us/details/200676658-0836/senior-applied-ml-researcher-video-apps?team=SFTWR"
+    },
+    "200676478-3577": {
+      "first_seen": 1786141910.1639104,
+      "posted": "2026-08-07",
+      "title": "Software Engineer - Apple Services",
+      "job_id": "200676478-3577",
+      "url": "https://jobs.apple.com/en-us/details/200676478-3577/software-engineer-apple-services?team=SFTWR"
     }
   }
 }
