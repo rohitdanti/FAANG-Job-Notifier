@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200652780-0836": {
-      "first_seen": 1775163183.861493,
-      "posted": "",
-      "title": "AIML - Sr Engineering Program Manager, Foundation Models",
-      "job_id": "200652780-0836"
-    },
     "200652765-3543": {
       "first_seen": 1775163183.861493,
       "posted": "",
@@ -19717,6 +19711,13 @@
       "title": "Senior Software Engineer, Swift - macOS",
       "job_id": "200658053-3543",
       "url": "https://jobs.apple.com/en-us/details/200658053-3543/senior-software-engineer-swift-macos?team=SFTWR"
+    },
+    "200676670-0836": {
+      "first_seen": 1786131698.360471,
+      "posted": "2026-08-07",
+      "title": "Data & Analytics Engineer, Health & Fitness, Sensing & Connectivity",
+      "job_id": "200676670-0836",
+      "url": "https://jobs.apple.com/en-us/details/200676670-0836/data-analytics-engineer-health-fitness-sensing-connectivity?team=SFTWR"
     }
   }
 }
