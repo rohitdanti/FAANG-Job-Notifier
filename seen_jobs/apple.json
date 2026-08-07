@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200646481-0836": {
-      "first_seen": 1775163183.861493,
-      "posted": "",
-      "title": "Machine Learning Engineer, Siri Core Modeling",
-      "job_id": "200646481-0836"
-    },
     "200647343-0670": {
       "first_seen": 1775163183.861494,
       "posted": "",
@@ -19719,6 +19713,13 @@
       "title": "UX Designer - Xcode & AI Developer Tools",
       "job_id": "200676680-0836",
       "url": "https://jobs.apple.com/en-us/details/200676680-0836/ux-designer-xcode-ai-developer-tools?team=SFTWR"
+    },
+    "200676658-0836": {
+      "first_seen": 1786134700.8675442,
+      "posted": "2026-08-07",
+      "title": "Senior Applied ML Researcher - Video Apps",
+      "job_id": "200676658-0836",
+      "url": "https://jobs.apple.com/en-us/details/200676658-0836/senior-applied-ml-researcher-video-apps?team=SFTWR"
     }
   }
 }
