@@ -4,24 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200652874-3543": {
-      "first_seen": 1775163183.861495,
-      "posted": "",
-      "title": "Senior MacOS App Engineer, CoreOS",
-      "job_id": "200652874-3543"
-    },
-    "200604470-3337": {
-      "first_seen": 1775163183.861495,
-      "posted": "",
-      "title": "Software Engineer - Visual Intelligence",
-      "job_id": "200604470-3337"
-    },
-    "200652772-0836": {
-      "first_seen": 1775163183.861495,
-      "posted": "",
-      "title": "Software Engineer \u2013 Developer Tools Installation Technologies",
-      "job_id": "200652772-0836"
-    },
     "200646044-3337": {
       "first_seen": 1775163183.861495,
       "posted": "",
@@ -19726,6 +19708,27 @@
       "title": "Engineering Manager, Quality Engineering \u2014 MapKit",
       "job_id": "200676672-0836",
       "url": "https://jobs.apple.com/en-us/details/200676672-0836/engineering-manager-quality-engineering-mapkit?team=SFTWR"
+    },
+    "200675793-3956": {
+      "first_seen": 1786384292.2164237,
+      "posted": "2026-08-10",
+      "title": "Sr. Linux Engineer - DNS and Global Server Load Balancing, Infrastructure Services",
+      "job_id": "200675793-3956",
+      "url": "https://jobs.apple.com/en-us/details/200675793-3956/sr-linux-engineer-dns-and-global-server-load-balancing-infrastructure-services?team=SFTWR"
+    },
+    "200674824-3337": {
+      "first_seen": 1786384292.216429,
+      "posted": "2026-08-10",
+      "title": "AI Inference Platform Engineer",
+      "job_id": "200674824-3337",
+      "url": "https://jobs.apple.com/en-us/details/200674824-3337/ai-inference-platform-engineer?team=SFTWR"
+    },
+    "200677024-0157": {
+      "first_seen": 1786384292.2164316,
+      "posted": "2026-08-10",
+      "title": "Software Development Engineer Test (SDET), Productivity Apps",
+      "job_id": "200677024-0157",
+      "url": "https://jobs.apple.com/en-us/details/200677024-0157/software-development-engineer-test-sdet-productivity-apps?team=SFTWR"
     }
   }
 }
