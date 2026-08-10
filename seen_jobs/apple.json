@@ -4,24 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200652242-0157": {
-      "first_seen": 1775163183.861496,
-      "posted": "",
-      "title": "Site Reliability Engineer, Enterprise Technology Services",
-      "job_id": "200652242-0157"
-    },
-    "200651907-3337": {
-      "first_seen": 1775163183.861496,
-      "posted": "",
-      "title": "Engineering Manager, User & Content Intelligence",
-      "job_id": "200651907-3337"
-    },
-    "200652518-3956": {
-      "first_seen": 1775163183.861496,
-      "posted": "",
-      "title": "Software Performance Engineer, Vision Products Group",
-      "job_id": "200652518-3956"
-    },
     "200647999-3956": {
       "first_seen": 1775163183.861496,
       "posted": "",
@@ -19733,6 +19715,27 @@
       "title": "Engineering Project Manager (Finance Engineering ), IS&T",
       "job_id": "200676518-0240",
       "url": "https://jobs.apple.com/en-us/details/200676518-0240/engineering-project-manager-finance-engineering-is-t?team=SFTWR"
+    },
+    "200674026-3543": {
+      "first_seen": 1786387294.534615,
+      "posted": "2026-08-10",
+      "title": "Professional Services Engineer, Claris",
+      "job_id": "200674026-3543",
+      "url": "https://jobs.apple.com/en-us/details/200674026-3543/professional-services-engineer-claris?team=SFTWR"
+    },
+    "200674026-3956": {
+      "first_seen": 1786387294.534621,
+      "posted": "2026-08-10",
+      "title": "Professional Services Engineer, Claris",
+      "job_id": "200674026-3956",
+      "url": "https://jobs.apple.com/en-us/details/200674026-3956/professional-services-engineer-claris?team=SFTWR"
+    },
+    "200674026-4079": {
+      "first_seen": 1786387294.534623,
+      "posted": "2026-08-10",
+      "title": "Professional Services Engineer, Claris",
+      "job_id": "200674026-4079",
+      "url": "https://jobs.apple.com/en-us/details/200674026-4079/professional-services-engineer-claris?team=SFTWR"
     }
   }
 }
