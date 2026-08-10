@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200647999-3956": {
-      "first_seen": 1775163183.861496,
-      "posted": "",
-      "title": "Senior Partner Engineering Manager, Emerging Technologies",
-      "job_id": "200647999-3956"
-    },
     "200652135-0836": {
       "first_seen": 1775163183.861496,
       "posted": "",
@@ -19736,6 +19730,13 @@
       "title": "Professional Services Engineer, Claris",
       "job_id": "200674026-4079",
       "url": "https://jobs.apple.com/en-us/details/200674026-4079/professional-services-engineer-claris?team=SFTWR"
+    },
+    "200676168-0157": {
+      "first_seen": 1786392106.6196923,
+      "posted": "2026-08-10",
+      "title": "Frontend Engineer, EE&P - IS&T Early Career",
+      "job_id": "200676168-0157",
+      "url": "https://jobs.apple.com/en-us/details/200676168-0157/frontend-engineer-ee-p-is-t-early-career?team=SFTWR"
     }
   }
 }
