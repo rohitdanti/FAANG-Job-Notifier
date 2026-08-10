@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200652884-3956": {
-      "first_seen": 1775163183.861494,
-      "posted": "",
-      "title": "Cloud Network Platform Software Engineer",
-      "job_id": "200652884-3956"
-    },
     "200651036-0836": {
       "first_seen": 1775163183.861494,
       "posted": "",
@@ -19723,6 +19717,13 @@
       "title": "Systems Software Engineer, Core OS",
       "job_id": "200676717-3543",
       "url": "https://jobs.apple.com/en-us/details/200676717-3543/systems-software-engineer-core-os?team=SFTWR"
+    },
+    "200676167-0836": {
+      "first_seen": 1786381889.6946378,
+      "posted": "2026-08-10",
+      "title": "Systems Software Engineer - Performance & Agentic Tools",
+      "job_id": "200676167-0836",
+      "url": "https://jobs.apple.com/en-us/details/200676167-0836/systems-software-engineer-performance-agentic-tools?team=SFTWR"
     }
   }
 }
