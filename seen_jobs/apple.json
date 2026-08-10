@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200652252-0836": {
-      "first_seen": 1775163183.8614972,
-      "posted": "",
-      "title": "Senior Software Engineer, On-Device Health Agentic Systems",
-      "job_id": "200652252-0836"
-    },
     "200652386-3956": {
       "first_seen": 1775163183.8614972,
       "posted": "",
@@ -19741,6 +19735,13 @@
       "title": "Perception Systems Software Engineer, Audio & Media Technologies",
       "job_id": "200668234-0836",
       "url": "https://jobs.apple.com/en-us/details/200668234-0836/perception-systems-software-engineer-audio-media-technologies?team=SFTWR"
+    },
+    "200639933-0836": {
+      "first_seen": 1786403485.16062,
+      "posted": "2026-08-10",
+      "title": "Senior Software Engineer, Computer Use & Automation",
+      "job_id": "200639933-0836",
+      "url": "https://jobs.apple.com/en-us/details/200639933-0836/senior-software-engineer-computer-use-automation?team=SFTWR"
     }
   }
 }
