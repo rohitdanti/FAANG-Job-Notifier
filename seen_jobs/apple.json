@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200635026-3401": {
-      "first_seen": 1775163183.8614972,
-      "posted": "",
-      "title": "Senior Software Engineer-Apple Music",
-      "job_id": "200635026-3401"
-    },
     "200652312-0157": {
       "first_seen": 1775163183.8614972,
       "posted": "",
@@ -19738,6 +19732,13 @@
       "title": "Distributed Systems Software Engineer (Golang)",
       "job_id": "200676528-3749",
       "url": "https://jobs.apple.com/en-us/details/200676528-3749/distributed-systems-software-engineer-golang?team=SFTWR"
+    },
+    "200677122-2903": {
+      "first_seen": 1786397493.1262615,
+      "posted": "2026-08-10",
+      "title": "Data Center Technician, Data Center Operations",
+      "job_id": "200677122-2903",
+      "url": "https://jobs.apple.com/en-us/details/200677122-2903/data-center-technician-data-center-operations?team=SFTWR"
     }
   }
 }
