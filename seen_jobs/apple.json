@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200652135-0836": {
-      "first_seen": 1775163183.861496,
-      "posted": "",
-      "title": "Test Triage & Automation Engineer, Siri",
-      "job_id": "200652135-0836"
-    },
     "200635026-3401": {
       "first_seen": 1775163183.8614972,
       "posted": "",
@@ -19737,6 +19731,13 @@
       "title": "Frontend Engineer, EE&P - IS&T Early Career",
       "job_id": "200676168-0157",
       "url": "https://jobs.apple.com/en-us/details/200676168-0157/frontend-engineer-ee-p-is-t-early-career?team=SFTWR"
+    },
+    "200676528-3749": {
+      "first_seen": 1786396913.793719,
+      "posted": "2026-08-10",
+      "title": "Distributed Systems Software Engineer (Golang)",
+      "job_id": "200676528-3749",
+      "url": "https://jobs.apple.com/en-us/details/200676528-3749/distributed-systems-software-engineer-golang?team=SFTWR"
     }
   }
 }
