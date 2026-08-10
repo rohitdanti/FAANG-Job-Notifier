@@ -4,30 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200646044-3337": {
-      "first_seen": 1775163183.861495,
-      "posted": "",
-      "title": "Senior Security Engineering Manager",
-      "job_id": "200646044-3337"
-    },
-    "200652730-0836": {
-      "first_seen": 1775163183.861495,
-      "posted": "",
-      "title": "Privacy Engineer - Health",
-      "job_id": "200652730-0836"
-    },
-    "200651220-0836": {
-      "first_seen": 1775163183.861495,
-      "posted": "",
-      "title": "Engineering Program Manager, Apple Media Services, Apple Services Engineering",
-      "job_id": "200651220-0836"
-    },
-    "200652735-0836": {
-      "first_seen": 1775163183.861496,
-      "posted": "",
-      "title": "Backend Engineer, Measurement - Evaluation",
-      "job_id": "200652735-0836"
-    },
     "200652242-0157": {
       "first_seen": 1775163183.861496,
       "posted": "",
@@ -19729,6 +19705,34 @@
       "title": "Software Development Engineer Test (SDET), Productivity Apps",
       "job_id": "200677024-0157",
       "url": "https://jobs.apple.com/en-us/details/200677024-0157/software-development-engineer-test-sdet-productivity-apps?team=SFTWR"
+    },
+    "200676228-3956": {
+      "first_seen": 1786386698.7334611,
+      "posted": "2026-08-10",
+      "title": "Engineering Project Manager (Payments & Financial Eng), G&A Solutions Engineering (GSE)",
+      "job_id": "200676228-3956",
+      "url": "https://jobs.apple.com/en-us/details/200676228-3956/engineering-project-manager-payments-financial-eng-g-a-solutions-engineering-gse?team=SFTWR"
+    },
+    "200676609-0836": {
+      "first_seen": 1786386698.7334673,
+      "posted": "2026-08-10",
+      "title": "Data Scientist, Subscription Analytics",
+      "job_id": "200676609-0836",
+      "url": "https://jobs.apple.com/en-us/details/200676609-0836/data-scientist-subscription-analytics?team=SFTWR"
+    },
+    "200676533-0157": {
+      "first_seen": 1786386698.7334697,
+      "posted": "2026-08-10",
+      "title": "Sr. Software Engineer (Salesforce), G&A Solutions Engineering (GSE)",
+      "job_id": "200676533-0157",
+      "url": "https://jobs.apple.com/en-us/details/200676533-0157/sr-software-engineer-salesforce-g-a-solutions-engineering-gse?team=SFTWR"
+    },
+    "200676518-0240": {
+      "first_seen": 1786386698.7334714,
+      "posted": "2026-08-10",
+      "title": "Engineering Project Manager (Finance Engineering ), IS&T",
+      "job_id": "200676518-0240",
+      "url": "https://jobs.apple.com/en-us/details/200676518-0240/engineering-project-manager-finance-engineering-is-t?team=SFTWR"
     }
   }
 }
