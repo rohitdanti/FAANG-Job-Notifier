@@ -4,18 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200652779-0836": {
-      "first_seen": 1775163183.861494,
-      "posted": "",
-      "title": "Senior Accessibility Software Engineer",
-      "job_id": "200652779-0836"
-    },
-    "200652776-0836": {
-      "first_seen": 1775163183.861494,
-      "posted": "",
-      "title": "Sr. Machine Learning System Engineer",
-      "job_id": "200652776-0836"
-    },
     "200652884-3956": {
       "first_seen": 1775163183.861494,
       "posted": "",
@@ -19721,6 +19709,20 @@
       "title": "Software Engineer - Apple Services",
       "job_id": "200676478-3577",
       "url": "https://jobs.apple.com/en-us/details/200676478-3577/software-engineer-apple-services?team=SFTWR"
+    },
+    "200676692-3543": {
+      "first_seen": 1786366902.0375504,
+      "posted": "2026-08-10",
+      "title": "AI Test Engineer, Sensing & Connectivity",
+      "job_id": "200676692-3543",
+      "url": "https://jobs.apple.com/en-us/details/200676692-3543/ai-test-engineer-sensing-connectivity?team=SFTWR"
+    },
+    "200676717-3543": {
+      "first_seen": 1786366902.0375588,
+      "posted": "2026-08-10",
+      "title": "Systems Software Engineer, Core OS",
+      "job_id": "200676717-3543",
+      "url": "https://jobs.apple.com/en-us/details/200676717-3543/systems-software-engineer-core-os?team=SFTWR"
     }
   }
 }
