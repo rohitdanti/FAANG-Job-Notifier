@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200649397-0836": {
-      "first_seen": 1775163183.8614972,
-      "posted": "",
-      "title": "Machine Learning Engineer, Photos",
-      "job_id": "200649397-0836"
-    },
     "200650112-0157": {
       "first_seen": 1775163183.861498,
       "posted": "",
@@ -19743,6 +19737,13 @@
       "title": "Build Engineer, Find My",
       "job_id": "200677149-0836",
       "url": "https://jobs.apple.com/en-us/details/200677149-0836/build-engineer-find-my?team=SFTWR"
+    },
+    "200676716-3337": {
+      "first_seen": 1786406498.5146055,
+      "posted": "2026-08-11",
+      "title": "System Software Engineer",
+      "job_id": "200676716-3337",
+      "url": "https://jobs.apple.com/en-us/details/200676716-3337/system-software-engineer?team=SFTWR"
     }
   }
 }
