@@ -4,30 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200652162-0836": {
-      "first_seen": 1775163183.861501,
-      "posted": "",
-      "title": "Engineering Program Manager - Wallet and Payments",
-      "job_id": "200652162-0836"
-    },
-    "200651949-3337": {
-      "first_seen": 1775163183.861501,
-      "posted": "",
-      "title": "Machine Learning Engineer, User & Content Intelligence",
-      "job_id": "200651949-3337"
-    },
-    "200645623-0836": {
-      "first_seen": 1775163183.861501,
-      "posted": "",
-      "title": "Computational Photography/Computer Vision Machine Learning Engineer",
-      "job_id": "200645623-0836"
-    },
-    "200649707-0157": {
-      "first_seen": 1775163183.861501,
-      "posted": "",
-      "title": "Sr Software Engineer (Agentic AI), AI & Data Platforms",
-      "job_id": "200649707-0157"
-    },
     "200652126-0836": {
       "first_seen": 1775163183.861501,
       "posted": "",
@@ -19759,6 +19735,34 @@
       "title": "Full Stack Software Engineer, Infrastructure Services",
       "job_id": "200675759-0157",
       "url": "https://jobs.apple.com/en-us/details/200675759-0157/full-stack-software-engineer-infrastructure-services?team=SFTWR"
+    },
+    "200664206-0157": {
+      "first_seen": 1786485086.9952683,
+      "posted": "2026-08-11",
+      "title": "AMP Engineering Program Manager - Strategic Data Solutions",
+      "job_id": "200664206-0157",
+      "url": "https://jobs.apple.com/en-us/details/200664206-0157/amp-engineering-program-manager-strategic-data-solutions?team=SFTWR"
+    },
+    "200664206-3337": {
+      "first_seen": 1786485086.9952745,
+      "posted": "2026-08-11",
+      "title": "AMP Engineering Program Manager - Strategic Data Solutions",
+      "job_id": "200664206-3337",
+      "url": "https://jobs.apple.com/en-us/details/200664206-3337/amp-engineering-program-manager-strategic-data-solutions?team=SFTWR"
+    },
+    "200664206-3956": {
+      "first_seen": 1786485086.9952762,
+      "posted": "2026-08-11",
+      "title": "AMP Engineering Program Manager - Strategic Data Solutions",
+      "job_id": "200664206-3956",
+      "url": "https://jobs.apple.com/en-us/details/200664206-3956/amp-engineering-program-manager-strategic-data-solutions?team=SFTWR"
+    },
+    "200677452-0836": {
+      "first_seen": 1786485086.9952774,
+      "posted": "2026-08-11",
+      "title": "Engineering Program Manager, SWE Security",
+      "job_id": "200677452-0836",
+      "url": "https://jobs.apple.com/en-us/details/200677452-0836/engineering-program-manager-swe-security?team=SFTWR"
     }
   }
 }
