@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200652186-0836": {
-      "first_seen": 1775163183.861502,
-      "posted": "",
-      "title": "iOS/tvOS Software Engineer, Siri Home Devices",
-      "job_id": "200652186-0836"
-    },
     "200644197-0836": {
       "first_seen": 1775163183.861502,
       "posted": "",
@@ -19764,6 +19758,13 @@
       "title": "Software Engineer, Information Systems & Technology",
       "job_id": "200677003-0157",
       "url": "https://jobs.apple.com/en-us/details/200677003-0157/software-engineer-information-systems-technology?team=SFTWR"
+    },
+    "200667527-0836": {
+      "first_seen": 1786491093.7885208,
+      "posted": "2026-08-11",
+      "title": "UX Design Manager - Xcode & AI Developer Tools",
+      "job_id": "200667527-0836",
+      "url": "https://jobs.apple.com/en-us/details/200667527-0836/ux-design-manager-xcode-ai-developer-tools?team=SFTWR"
     }
   }
 }
