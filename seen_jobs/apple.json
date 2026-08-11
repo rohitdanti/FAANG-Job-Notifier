@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200652300-3543": {
-      "first_seen": 1775163183.8614998,
-      "posted": "",
-      "title": "Software Integrity Engineer, Video Apps",
-      "job_id": "200652300-3543"
-    },
     "200652194-0365": {
       "first_seen": 1775163183.8614998,
       "posted": "",
@@ -19756,6 +19750,13 @@
       "title": "Senior Software Engineer, Navigation Experience Intelligence",
       "job_id": "200676667-0836",
       "url": "https://jobs.apple.com/en-us/details/200676667-0836/senior-software-engineer-navigation-experience-intelligence?team=SFTWR"
+    },
+    "200676506-0836": {
+      "first_seen": 1786479092.5094264,
+      "posted": "2026-08-11",
+      "title": "Sr Full-Stack Software Engineer, AIML Data Operations",
+      "job_id": "200676506-0836",
+      "url": "https://jobs.apple.com/en-us/details/200676506-0836/sr-full-stack-software-engineer-aiml-data-operations?team=SFTWR"
     }
   }
 }
