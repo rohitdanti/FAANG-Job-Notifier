@@ -4,18 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200652269-2903": {
-      "first_seen": 1775163183.8614988,
-      "posted": "",
-      "title": "Data Center Mechanical Engineer, Infrastructure Services",
-      "job_id": "200652269-2903"
-    },
-    "200652269-2228": {
-      "first_seen": 1775163183.8614988,
-      "posted": "",
-      "title": "Data Center Mechanical Engineer, Infrastructure Services",
-      "job_id": "200652269-2228"
-    },
     "200652269-3620": {
       "first_seen": 1775163183.8614988,
       "posted": "",
@@ -19749,6 +19737,20 @@
       "title": "Sr. Data Engineer, iCloud",
       "job_id": "200677381-3337",
       "url": "https://jobs.apple.com/en-us/details/200677381-3337/sr-data-engineer-icloud?team=SFTWR"
+    },
+    "200677380-0670": {
+      "first_seen": 1786473097.0856812,
+      "posted": "2026-08-11",
+      "title": "Product Manager, Employee Experience & Productivity",
+      "job_id": "200677380-0670",
+      "url": "https://jobs.apple.com/en-us/details/200677380-0670/product-manager-employee-experience-productivity?team=SFTWR"
+    },
+    "200677065-3337": {
+      "first_seen": 1786473097.0856857,
+      "posted": "2026-08-11",
+      "title": "Software Engineer in Test -AI/ML",
+      "job_id": "200677065-3337",
+      "url": "https://jobs.apple.com/en-us/details/200677065-3337/software-engineer-in-test-ai-ml?team=SFTWR"
     }
   }
 }
