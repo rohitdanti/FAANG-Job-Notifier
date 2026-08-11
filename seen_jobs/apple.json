@@ -4,18 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200652172-3956": {
-      "first_seen": 1775163183.861498,
-      "posted": "",
-      "title": "Sr Software Engineer (Infrastructure Applications), Infrastructure Services",
-      "job_id": "200652172-3956"
-    },
-    "200651961-0836": {
-      "first_seen": 1775163183.861498,
-      "posted": "",
-      "title": "Senior Software Engineer (Ads Platform)- Experimentation",
-      "job_id": "200651961-0836"
-    },
     "200652269-1025": {
       "first_seen": 1775163183.861498,
       "posted": "",
@@ -19745,6 +19733,20 @@
       "title": "Platform Software Engineer, AI & Data Platforms (AiDP)",
       "job_id": "200675572-3956",
       "url": "https://jobs.apple.com/en-us/details/200675572-3956/platform-software-engineer-ai-data-platforms-aidp?team=SFTWR"
+    },
+    "200649343-1902": {
+      "first_seen": 1786468300.029785,
+      "posted": "2026-08-11",
+      "title": "Remote Site Services Data Center Manager, Infrastructure Services",
+      "job_id": "200649343-1902",
+      "url": "https://jobs.apple.com/en-us/details/200649343-1902/remote-site-services-data-center-manager-infrastructure-services?team=SFTWR"
+    },
+    "200677349-0836": {
+      "first_seen": 1786468300.029792,
+      "posted": "2026-08-11",
+      "title": "Software Engineer, Siri Runtime Systems and Interaction",
+      "job_id": "200677349-0836",
+      "url": "https://jobs.apple.com/en-us/details/200677349-0836/software-engineer-siri-runtime-systems-and-interaction?team=SFTWR"
     }
   }
 }
