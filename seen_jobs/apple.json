@@ -4,18 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200652194-0365": {
-      "first_seen": 1775163183.8614998,
-      "posted": "",
-      "title": "Software Engineering Program Manager - visionOS",
-      "job_id": "200652194-0365"
-    },
-    "200652194-3956": {
-      "first_seen": 1775163183.861501,
-      "posted": "",
-      "title": "Software Engineering Program Manager - visionOS",
-      "job_id": "200652194-3956"
-    },
     "200652162-0836": {
       "first_seen": 1775163183.861501,
       "posted": "",
@@ -19757,6 +19745,20 @@
       "title": "Sr Full-Stack Software Engineer, AIML Data Operations",
       "job_id": "200676506-0836",
       "url": "https://jobs.apple.com/en-us/details/200676506-0836/sr-full-stack-software-engineer-aiml-data-operations?team=SFTWR"
+    },
+    "200672212-3543": {
+      "first_seen": 1786482692.1551697,
+      "posted": "2026-08-11",
+      "title": "Wi-Fi Tools and Automation Engineer, Wireless Technologies & Ecosystems",
+      "job_id": "200672212-3543",
+      "url": "https://jobs.apple.com/en-us/details/200672212-3543/wi-fi-tools-and-automation-engineer-wireless-technologies-ecosystems?team=SFTWR"
+    },
+    "200675759-0157": {
+      "first_seen": 1786482692.1551743,
+      "posted": "2026-08-11",
+      "title": "Full Stack Software Engineer, Infrastructure Services",
+      "job_id": "200675759-0157",
+      "url": "https://jobs.apple.com/en-us/details/200675759-0157/full-stack-software-engineer-infrastructure-services?team=SFTWR"
     }
   }
 }
