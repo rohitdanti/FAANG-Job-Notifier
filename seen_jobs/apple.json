@@ -4,18 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200651889-0836": {
-      "first_seen": 1775163183.861503,
-      "posted": "",
-      "title": "Senior Engineering Manager - Data Lakehouse",
-      "job_id": "200651889-0836"
-    },
-    "200651965-0836": {
-      "first_seen": 1775163183.861503,
-      "posted": "",
-      "title": "Swift Platform Experience \u2013 UI Frameworks Engineer",
-      "job_id": "200651965-0836"
-    },
     "200651219-3337": {
       "first_seen": 1775163183.861504,
       "posted": "",
@@ -19772,6 +19760,20 @@
       "title": "Full Stack Software Engineer, AI & Data Platforms, IS&T",
       "job_id": "200674697-0157",
       "url": "https://jobs.apple.com/en-us/details/200674697-0157/full-stack-software-engineer-ai-data-platforms-is-t?team=SFTWR"
+    },
+    "200677399-3956": {
+      "first_seen": 1786550492.5091405,
+      "posted": "2026-08-12",
+      "title": "Sr Software Engineer, Employee Experience & Productivity",
+      "job_id": "200677399-3956",
+      "url": "https://jobs.apple.com/en-us/details/200677399-3956/sr-software-engineer-employee-experience-productivity?team=SFTWR"
+    },
+    "200663304-0836": {
+      "first_seen": 1786550492.5091436,
+      "posted": "2026-08-12",
+      "title": "Staff Machine Learning Engineer - Ads Auction",
+      "job_id": "200663304-0836",
+      "url": "https://jobs.apple.com/en-us/details/200663304-0836/staff-machine-learning-engineer-ads-auction?team=SFTWR"
     }
   }
 }
