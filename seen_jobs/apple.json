@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200620405-3956": {
-      "first_seen": 1775163183.861504,
-      "posted": "",
-      "title": "Senior Software Engineer, Network Management Plane",
-      "job_id": "200620405-3956"
-    },
     "200632717-3337": {
       "first_seen": 1775163183.861504,
       "posted": "",
@@ -19775,6 +19769,13 @@
       "title": "Software Engineer - AiDP Reliability Engineering, IS&T, Early Career Opportunities",
       "job_id": "200677645-0157",
       "url": "https://jobs.apple.com/en-us/details/200677645-0157/software-engineer-aidp-reliability-engineering-is-t-early-career-opportunities?team=SFTWR"
+    },
+    "200674828-0836": {
+      "first_seen": 1786558297.727342,
+      "posted": "2026-08-12",
+      "title": "Senior Engineering Program Manager - AI/ML, Apple Services Engineering",
+      "job_id": "200674828-0836",
+      "url": "https://jobs.apple.com/en-us/details/200674828-0836/senior-engineering-program-manager-ai-ml-apple-services-engineering?team=SFTWR"
     }
   }
 }
