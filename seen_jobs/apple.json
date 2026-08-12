@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200651962-0836": {
-      "first_seen": 1775163183.861502,
-      "posted": "",
-      "title": "Swift Compiler Engineering Manager",
-      "job_id": "200651962-0836"
-    },
     "200651827-0836": {
       "first_seen": 1775163183.861503,
       "posted": "",
@@ -19767,6 +19761,13 @@
       "title": "Software Development Engineer in Test, Creativity Apps",
       "job_id": "200677395-3543",
       "url": "https://jobs.apple.com/en-us/details/200677395-3543/software-development-engineer-in-test-creativity-apps?team=SFTWR"
+    },
+    "200677054-3337": {
+      "first_seen": 1786501286.6430278,
+      "posted": "2026-08-12",
+      "title": "Front End Web Engineer, Apps and Games Engineering",
+      "job_id": "200677054-3337",
+      "url": "https://jobs.apple.com/en-us/details/200677054-3337/front-end-web-engineer-apps-and-games-engineering?team=SFTWR"
     }
   }
 }
