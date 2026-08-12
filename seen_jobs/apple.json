@@ -4,24 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200632717-3337": {
-      "first_seen": 1775163183.861504,
-      "posted": "",
-      "title": "Data Scientist- Apple Maps",
-      "job_id": "200632717-3337"
-    },
-    "200620401-3401": {
-      "first_seen": 1775163183.861504,
-      "posted": "",
-      "title": "Cloud Network Release Engineer",
-      "job_id": "200620401-3401"
-    },
-    "200621039-0836": {
-      "first_seen": 1775163183.861505,
-      "posted": "",
-      "title": "GPU Systems Software Engineer, Platform Architecture",
-      "job_id": "200621039-0836"
-    },
     "200651766-0157": {
       "first_seen": 1775163183.861505,
       "posted": "",
@@ -19776,6 +19758,27 @@
       "title": "Senior Engineering Program Manager - AI/ML, Apple Services Engineering",
       "job_id": "200674828-0836",
       "url": "https://jobs.apple.com/en-us/details/200674828-0836/senior-engineering-program-manager-ai-ml-apple-services-engineering?team=SFTWR"
+    },
+    "200677646-0836": {
+      "first_seen": 1786561300.6067219,
+      "posted": "2026-08-12",
+      "title": "Software Engineer - Apple Services Engineering",
+      "job_id": "200677646-0836",
+      "url": "https://jobs.apple.com/en-us/details/200677646-0836/software-engineer-apple-services-engineering?team=SFTWR"
+    },
+    "200677646-3543": {
+      "first_seen": 1786561300.6067278,
+      "posted": "2026-08-12",
+      "title": "Software Engineer - Apple Services Engineering",
+      "job_id": "200677646-3543",
+      "url": "https://jobs.apple.com/en-us/details/200677646-3543/software-engineer-apple-services-engineering?team=SFTWR"
+    },
+    "200677646-3956": {
+      "first_seen": 1786561300.6067302,
+      "posted": "2026-08-12",
+      "title": "Software Engineer - Apple Services Engineering",
+      "job_id": "200677646-3956",
+      "url": "https://jobs.apple.com/en-us/details/200677646-3956/software-engineer-apple-services-engineering?team=SFTWR"
     }
   }
 }
