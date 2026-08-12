@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200651908": {
-      "first_seen": 1775163183.861506,
-      "posted": "",
-      "title": "Senior Quality - Build Qualification and Release",
-      "job_id": "200651908"
-    },
     "200651897-3337": {
       "first_seen": 1775163183.861506,
       "posted": "",
@@ -19784,6 +19778,13 @@
       "title": "Software Data Engineer",
       "job_id": "200677701-0836",
       "url": "https://jobs.apple.com/en-us/details/200677701-0836/software-data-engineer?team=SFTWR"
+    },
+    "200677740-3337": {
+      "first_seen": 1786574495.362514,
+      "posted": "2026-08-12",
+      "title": "Software Engineer, Siri Runtime Systems and Interaction",
+      "job_id": "200677740-3337",
+      "url": "https://jobs.apple.com/en-us/details/200677740-3337/software-engineer-siri-runtime-systems-and-interaction?team=SFTWR"
     }
   }
 }
