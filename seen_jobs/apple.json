@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200651766-2459": {
-      "first_seen": 1775163183.861505,
-      "posted": "",
-      "title": "Senior Machine Learning Engineer, Wallet, Payment & Commerce",
-      "job_id": "200651766-2459"
-    },
     "200650706-0836": {
       "first_seen": 1775163183.861505,
       "posted": "",
@@ -19780,6 +19774,13 @@
       "title": "Site Services Supervisor, Data Center",
       "job_id": "200677396-1902",
       "url": "https://jobs.apple.com/en-us/details/200677396-1902/site-services-supervisor-data-center?team=SFTWR"
+    },
+    "200644467-0836": {
+      "first_seen": 1786566084.7871006,
+      "posted": "2026-08-12",
+      "title": "Senior Machine Learning Engineer - Matching, Apple Ads",
+      "job_id": "200644467-0836",
+      "url": "https://jobs.apple.com/en-us/details/200644467-0836/senior-machine-learning-engineer-matching-apple-ads?team=SFTWR"
     }
   }
 }
