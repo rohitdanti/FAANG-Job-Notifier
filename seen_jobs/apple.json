@@ -4,18 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200651223-0836": {
-      "first_seen": 1775163183.861505,
-      "posted": "",
-      "title": "Engineering Program Manager, Data Platform, Apple Services Engineering",
-      "job_id": "200651223-0836"
-    },
-    "200651908-3401": {
-      "first_seen": 1775163183.861505,
-      "posted": "",
-      "title": "Senior Quality - Build Qualification and Release",
-      "job_id": "200651908-3401"
-    },
     "200651908": {
       "first_seen": 1775163183.861506,
       "posted": "",
@@ -19782,6 +19770,20 @@
       "title": "Senior Machine Learning Scientist - Ad Campaign Optimization",
       "job_id": "200649539-0836",
       "url": "https://jobs.apple.com/en-us/details/200649539-0836/senior-machine-learning-scientist-ad-campaign-optimization?team=SFTWR"
+    },
+    "200653495-0836": {
+      "first_seen": 1786567886.0191386,
+      "posted": "2026-08-12",
+      "title": "Staff Machine Learning Engineer \u2013 Ads Predictions",
+      "job_id": "200653495-0836",
+      "url": "https://jobs.apple.com/en-us/details/200653495-0836/staff-machine-learning-engineer-ads-predictions?team=SFTWR"
+    },
+    "200677701-0836": {
+      "first_seen": 1786567886.0191438,
+      "posted": "2026-08-12",
+      "title": "Software Data Engineer",
+      "job_id": "200677701-0836",
+      "url": "https://jobs.apple.com/en-us/details/200677701-0836/software-data-engineer?team=SFTWR"
     }
   }
 }
