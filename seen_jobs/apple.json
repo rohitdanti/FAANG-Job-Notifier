@@ -4,30 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200651827-0836": {
-      "first_seen": 1775163183.861503,
-      "posted": "",
-      "title": "Sr. Manager, Engineering Programs - WPC",
-      "job_id": "200651827-0836"
-    },
-    "200651951-3543": {
-      "first_seen": 1775163183.861503,
-      "posted": "",
-      "title": "Software Engineer Applications",
-      "job_id": "200651951-3543"
-    },
-    "200650153-0836": {
-      "first_seen": 1775163183.861503,
-      "posted": "",
-      "title": "Senior Lead Auditor - Medical Devices",
-      "job_id": "200650153-0836"
-    },
-    "200651886-0836": {
-      "first_seen": 1775163183.861503,
-      "posted": "",
-      "title": "Site Reliability Engineering (SRE) Manager, Apple Maps",
-      "job_id": "200651886-0836"
-    },
     "200651889-0836": {
       "first_seen": 1775163183.861503,
       "posted": "",
@@ -19768,6 +19744,34 @@
       "title": "Front End Web Engineer, Apps and Games Engineering",
       "job_id": "200677054-3337",
       "url": "https://jobs.apple.com/en-us/details/200677054-3337/front-end-web-engineer-apps-and-games-engineering?team=SFTWR"
+    },
+    "200677373-0836": {
+      "first_seen": 1786539709.3701906,
+      "posted": "2026-08-12",
+      "title": "Software Development Engineer in Test, Car Key, Wireless Technologies & Ecosystems",
+      "job_id": "200677373-0836",
+      "url": "https://jobs.apple.com/en-us/details/200677373-0836/software-development-engineer-in-test-car-key-wireless-technologies-ecosystems?team=SFTWR"
+    },
+    "200677328-3401": {
+      "first_seen": 1786539709.3701975,
+      "posted": "2026-08-12",
+      "title": "Sr Software Engineer, Infrastructure Services (SONiC)",
+      "job_id": "200677328-3401",
+      "url": "https://jobs.apple.com/en-us/details/200677328-3401/sr-software-engineer-infrastructure-services-sonic?team=SFTWR"
+    },
+    "200677162-5819": {
+      "first_seen": 1786539709.370212,
+      "posted": "2026-08-12",
+      "title": "Engineering Project Manager \u2014 Wallet & Apple Pay",
+      "job_id": "200677162-5819",
+      "url": "https://jobs.apple.com/en-us/details/200677162-5819/engineering-project-manager-wallet-apple-pay?team=SFTWR"
+    },
+    "200674697-0157": {
+      "first_seen": 1786539709.3702195,
+      "posted": "2026-08-12",
+      "title": "Full Stack Software Engineer, AI & Data Platforms, IS&T",
+      "job_id": "200674697-0157",
+      "url": "https://jobs.apple.com/en-us/details/200674697-0157/full-stack-software-engineer-ai-data-platforms-is-t?team=SFTWR"
     }
   }
 }
