@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200652002-0836": {
-      "first_seen": 1775163183.861502,
-      "posted": "",
-      "title": "Senior Quality Engineer - Apple Maps Performance",
-      "job_id": "200652002-0836"
-    },
     "200651962-0836": {
       "first_seen": 1775163183.861502,
       "posted": "",
@@ -19766,6 +19760,13 @@
       "title": "Senior Software Engineer, Identity",
       "job_id": "200676530-0836",
       "url": "https://jobs.apple.com/en-us/details/200676530-0836/senior-software-engineer-identity?team=SFTWR"
+    },
+    "200677395-3543": {
+      "first_seen": 1786498286.6137474,
+      "posted": "2026-08-12",
+      "title": "Software Development Engineer in Test, Creativity Apps",
+      "job_id": "200677395-3543",
+      "url": "https://jobs.apple.com/en-us/details/200677395-3543/software-development-engineer-in-test-creativity-apps?team=SFTWR"
     }
   }
 }
