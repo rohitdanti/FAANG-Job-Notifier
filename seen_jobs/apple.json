@@ -4,24 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200592992-0836": {
-      "first_seen": 1775163183.8615098,
-      "posted": "",
-      "title": "Machine Learning Research Engineer, Generative AI",
-      "job_id": "200592992-0836"
-    },
-    "200651361-3401": {
-      "first_seen": 1775163183.8615098,
-      "posted": "",
-      "title": "Engineering Project Manager (SAP Learning & Development Strategy Project Lead), IS&T Enterprise Systems",
-      "job_id": "200651361-3401"
-    },
-    "200651093-0836": {
-      "first_seen": 1775163183.861511,
-      "posted": "",
-      "title": "Sr. Engineering Project Manager, Subscription Enterprise Apps",
-      "job_id": "200651093-0836"
-    },
     "200651667-3401": {
       "first_seen": 1775163183.861511,
       "posted": "",
@@ -19809,6 +19791,27 @@
       "title": "Senior Software Engineer - Family Services- iCloud",
       "job_id": "200677514-3543",
       "url": "https://jobs.apple.com/en-us/details/200677514-3543/senior-software-engineer-family-services-icloud?team=SFTWR"
+    },
+    "200677787-3956": {
+      "first_seen": 1786660290.6037621,
+      "posted": "2026-08-13",
+      "title": "Site Reliability Engineer, Enterprise Technology Services",
+      "job_id": "200677787-3956",
+      "url": "https://jobs.apple.com/en-us/details/200677787-3956/site-reliability-engineer-enterprise-technology-services?team=SFTWR"
+    },
+    "200677755-3956": {
+      "first_seen": 1786660290.6037679,
+      "posted": "2026-08-13",
+      "title": "Senior Business Operations Analyst, Enterprise Technology Services",
+      "job_id": "200677755-3956",
+      "url": "https://jobs.apple.com/en-us/details/200677755-3956/senior-business-operations-analyst-enterprise-technology-services?team=SFTWR"
+    },
+    "200677973-0836": {
+      "first_seen": 1786660290.6037698,
+      "posted": "2026-08-13",
+      "title": "Embedded Software Engineer",
+      "job_id": "200677973-0836",
+      "url": "https://jobs.apple.com/en-us/details/200677973-0836/embedded-software-engineer?team=SFTWR"
     }
   }
 }
