@@ -4,30 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200648854-0836": {
-      "first_seen": 1775163183.861506,
-      "posted": "",
-      "title": "Software Engineer - Final Cut Camera - Video Apps",
-      "job_id": "200648854-0836"
-    },
-    "200648854-3543": {
-      "first_seen": 1775163183.8615072,
-      "posted": "",
-      "title": "Software Engineer - Final Cut Camera - Video Apps",
-      "job_id": "200648854-3543"
-    },
-    "200648854-3337": {
-      "first_seen": 1775163183.8615072,
-      "posted": "",
-      "title": "Software Engineer - Final Cut Camera - Video Apps",
-      "job_id": "200648854-3337"
-    },
-    "200649782-3337": {
-      "first_seen": 1775163183.8615072,
-      "posted": "",
-      "title": "Machine Learning Engineer \u2014 On-Device Adaptive Control, CoreOS",
-      "job_id": "200649782-3337"
-    },
     "200650187-0836": {
       "first_seen": 1775163183.8615072,
       "posted": "",
@@ -19788,6 +19764,34 @@
       "title": "Tooling & Infrastructure Engineer, Test Engineering & Efficiency",
       "job_id": "200652988-0836",
       "url": "https://jobs.apple.com/en-us/details/200652988-0836/tooling-infrastructure-engineer-test-engineering-efficiency?team=SFTWR"
+    },
+    "200670526-0365": {
+      "first_seen": 1786626103.5570822,
+      "posted": "2026-08-13",
+      "title": "Senior Systems Engineer, Watch Software",
+      "job_id": "200670526-0365",
+      "url": "https://jobs.apple.com/en-us/details/200670526-0365/senior-systems-engineer-watch-software?team=SFTWR"
+    },
+    "200670526-0836": {
+      "first_seen": 1786626103.5570905,
+      "posted": "2026-08-13",
+      "title": "Senior Systems Engineer, Watch Software",
+      "job_id": "200670526-0836",
+      "url": "https://jobs.apple.com/en-us/details/200670526-0836/senior-systems-engineer-watch-software?team=SFTWR"
+    },
+    "200670526-3543": {
+      "first_seen": 1786626103.5570931,
+      "posted": "2026-08-13",
+      "title": "Senior Systems Engineer, Watch Software",
+      "job_id": "200670526-3543",
+      "url": "https://jobs.apple.com/en-us/details/200670526-3543/senior-systems-engineer-watch-software?team=SFTWR"
+    },
+    "200676748-0836": {
+      "first_seen": 1786626103.5570946,
+      "posted": "2026-08-13",
+      "title": "Sr Automation & Intelligence Tools Engineer, SEAR",
+      "job_id": "200676748-0836",
+      "url": "https://jobs.apple.com/en-us/details/200676748-0836/sr-automation-intelligence-tools-engineer-sear?team=SFTWR"
     }
   }
 }
