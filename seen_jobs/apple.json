@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200651726-2926": {
-      "first_seen": 1775163183.8615072,
-      "posted": "",
-      "title": "Software Engineer, Apps",
-      "job_id": "200651726-2926"
-    },
     "200651828-3543": {
       "first_seen": 1775163183.8615081,
       "posted": "",
@@ -19794,6 +19788,13 @@
       "title": "Data Center Mechanical Design Engineer, Infrastructure Services",
       "job_id": "200677711-1336",
       "url": "https://jobs.apple.com/en-us/details/200677711-1336/data-center-mechanical-design-engineer-infrastructure-services?team=SFTWR"
+    },
+    "200677491-3337": {
+      "first_seen": 1786642296.1623688,
+      "posted": "2026-08-13",
+      "title": "Senior / Staff Software Engineer",
+      "job_id": "200677491-3337",
+      "url": "https://jobs.apple.com/en-us/details/200677491-3337/senior-staff-software-engineer?team=SFTWR"
     }
   }
 }
