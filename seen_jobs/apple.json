@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200651742-2926": {
-      "first_seen": 1775163183.8615072,
-      "posted": "",
-      "title": "Quality Assurance Engineer - Siri Quality Program",
-      "job_id": "200651742-2926"
-    },
     "200651726-2926": {
       "first_seen": 1775163183.8615072,
       "posted": "",
@@ -19793,6 +19787,13 @@
       "title": "Senior Software Engineer, Ads",
       "job_id": "200677741-0836",
       "url": "https://jobs.apple.com/en-us/details/200677741-0836/senior-software-engineer-ads?team=SFTWR"
+    },
+    "200677711-1336": {
+      "first_seen": 1786641706.077702,
+      "posted": "2026-08-13",
+      "title": "Data Center Mechanical Design Engineer, Infrastructure Services",
+      "job_id": "200677711-1336",
+      "url": "https://jobs.apple.com/en-us/details/200677711-1336/data-center-mechanical-design-engineer-infrastructure-services?team=SFTWR"
     }
   }
 }
