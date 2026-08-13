@@ -4,18 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200651735-3543": {
-      "first_seen": 1775163183.861509,
-      "posted": "",
-      "title": "Systems Software Engineer \u2013 Wireless Technologies & Ecosystems",
-      "job_id": "200651735-3543"
-    },
-    "200651506-0836": {
-      "first_seen": 1775163183.861509,
-      "posted": "",
-      "title": "Senior Engineering Manager, Core Services - Apple Services Engineering",
-      "job_id": "200651506-0836"
-    },
     "200648241-3337": {
       "first_seen": 1775163183.861509,
       "posted": "",
@@ -19800,6 +19788,20 @@
       "title": "Engineering Project Manager \u2014 Wallet & Apple Pay",
       "job_id": "200677162-2459",
       "url": "https://jobs.apple.com/en-us/details/200677162-2459/engineering-project-manager-wallet-apple-pay?team=SFTWR"
+    },
+    "200671810-3337": {
+      "first_seen": 1786658496.6028216,
+      "posted": "2026-08-13",
+      "title": "Engineering Program Manager, Analytics & Data Engineering, Apple Services Engineering",
+      "job_id": "200671810-3337",
+      "url": "https://jobs.apple.com/en-us/details/200671810-3337/engineering-program-manager-analytics-data-engineering-apple-services-engineering?team=SFTWR"
+    },
+    "200677964-0836": {
+      "first_seen": 1786658496.6028285,
+      "posted": "2026-08-13",
+      "title": "Senior Engineering Manager - Solutions Engineering, Apple Data Platform",
+      "job_id": "200677964-0836",
+      "url": "https://jobs.apple.com/en-us/details/200677964-0836/senior-engineering-manager-solutions-engineering-apple-data-platform?team=SFTWR"
     }
   }
 }
