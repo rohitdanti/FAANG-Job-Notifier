@@ -4,18 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200642306-0157": {
-      "first_seen": 1775163183.8615081,
-      "posted": "",
-      "title": "Senior Software Engineer - Generative AI & ML, Customer Systems",
-      "job_id": "200642306-0157"
-    },
-    "200649479-2459": {
-      "first_seen": 1775163183.8615081,
-      "posted": "",
-      "title": "Senior iOS Engineer-Apple Sports",
-      "job_id": "200649479-2459"
-    },
     "200651735-3543": {
       "first_seen": 1775163183.861509,
       "posted": "",
@@ -19798,6 +19786,20 @@
       "title": "Sr Software Engineer, Infrastructure Services",
       "job_id": "200674789-3956",
       "url": "https://jobs.apple.com/en-us/details/200674789-3956/sr-software-engineer-infrastructure-services?team=SFTWR"
+    },
+    "200677960-3337": {
+      "first_seen": 1786657896.2119632,
+      "posted": "2026-08-13",
+      "title": "ASE Observability",
+      "job_id": "200677960-3337",
+      "url": "https://jobs.apple.com/en-us/details/200677960-3337/ase-observability?team=SFTWR"
+    },
+    "200677162-2459": {
+      "first_seen": 1786657896.2119918,
+      "posted": "2026-08-13",
+      "title": "Engineering Project Manager \u2014 Wallet & Apple Pay",
+      "job_id": "200677162-2459",
+      "url": "https://jobs.apple.com/en-us/details/200677162-2459/engineering-project-manager-wallet-apple-pay?team=SFTWR"
     }
   }
 }
