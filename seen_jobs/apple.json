@@ -4,42 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200648241-3337": {
-      "first_seen": 1775163183.861509,
-      "posted": "",
-      "title": "Software Tools and Automation Engineer - AI/ML",
-      "job_id": "200648241-3337"
-    },
-    "200651747-3401": {
-      "first_seen": 1775163183.861509,
-      "posted": "",
-      "title": "Senior Data Platform Engineer",
-      "job_id": "200651747-3401"
-    },
-    "200651747": {
-      "first_seen": 1775163183.8615098,
-      "posted": "",
-      "title": "Senior Data Platform Engineer",
-      "job_id": "200651747"
-    },
-    "200651752-0836": {
-      "first_seen": 1775163183.8615098,
-      "posted": "",
-      "title": "Engineering Manager, Find My",
-      "job_id": "200651752-0836"
-    },
-    "200646318-3337": {
-      "first_seen": 1775163183.8615098,
-      "posted": "",
-      "title": "Visual Generation Framework Software Engineer - SIML, ISE",
-      "job_id": "200646318-3337"
-    },
-    "200651749-0836": {
-      "first_seen": 1775163183.8615098,
-      "posted": "",
-      "title": "Embedded Software Engineer, Find My",
-      "job_id": "200651749-0836"
-    },
     "200651661-0836": {
       "first_seen": 1775163183.8615098,
       "posted": "",
@@ -19802,6 +19766,48 @@
       "title": "Senior Engineering Manager - Solutions Engineering, Apple Data Platform",
       "job_id": "200677964-0836",
       "url": "https://jobs.apple.com/en-us/details/200677964-0836/senior-engineering-manager-solutions-engineering-apple-data-platform?team=SFTWR"
+    },
+    "200677754-3956": {
+      "first_seen": 1786659084.8605464,
+      "posted": "2026-08-13",
+      "title": "Program Manager, Enterprise Technology Services",
+      "job_id": "200677754-3956",
+      "url": "https://jobs.apple.com/en-us/details/200677754-3956/program-manager-enterprise-technology-services?team=SFTWR"
+    },
+    "200677752-3956": {
+      "first_seen": 1786659084.8605516,
+      "posted": "2026-08-13",
+      "title": "Senior Software Engineer Enterprise Technology Services",
+      "job_id": "200677752-3956",
+      "url": "https://jobs.apple.com/en-us/details/200677752-3956/senior-software-engineer-enterprise-technology-services?team=SFTWR"
+    },
+    "200677750-3956": {
+      "first_seen": 1786659084.8605542,
+      "posted": "2026-08-13",
+      "title": "Security Software Engineer, Enterprise Technology Services",
+      "job_id": "200677750-3956",
+      "url": "https://jobs.apple.com/en-us/details/200677750-3956/security-software-engineer-enterprise-technology-services?team=SFTWR"
+    },
+    "200677747-3956": {
+      "first_seen": 1786659084.860556,
+      "posted": "2026-08-13",
+      "title": "Senior Software Engineer (Observability Solutions) - Enterprise Technology Services",
+      "job_id": "200677747-3956",
+      "url": "https://jobs.apple.com/en-us/details/200677747-3956/senior-software-engineer-observability-solutions-enterprise-technology-services?team=SFTWR"
+    },
+    "200677995-3956": {
+      "first_seen": 1786659084.8605573,
+      "posted": "2026-08-13",
+      "title": "Security Software Engineer, Enterprise Technology Services",
+      "job_id": "200677995-3956",
+      "url": "https://jobs.apple.com/en-us/details/200677995-3956/security-software-engineer-enterprise-technology-services?team=SFTWR"
+    },
+    "200677435-0836": {
+      "first_seen": 1786659084.8605587,
+      "posted": "2026-08-13",
+      "title": "Product Manager, Apple Wallet",
+      "job_id": "200677435-0836",
+      "url": "https://jobs.apple.com/en-us/details/200677435-0836/product-manager-apple-wallet?team=SFTWR"
     }
   }
 }
