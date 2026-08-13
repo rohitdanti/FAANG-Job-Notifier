@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200650187-0836": {
-      "first_seen": 1775163183.8615072,
-      "posted": "",
-      "title": "QMS Engineering Manager - Medical Devices",
-      "job_id": "200650187-0836"
-    },
     "200651742-2926": {
       "first_seen": 1775163183.8615072,
       "posted": "",
@@ -19792,6 +19786,13 @@
       "title": "Sr Automation & Intelligence Tools Engineer, SEAR",
       "job_id": "200676748-0836",
       "url": "https://jobs.apple.com/en-us/details/200676748-0836/sr-automation-intelligence-tools-engineer-sear?team=SFTWR"
+    },
+    "200677741-0836": {
+      "first_seen": 1786640502.2787163,
+      "posted": "2026-08-13",
+      "title": "Senior Software Engineer, Ads",
+      "job_id": "200677741-0836",
+      "url": "https://jobs.apple.com/en-us/details/200677741-0836/senior-software-engineer-ads?team=SFTWR"
     }
   }
 }
