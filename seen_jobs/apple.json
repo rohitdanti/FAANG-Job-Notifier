@@ -4,18 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200649928-3401": {
-      "first_seen": 1775163183.861513,
-      "posted": "",
-      "title": "Engineering Project Manager (SAP), IS&T Enterprise Systems",
-      "job_id": "200649928-3401"
-    },
-    "200651350-3956": {
-      "first_seen": 1775163183.861514,
-      "posted": "",
-      "title": "Software Engineer (Quality), Retail and Marcom Engineering",
-      "job_id": "200651350-3956"
-    },
     "200651348-3956": {
       "first_seen": 1775163183.861514,
       "posted": "",
@@ -19826,6 +19814,20 @@
       "title": "Screening & Integration Engineer, Watch Software",
       "job_id": "200670535-3543",
       "url": "https://jobs.apple.com/en-us/details/200670535-3543/screening-integration-engineer-watch-software?team=SFTWR"
+    },
+    "200678161-0836": {
+      "first_seen": 1786732294.4352105,
+      "posted": "2026-08-14",
+      "title": "Organizational Program Manager, Apple Services Engineering",
+      "job_id": "200678161-0836",
+      "url": "https://jobs.apple.com/en-us/details/200678161-0836/organizational-program-manager-apple-services-engineering?team=SFTWR"
+    },
+    "200676752-0670": {
+      "first_seen": 1786732294.4352162,
+      "posted": "2026-08-14",
+      "title": "Lead Designer, Design Systems & Structures",
+      "job_id": "200676752-0670",
+      "url": "https://jobs.apple.com/en-us/details/200676752-0670/lead-designer-design-systems-structures?team=SFTWR"
     }
   }
 }
