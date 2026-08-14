@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200651540-0157": {
-      "first_seen": 1775163183.861514,
-      "posted": "",
-      "title": "Engineering Project Manager, Build and Release",
-      "job_id": "200651540-0157"
-    },
     "200651540-0836": {
       "first_seen": 1775163183.861514,
       "posted": "",
@@ -19830,6 +19824,13 @@
       "title": "ML Engineering Program Manager (EPM), Apple Ads",
       "job_id": "200678184-0836",
       "url": "https://jobs.apple.com/en-us/details/200678184-0836/ml-engineering-program-manager-epm-apple-ads?team=SFTWR"
+    },
+    "200677768-3337": {
+      "first_seen": 1786740104.226348,
+      "posted": "2026-08-14",
+      "title": "ML Model Integration Platform Eng",
+      "job_id": "200677768-3337",
+      "url": "https://jobs.apple.com/en-us/details/200677768-3337/ml-model-integration-platform-eng?team=SFTWR"
     }
   }
 }
