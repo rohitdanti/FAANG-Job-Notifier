@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200641250-0836": {
-      "first_seen": 1775163183.861516,
-      "posted": "",
-      "title": "Senior Machine Learning Engineer - Tools & Frameworks AI",
-      "job_id": "200641250-0836"
-    },
     "200649813-3956": {
       "first_seen": 1775163183.861516,
       "posted": "",
@@ -19838,6 +19832,13 @@
       "title": "Senior Software Engineer - iCloud Messaging Identity Services",
       "job_id": "200677508-3543",
       "url": "https://jobs.apple.com/en-us/details/200677508-3543/senior-software-engineer-icloud-messaging-identity-services?team=SFTWR"
+    },
+    "200678186-3543": {
+      "first_seen": 1786748497.516487,
+      "posted": "2026-08-14",
+      "title": "Full Stack Software Engineer, Developer Publications",
+      "job_id": "200678186-3543",
+      "url": "https://jobs.apple.com/en-us/details/200678186-3543/full-stack-software-engineer-developer-publications?team=SFTWR"
     }
   }
 }
