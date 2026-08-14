@@ -4,18 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200651198-0836": {
-      "first_seen": 1775163183.861512,
-      "posted": "",
-      "title": "Manager, Data Quality & Evaluation - AIML Data Ops",
-      "job_id": "200651198-0836"
-    },
-    "200650996-3956": {
-      "first_seen": 1775163183.861512,
-      "posted": "",
-      "title": "Sr Software Engineer (Apps & Ai), Sales Engineering",
-      "job_id": "200650996-3956"
-    },
     "200651668-3543": {
       "first_seen": 1775163183.861512,
       "posted": "",
@@ -19816,6 +19804,20 @@
       "title": "Staff Data Engineer",
       "job_id": "200673278-3337",
       "url": "https://jobs.apple.com/en-us/details/200673278-3337/staff-data-engineer?team=SFTWR"
+    },
+    "200678059-0836": {
+      "first_seen": 1786712527.0828047,
+      "posted": "2026-08-14",
+      "title": "Software Engineering Manager - AVConference Audio - Media Graphics & Compute Technologies",
+      "job_id": "200678059-0836",
+      "url": "https://jobs.apple.com/en-us/details/200678059-0836/software-engineering-manager-avconference-audio-media-graphics-compute-technologies?team=SFTWR"
+    },
+    "200676229-0836": {
+      "first_seen": 1786712527.0828106,
+      "posted": "2026-08-14",
+      "title": "Senior Software Engineer, Wireless Technologies & Ecosystems",
+      "job_id": "200676229-0836",
+      "url": "https://jobs.apple.com/en-us/details/200676229-0836/senior-software-engineer-wireless-technologies-ecosystems?team=SFTWR"
     }
   }
 }
