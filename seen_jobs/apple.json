@@ -4,18 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200651731-0836": {
-      "first_seen": 1775163183.861511,
-      "posted": "",
-      "title": "Siri Triage Engineer",
-      "job_id": "200651731-0836"
-    },
-    "200651731-3337": {
-      "first_seen": 1775163183.861511,
-      "posted": "",
-      "title": "Siri Triage Engineer",
-      "job_id": "200651731-3337"
-    },
     "200651198-0836": {
       "first_seen": 1775163183.861512,
       "posted": "",
@@ -19814,6 +19802,20 @@
       "title": "Engineering Manager, Apple Card & Savings",
       "job_id": "200677487-5819",
       "url": "https://jobs.apple.com/en-us/details/200677487-5819/engineering-manager-apple-card-savings?team=SFTWR"
+    },
+    "200673278-0157": {
+      "first_seen": 1786675893.962707,
+      "posted": "2026-08-14",
+      "title": "Staff Data Engineer",
+      "job_id": "200673278-0157",
+      "url": "https://jobs.apple.com/en-us/details/200673278-0157/staff-data-engineer?team=SFTWR"
+    },
+    "200673278-3337": {
+      "first_seen": 1786675893.962713,
+      "posted": "2026-08-14",
+      "title": "Staff Data Engineer",
+      "job_id": "200673278-3337",
+      "url": "https://jobs.apple.com/en-us/details/200673278-3337/staff-data-engineer?team=SFTWR"
     }
   }
 }
