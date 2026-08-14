@@ -4,18 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200651299-0836": {
-      "first_seen": 1775163183.861512,
-      "posted": "",
-      "title": "Senior Software Engineer: Agentic Systems",
-      "job_id": "200651299-0836"
-    },
-    "200651561-3337": {
-      "first_seen": 1775163183.861512,
-      "posted": "",
-      "title": "Senior End to End Performance Engineer",
-      "job_id": "200651561-3337"
-    },
     "200624059-0365": {
       "first_seen": 1775163183.861513,
       "posted": "",
@@ -19819,6 +19807,20 @@
       "title": "Product Display Driver Engineer, Graphics, Games, and ML",
       "job_id": "200678116-0836",
       "url": "https://jobs.apple.com/en-us/details/200678116-0836/product-display-driver-engineer-graphics-games-and-ml?team=SFTWR"
+    },
+    "200677956-0836": {
+      "first_seen": 1786723894.2144992,
+      "posted": "2026-08-14",
+      "title": "Apple Services Engineering (ASE) Compute - Software Engineering Manager",
+      "job_id": "200677956-0836",
+      "url": "https://jobs.apple.com/en-us/details/200677956-0836/apple-services-engineering-ase-compute-software-engineering-manager?team=SFTWR"
+    },
+    "200677947-0836": {
+      "first_seen": 1786723894.214504,
+      "posted": "2026-08-14",
+      "title": "Software Engineer, Core Services - Apple Services Engineering",
+      "job_id": "200677947-0836",
+      "url": "https://jobs.apple.com/en-us/details/200677947-0836/software-engineer-core-services-apple-services-engineering?team=SFTWR"
     }
   }
 }
