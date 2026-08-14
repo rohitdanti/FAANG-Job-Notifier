@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200649638-0836": {
-      "first_seen": 1775163183.861515,
-      "posted": "",
-      "title": "Senior Marketing Data Scientist",
-      "job_id": "200649638-0836"
-    },
     "200641250-0836": {
       "first_seen": 1775163183.861516,
       "posted": "",
@@ -19837,6 +19831,13 @@
       "title": "Product Manager, Apple Payment Services",
       "job_id": "200678246-0836",
       "url": "https://jobs.apple.com/en-us/details/200678246-0836/product-manager-apple-payment-services?team=SFTWR"
+    },
+    "200677508-3543": {
+      "first_seen": 1786745492.2789364,
+      "posted": "2026-08-14",
+      "title": "Senior Software Engineer - iCloud Messaging Identity Services",
+      "job_id": "200677508-3543",
+      "url": "https://jobs.apple.com/en-us/details/200677508-3543/senior-software-engineer-icloud-messaging-identity-services?team=SFTWR"
     }
   }
 }
