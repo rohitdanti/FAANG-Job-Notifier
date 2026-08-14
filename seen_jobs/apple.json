@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200649638-0670": {
-      "first_seen": 1775163183.861515,
-      "posted": "",
-      "title": "Senior Marketing Data Scientist",
-      "job_id": "200649638-0670"
-    },
     "200649638-0836": {
       "first_seen": 1775163183.861515,
       "posted": "",
@@ -19836,6 +19830,13 @@
       "title": "Software Quality Engineer, Sensing & Connectivity",
       "job_id": "200678213-3543",
       "url": "https://jobs.apple.com/en-us/details/200678213-3543/software-quality-engineer-sensing-connectivity?team=SFTWR"
+    },
+    "200678246-0836": {
+      "first_seen": 1786743685.2087393,
+      "posted": "2026-08-14",
+      "title": "Product Manager, Apple Payment Services",
+      "job_id": "200678246-0836",
+      "url": "https://jobs.apple.com/en-us/details/200678246-0836/product-manager-apple-payment-services?team=SFTWR"
     }
   }
 }
