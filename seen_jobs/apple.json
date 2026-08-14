@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200651668-3543": {
-      "first_seen": 1775163183.861512,
-      "posted": "",
-      "title": "Backend Services Software Engineer - Release Validation",
-      "job_id": "200651668-3543"
-    },
     "200651299-0836": {
       "first_seen": 1775163183.861512,
       "posted": "",
@@ -19818,6 +19812,13 @@
       "title": "Senior Software Engineer, Wireless Technologies & Ecosystems",
       "job_id": "200676229-0836",
       "url": "https://jobs.apple.com/en-us/details/200676229-0836/senior-software-engineer-wireless-technologies-ecosystems?team=SFTWR"
+    },
+    "200678116-0836": {
+      "first_seen": 1786720887.6065876,
+      "posted": "2026-08-14",
+      "title": "Product Display Driver Engineer, Graphics, Games, and ML",
+      "job_id": "200678116-0836",
+      "url": "https://jobs.apple.com/en-us/details/200678116-0836/product-display-driver-engineer-graphics-games-and-ml?team=SFTWR"
     }
   }
 }
