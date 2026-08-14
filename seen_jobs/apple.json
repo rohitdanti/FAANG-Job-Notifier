@@ -4,18 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200624059-0836": {
-      "first_seen": 1775163183.861513,
-      "posted": "",
-      "title": "Senior ML Software Engineer, Watch Software",
-      "job_id": "200624059-0836"
-    },
-    "200624059-3543": {
-      "first_seen": 1775163183.861513,
-      "posted": "",
-      "title": "Senior ML Software Engineer, Watch Software",
-      "job_id": "200624059-3543"
-    },
     "200651584-0836": {
       "first_seen": 1775163183.861513,
       "posted": "",
@@ -19822,6 +19810,20 @@
       "title": "Software Image Quality Manager, Creativity Apps",
       "job_id": "200677992-0836",
       "url": "https://jobs.apple.com/en-us/details/200677992-0836/software-image-quality-manager-creativity-apps?team=SFTWR"
+    },
+    "200675384-0836": {
+      "first_seen": 1786727493.1538835,
+      "posted": "2026-08-14",
+      "title": "Instructional Designer - Instructional Products",
+      "job_id": "200675384-0836",
+      "url": "https://jobs.apple.com/en-us/details/200675384-0836/instructional-designer-instructional-products?team=SFTWR"
+    },
+    "200674684-0670": {
+      "first_seen": 1786727493.1538901,
+      "posted": "2026-08-14",
+      "title": "Instructional Products \u2014 Instructional Designer",
+      "job_id": "200674684-0670",
+      "url": "https://jobs.apple.com/en-us/details/200674684-0670/instructional-products-instructional-designer?team=SFTWR"
     }
   }
 }
