@@ -4,18 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200651584-0836": {
-      "first_seen": 1775163183.861513,
-      "posted": "",
-      "title": "Engineering Manager - Server, Find My",
-      "job_id": "200651584-0836"
-    },
-    "200651512-3956": {
-      "first_seen": 1775163183.861513,
-      "posted": "",
-      "title": "Systems Software Engineering Manager, Vision Products Group",
-      "job_id": "200651512-3956"
-    },
     "200649928-3401": {
       "first_seen": 1775163183.861513,
       "posted": "",
@@ -19824,6 +19812,20 @@
       "title": "Instructional Products \u2014 Instructional Designer",
       "job_id": "200674684-0670",
       "url": "https://jobs.apple.com/en-us/details/200674684-0670/instructional-products-instructional-designer?team=SFTWR"
+    },
+    "200670535-0836": {
+      "first_seen": 1786731691.7167697,
+      "posted": "2026-08-14",
+      "title": "Screening & Integration Engineer, Watch Software",
+      "job_id": "200670535-0836",
+      "url": "https://jobs.apple.com/en-us/details/200670535-0836/screening-integration-engineer-watch-software?team=SFTWR"
+    },
+    "200670535-3543": {
+      "first_seen": 1786731691.7167737,
+      "posted": "2026-08-14",
+      "title": "Screening & Integration Engineer, Watch Software",
+      "job_id": "200670535-3543",
+      "url": "https://jobs.apple.com/en-us/details/200670535-3543/screening-integration-engineer-watch-software?team=SFTWR"
     }
   }
 }
