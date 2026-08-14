@@ -4,18 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200651542-0836": {
-      "first_seen": 1775163183.861515,
-      "posted": "",
-      "title": "Software QA Engineer, Security",
-      "job_id": "200651542-0836"
-    },
-    "200651526-0836": {
-      "first_seen": 1775163183.861515,
-      "posted": "",
-      "title": "Software Engineering Program Manager - watchOS",
-      "job_id": "200651526-0836"
-    },
     "200649638-0670": {
       "first_seen": 1775163183.861515,
       "posted": "",
@@ -19834,6 +19822,20 @@
       "title": "Systems Architect - Apple Pay",
       "job_id": "200671413-2459",
       "url": "https://jobs.apple.com/en-us/details/200671413-2459/systems-architect-apple-pay?team=SFTWR"
+    },
+    "200678225-3577": {
+      "first_seen": 1786741893.4034252,
+      "posted": "2026-08-14",
+      "title": "Senior Software Engineer, Apple Services Engineering",
+      "job_id": "200678225-3577",
+      "url": "https://jobs.apple.com/en-us/details/200678225-3577/senior-software-engineer-apple-services-engineering?team=SFTWR"
+    },
+    "200678213-3543": {
+      "first_seen": 1786741893.4034302,
+      "posted": "2026-08-14",
+      "title": "Software Quality Engineer, Sensing & Connectivity",
+      "job_id": "200678213-3543",
+      "url": "https://jobs.apple.com/en-us/details/200678213-3543/software-quality-engineer-sensing-connectivity?team=SFTWR"
     }
   }
 }
