@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200651348-3956": {
-      "first_seen": 1775163183.861514,
-      "posted": "",
-      "title": "Software Engineer (Quality), Retail and Marcom Engineering",
-      "job_id": "200651348-3956"
-    },
     "200650500-3543": {
       "first_seen": 1775163183.861514,
       "posted": "",
@@ -19828,6 +19822,13 @@
       "title": "Lead Designer, Design Systems & Structures",
       "job_id": "200676752-0670",
       "url": "https://jobs.apple.com/en-us/details/200676752-0670/lead-designer-design-systems-structures?team=SFTWR"
+    },
+    "200677025-0836": {
+      "first_seen": 1786732902.0626733,
+      "posted": "2026-08-14",
+      "title": "Sr Engineering Program Manager, Evaluation - Special Projects",
+      "job_id": "200677025-0836",
+      "url": "https://jobs.apple.com/en-us/details/200677025-0836/sr-engineering-program-manager-evaluation-special-projects?team=SFTWR"
     }
   }
 }
