@@ -4,24 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200651540-0836": {
-      "first_seen": 1775163183.861514,
-      "posted": "",
-      "title": "Engineering Project Manager, Build and Release",
-      "job_id": "200651540-0836"
-    },
-    "200651524-1242": {
-      "first_seen": 1775163183.861515,
-      "posted": "",
-      "title": "Sr. Software Development Engineer - Data, Siri Speech",
-      "job_id": "200651524-1242"
-    },
-    "200651222-0836": {
-      "first_seen": 1775163183.861515,
-      "posted": "",
-      "title": "Engineering Program Manager, App Store Regulatory, Apple Services Engineering",
-      "job_id": "200651222-0836"
-    },
     "200651542-0836": {
       "first_seen": 1775163183.861515,
       "posted": "",
@@ -19831,6 +19813,27 @@
       "title": "ML Model Integration Platform Eng",
       "job_id": "200677768-3337",
       "url": "https://jobs.apple.com/en-us/details/200677768-3337/ml-model-integration-platform-eng?team=SFTWR"
+    },
+    "200678182-0836": {
+      "first_seen": 1786741291.3902059,
+      "posted": "2026-08-14",
+      "title": "Senior Engineering Program Manager, Client Engineering - Apple Ads",
+      "job_id": "200678182-0836",
+      "url": "https://jobs.apple.com/en-us/details/200678182-0836/senior-engineering-program-manager-client-engineering-apple-ads?team=SFTWR"
+    },
+    "200678212-0157": {
+      "first_seen": 1786741291.3902106,
+      "posted": "2026-08-14",
+      "title": "Software Development Engineer, PMO - Apple Ads",
+      "job_id": "200678212-0157",
+      "url": "https://jobs.apple.com/en-us/details/200678212-0157/software-development-engineer-pmo-apple-ads?team=SFTWR"
+    },
+    "200671413-2459": {
+      "first_seen": 1786741291.3902123,
+      "posted": "2026-08-14",
+      "title": "Systems Architect - Apple Pay",
+      "job_id": "200671413-2459",
+      "url": "https://jobs.apple.com/en-us/details/200671413-2459/systems-architect-apple-pay?team=SFTWR"
     }
   }
 }
