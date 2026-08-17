@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200651339-3577": {
-      "first_seen": 1775163183.8615198,
-      "posted": "",
-      "title": "Senior Build and Release Engineer, Apple Services Engineering",
-      "job_id": "200651339-3577"
-    },
     "200651339-3337": {
       "first_seen": 1775163183.8615198,
       "posted": "",
@@ -19861,6 +19855,13 @@
       "title": "Project Manager - Finance Engineering, IS&T",
       "job_id": "200676646-3956",
       "url": "https://jobs.apple.com/en-us/details/200676646-3956/project-manager-finance-engineering-is-t?team=SFTWR"
+    },
+    "200677507-3543": {
+      "first_seen": 1786993897.8490727,
+      "posted": "2026-08-17",
+      "title": "Senior Software Engineer - iCloud Messaging Identity Services",
+      "job_id": "200677507-3543",
+      "url": "https://jobs.apple.com/en-us/details/200677507-3543/senior-software-engineer-icloud-messaging-identity-services?team=SFTWR"
     }
   }
 }
