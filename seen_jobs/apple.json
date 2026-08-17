@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200651030-0836": {
-      "first_seen": 1775163183.861522,
-      "posted": "",
-      "title": "Senior ML and Backend Software Engineer - Special Projects",
-      "job_id": "200651030-0836"
-    },
     "200651271-0836": {
       "first_seen": 1775163183.861522,
       "posted": "",
@@ -19869,6 +19863,13 @@
       "title": "Principal Security Engineering Program Manager - China Security & Infrastructure, Apple Services Engineering",
       "job_id": "200674384-3337",
       "url": "https://jobs.apple.com/en-us/details/200674384-3337/principal-security-engineering-program-manager-china-security-infrastructure-apple-services-engineering?team=SFTWR"
+    },
+    "200678539-3337": {
+      "first_seen": 1787009489.0514188,
+      "posted": "2026-08-17",
+      "title": "Software Engineer - Observability",
+      "job_id": "200678539-3337",
+      "url": "https://jobs.apple.com/en-us/details/200678539-3337/software-engineer-observability?team=SFTWR"
     }
   }
 }
