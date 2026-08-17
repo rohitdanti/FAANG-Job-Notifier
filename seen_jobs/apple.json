@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200625215-0836": {
-      "first_seen": 1775163183.861521,
-      "posted": "",
-      "title": "iOS Software Engineer, Image Generation",
-      "job_id": "200625215-0836"
-    },
     "200620661-0836": {
       "first_seen": 1775163183.861522,
       "posted": "",
@@ -19867,6 +19861,13 @@
       "title": "Software Development Engineer - Data, MLO",
       "job_id": "200678541-0836",
       "url": "https://jobs.apple.com/en-us/details/200678541-0836/software-development-engineer-data-mlo?team=SFTWR"
+    },
+    "200676483-3956": {
+      "first_seen": 1787006485.5933824,
+      "posted": "2026-08-17",
+      "title": "App Review Specialist, Chinese Language",
+      "job_id": "200676483-3956",
+      "url": "https://jobs.apple.com/en-us/details/200676483-3956/app-review-specialist-chinese-language?team=SFTWR"
     }
   }
 }
