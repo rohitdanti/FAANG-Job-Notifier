@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200620661-0836": {
-      "first_seen": 1775163183.861522,
-      "posted": "",
-      "title": "Machine Learning Systems Engineer",
-      "job_id": "200620661-0836"
-    },
     "200651030-0836": {
       "first_seen": 1775163183.861522,
       "posted": "",
@@ -19868,6 +19862,13 @@
       "title": "App Review Specialist, Chinese Language",
       "job_id": "200676483-3956",
       "url": "https://jobs.apple.com/en-us/details/200676483-3956/app-review-specialist-chinese-language?team=SFTWR"
+    },
+    "200674384-3337": {
+      "first_seen": 1787007693.530609,
+      "posted": "2026-08-17",
+      "title": "Principal Security Engineering Program Manager - China Security & Infrastructure, Apple Services Engineering",
+      "job_id": "200674384-3337",
+      "url": "https://jobs.apple.com/en-us/details/200674384-3337/principal-security-engineering-program-manager-china-security-infrastructure-apple-services-engineering?team=SFTWR"
     }
   }
 }
