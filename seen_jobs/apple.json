@@ -4,24 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200651339-3337": {
-      "first_seen": 1775163183.8615198,
-      "posted": "",
-      "title": "Senior Build and Release Engineer, Apple Services Engineering",
-      "job_id": "200651339-3337"
-    },
-    "200651311-0836": {
-      "first_seen": 1775163183.861521,
-      "posted": "",
-      "title": "Kernel Scheduler Engineer, Core OS",
-      "job_id": "200651311-0836"
-    },
-    "200615768-3401": {
-      "first_seen": 1775163183.861521,
-      "posted": "",
-      "title": "Engineering Program Manager - Software Developer Productivity - CoreOS",
-      "job_id": "200615768-3401"
-    },
     "200651141-0836": {
       "first_seen": 1775163183.861521,
       "posted": "",
@@ -19862,6 +19844,27 @@
       "title": "Senior Software Engineer - iCloud Messaging Identity Services",
       "job_id": "200677507-3543",
       "url": "https://jobs.apple.com/en-us/details/200677507-3543/senior-software-engineer-icloud-messaging-identity-services?team=SFTWR"
+    },
+    "200678510-0836": {
+      "first_seen": 1786996891.4357896,
+      "posted": "2026-08-17",
+      "title": "Software Engineer, IS&T Early Career Opportunities",
+      "job_id": "200678510-0836",
+      "url": "https://jobs.apple.com/en-us/details/200678510-0836/software-engineer-is-t-early-career-opportunities?team=SFTWR"
+    },
+    "200678510-3956": {
+      "first_seen": 1786996891.4357948,
+      "posted": "2026-08-17",
+      "title": "Software Engineer, IS&T Early Career Opportunities",
+      "job_id": "200678510-3956",
+      "url": "https://jobs.apple.com/en-us/details/200678510-3956/software-engineer-is-t-early-career-opportunities?team=SFTWR"
+    },
+    "200677020-0836": {
+      "first_seen": 1786996891.4358103,
+      "posted": "2026-08-17",
+      "title": "Engineering Program Manager, Data - Special Projects",
+      "job_id": "200677020-0836",
+      "url": "https://jobs.apple.com/en-us/details/200677020-0836/engineering-program-manager-data-special-projects?team=SFTWR"
     }
   }
 }
