@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200651121-0240": {
-      "first_seen": 1775163183.861516,
-      "posted": "",
-      "title": "Engineering Project Manager (SAP), IS&T Enterprise Systems",
-      "job_id": "200651121-0240"
-    },
     "200651501-0157": {
       "first_seen": 1775163183.861517,
       "posted": "",
@@ -19842,6 +19836,13 @@
       "title": "Security Adoption Engineer",
       "job_id": "200673268-3337",
       "url": "https://jobs.apple.com/en-us/details/200673268-3337/security-adoption-engineer?team=SFTWR"
+    },
+    "200674183-3337": {
+      "first_seen": 1786979483.8120291,
+      "posted": "2026-08-17",
+      "title": "Senior Software Engineer - Security Frameworks",
+      "job_id": "200674183-3337",
+      "url": "https://jobs.apple.com/en-us/details/200674183-3337/senior-software-engineer-security-frameworks?team=SFTWR"
     }
   }
 }
