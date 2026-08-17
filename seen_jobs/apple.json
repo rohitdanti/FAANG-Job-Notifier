@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200649540-0836": {
-      "first_seen": 1775163183.861519,
-      "posted": "",
-      "title": "Senior Machine Learning Engineer - Ads Bidding & Pacing",
-      "job_id": "200649540-0836"
-    },
     "200620689-0836": {
       "first_seen": 1775163183.861519,
       "posted": "",
@@ -19855,6 +19849,13 @@
       "title": "Software Engineer, App Store",
       "job_id": "200678254-0836",
       "url": "https://jobs.apple.com/en-us/details/200678254-0836/software-engineer-app-store?team=SFTWR"
+    },
+    "200651667-3401": {
+      "first_seen": 1786988495.0423396,
+      "posted": "2026-08-17",
+      "title": "Automation and Design Test Engineer, Siri",
+      "job_id": "200651667-3401",
+      "url": "https://jobs.apple.com/en-us/details/200651667-3401/automation-and-design-test-engineer-siri?team=SFTWR"
     }
   }
 }
