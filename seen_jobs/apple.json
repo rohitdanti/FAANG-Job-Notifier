@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200651281-0836": {
-      "first_seen": 1775163183.8615198,
-      "posted": "",
-      "title": "Data Engineer, Find My",
-      "job_id": "200651281-0836"
-    },
     "200651339-3577": {
       "first_seen": 1775163183.8615198,
       "posted": "",
@@ -19860,6 +19854,13 @@
       "title": "Sr. Infrastructure Software Engineer (Provisioning) - Apple Services Engineering",
       "job_id": "200678460-0836",
       "url": "https://jobs.apple.com/en-us/details/200678460-0836/sr-infrastructure-software-engineer-provisioning-apple-services-engineering?team=SFTWR"
+    },
+    "200676646-3956": {
+      "first_seen": 1786992700.4750385,
+      "posted": "2026-08-17",
+      "title": "Project Manager - Finance Engineering, IS&T",
+      "job_id": "200676646-3956",
+      "url": "https://jobs.apple.com/en-us/details/200676646-3956/project-manager-finance-engineering-is-t?team=SFTWR"
     }
   }
 }
