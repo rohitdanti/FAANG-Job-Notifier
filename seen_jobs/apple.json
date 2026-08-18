@@ -4,18 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200651123-3337": {
-      "first_seen": 1775163183.861525,
-      "posted": "",
-      "title": "Sr. AR Applications Engineer- Vision Products Software",
-      "job_id": "200651123-3337"
-    },
-    "200650872-2605": {
-      "first_seen": 1775163183.861525,
-      "posted": "",
-      "title": "Software Engineer - Apple Vision Pro",
-      "job_id": "200650872-2605"
-    },
     "200650872-3956": {
       "first_seen": 1775163183.861525,
       "posted": "",
@@ -19883,6 +19871,20 @@
       "title": "Software Engineer (Front End), Retail and Marcom Engineering",
       "job_id": "200677686-3956",
       "url": "https://jobs.apple.com/en-us/details/200677686-3956/software-engineer-front-end-retail-and-marcom-engineering?team=SFTWR"
+    },
+    "200678731-0836": {
+      "first_seen": 1787091699.284348,
+      "posted": "2026-08-18",
+      "title": "Systems Architect",
+      "job_id": "200678731-0836",
+      "url": "https://jobs.apple.com/en-us/details/200678731-0836/systems-architect?team=SFTWR"
+    },
+    "200678814-0836": {
+      "first_seen": 1787091699.2843528,
+      "posted": "2026-08-18",
+      "title": "Software Development Engineer - Location Technologies, Sensing & Connectivity",
+      "job_id": "200678814-0836",
+      "url": "https://jobs.apple.com/en-us/details/200678814-0836/software-development-engineer-location-technologies-sensing-connectivity?team=SFTWR"
     }
   }
 }
