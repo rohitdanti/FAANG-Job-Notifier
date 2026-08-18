@@ -4,18 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200650872-3956": {
-      "first_seen": 1775163183.861525,
-      "posted": "",
-      "title": "Software Engineer - Apple Vision Pro",
-      "job_id": "200650872-3956"
-    },
-    "200644212-0836": {
-      "first_seen": 1775163183.861525,
-      "posted": "",
-      "title": "Memory Tools Engineer",
-      "job_id": "200644212-0836"
-    },
     "200648984-1902": {
       "first_seen": 1775163183.861525,
       "posted": "",
@@ -19885,6 +19873,20 @@
       "title": "Software Development Engineer - Location Technologies, Sensing & Connectivity",
       "job_id": "200678814-0836",
       "url": "https://jobs.apple.com/en-us/details/200678814-0836/software-development-engineer-location-technologies-sensing-connectivity?team=SFTWR"
+    },
+    "200678845-3543": {
+      "first_seen": 1787094104.846881,
+      "posted": "2026-08-18",
+      "title": "Software Engineer, Satellite Operations",
+      "job_id": "200678845-3543",
+      "url": "https://jobs.apple.com/en-us/details/200678845-3543/software-engineer-satellite-operations?team=SFTWR"
+    },
+    "200678845-3749": {
+      "first_seen": 1787094104.8468864,
+      "posted": "2026-08-18",
+      "title": "Software Engineer, Satellite Operations",
+      "job_id": "200678845-3749",
+      "url": "https://jobs.apple.com/en-us/details/200678845-3749/software-engineer-satellite-operations?team=SFTWR"
     }
   }
 }
