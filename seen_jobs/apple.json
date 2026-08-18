@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200651271-0836": {
-      "first_seen": 1775163183.861522,
-      "posted": "",
-      "title": "Metal API & Shader Instrumentation Engineer, Graphics, Game and ML",
-      "job_id": "200651271-0836"
-    },
     "200651087-3956": {
       "first_seen": 1775163183.861522,
       "posted": "",
@@ -19870,6 +19864,13 @@
       "title": "Software Engineer - Observability",
       "job_id": "200678539-3337",
       "url": "https://jobs.apple.com/en-us/details/200678539-3337/software-engineer-observability?team=SFTWR"
+    },
+    "200678473-0836": {
+      "first_seen": 1787011895.89751,
+      "posted": "2026-08-18",
+      "title": "ML Data QA Lead, MLO",
+      "job_id": "200678473-0836",
+      "url": "https://jobs.apple.com/en-us/details/200678473-0836/ml-data-qa-lead-mlo?team=SFTWR"
     }
   }
 }
