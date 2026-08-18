@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200651087-3956": {
-      "first_seen": 1775163183.861522,
-      "posted": "",
-      "title": "Senior Engineering Manager, Finance Data & SOX Platforms",
-      "job_id": "200651087-3956"
-    },
     "200651089-3956": {
       "first_seen": 1775163183.861522,
       "posted": "",
@@ -19871,6 +19865,13 @@
       "title": "ML Data QA Lead, MLO",
       "job_id": "200678473-0836",
       "url": "https://jobs.apple.com/en-us/details/200678473-0836/ml-data-qa-lead-mlo?team=SFTWR"
+    },
+    "200678347-0836": {
+      "first_seen": 1787013229.5235515,
+      "posted": "2026-08-18",
+      "title": "Pre-silicon Compute Framework Manager",
+      "job_id": "200678347-0836",
+      "url": "https://jobs.apple.com/en-us/details/200678347-0836/pre-silicon-compute-framework-manager?team=SFTWR"
     }
   }
 }
