@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200651089-3956": {
-      "first_seen": 1775163183.861522,
-      "posted": "",
-      "title": "Sr Engineering Manager, Finance Data Engineering & AI Enablement",
-      "job_id": "200651089-3956"
-    },
     "200651090-3956": {
       "first_seen": 1775163183.861523,
       "posted": "",
@@ -19872,6 +19866,13 @@
       "title": "Pre-silicon Compute Framework Manager",
       "job_id": "200678347-0836",
       "url": "https://jobs.apple.com/en-us/details/200678347-0836/pre-silicon-compute-framework-manager?team=SFTWR"
+    },
+    "200678584-0836": {
+      "first_seen": 1787067742.351301,
+      "posted": "2026-08-18",
+      "title": "Senior Visual Communication Designer",
+      "job_id": "200678584-0836",
+      "url": "https://jobs.apple.com/en-us/details/200678584-0836/senior-visual-communication-designer?team=SFTWR"
     }
   }
 }
