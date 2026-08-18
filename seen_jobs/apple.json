@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200634933-3543": {
-      "first_seen": 1775163183.8615239,
-      "posted": "",
-      "title": "Sr Software Engineer, Access/Car Keys Engineering",
-      "job_id": "200634933-3543"
-    },
     "200651123-3337": {
       "first_seen": 1775163183.861525,
       "posted": "",
@@ -19882,6 +19876,13 @@
       "title": "Engineering Program Manager, AIML, Data Insights & Engineering",
       "job_id": "200678544-0836",
       "url": "https://jobs.apple.com/en-us/details/200678544-0836/engineering-program-manager-aiml-data-insights-engineering?team=SFTWR"
+    },
+    "200677686-3956": {
+      "first_seen": 1787087509.5262022,
+      "posted": "2026-08-18",
+      "title": "Software Engineer (Front End), Retail and Marcom Engineering",
+      "job_id": "200677686-3956",
+      "url": "https://jobs.apple.com/en-us/details/200677686-3956/software-engineer-front-end-retail-and-marcom-engineering?team=SFTWR"
     }
   }
 }
