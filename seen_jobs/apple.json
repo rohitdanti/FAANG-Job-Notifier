@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200650813-0836": {
-      "first_seen": 1775163183.8615282,
-      "posted": "",
-      "title": "Software Engineer - Darwin Server, Core OS",
-      "job_id": "200650813-0836"
-    },
     "200650822-0836": {
       "first_seen": 1775163183.8615282,
       "posted": "",
@@ -19900,6 +19894,13 @@
       "title": "iOS Software Engineer- Apple Cloud Products",
       "job_id": "200678459-3543",
       "url": "https://jobs.apple.com/en-us/details/200678459-3543/ios-software-engineer-apple-cloud-products?team=SFTWR"
+    },
+    "200654506-0836": {
+      "first_seen": 1787164317.3345463,
+      "posted": "2026-08-19",
+      "title": "Software QA Engineer, Wireless Technologies & Ecosystems",
+      "job_id": "200654506-0836",
+      "url": "https://jobs.apple.com/en-us/details/200654506-0836/software-qa-engineer-wireless-technologies-ecosystems?team=SFTWR"
     }
   }
 }
