@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200647673-3956": {
-      "first_seen": 1775163183.861529,
-      "posted": "",
-      "title": "DevOps Engineer, Claris",
-      "job_id": "200647673-3956"
-    },
     "200650701-0836": {
       "first_seen": 1775163183.861529,
       "posted": "",
@@ -19910,6 +19904,13 @@
       "title": "Camera Imaging Software Engineer, Camera & Photos",
       "job_id": "200653138-0836",
       "url": "https://jobs.apple.com/en-us/details/200653138-0836/camera-imaging-software-engineer-camera-photos?team=SFTWR"
+    },
+    "200678963-3337": {
+      "first_seen": 1787176901.6950653,
+      "posted": "2026-08-19",
+      "title": "AIML - Sr Manager, Evaluation - Data Science & Insights",
+      "job_id": "200678963-3337",
+      "url": "https://jobs.apple.com/en-us/details/200678963-3337/aiml-sr-manager-evaluation-data-science-insights?team=SFTWR"
     }
   }
 }
