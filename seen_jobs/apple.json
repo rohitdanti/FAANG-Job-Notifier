@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200650701-0836": {
-      "first_seen": 1775163183.861529,
-      "posted": "",
-      "title": "Camera & Photos - Hardware Allocations Engineer",
-      "job_id": "200650701-0836"
-    },
     "200650654-0836": {
       "first_seen": 1775163183.86153,
       "posted": "",
@@ -19911,6 +19905,13 @@
       "title": "AIML - Sr Manager, Evaluation - Data Science & Insights",
       "job_id": "200678963-3337",
       "url": "https://jobs.apple.com/en-us/details/200678963-3337/aiml-sr-manager-evaluation-data-science-insights?team=SFTWR"
+    },
+    "200678755-3543": {
+      "first_seen": 1787178105.1399689,
+      "posted": "2026-08-19",
+      "title": "AI/ML Engineer (GenAI), Wireless Technologies & Ecosystems",
+      "job_id": "200678755-3543",
+      "url": "https://jobs.apple.com/en-us/details/200678755-3543/ai-ml-engineer-genai-wireless-technologies-ecosystems?team=SFTWR"
     }
   }
 }
