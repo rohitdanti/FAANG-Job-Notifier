@@ -4,18 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200651019-3956": {
-      "first_seen": 1775163183.861526,
-      "posted": "",
-      "title": "Systems Frameworks Engineer, Vision Products Group",
-      "job_id": "200651019-3956"
-    },
-    "200650877-0836": {
-      "first_seen": 1775163183.861526,
-      "posted": "",
-      "title": "Product Manager, Apple Ads Campaign Optimization",
-      "job_id": "200650877-0836"
-    },
     "200650877-2459": {
       "first_seen": 1775163183.861526,
       "posted": "",
@@ -19890,6 +19878,20 @@
       "title": "Apple GPU Compiler Backend Engineer",
       "job_id": "200678185-0836",
       "url": "https://jobs.apple.com/en-us/details/200678185-0836/apple-gpu-compiler-backend-engineer?team=SFTWR"
+    },
+    "200678758-0836": {
+      "first_seen": 1787144821.3688052,
+      "posted": "2026-08-19",
+      "title": "Senior Backend Platform Software Engineer - Special Projects",
+      "job_id": "200678758-0836",
+      "url": "https://jobs.apple.com/en-us/details/200678758-0836/senior-backend-platform-software-engineer-special-projects?team=SFTWR"
+    },
+    "200671429-0836": {
+      "first_seen": 1787144821.3688114,
+      "posted": "2026-08-19",
+      "title": "Senior Software Engineer, Apple Services Engineering",
+      "job_id": "200671429-0836",
+      "url": "https://jobs.apple.com/en-us/details/200671429-0836/senior-software-engineer-apple-services-engineering?team=SFTWR"
     }
   }
 }
