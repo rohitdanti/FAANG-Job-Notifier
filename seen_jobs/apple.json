@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200650877-2459": {
-      "first_seen": 1775163183.861526,
-      "posted": "",
-      "title": "Product Manager, Apple Ads Campaign Optimization",
-      "job_id": "200650877-2459"
-    },
     "200649939-3543": {
       "first_seen": 1775163183.861526,
       "posted": "",
@@ -19892,6 +19886,13 @@
       "title": "Senior Software Engineer, Apple Services Engineering",
       "job_id": "200671429-0836",
       "url": "https://jobs.apple.com/en-us/details/200671429-0836/senior-software-engineer-apple-services-engineering?team=SFTWR"
+    },
+    "200678744-2459": {
+      "first_seen": 1787153538.855931,
+      "posted": "2026-08-19",
+      "title": "iOS Engineer-Apple Sports",
+      "job_id": "200678744-2459",
+      "url": "https://jobs.apple.com/en-us/details/200678744-2459/ios-engineer-apple-sports?team=SFTWR"
     }
   }
 }
