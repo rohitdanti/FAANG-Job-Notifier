@@ -4,18 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200650823-0836": {
-      "first_seen": 1775163183.8615282,
-      "posted": "",
-      "title": "Data Scientist - Core Insights, Apple Ads",
-      "job_id": "200650823-0836"
-    },
-    "200650823-2459": {
-      "first_seen": 1775163183.8615282,
-      "posted": "",
-      "title": "Data Scientist - Core Insights, Apple Ads",
-      "job_id": "200650823-2459"
-    },
     "200650860-0836": {
       "first_seen": 1775163183.861529,
       "posted": "",
@@ -19903,6 +19891,20 @@
       "title": "Senior AI Software Engineer, App Intelligence",
       "job_id": "200678806-3401",
       "url": "https://jobs.apple.com/en-us/details/200678806-3401/senior-ai-software-engineer-app-intelligence?team=SFTWR"
+    },
+    "200675782-0157": {
+      "first_seen": 1787166833.585248,
+      "posted": "2026-08-19",
+      "title": "Sr Network Engineer, Infrastructure Services",
+      "job_id": "200675782-0157",
+      "url": "https://jobs.apple.com/en-us/details/200675782-0157/sr-network-engineer-infrastructure-services?team=SFTWR"
+    },
+    "200678706-0836": {
+      "first_seen": 1787166833.5852556,
+      "posted": "2026-08-19",
+      "title": "Engineering Program Manager, Internet Technologies",
+      "job_id": "200678706-0836",
+      "url": "https://jobs.apple.com/en-us/details/200678706-0836/engineering-program-manager-internet-technologies?team=SFTWR"
     }
   }
 }
