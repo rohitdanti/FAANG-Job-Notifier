@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200648984-1902": {
-      "first_seen": 1775163183.861525,
-      "posted": "",
-      "title": "Infrastructure Engineer, Data Center Operations",
-      "job_id": "200648984-1902"
-    },
     "200632990-3543": {
       "first_seen": 1775163183.861526,
       "posted": "",
@@ -19887,6 +19881,13 @@
       "title": "Software Engineer, Satellite Operations",
       "job_id": "200678845-3749",
       "url": "https://jobs.apple.com/en-us/details/200678845-3749/software-engineer-satellite-operations?team=SFTWR"
+    },
+    "200678721-3337": {
+      "first_seen": 1787100097.2498763,
+      "posted": "2026-08-19",
+      "title": "Security Site Reliability Engineer - Apple Service Engineering",
+      "job_id": "200678721-3337",
+      "url": "https://jobs.apple.com/en-us/details/200678721-3337/security-site-reliability-engineer-apple-service-engineering?team=SFTWR"
     }
   }
 }
