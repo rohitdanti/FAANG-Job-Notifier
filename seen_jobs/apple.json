@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200650473-3337": {
-      "first_seen": 1775163183.861526,
-      "posted": "",
-      "title": "ML Applied Scientist, Apple Services Engineering AI/ML",
-      "job_id": "200650473-3337"
-    },
     "200651019-3956": {
       "first_seen": 1775163183.861526,
       "posted": "",
@@ -19889,6 +19883,13 @@
       "title": "Wireless Bluetooth QA Engineer, Wireless Technologies & Ecosystems",
       "job_id": "200678728-0836",
       "url": "https://jobs.apple.com/en-us/details/200678728-0836/wireless-bluetooth-qa-engineer-wireless-technologies-ecosystems?team=SFTWR"
+    },
+    "200678185-0836": {
+      "first_seen": 1787103115.5794644,
+      "posted": "2026-08-19",
+      "title": "Apple GPU Compiler Backend Engineer",
+      "job_id": "200678185-0836",
+      "url": "https://jobs.apple.com/en-us/details/200678185-0836/apple-gpu-compiler-backend-engineer?team=SFTWR"
     }
   }
 }
