@@ -4,30 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200649939-3543": {
-      "first_seen": 1775163183.861526,
-      "posted": "",
-      "title": "Senior Software Quality Engineer - Applied Networking",
-      "job_id": "200649939-3543"
-    },
-    "200650179-0836": {
-      "first_seen": 1775163183.861527,
-      "posted": "",
-      "title": "Senior QMS Development Engineer - Medical Devices",
-      "job_id": "200650179-0836"
-    },
-    "200650169-0836": {
-      "first_seen": 1775163183.861527,
-      "posted": "",
-      "title": "Senior International Quality and Regulatory Compliance Associate",
-      "job_id": "200650169-0836"
-    },
-    "200650908-0836": {
-      "first_seen": 1775163183.861527,
-      "posted": "",
-      "title": "SW Dev Engineer -iCloud Products -Backend",
-      "job_id": "200650908-0836"
-    },
     "200650506-0776": {
       "first_seen": 1775163183.861527,
       "posted": "",
@@ -19893,6 +19869,34 @@
       "title": "iOS Engineer-Apple Sports",
       "job_id": "200678744-2459",
       "url": "https://jobs.apple.com/en-us/details/200678744-2459/ios-engineer-apple-sports?team=SFTWR"
+    },
+    "200678553-0670": {
+      "first_seen": 1787159773.1100707,
+      "posted": "2026-08-19",
+      "title": "Software Engineer, Employee Experience & Productivity",
+      "job_id": "200678553-0670",
+      "url": "https://jobs.apple.com/en-us/details/200678553-0670/software-engineer-employee-experience-productivity?team=SFTWR"
+    },
+    "200678852-0836": {
+      "first_seen": 1787159773.1100745,
+      "posted": "2026-08-19",
+      "title": "CoreOS Kernel Performance Engineer",
+      "job_id": "200678852-0836",
+      "url": "https://jobs.apple.com/en-us/details/200678852-0836/coreos-kernel-performance-engineer?team=SFTWR"
+    },
+    "200678840-0836": {
+      "first_seen": 1787159773.1100767,
+      "posted": "2026-08-19",
+      "title": "Darwin Runtime Engineer, Core OS",
+      "job_id": "200678840-0836",
+      "url": "https://jobs.apple.com/en-us/details/200678840-0836/darwin-runtime-engineer-core-os?team=SFTWR"
+    },
+    "200668065-1435": {
+      "first_seen": 1787159773.1100864,
+      "posted": "2026-08-19",
+      "title": "Trust & Safety Program Manager, Financial Fraud",
+      "job_id": "200668065-1435",
+      "url": "https://jobs.apple.com/en-us/details/200668065-1435/trust-safety-program-manager-financial-fraud?team=SFTWR"
     }
   }
 }
