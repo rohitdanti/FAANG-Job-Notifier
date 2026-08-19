@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200650511-0836": {
-      "first_seen": 1775163183.861529,
-      "posted": "",
-      "title": "Manager, SDET, Photo/Video Apps",
-      "job_id": "200650511-0836"
-    },
     "200647673-3543": {
       "first_seen": 1775163183.861529,
       "posted": "",
@@ -19908,6 +19902,13 @@
       "title": "Machine Learning Engineer - On-Device Adaptive Control",
       "job_id": "200679038-3337",
       "url": "https://jobs.apple.com/en-us/details/200679038-3337/machine-learning-engineer-on-device-adaptive-control?team=SFTWR"
+    },
+    "200677976-3956": {
+      "first_seen": 1787173465.9336922,
+      "posted": "2026-08-19",
+      "title": "Product Data Scientist, Employee Experience & Productivity, IS&T",
+      "job_id": "200677976-3956",
+      "url": "https://jobs.apple.com/en-us/details/200677976-3956/product-data-scientist-employee-experience-productivity-is-t?team=SFTWR"
     }
   }
 }
