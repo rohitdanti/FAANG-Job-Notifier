@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200650654-0836": {
-      "first_seen": 1775163183.86153,
-      "posted": "",
-      "title": "Principal Software Engineer - Maps Search",
-      "job_id": "200650654-0836"
-    },
     "200645653-3956": {
       "first_seen": 1775163183.86153,
       "posted": "",
@@ -19912,6 +19906,13 @@
       "title": "AI/ML Engineer (GenAI), Wireless Technologies & Ecosystems",
       "job_id": "200678755-3543",
       "url": "https://jobs.apple.com/en-us/details/200678755-3543/ai-ml-engineer-genai-wireless-technologies-ecosystems?team=SFTWR"
+    },
+    "200679060-2459": {
+      "first_seen": 1787180489.4060097,
+      "posted": "2026-08-19",
+      "title": "Senior Software Platform Engineer, Apple Pay",
+      "job_id": "200679060-2459",
+      "url": "https://jobs.apple.com/en-us/details/200679060-2459/senior-software-platform-engineer-apple-pay?team=SFTWR"
     }
   }
 }
