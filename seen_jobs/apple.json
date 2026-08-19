@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200650506-0776": {
-      "first_seen": 1775163183.861527,
-      "posted": "",
-      "title": "Product Manager",
-      "job_id": "200650506-0776"
-    },
     "200650882-0836": {
       "first_seen": 1775163183.861527,
       "posted": "",
@@ -19897,6 +19891,13 @@
       "title": "Trust & Safety Program Manager, Financial Fraud",
       "job_id": "200668065-1435",
       "url": "https://jobs.apple.com/en-us/details/200668065-1435/trust-safety-program-manager-financial-fraud?team=SFTWR"
+    },
+    "200678825-0836": {
+      "first_seen": 1787160698.5076928,
+      "posted": "2026-08-19",
+      "title": "Program Manager - Compute Governance Operations",
+      "job_id": "200678825-0836",
+      "url": "https://jobs.apple.com/en-us/details/200678825-0836/program-manager-compute-governance-operations?team=SFTWR"
     }
   }
 }
