@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200650735-3760": {
-      "first_seen": 1775163183.86153,
-      "posted": "",
-      "title": "AIML - Senior Software Engineer, Siri & Information Intelligence",
-      "job_id": "200650735-3760"
-    },
     "200650735-3337": {
       "first_seen": 1775163183.86153,
       "posted": "",
@@ -19914,6 +19908,13 @@
       "title": "Program Manager, BPR: Supply Chain",
       "job_id": "200679077-0836",
       "url": "https://jobs.apple.com/en-us/details/200679077-0836/program-manager-bpr-supply-chain?team=SFTWR"
+    },
+    "200677559-3956": {
+      "first_seen": 1787185293.6124294,
+      "posted": "2026-08-20",
+      "title": "Sr. Software Engineer (Data Solutions), IS&T Ai & Data Platforms",
+      "job_id": "200677559-3956",
+      "url": "https://jobs.apple.com/en-us/details/200677559-3956/sr-software-engineer-data-solutions-is-t-ai-data-platforms?team=SFTWR"
     }
   }
 }
