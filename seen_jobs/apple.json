@@ -4,18 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200649654-3543": {
-      "first_seen": 1775163183.861533,
-      "posted": "",
-      "title": "iOS Engineer, Creator Studio",
-      "job_id": "200649654-3543"
-    },
-    "200649654-3337": {
-      "first_seen": 1775163183.861533,
-      "posted": "",
-      "title": "iOS Engineer, Creator Studio",
-      "job_id": "200649654-3337"
-    },
     "200649654-3673": {
       "first_seen": 1775163183.861533,
       "posted": "",
@@ -19931,6 +19919,20 @@
       "title": "Sr. Software Development Engineer, ASE Storage",
       "job_id": "200679102-3337",
       "url": "https://jobs.apple.com/en-us/details/200679102-3337/sr-software-development-engineer-ase-storage?team=SFTWR"
+    },
+    "200678157-3956": {
+      "first_seen": 1787247699.7761457,
+      "posted": "2026-08-20",
+      "title": "Software Engineer (Java Middleware), eBusiness",
+      "job_id": "200678157-3956",
+      "url": "https://jobs.apple.com/en-us/details/200678157-3956/software-engineer-java-middleware-ebusiness?team=SFTWR"
+    },
+    "200678154-3956": {
+      "first_seen": 1787247699.776152,
+      "posted": "2026-08-20",
+      "title": "Software Engineer (Java Middleware), eBusiness",
+      "job_id": "200678154-3956",
+      "url": "https://jobs.apple.com/en-us/details/200678154-3956/software-engineer-java-middleware-ebusiness?team=SFTWR"
     }
   }
 }
