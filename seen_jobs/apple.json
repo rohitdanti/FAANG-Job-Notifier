@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200647918-0836": {
-      "first_seen": 1775163183.8615339,
-      "posted": "",
-      "title": "Data Scientist, AIML Data Scientist",
-      "job_id": "200647918-0836"
-    },
     "200647918-3337": {
       "first_seen": 1775163183.8615339,
       "posted": "",
@@ -19938,6 +19932,13 @@
       "title": "Quality Engineer, Test and Automation",
       "job_id": "200679164-0836",
       "url": "https://jobs.apple.com/en-us/details/200679164-0836/quality-engineer-test-and-automation?team=SFTWR"
+    },
+    "200678677-0157": {
+      "first_seen": 1787260285.1778016,
+      "posted": "2026-08-20",
+      "title": "Manager, Engineering Program Management \u2014 Customer Systems",
+      "job_id": "200678677-0157",
+      "url": "https://jobs.apple.com/en-us/details/200678677-0157/manager-engineering-program-management-customer-systems?team=SFTWR"
     }
   }
 }
