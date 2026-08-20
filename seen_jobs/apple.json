@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200634624-0157": {
-      "first_seen": 1775163183.8615339,
-      "posted": "",
-      "title": "Engineering Program Manager, Enterprise Technology Services",
-      "job_id": "200634624-0157"
-    },
     "200647918-0836": {
       "first_seen": 1775163183.8615339,
       "posted": "",
@@ -19937,6 +19931,13 @@
       "title": "Darwin Runtime Engineer, Core OS",
       "job_id": "200662330-0836",
       "url": "https://jobs.apple.com/en-us/details/200662330-0836/darwin-runtime-engineer-core-os?team=SFTWR"
+    },
+    "200679164-0836": {
+      "first_seen": 1787258487.864125,
+      "posted": "2026-08-20",
+      "title": "Quality Engineer, Test and Automation",
+      "job_id": "200679164-0836",
+      "url": "https://jobs.apple.com/en-us/details/200679164-0836/quality-engineer-test-and-automation?team=SFTWR"
     }
   }
 }
