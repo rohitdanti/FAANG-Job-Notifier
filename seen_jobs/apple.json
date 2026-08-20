@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200637004-6709": {
-      "first_seen": 1775163183.86153,
-      "posted": "",
-      "title": "Critical Facilities Technician, Data Center Operations",
-      "job_id": "200637004-6709"
-    },
     "200650755-2459": {
       "first_seen": 1775163183.86153,
       "posted": "",
@@ -19916,6 +19910,13 @@
       "title": "Product Manager (eDiscovery Tools), G&A Solutions Engineering (GSE)",
       "job_id": "200675556-3956",
       "url": "https://jobs.apple.com/en-us/details/200675556-3956/product-manager-ediscovery-tools-g-a-solutions-engineering-gse?team=SFTWR"
+    },
+    "200678224-3956": {
+      "first_seen": 1787186495.4543266,
+      "posted": "2026-08-20",
+      "title": "Software Engineer (Cloud Security), AI & Data Platforms (AiDP)",
+      "job_id": "200678224-3956",
+      "url": "https://jobs.apple.com/en-us/details/200678224-3956/software-engineer-cloud-security-ai-data-platforms-aidp?team=SFTWR"
     }
   }
 }
