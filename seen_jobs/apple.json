@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200649132-3337": {
-      "first_seen": 1775163183.861535,
-      "posted": "",
-      "title": "Senior Analyst, Capacity Planning, AIML Data Operations",
-      "job_id": "200649132-3337"
-    },
     "200646283-0670": {
       "first_seen": 1775163183.861535,
       "posted": "",
@@ -19941,6 +19935,13 @@
       "title": "Wireless Tools & Automation Engineer",
       "job_id": "200679261-0836",
       "url": "https://jobs.apple.com/en-us/details/200679261-0836/wireless-tools-automation-engineer?team=SFTWR"
+    },
+    "200679096-3543": {
+      "first_seen": 1787268093.7494085,
+      "posted": "2026-08-20",
+      "title": "Software Engineer in Test - System Experience, T3E",
+      "job_id": "200679096-3543",
+      "url": "https://jobs.apple.com/en-us/details/200679096-3543/software-engineer-in-test-system-experience-t3e?team=SFTWR"
     }
   }
 }
