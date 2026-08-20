@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200649654-0836": {
-      "first_seen": 1775163183.861533,
-      "posted": "",
-      "title": "iOS Engineer, Creator Studio",
-      "job_id": "200649654-0836"
-    },
     "200649654-3543": {
       "first_seen": 1775163183.861533,
       "posted": "",
@@ -19930,6 +19924,13 @@
       "title": "Engineering Program Manager, Sensing & Connectivity",
       "job_id": "200679081-0836",
       "url": "https://jobs.apple.com/en-us/details/200679081-0836/engineering-program-manager-sensing-connectivity?team=SFTWR"
+    },
+    "200679102-3337": {
+      "first_seen": 1787244696.3059897,
+      "posted": "2026-08-20",
+      "title": "Sr. Software Development Engineer, ASE Storage",
+      "job_id": "200679102-3337",
+      "url": "https://jobs.apple.com/en-us/details/200679102-3337/sr-software-development-engineer-ase-storage?team=SFTWR"
     }
   }
 }
