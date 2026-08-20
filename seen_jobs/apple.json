@@ -4,24 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200650335-3956": {
-      "first_seen": 1775163183.861532,
-      "posted": "",
-      "title": "Software Engineer (Edge Services), Infrastructure Services",
-      "job_id": "200650335-3956"
-    },
-    "200646881-0836": {
-      "first_seen": 1775163183.861533,
-      "posted": "",
-      "title": "Sr. Production Engineer - Distributed Systems",
-      "job_id": "200646881-0836"
-    },
-    "200649654-1435": {
-      "first_seen": 1775163183.861533,
-      "posted": "",
-      "title": "iOS Engineer, Creator Studio",
-      "job_id": "200649654-1435"
-    },
     "200649654-0836": {
       "first_seen": 1775163183.861533,
       "posted": "",
@@ -19927,6 +19909,27 @@
       "title": "iOS Software Engineer - Creative Apps",
       "job_id": "200678192-3673",
       "url": "https://jobs.apple.com/en-us/details/200678192-3673/ios-software-engineer-creative-apps?team=SFTWR"
+    },
+    "200679085-0836": {
+      "first_seen": 1787244095.6126792,
+      "posted": "2026-08-20",
+      "title": "Engineering Program Manager, CoreOS",
+      "job_id": "200679085-0836",
+      "url": "https://jobs.apple.com/en-us/details/200679085-0836/engineering-program-manager-coreos?team=SFTWR"
+    },
+    "200679084-0836": {
+      "first_seen": 1787244095.6126835,
+      "posted": "2026-08-20",
+      "title": "Engineering Program Manager - SWE Systems",
+      "job_id": "200679084-0836",
+      "url": "https://jobs.apple.com/en-us/details/200679084-0836/engineering-program-manager-swe-systems?team=SFTWR"
+    },
+    "200679081-0836": {
+      "first_seen": 1787244095.6126852,
+      "posted": "2026-08-20",
+      "title": "Engineering Program Manager, Sensing & Connectivity",
+      "job_id": "200679081-0836",
+      "url": "https://jobs.apple.com/en-us/details/200679081-0836/engineering-program-manager-sensing-connectivity?team=SFTWR"
     }
   }
 }
