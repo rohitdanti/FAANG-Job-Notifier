@@ -4,66 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200650755-2459": {
-      "first_seen": 1775163183.86153,
-      "posted": "",
-      "title": "Senior Machine Learning Engineer \u2013 Ads Predictions",
-      "job_id": "200650755-2459"
-    },
-    "200648361-0836": {
-      "first_seen": 1775163183.8615308,
-      "posted": "",
-      "title": "Sr. Data Science Leader \u2013 iCloud",
-      "job_id": "200648361-0836"
-    },
-    "200633433-0836": {
-      "first_seen": 1775163183.8615308,
-      "posted": "",
-      "title": "Engineering Manager, Data Protection - FoundationDB",
-      "job_id": "200633433-0836"
-    },
-    "200649810-3337": {
-      "first_seen": 1775163183.8615308,
-      "posted": "",
-      "title": "Evaluation & Insights Engineer",
-      "job_id": "200649810-3337"
-    },
-    "200642040-3956": {
-      "first_seen": 1775163183.8615308,
-      "posted": "",
-      "title": "GenAI Solutions Architect, Customer Systems",
-      "job_id": "200642040-3956"
-    },
-    "200642028-3956": {
-      "first_seen": 1775163183.861532,
-      "posted": "",
-      "title": "GenAI Engineering Project Manager, Customer Systems",
-      "job_id": "200642028-3956"
-    },
-    "200650649-0157": {
-      "first_seen": 1775163183.861532,
-      "posted": "",
-      "title": "Native Software Engineer - Maps Developer Platform",
-      "job_id": "200650649-0157"
-    },
-    "200650652-0836": {
-      "first_seen": 1775163183.861532,
-      "posted": "",
-      "title": "SDK Software Engineer, Maps Developer Platform",
-      "job_id": "200650652-0836"
-    },
-    "200649121-3401": {
-      "first_seen": 1775163183.861532,
-      "posted": "",
-      "title": "Software Development Engineer (SAP Data Archiving Analyst), IS&T Enterprise Systems",
-      "job_id": "200649121-3401"
-    },
-    "200650379-0836": {
-      "first_seen": 1775163183.861532,
-      "posted": "",
-      "title": "Automation QE Manager - (Client & Backend)",
-      "job_id": "200650379-0836"
-    },
     "200650335-3956": {
       "first_seen": 1775163183.861532,
       "posted": "",
@@ -19917,6 +19857,76 @@
       "title": "Software Engineer (Cloud Security), AI & Data Platforms (AiDP)",
       "job_id": "200678224-3956",
       "url": "https://jobs.apple.com/en-us/details/200678224-3956/software-engineer-cloud-security-ai-data-platforms-aidp?team=SFTWR"
+    },
+    "200678194-1435": {
+      "first_seen": 1787230892.820506,
+      "posted": "2026-08-20",
+      "title": "Sr iOS Software Engineer - Creative Apps",
+      "job_id": "200678194-1435",
+      "url": "https://jobs.apple.com/en-us/details/200678194-1435/sr-ios-software-engineer-creative-apps?team=SFTWR"
+    },
+    "200678194-0836": {
+      "first_seen": 1787230892.8205109,
+      "posted": "2026-08-20",
+      "title": "Sr iOS Software Engineer - Creative Apps",
+      "job_id": "200678194-0836",
+      "url": "https://jobs.apple.com/en-us/details/200678194-0836/sr-ios-software-engineer-creative-apps?team=SFTWR"
+    },
+    "200678194-3543": {
+      "first_seen": 1787230892.820513,
+      "posted": "2026-08-20",
+      "title": "Sr iOS Software Engineer - Creative Apps",
+      "job_id": "200678194-3543",
+      "url": "https://jobs.apple.com/en-us/details/200678194-3543/sr-ios-software-engineer-creative-apps?team=SFTWR"
+    },
+    "200678194-3337": {
+      "first_seen": 1787230892.820514,
+      "posted": "2026-08-20",
+      "title": "Sr iOS Software Engineer - Creative Apps",
+      "job_id": "200678194-3337",
+      "url": "https://jobs.apple.com/en-us/details/200678194-3337/sr-ios-software-engineer-creative-apps?team=SFTWR"
+    },
+    "200678194-3673": {
+      "first_seen": 1787230892.8205156,
+      "posted": "2026-08-20",
+      "title": "Sr iOS Software Engineer - Creative Apps",
+      "job_id": "200678194-3673",
+      "url": "https://jobs.apple.com/en-us/details/200678194-3673/sr-ios-software-engineer-creative-apps?team=SFTWR"
+    },
+    "200678192-1435": {
+      "first_seen": 1787230892.8205168,
+      "posted": "2026-08-20",
+      "title": "iOS Software Engineer - Creative Apps",
+      "job_id": "200678192-1435",
+      "url": "https://jobs.apple.com/en-us/details/200678192-1435/ios-software-engineer-creative-apps?team=SFTWR"
+    },
+    "200678192-0836": {
+      "first_seen": 1787230892.8205178,
+      "posted": "2026-08-20",
+      "title": "iOS Software Engineer - Creative Apps",
+      "job_id": "200678192-0836",
+      "url": "https://jobs.apple.com/en-us/details/200678192-0836/ios-software-engineer-creative-apps?team=SFTWR"
+    },
+    "200678192-3543": {
+      "first_seen": 1787230892.8205187,
+      "posted": "2026-08-20",
+      "title": "iOS Software Engineer - Creative Apps",
+      "job_id": "200678192-3543",
+      "url": "https://jobs.apple.com/en-us/details/200678192-3543/ios-software-engineer-creative-apps?team=SFTWR"
+    },
+    "200678192-3337": {
+      "first_seen": 1787230892.8205197,
+      "posted": "2026-08-20",
+      "title": "iOS Software Engineer - Creative Apps",
+      "job_id": "200678192-3337",
+      "url": "https://jobs.apple.com/en-us/details/200678192-3337/ios-software-engineer-creative-apps?team=SFTWR"
+    },
+    "200678192-3673": {
+      "first_seen": 1787230892.8205206,
+      "posted": "2026-08-20",
+      "title": "iOS Software Engineer - Creative Apps",
+      "job_id": "200678192-3673",
+      "url": "https://jobs.apple.com/en-us/details/200678192-3673/ios-software-engineer-creative-apps?team=SFTWR"
     }
   }
 }
