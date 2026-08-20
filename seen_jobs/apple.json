@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200650735-3337": {
-      "first_seen": 1775163183.86153,
-      "posted": "",
-      "title": "AIML - Senior Software Engineer, Siri & Information Intelligence",
-      "job_id": "200650735-3337"
-    },
     "200637004-6709": {
       "first_seen": 1775163183.86153,
       "posted": "",
@@ -19915,6 +19909,13 @@
       "title": "Sr. Software Engineer (Data Solutions), IS&T Ai & Data Platforms",
       "job_id": "200677559-3956",
       "url": "https://jobs.apple.com/en-us/details/200677559-3956/sr-software-engineer-data-solutions-is-t-ai-data-platforms?team=SFTWR"
+    },
+    "200675556-3956": {
+      "first_seen": 1787185890.4569652,
+      "posted": "2026-08-20",
+      "title": "Product Manager (eDiscovery Tools), G&A Solutions Engineering (GSE)",
+      "job_id": "200675556-3956",
+      "url": "https://jobs.apple.com/en-us/details/200675556-3956/product-manager-ediscovery-tools-g-a-solutions-engineering-gse?team=SFTWR"
     }
   }
 }
