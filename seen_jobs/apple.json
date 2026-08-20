@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200647918-3337": {
-      "first_seen": 1775163183.8615339,
-      "posted": "",
-      "title": "Data Scientist, AIML Data Scientist",
-      "job_id": "200647918-3337"
-    },
     "200649132-0836": {
       "first_seen": 1775163183.861535,
       "posted": "",
@@ -19939,6 +19933,13 @@
       "title": "Manager, Engineering Program Management \u2014 Customer Systems",
       "job_id": "200678677-0157",
       "url": "https://jobs.apple.com/en-us/details/200678677-0157/manager-engineering-program-management-customer-systems?team=SFTWR"
+    },
+    "200679313-3543": {
+      "first_seen": 1787262109.972089,
+      "posted": "2026-08-20",
+      "title": "Senior Data Analyst - OS Stability",
+      "job_id": "200679313-3543",
+      "url": "https://jobs.apple.com/en-us/details/200679313-3543/senior-data-analyst-os-stability?team=SFTWR"
     }
   }
 }
