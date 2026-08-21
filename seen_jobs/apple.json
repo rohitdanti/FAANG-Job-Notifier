@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200649565-3337": {
-      "first_seen": 1775163183.861537,
-      "posted": "",
-      "title": "Senior Software Engineer - Global Subscriptions and Pricing Infrastructure",
-      "job_id": "200649565-3337"
-    },
     "200628247-0836": {
       "first_seen": 1775163183.861537,
       "posted": "",
@@ -19952,6 +19946,13 @@
       "title": "Software Engineer, Apple Services Engineering - Commerce",
       "job_id": "200673875-0836",
       "url": "https://jobs.apple.com/en-us/details/200673875-0836/software-engineer-apple-services-engineering-commerce?team=SFTWR"
+    },
+    "200673082-0836": {
+      "first_seen": 1787340090.2267067,
+      "posted": "2026-08-21",
+      "title": "Software Engineer, Apple Services Engineering - Commerce",
+      "job_id": "200673082-0836",
+      "url": "https://jobs.apple.com/en-us/details/200673082-0836/software-engineer-apple-services-engineering-commerce?team=SFTWR"
     }
   }
 }
