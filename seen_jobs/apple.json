@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200649715-0836": {
-      "first_seen": 1775163183.861536,
-      "posted": "",
-      "title": "Engineering Program Manager, Siri and Apple Intelligence Evaluation",
-      "job_id": "200649715-0836"
-    },
     "200649826-3956": {
       "first_seen": 1775163183.861536,
       "posted": "",
@@ -19947,6 +19941,13 @@
       "title": "Senior Data Scientist, Experimentation & Causal Inference",
       "job_id": "200666489-0836",
       "url": "https://jobs.apple.com/en-us/details/200666489-0836/senior-data-scientist-experimentation-causal-inference?team=SFTWR"
+    },
+    "200679077-0157": {
+      "first_seen": 1787332911.7144551,
+      "posted": "2026-08-21",
+      "title": "Program Manager, BPR: Supply Chain",
+      "job_id": "200679077-0157",
+      "url": "https://jobs.apple.com/en-us/details/200679077-0157/program-manager-bpr-supply-chain?team=SFTWR"
     }
   }
 }
