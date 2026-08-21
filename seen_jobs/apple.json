@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200649949-0836": {
-      "first_seen": 1775163183.861536,
-      "posted": "",
-      "title": "Software Developer in Test - Server, Find My",
-      "job_id": "200649949-0836"
-    },
     "200649565-3337": {
       "first_seen": 1775163183.861537,
       "posted": "",
@@ -19951,6 +19945,13 @@
       "title": "Software Development Engineer in Test \u2013 Apps, Identity Management Services",
       "job_id": "200678429-3956",
       "url": "https://jobs.apple.com/en-us/details/200678429-3956/software-development-engineer-in-test-apps-identity-management-services?team=SFTWR"
+    },
+    "200673875-0836": {
+      "first_seen": 1787338898.1762583,
+      "posted": "2026-08-21",
+      "title": "Software Engineer, Apple Services Engineering - Commerce",
+      "job_id": "200673875-0836",
+      "url": "https://jobs.apple.com/en-us/details/200673875-0836/software-engineer-apple-services-engineering-commerce?team=SFTWR"
     }
   }
 }
