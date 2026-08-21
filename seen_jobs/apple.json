@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200649826-3956": {
-      "first_seen": 1775163183.861536,
-      "posted": "",
-      "title": "Software Engineering Program Manager - Apple Vision Pro, Hardware/Software Systems",
-      "job_id": "200649826-3956"
-    },
     "200650167-3577": {
       "first_seen": 1775163183.861536,
       "posted": "",
@@ -19948,6 +19942,13 @@
       "title": "Program Manager, BPR: Supply Chain",
       "job_id": "200679077-0157",
       "url": "https://jobs.apple.com/en-us/details/200679077-0157/program-manager-bpr-supply-chain?team=SFTWR"
+    },
+    "200606538-0836": {
+      "first_seen": 1787334695.439576,
+      "posted": "2026-08-21",
+      "title": "Software Screening & Integration Engineer, Generative AI Experiences Software - Special Projects",
+      "job_id": "200606538-0836",
+      "url": "https://jobs.apple.com/en-us/details/200606538-0836/software-screening-integration-engineer-generative-ai-experiences-software-special-projects?team=SFTWR"
     }
   }
 }
