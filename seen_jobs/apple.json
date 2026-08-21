@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200647412-3337": {
-      "first_seen": 1775163183.861537,
-      "posted": "",
-      "title": "Software Engineering Manager, Apple Services Engineering",
-      "job_id": "200647412-3337"
-    },
     "200649663-0836": {
       "first_seen": 1775163183.861537,
       "posted": "",
@@ -19954,6 +19948,13 @@
       "title": "Software Engineer",
       "job_id": "200678449-3337",
       "url": "https://jobs.apple.com/en-us/details/200678449-3337/software-engineer?team=SFTWR"
+    },
+    "200676105-3337": {
+      "first_seen": 1787350898.7137403,
+      "posted": "2026-08-21",
+      "title": "Machine Learning Engineer - On-Device Control and Optimization",
+      "job_id": "200676105-3337",
+      "url": "https://jobs.apple.com/en-us/details/200676105-3337/machine-learning-engineer-on-device-control-and-optimization?team=SFTWR"
     }
   }
 }
