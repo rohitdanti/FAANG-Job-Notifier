@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200650167-3337": {
-      "first_seen": 1775163183.861536,
-      "posted": "",
-      "title": "Platform Engineer - ASE Enterprise",
-      "job_id": "200650167-3337"
-    },
     "200649949-0836": {
       "first_seen": 1775163183.861536,
       "posted": "",
@@ -19950,6 +19944,13 @@
       "title": "Network Reliability Engineer, Infrastructure Services",
       "job_id": "200674800-3401",
       "url": "https://jobs.apple.com/en-us/details/200674800-3401/network-reliability-engineer-infrastructure-services?team=SFTWR"
+    },
+    "200678429-3956": {
+      "first_seen": 1787337088.985063,
+      "posted": "2026-08-21",
+      "title": "Software Development Engineer in Test \u2013 Apps, Identity Management Services",
+      "job_id": "200678429-3956",
+      "url": "https://jobs.apple.com/en-us/details/200678429-3956/software-development-engineer-in-test-apps-identity-management-services?team=SFTWR"
     }
   }
 }
