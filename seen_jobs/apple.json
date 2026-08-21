@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200628247-0836": {
-      "first_seen": 1775163183.861537,
-      "posted": "",
-      "title": "Software Engineer - Activity & Fitness, Watch Software",
-      "job_id": "200628247-0836"
-    },
     "200647412-3337": {
       "first_seen": 1775163183.861537,
       "posted": "",
@@ -19953,6 +19947,13 @@
       "title": "Software Engineer, Apple Services Engineering - Commerce",
       "job_id": "200673082-0836",
       "url": "https://jobs.apple.com/en-us/details/200673082-0836/software-engineer-apple-services-engineering-commerce?team=SFTWR"
+    },
+    "200678449-3337": {
+      "first_seen": 1787350299.088961,
+      "posted": "2026-08-21",
+      "title": "Software Engineer",
+      "job_id": "200678449-3337",
+      "url": "https://jobs.apple.com/en-us/details/200678449-3337/software-engineer?team=SFTWR"
     }
   }
 }
