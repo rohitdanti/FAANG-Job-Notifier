@@ -4,36 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200648699-3956": {
-      "first_seen": 1775163183.86154,
-      "posted": "",
-      "title": "iOS Frameworks Engineer - HealthKit",
-      "job_id": "200648699-3956"
-    },
-    "200648344-0836": {
-      "first_seen": 1775163183.86154,
-      "posted": "",
-      "title": "Market Intelligence Lead, Health",
-      "job_id": "200648344-0836"
-    },
-    "200625639-0836": {
-      "first_seen": 1775163183.86154,
-      "posted": "",
-      "title": "Director, AIML Data Operations",
-      "job_id": "200625639-0836"
-    },
-    "200645744-0157": {
-      "first_seen": 1775163183.86154,
-      "posted": "",
-      "title": "Software Engineer (Front End), Retail and Marcom Engineering",
-      "job_id": "200645744-0157"
-    },
-    "200649211-0836": {
-      "first_seen": 1775163183.86154,
-      "posted": "",
-      "title": "Senior Software Engineer - FoundationDB",
-      "job_id": "200649211-0836"
-    },
     "200649702-0836": {
       "first_seen": 1775163183.861541,
       "posted": "",
@@ -19969,6 +19939,41 @@
       "title": "Sr. Engineering Program Manager, Cloud Infrastructure, Apple Services Engineering",
       "job_id": "200679035-0836",
       "url": "https://jobs.apple.com/en-us/details/200679035-0836/sr-engineering-program-manager-cloud-infrastructure-apple-services-engineering?team=SFTWR"
+    },
+    "200662789-0670": {
+      "first_seen": 1787601697.045986,
+      "posted": "2026-08-24",
+      "title": "iOS Analytics Software Engineer - Video Applications",
+      "job_id": "200662789-0670",
+      "url": "https://jobs.apple.com/en-us/details/200662789-0670/ios-analytics-software-engineer-video-applications?team=SFTWR"
+    },
+    "200676398-3760": {
+      "first_seen": 1787601697.04599,
+      "posted": "2026-08-24",
+      "title": "Staff/Senior Machine Learning Engineer, Search & Knowledge Platforms",
+      "job_id": "200676398-3760",
+      "url": "https://jobs.apple.com/en-us/details/200676398-3760/staff-senior-machine-learning-engineer-search-knowledge-platforms?team=SFTWR"
+    },
+    "200676398-3337": {
+      "first_seen": 1787601697.045992,
+      "posted": "2026-08-24",
+      "title": "Staff/Senior Machine Learning Engineer, Search & Knowledge Platforms",
+      "job_id": "200676398-3337",
+      "url": "https://jobs.apple.com/en-us/details/200676398-3337/staff-senior-machine-learning-engineer-search-knowledge-platforms?team=SFTWR"
+    },
+    "200679490-3337": {
+      "first_seen": 1787601697.0459936,
+      "posted": "2026-08-24",
+      "title": "Senior Software Engineer",
+      "job_id": "200679490-3337",
+      "url": "https://jobs.apple.com/en-us/details/200679490-3337/senior-software-engineer?team=SFTWR"
+    },
+    "200679717-3543": {
+      "first_seen": 1787601697.0459955,
+      "posted": "2026-08-24",
+      "title": "System Software Engineer - Debug Technologies",
+      "job_id": "200679717-3543",
+      "url": "https://jobs.apple.com/en-us/details/200679717-3543/system-software-engineer-debug-technologies?team=SFTWR"
     }
   }
 }
