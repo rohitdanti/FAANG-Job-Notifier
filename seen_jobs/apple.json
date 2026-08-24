@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200649945-0836": {
-      "first_seen": 1775163183.861538,
-      "posted": "",
-      "title": "Engineering Manager - Basemap Rendering and Graphics Team",
-      "job_id": "200649945-0836"
-    },
     "200649930-3401": {
       "first_seen": 1775163183.861538,
       "posted": "",
@@ -19959,6 +19953,13 @@
       "title": "Sr Manager - Infrastructure, SRE, & AI Platforms - Services Special Projects",
       "job_id": "200679586-0836",
       "url": "https://jobs.apple.com/en-us/details/200679586-0836/sr-manager-infrastructure-sre-ai-platforms-services-special-projects?team=SFTWR"
+    },
+    "200650500-3543": {
+      "first_seen": 1787590290.1595428,
+      "posted": "2026-08-24",
+      "title": "Manager - Customer Feedback EPMs",
+      "job_id": "200650500-3543",
+      "url": "https://jobs.apple.com/en-us/details/200650500-3543/manager-customer-feedback-epms?team=SFTWR"
     }
   }
 }
