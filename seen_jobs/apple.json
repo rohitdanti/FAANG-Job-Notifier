@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200649686-3337": {
-      "first_seen": 1775163183.861541,
-      "posted": "",
-      "title": "Staff Data Science Engineer, Siri Runtime Systems and Interaction",
-      "job_id": "200649686-3337"
-    },
     "200649475-3543": {
       "first_seen": 1775163183.861541,
       "posted": "",
@@ -19976,6 +19970,13 @@
       "title": "iOS Analytics Software Engineer - Video Applications",
       "job_id": "200662789-3673",
       "url": "https://jobs.apple.com/en-us/details/200662789-3673/ios-analytics-software-engineer-video-applications?team=SFTWR"
+    },
+    "200674932-0157": {
+      "first_seen": 1787604693.7684114,
+      "posted": "2026-08-24",
+      "title": "System Integration Lead",
+      "job_id": "200674932-0157",
+      "url": "https://jobs.apple.com/en-us/details/200674932-0157/system-integration-lead?team=SFTWR"
     }
   }
 }
