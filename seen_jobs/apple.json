@@ -4,18 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200649702-0836": {
-      "first_seen": 1775163183.861541,
-      "posted": "",
-      "title": "Software Engineer - OS Services, Core OS",
-      "job_id": "200649702-0836"
-    },
-    "200649686-0836": {
-      "first_seen": 1775163183.861541,
-      "posted": "",
-      "title": "Staff Data Science Engineer, Siri Runtime Systems and Interaction",
-      "job_id": "200649686-0836"
-    },
     "200649686-3337": {
       "first_seen": 1775163183.861541,
       "posted": "",
@@ -19974,6 +19962,20 @@
       "title": "System Software Engineer - Debug Technologies",
       "job_id": "200679717-3543",
       "url": "https://jobs.apple.com/en-us/details/200679717-3543/system-software-engineer-debug-technologies?team=SFTWR"
+    },
+    "200679733-3956": {
+      "first_seen": 1787602284.6612394,
+      "posted": "2026-08-24",
+      "title": "Engineering Program Manager, AppleCare",
+      "job_id": "200679733-3956",
+      "url": "https://jobs.apple.com/en-us/details/200679733-3956/engineering-program-manager-applecare?team=SFTWR"
+    },
+    "200662789-3673": {
+      "first_seen": 1787602284.6612465,
+      "posted": "2026-08-24",
+      "title": "iOS Analytics Software Engineer - Video Applications",
+      "job_id": "200662789-3673",
+      "url": "https://jobs.apple.com/en-us/details/200662789-3673/ios-analytics-software-engineer-video-applications?team=SFTWR"
     }
   }
 }
