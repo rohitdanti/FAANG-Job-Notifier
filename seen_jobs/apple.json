@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200633323-3337": {
-      "first_seen": 1775163183.861542,
-      "posted": "",
-      "title": "Sr. Engineering Program Manager, ML Compute Infrastructure, Apple Services Engineering",
-      "job_id": "200633323-3337"
-    },
     "200649648-0836": {
       "first_seen": 1775163183.861542,
       "posted": "",
@@ -19979,6 +19973,13 @@
       "title": "Engineering Program Manager, Media Remote, Apple Services Engineering",
       "job_id": "200679021-0836",
       "url": "https://jobs.apple.com/en-us/details/200679021-0836/engineering-program-manager-media-remote-apple-services-engineering?team=SFTWR"
+    },
+    "200679761-0157": {
+      "first_seen": 1787612529.5516937,
+      "posted": "2026-08-24",
+      "title": "Data Analyst",
+      "job_id": "200679761-0157",
+      "url": "https://jobs.apple.com/en-us/details/200679761-0157/data-analyst?team=SFTWR"
     }
   }
 }
