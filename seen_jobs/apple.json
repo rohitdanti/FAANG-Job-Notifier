@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200633323-0836": {
-      "first_seen": 1775163183.861542,
-      "posted": "",
-      "title": "Sr. Engineering Program Manager, ML Compute Infrastructure, Apple Services Engineering",
-      "job_id": "200633323-0836"
-    },
     "200633323-3337": {
       "first_seen": 1775163183.861542,
       "posted": "",
@@ -19978,6 +19972,13 @@
       "title": "Software Engineer - Fitness+, Watch Software",
       "job_id": "200679447-0836",
       "url": "https://jobs.apple.com/en-us/details/200679447-0836/software-engineer-fitness-watch-software?team=SFTWR"
+    },
+    "200679021-0836": {
+      "first_seen": 1787610091.006882,
+      "posted": "2026-08-24",
+      "title": "Engineering Program Manager, Media Remote, Apple Services Engineering",
+      "job_id": "200679021-0836",
+      "url": "https://jobs.apple.com/en-us/details/200679021-0836/engineering-program-manager-media-remote-apple-services-engineering?team=SFTWR"
     }
   }
 }
