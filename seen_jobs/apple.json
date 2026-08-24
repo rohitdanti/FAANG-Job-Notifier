@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200633436-0836": {
-      "first_seen": 1775163183.8615391,
-      "posted": "",
-      "title": "Senior Software Engineer, Apple Services Engineering",
-      "job_id": "200633436-0836"
-    },
     "200648699-3543": {
       "first_seen": 1775163183.86154,
       "posted": "",
@@ -19967,6 +19961,13 @@
       "title": "Machine Learning Engineer",
       "job_id": "200679658-0836",
       "url": "https://jobs.apple.com/en-us/details/200679658-0836/machine-learning-engineer?team=SFTWR"
+    },
+    "200679376-0836": {
+      "first_seen": 1787596887.007632,
+      "posted": "2026-08-24",
+      "title": "ML Framework (MetalLM) Engineer",
+      "job_id": "200679376-0836",
+      "url": "https://jobs.apple.com/en-us/details/200679376-0836/ml-framework-metallm-engineer?team=SFTWR"
     }
   }
 }
