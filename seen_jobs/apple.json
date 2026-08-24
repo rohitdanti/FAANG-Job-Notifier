@@ -4,18 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200649807-3577": {
-      "first_seen": 1775163183.8615391,
-      "posted": "",
-      "title": "Sr. Machine Learning Infrastructure Engineer, Evaluation",
-      "job_id": "200649807-3577"
-    },
-    "200649815-0836": {
-      "first_seen": 1775163183.8615391,
-      "posted": "",
-      "title": "Manager, Swift Platform Experience \u2013 UIKit",
-      "job_id": "200649815-0836"
-    },
     "200649780-0836": {
       "first_seen": 1775163183.8615391,
       "posted": "",
@@ -19964,6 +19952,20 @@
       "title": "Software Engineer - Applied Intelligence",
       "job_id": "200679666-3337",
       "url": "https://jobs.apple.com/en-us/details/200679666-3337/software-engineer-applied-intelligence?team=SFTWR"
+    },
+    "200679493-2926": {
+      "first_seen": 1787595702.3150802,
+      "posted": "2026-08-24",
+      "title": "Numbers Software Engineer, Visual Productivity",
+      "job_id": "200679493-2926",
+      "url": "https://jobs.apple.com/en-us/details/200679493-2926/numbers-software-engineer-visual-productivity?team=SFTWR"
+    },
+    "200679086-3543": {
+      "first_seen": 1787595702.3150845,
+      "posted": "2026-08-24",
+      "title": "Machine Learning Engineer, Software QA - Creativity Apps",
+      "job_id": "200679086-3543",
+      "url": "https://jobs.apple.com/en-us/details/200679086-3543/machine-learning-engineer-software-qa-creativity-apps?team=SFTWR"
     }
   }
 }
