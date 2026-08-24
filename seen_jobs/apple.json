@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200649648-0836": {
-      "first_seen": 1775163183.861542,
-      "posted": "",
-      "title": "Camera Framework Tooling Engineer - Photo Capture",
-      "job_id": "200649648-0836"
-    },
     "200635097-3337": {
       "first_seen": 1775163183.861542,
       "posted": "",
@@ -19980,6 +19974,13 @@
       "title": "Data Analyst",
       "job_id": "200679761-0157",
       "url": "https://jobs.apple.com/en-us/details/200679761-0157/data-analyst?team=SFTWR"
+    },
+    "200679763-0836": {
+      "first_seen": 1787613686.0486221,
+      "posted": "2026-08-24",
+      "title": "GPU Kernel & Firmware Engineer - Graphics, Games, & ML",
+      "job_id": "200679763-0836",
+      "url": "https://jobs.apple.com/en-us/details/200679763-0836/gpu-kernel-firmware-engineer-graphics-games-ml?team=SFTWR"
     }
   }
 }
