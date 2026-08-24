@@ -4,18 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200637724-0836": {
-      "first_seen": 1775163183.861538,
-      "posted": "",
-      "title": "Software QA Engineer, Creativity Apps",
-      "job_id": "200637724-0836"
-    },
-    "200649857-0836": {
-      "first_seen": 1775163183.861538,
-      "posted": "",
-      "title": "Senior Applied Scientist, UI Control Models",
-      "job_id": "200649857-0836"
-    },
     "200649807-3577": {
       "first_seen": 1775163183.8615391,
       "posted": "",
@@ -19962,6 +19950,20 @@
       "title": "Sr Software Engineer - Applied Intelligence",
       "job_id": "200679663-3337",
       "url": "https://jobs.apple.com/en-us/details/200679663-3337/sr-software-engineer-applied-intelligence?team=SFTWR"
+    },
+    "200679666-3760": {
+      "first_seen": 1787592699.0984108,
+      "posted": "2026-08-24",
+      "title": "Software Engineer - Applied Intelligence",
+      "job_id": "200679666-3760",
+      "url": "https://jobs.apple.com/en-us/details/200679666-3760/software-engineer-applied-intelligence?team=SFTWR"
+    },
+    "200679666-3337": {
+      "first_seen": 1787592699.0984151,
+      "posted": "2026-08-24",
+      "title": "Software Engineer - Applied Intelligence",
+      "job_id": "200679666-3337",
+      "url": "https://jobs.apple.com/en-us/details/200679666-3337/software-engineer-applied-intelligence?team=SFTWR"
     }
   }
 }
