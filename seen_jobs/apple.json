@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200649780-0836": {
-      "first_seen": 1775163183.8615391,
-      "posted": "",
-      "title": "System Software Performance Engineer, Home Platform, CoreOS",
-      "job_id": "200649780-0836"
-    },
     "200633436-0836": {
       "first_seen": 1775163183.8615391,
       "posted": "",
@@ -19966,6 +19960,13 @@
       "title": "Machine Learning Engineer, Software QA - Creativity Apps",
       "job_id": "200679086-3543",
       "url": "https://jobs.apple.com/en-us/details/200679086-3543/machine-learning-engineer-software-qa-creativity-apps?team=SFTWR"
+    },
+    "200679658-0836": {
+      "first_seen": 1787596289.0165603,
+      "posted": "2026-08-24",
+      "title": "Machine Learning Engineer",
+      "job_id": "200679658-0836",
+      "url": "https://jobs.apple.com/en-us/details/200679658-0836/machine-learning-engineer?team=SFTWR"
     }
   }
 }
