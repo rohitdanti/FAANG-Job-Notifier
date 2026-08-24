@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200649475-3543": {
-      "first_seen": 1775163183.861541,
-      "posted": "",
-      "title": "Senior Data Analyst - OS Stability",
-      "job_id": "200649475-3543"
-    },
     "200633323-0836": {
       "first_seen": 1775163183.861542,
       "posted": "",
@@ -19977,6 +19971,13 @@
       "title": "System Integration Lead",
       "job_id": "200674932-0157",
       "url": "https://jobs.apple.com/en-us/details/200674932-0157/system-integration-lead?team=SFTWR"
+    },
+    "200679447-0836": {
+      "first_seen": 1787608295.3622174,
+      "posted": "2026-08-24",
+      "title": "Software Engineer - Fitness+, Watch Software",
+      "job_id": "200679447-0836",
+      "url": "https://jobs.apple.com/en-us/details/200679447-0836/software-engineer-fitness-watch-software?team=SFTWR"
     }
   }
 }
