@@ -4,24 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200649663-0836": {
-      "first_seen": 1775163183.861537,
-      "posted": "",
-      "title": "Staff Machine Learning Engineer : Platform Intelligence - Apple Maps",
-      "job_id": "200649663-0836"
-    },
-    "200641736-3337": {
-      "first_seen": 1775163183.861537,
-      "posted": "",
-      "title": "Senior Manager of Meta Evaluation & Quality Assurance",
-      "job_id": "200641736-3337"
-    },
-    "200617751-3956": {
-      "first_seen": 1775163183.861537,
-      "posted": "",
-      "title": "Software Development Engineer, Siri Runtime Systems and Interaction",
-      "job_id": "200617751-3956"
-    },
     "200635823-0836": {
       "first_seen": 1775163183.861538,
       "posted": "",
@@ -19955,6 +19937,27 @@
       "title": "Machine Learning Engineer - On-Device Control and Optimization",
       "job_id": "200676105-3337",
       "url": "https://jobs.apple.com/en-us/details/200676105-3337/machine-learning-engineer-on-device-control-and-optimization?team=SFTWR"
+    },
+    "200678571-3337": {
+      "first_seen": 1787576498.7225258,
+      "posted": "2026-08-24",
+      "title": "Software Development Engineer, Compute Platform",
+      "job_id": "200678571-3337",
+      "url": "https://jobs.apple.com/en-us/details/200678571-3337/software-development-engineer-compute-platform?team=SFTWR"
+    },
+    "200679482-0836": {
+      "first_seen": 1787576498.7225304,
+      "posted": "2026-08-24",
+      "title": "UX Designer - Xcode & AI Developer Tools",
+      "job_id": "200679482-0836",
+      "url": "https://jobs.apple.com/en-us/details/200679482-0836/ux-designer-xcode-ai-developer-tools?team=SFTWR"
+    },
+    "200679352-0836": {
+      "first_seen": 1787576498.722532,
+      "posted": "2026-08-24",
+      "title": "Software Engineer, Accessibility",
+      "job_id": "200679352-0836",
+      "url": "https://jobs.apple.com/en-us/details/200679352-0836/software-engineer-accessibility?team=SFTWR"
     }
   }
 }
