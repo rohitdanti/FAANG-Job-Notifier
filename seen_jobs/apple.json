@@ -4,18 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200649930-3401": {
-      "first_seen": 1775163183.861538,
-      "posted": "",
-      "title": "Sr AR/VR UI Software Engineer - FaceTime, Vision Products Software",
-      "job_id": "200649930-3401"
-    },
-    "200637724-0157": {
-      "first_seen": 1775163183.861538,
-      "posted": "",
-      "title": "Software QA Engineer, Creativity Apps",
-      "job_id": "200637724-0157"
-    },
     "200637724-0836": {
       "first_seen": 1775163183.861538,
       "posted": "",
@@ -19960,6 +19948,20 @@
       "title": "Manager - Customer Feedback EPMs",
       "job_id": "200650500-3543",
       "url": "https://jobs.apple.com/en-us/details/200650500-3543/manager-customer-feedback-epms?team=SFTWR"
+    },
+    "200679663-3760": {
+      "first_seen": 1787591505.436916,
+      "posted": "2026-08-24",
+      "title": "Sr Software Engineer - Applied Intelligence",
+      "job_id": "200679663-3760",
+      "url": "https://jobs.apple.com/en-us/details/200679663-3760/sr-software-engineer-applied-intelligence?team=SFTWR"
+    },
+    "200679663-3337": {
+      "first_seen": 1787591505.436921,
+      "posted": "2026-08-24",
+      "title": "Sr Software Engineer - Applied Intelligence",
+      "job_id": "200679663-3337",
+      "url": "https://jobs.apple.com/en-us/details/200679663-3337/sr-software-engineer-applied-intelligence?team=SFTWR"
     }
   }
 }
