@@ -4,42 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200645843-3760": {
-      "first_seen": 1775163183.861544,
-      "posted": "",
-      "title": "AIML - Engineering Program Manager, Search Quality and Infrastructure, Apple Services Engineering",
-      "job_id": "200645843-3760"
-    },
-    "200624064-0836": {
-      "first_seen": 1775163183.8615448,
-      "posted": "",
-      "title": "Software Engineer, Watch Software",
-      "job_id": "200624064-0836"
-    },
-    "200649452-0836": {
-      "first_seen": 1775163183.8615448,
-      "posted": "",
-      "title": "Frameworks Performance Engineer",
-      "job_id": "200649452-0836"
-    },
-    "200649398-3543": {
-      "first_seen": 1775163183.8615448,
-      "posted": "",
-      "title": "Sr. iOS Software Engineer- iCloud",
-      "job_id": "200649398-3543"
-    },
-    "200648043-0836": {
-      "first_seen": 1775163183.8615491,
-      "posted": "",
-      "title": "Senior Product Manager - AI/ML Platform",
-      "job_id": "200648043-0836"
-    },
-    "200648284-0836": {
-      "first_seen": 1775163183.8615491,
-      "posted": "",
-      "title": "Machine Learning Director, Apple Services Engineering Search",
-      "job_id": "200648284-0836"
-    },
     "200648838-0670": {
       "first_seen": 1775163183.8615491,
       "posted": "",
@@ -19995,6 +19959,48 @@
       "title": "Product Manager, Employee Experience & Productivity",
       "job_id": "200677380-3956",
       "url": "https://jobs.apple.com/en-us/details/200677380-3956/product-manager-employee-experience-productivity?team=SFTWR"
+    },
+    "200679688-0157": {
+      "first_seen": 1787691724.6271253,
+      "posted": "2026-08-25",
+      "title": "iOS Engineer: Cloud Media and Collaboration",
+      "job_id": "200679688-0157",
+      "url": "https://jobs.apple.com/en-us/details/200679688-0157/ios-engineer-cloud-media-and-collaboration?team=SFTWR"
+    },
+    "200679688-1435": {
+      "first_seen": 1787691724.6271293,
+      "posted": "2026-08-25",
+      "title": "iOS Engineer: Cloud Media and Collaboration",
+      "job_id": "200679688-1435",
+      "url": "https://jobs.apple.com/en-us/details/200679688-1435/ios-engineer-cloud-media-and-collaboration?team=SFTWR"
+    },
+    "200679688-0836": {
+      "first_seen": 1787691724.6271312,
+      "posted": "2026-08-25",
+      "title": "iOS Engineer: Cloud Media and Collaboration",
+      "job_id": "200679688-0836",
+      "url": "https://jobs.apple.com/en-us/details/200679688-0836/ios-engineer-cloud-media-and-collaboration?team=SFTWR"
+    },
+    "200679688-2926": {
+      "first_seen": 1787691724.6271322,
+      "posted": "2026-08-25",
+      "title": "iOS Engineer: Cloud Media and Collaboration",
+      "job_id": "200679688-2926",
+      "url": "https://jobs.apple.com/en-us/details/200679688-2926/ios-engineer-cloud-media-and-collaboration?team=SFTWR"
+    },
+    "200679688-3543": {
+      "first_seen": 1787691724.6271336,
+      "posted": "2026-08-25",
+      "title": "iOS Engineer: Cloud Media and Collaboration",
+      "job_id": "200679688-3543",
+      "url": "https://jobs.apple.com/en-us/details/200679688-3543/ios-engineer-cloud-media-and-collaboration?team=SFTWR"
+    },
+    "200679734-0836": {
+      "first_seen": 1787691724.627135,
+      "posted": "2026-08-25",
+      "title": "Software Development Engineer in Test, Creative Apps",
+      "job_id": "200679734-0836",
+      "url": "https://jobs.apple.com/en-us/details/200679734-0836/software-development-engineer-in-test-creative-apps?team=SFTWR"
     }
   }
 }
