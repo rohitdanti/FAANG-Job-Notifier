@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200649428-0836": {
-      "first_seen": 1775163183.861543,
-      "posted": "",
-      "title": "iOS Engineer, Creator Studio",
-      "job_id": "200649428-0836"
-    },
     "200649428-3543": {
       "first_seen": 1775163183.861543,
       "posted": "",
@@ -19986,6 +19980,13 @@
       "title": "Senior Software Engineer - Photos Intelligence",
       "job_id": "200679370-3543",
       "url": "https://jobs.apple.com/en-us/details/200679370-3543/senior-software-engineer-photos-intelligence?team=SFTWR"
+    },
+    "200679922-5819": {
+      "first_seen": 1787680919.6540835,
+      "posted": "2026-08-25",
+      "title": "DRM Software Engineer",
+      "job_id": "200679922-5819",
+      "url": "https://jobs.apple.com/en-us/details/200679922-5819/drm-software-engineer?team=SFTWR"
     }
   }
 }
