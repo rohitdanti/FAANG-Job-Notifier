@@ -4,24 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200649428-3543": {
-      "first_seen": 1775163183.861543,
-      "posted": "",
-      "title": "iOS Engineer, Creator Studio",
-      "job_id": "200649428-3543"
-    },
-    "200649428-3337": {
-      "first_seen": 1775163183.861543,
-      "posted": "",
-      "title": "iOS Engineer, Creator Studio",
-      "job_id": "200649428-3337"
-    },
-    "200649428-3673": {
-      "first_seen": 1775163183.861544,
-      "posted": "",
-      "title": "iOS Engineer, Creator Studio",
-      "job_id": "200649428-3673"
-    },
     "200649482-3337": {
       "first_seen": 1775163183.861544,
       "posted": "",
@@ -19987,6 +19969,27 @@
       "title": "DRM Software Engineer",
       "job_id": "200679922-5819",
       "url": "https://jobs.apple.com/en-us/details/200679922-5819/drm-software-engineer?team=SFTWR"
+    },
+    "200679812-0836": {
+      "first_seen": 1787681515.1843054,
+      "posted": "2026-08-25",
+      "title": "Darwin Runtime Engineer, Core OS",
+      "job_id": "200679812-0836",
+      "url": "https://jobs.apple.com/en-us/details/200679812-0836/darwin-runtime-engineer-core-os?team=SFTWR"
+    },
+    "200678859-0836": {
+      "first_seen": 1787681515.1843097,
+      "posted": "2026-08-25",
+      "title": "Secure IPC Manager- Core OS",
+      "job_id": "200678859-0836",
+      "url": "https://jobs.apple.com/en-us/details/200678859-0836/secure-ipc-manager-core-os?team=SFTWR"
+    },
+    "200644077-0836": {
+      "first_seen": 1787681515.184313,
+      "posted": "2026-08-25",
+      "title": "Engineering Program Manager, SWE tvOS",
+      "job_id": "200644077-0836",
+      "url": "https://jobs.apple.com/en-us/details/200644077-0836/engineering-program-manager-swe-tvos?team=SFTWR"
     }
   }
 }
