@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200649481-0836": {
-      "first_seen": 1775163183.861543,
-      "posted": "",
-      "title": "Machine Learning Systems Engineer, Siri Runtime Systems and Interaction",
-      "job_id": "200649481-0836"
-    },
     "200649428-1435": {
       "first_seen": 1775163183.861543,
       "posted": "",
@@ -19984,6 +19978,13 @@
       "title": "User Experience - Quality Engineering Manager",
       "job_id": "200653562-0836",
       "url": "https://jobs.apple.com/en-us/details/200653562-0836/user-experience-quality-engineering-manager?team=SFTWR"
+    },
+    "200679765-3401": {
+      "first_seen": 1787619697.80653,
+      "posted": "2026-08-25",
+      "title": "Software Engineer, Infrastructure Services (Cloud Network Fault Tolerance)",
+      "job_id": "200679765-3401",
+      "url": "https://jobs.apple.com/en-us/details/200679765-3401/software-engineer-infrastructure-services-cloud-network-fault-tolerance?team=SFTWR"
     }
   }
 }
