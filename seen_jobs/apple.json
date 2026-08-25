@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200635460-2605": {
-      "first_seen": 1775163183.861544,
-      "posted": "",
-      "title": "Software Development Engineer, Vision Products Software",
-      "job_id": "200635460-2605"
-    },
     "200624066-0836": {
       "first_seen": 1775163183.861544,
       "posted": "",
@@ -19992,6 +19986,13 @@
       "title": "AppleCare Technologies BPR Manager \u2014 Enterprise & Channel Sales Portfolio",
       "job_id": "200679764-3956",
       "url": "https://jobs.apple.com/en-us/details/200679764-3956/applecare-technologies-bpr-manager-enterprise-channel-sales-portfolio?team=SFTWR"
+    },
+    "200679719-0836": {
+      "first_seen": 1787685686.7985365,
+      "posted": "2026-08-25",
+      "title": "Software Test Engineer, Sensing & Connectivity",
+      "job_id": "200679719-0836",
+      "url": "https://jobs.apple.com/en-us/details/200679719-0836/software-test-engineer-sensing-connectivity?team=SFTWR"
     }
   }
 }
