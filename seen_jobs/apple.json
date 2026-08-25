@@ -4,18 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200649482-3337": {
-      "first_seen": 1775163183.861544,
-      "posted": "",
-      "title": "Research Scientist, AI Evaluation Science",
-      "job_id": "200649482-3337"
-    },
-    "200635460-3401": {
-      "first_seen": 1775163183.861544,
-      "posted": "",
-      "title": "Software Development Engineer, Vision Products Software",
-      "job_id": "200635460-3401"
-    },
     "200635460-2605": {
       "first_seen": 1775163183.861544,
       "posted": "",
@@ -19990,6 +19978,20 @@
       "title": "Engineering Program Manager, SWE tvOS",
       "job_id": "200644077-0836",
       "url": "https://jobs.apple.com/en-us/details/200644077-0836/engineering-program-manager-swe-tvos?team=SFTWR"
+    },
+    "200679764-0157": {
+      "first_seen": 1787685098.6203728,
+      "posted": "2026-08-25",
+      "title": "AppleCare Technologies BPR Manager \u2014 Enterprise & Channel Sales Portfolio",
+      "job_id": "200679764-0157",
+      "url": "https://jobs.apple.com/en-us/details/200679764-0157/applecare-technologies-bpr-manager-enterprise-channel-sales-portfolio?team=SFTWR"
+    },
+    "200679764-3956": {
+      "first_seen": 1787685098.620377,
+      "posted": "2026-08-25",
+      "title": "AppleCare Technologies BPR Manager \u2014 Enterprise & Channel Sales Portfolio",
+      "job_id": "200679764-3956",
+      "url": "https://jobs.apple.com/en-us/details/200679764-3956/applecare-technologies-bpr-manager-enterprise-channel-sales-portfolio?team=SFTWR"
     }
   }
 }
