@@ -4,18 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200644812-0670": {
-      "first_seen": 1775163183.861542,
-      "posted": "",
-      "title": "Engineering Program Manager - MusicApps",
-      "job_id": "200644812-0670"
-    },
-    "200644812-0836": {
-      "first_seen": 1775163183.861543,
-      "posted": "",
-      "title": "Engineering Program Manager - MusicApps",
-      "job_id": "200644812-0836"
-    },
     "200649481-0836": {
       "first_seen": 1775163183.861543,
       "posted": "",
@@ -19982,6 +19970,20 @@
       "title": "Senior Software Engineer, SWE Program Tools",
       "job_id": "200651141-0836",
       "url": "https://jobs.apple.com/en-us/details/200651141-0836/senior-software-engineer-swe-program-tools?team=SFTWR"
+    },
+    "200679790-0836": {
+      "first_seen": 1787619097.3426797,
+      "posted": "2026-08-25",
+      "title": "Senior Software Engineer - UI Rendering",
+      "job_id": "200679790-0836",
+      "url": "https://jobs.apple.com/en-us/details/200679790-0836/senior-software-engineer-ui-rendering?team=SFTWR"
+    },
+    "200653562-0836": {
+      "first_seen": 1787619097.3426855,
+      "posted": "2026-08-25",
+      "title": "User Experience - Quality Engineering Manager",
+      "job_id": "200653562-0836",
+      "url": "https://jobs.apple.com/en-us/details/200653562-0836/user-experience-quality-engineering-manager?team=SFTWR"
     }
   }
 }
