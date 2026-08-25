@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200649428-1435": {
-      "first_seen": 1775163183.861543,
-      "posted": "",
-      "title": "iOS Engineer, Creator Studio",
-      "job_id": "200649428-1435"
-    },
     "200649428-0836": {
       "first_seen": 1775163183.861543,
       "posted": "",
@@ -19985,6 +19979,13 @@
       "title": "Software Engineer, Infrastructure Services (Cloud Network Fault Tolerance)",
       "job_id": "200679765-3401",
       "url": "https://jobs.apple.com/en-us/details/200679765-3401/software-engineer-infrastructure-services-cloud-network-fault-tolerance?team=SFTWR"
+    },
+    "200679370-3543": {
+      "first_seen": 1787674288.3364112,
+      "posted": "2026-08-25",
+      "title": "Senior Software Engineer - Photos Intelligence",
+      "job_id": "200679370-3543",
+      "url": "https://jobs.apple.com/en-us/details/200679370-3543/senior-software-engineer-photos-intelligence?team=SFTWR"
     }
   }
 }
