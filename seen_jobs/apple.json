@@ -4,24 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200648450-0836": {
-      "first_seen": 1775163183.86155,
-      "posted": "",
-      "title": "HID Firmware Engineer",
-      "job_id": "200648450-0836"
-    },
-    "200623518-0836": {
-      "first_seen": 1775163183.861551,
-      "posted": "",
-      "title": "HomeKit Software Engineering Manager, Wireless Technologies & Ecosystems",
-      "job_id": "200623518-0836"
-    },
-    "200648955-0836": {
-      "first_seen": 1775163183.861551,
-      "posted": "",
-      "title": "Senior Robotics Simulation Software Engineer - Special Projects",
-      "job_id": "200648955-0836"
-    },
     "200649153-3577": {
       "first_seen": 1775163183.861551,
       "posted": "",
@@ -20010,6 +19992,27 @@
       "title": "Senior Engineering Program Manager, ASE Central Quality \u2013 Private Cloud Compute",
       "job_id": "200678002-0836",
       "url": "https://jobs.apple.com/en-us/details/200678002-0836/senior-engineering-program-manager-ase-central-quality-private-cloud-compute?team=SFTWR"
+    },
+    "200679993-0836": {
+      "first_seen": 1787767303.7272398,
+      "posted": "2026-08-26",
+      "title": "Apple Pay Financial Product Strategy Lead",
+      "job_id": "200679993-0836",
+      "url": "https://jobs.apple.com/en-us/details/200679993-0836/apple-pay-financial-product-strategy-lead?team=SFTWR"
+    },
+    "200679993-5819": {
+      "first_seen": 1787767303.7272441,
+      "posted": "2026-08-26",
+      "title": "Apple Pay Financial Product Strategy Lead",
+      "job_id": "200679993-5819",
+      "url": "https://jobs.apple.com/en-us/details/200679993-5819/apple-pay-financial-product-strategy-lead?team=SFTWR"
+    },
+    "200679993-2459": {
+      "first_seen": 1787767303.7272458,
+      "posted": "2026-08-26",
+      "title": "Apple Pay Financial Product Strategy Lead",
+      "job_id": "200679993-2459",
+      "url": "https://jobs.apple.com/en-us/details/200679993-2459/apple-pay-financial-product-strategy-lead?team=SFTWR"
     }
   }
 }
