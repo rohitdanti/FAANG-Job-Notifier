@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200647221-0157": {
-      "first_seen": 1775163183.861553,
-      "posted": "",
-      "title": "Software Engineer (Salesforce), G&A Solutions Engineering (GSE)",
-      "job_id": "200647221-0157"
-    },
     "200648828-2459": {
       "first_seen": 1775163183.861554,
       "posted": "",
@@ -20025,6 +20019,13 @@
       "title": "Systems Engineer",
       "job_id": "200680183-0836",
       "url": "https://jobs.apple.com/en-us/details/200680183-0836/systems-engineer?team=SFTWR"
+    },
+    "200680217-0836": {
+      "first_seen": 1787786495.511128,
+      "posted": "2026-08-26",
+      "title": "Software Development Engineer, System Analytics & Intelligence (SAIL)",
+      "job_id": "200680217-0836",
+      "url": "https://jobs.apple.com/en-us/details/200680217-0836/software-development-engineer-system-analytics-intelligence-sail?team=SFTWR"
     }
   }
 }
