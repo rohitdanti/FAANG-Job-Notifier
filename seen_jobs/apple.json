@@ -4,18 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200648828-2459": {
-      "first_seen": 1775163183.861554,
-      "posted": "",
-      "title": "Human Interface Design Producer, Commerce & Subscription",
-      "job_id": "200648828-2459"
-    },
-    "200629651-0836": {
-      "first_seen": 1775163183.861554,
-      "posted": "",
-      "title": "Software Quality Automation Engineer - Phone, FaceTime and Contacts",
-      "job_id": "200629651-0836"
-    },
     "200647749-0836": {
       "first_seen": 1775163183.861554,
       "posted": "",
@@ -20026,6 +20014,20 @@
       "title": "Software Development Engineer, System Analytics & Intelligence (SAIL)",
       "job_id": "200680217-0836",
       "url": "https://jobs.apple.com/en-us/details/200680217-0836/software-development-engineer-system-analytics-intelligence-sail?team=SFTWR"
+    },
+    "200680147-3337": {
+      "first_seen": 1787787685.3407598,
+      "posted": "2026-08-26",
+      "title": "Software Engineering Manager \u2014 ASE Media Processing Infrastructure",
+      "job_id": "200680147-3337",
+      "url": "https://jobs.apple.com/en-us/details/200680147-3337/software-engineering-manager-ase-media-processing-infrastructure?team=SFTWR"
+    },
+    "200679481-0240": {
+      "first_seen": 1787787685.340767,
+      "posted": "2026-08-26",
+      "title": "Software Engineer (Full Stack), G&A Solutions Engineering",
+      "job_id": "200679481-0240",
+      "url": "https://jobs.apple.com/en-us/details/200679481-0240/software-engineer-full-stack-g-a-solutions-engineering?team=SFTWR"
     }
   }
 }
