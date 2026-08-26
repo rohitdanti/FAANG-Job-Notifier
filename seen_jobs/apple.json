@@ -4,18 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200649153-3577": {
-      "first_seen": 1775163183.861551,
-      "posted": "",
-      "title": "Senior iCloud Solutions Engineer, Apple Services Engineering",
-      "job_id": "200649153-3577"
-    },
-    "200648308-3956": {
-      "first_seen": 1775163183.861551,
-      "posted": "",
-      "title": "Software Development Engineer - Security, Enterprise Technology Services",
-      "job_id": "200648308-3956"
-    },
     "200648586-0157": {
       "first_seen": 1775163183.861551,
       "posted": "",
@@ -20013,6 +20001,20 @@
       "title": "Apple Pay Financial Product Strategy Lead",
       "job_id": "200679993-2459",
       "url": "https://jobs.apple.com/en-us/details/200679993-2459/apple-pay-financial-product-strategy-lead?team=SFTWR"
+    },
+    "200680185-0836": {
+      "first_seen": 1787771497.2368326,
+      "posted": "2026-08-26",
+      "title": "Staff Software Engineer, Apple Services Engineering, iCloud Platform",
+      "job_id": "200680185-0836",
+      "url": "https://jobs.apple.com/en-us/details/200680185-0836/staff-software-engineer-apple-services-engineering-icloud-platform?team=SFTWR"
+    },
+    "200680185-3337": {
+      "first_seen": 1787771497.236839,
+      "posted": "2026-08-26",
+      "title": "Staff Software Engineer, Apple Services Engineering, iCloud Platform",
+      "job_id": "200680185-3337",
+      "url": "https://jobs.apple.com/en-us/details/200680185-3337/staff-software-engineer-apple-services-engineering-icloud-platform?team=SFTWR"
     }
   }
 }
