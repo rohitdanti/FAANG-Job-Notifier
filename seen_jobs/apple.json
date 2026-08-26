@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200648985-0836": {
-      "first_seen": 1775163183.861553,
-      "posted": "",
-      "title": "Tools & Automation Quality Engineer - Maps Display and Rendering",
-      "job_id": "200648985-0836"
-    },
     "200648947-3401": {
       "first_seen": 1775163183.861553,
       "posted": "",
@@ -20023,6 +20017,13 @@
       "title": "Software Engineering Program Manager - watchOS",
       "job_id": "200651526-0836",
       "url": "https://jobs.apple.com/en-us/details/200651526-0836/software-engineering-program-manager-watchos?team=SFTWR"
+    },
+    "200660588-3401": {
+      "first_seen": 1787784094.3984983,
+      "posted": "2026-08-26",
+      "title": "Firmware & Sensors Engineer, Home and Audio Devices",
+      "job_id": "200660588-3401",
+      "url": "https://jobs.apple.com/en-us/details/200660588-3401/firmware-sensors-engineer-home-and-audio-devices?team=SFTWR"
     }
   }
 }
