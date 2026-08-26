@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200648961-0836": {
-      "first_seen": 1775163183.861553,
-      "posted": "",
-      "title": "Software Engineering Manager, Triage Services and Infrastructure",
-      "job_id": "200648961-0836"
-    },
     "200648855-0836": {
       "first_seen": 1775163183.861553,
       "posted": "",
@@ -20020,6 +20014,13 @@
       "title": "DevOps Engineer, Retail and Marcom Engineering",
       "job_id": "200678770-0157",
       "url": "https://jobs.apple.com/en-us/details/200678770-0157/devops-engineer-retail-and-marcom-engineering?team=SFTWR"
+    },
+    "200674021-3337": {
+      "first_seen": 1787781089.014622,
+      "posted": "2026-08-26",
+      "title": "Sr Software Engineer, Observability",
+      "job_id": "200674021-3337",
+      "url": "https://jobs.apple.com/en-us/details/200674021-3337/sr-software-engineer-observability?team=SFTWR"
     }
   }
 }
