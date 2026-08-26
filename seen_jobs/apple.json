@@ -4,24 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200649208-2459": {
-      "first_seen": 1775163183.86155,
-      "posted": "",
-      "title": "Senior iOS Software Engineer",
-      "job_id": "200649208-2459"
-    },
-    "200649208-3543": {
-      "first_seen": 1775163183.86155,
-      "posted": "",
-      "title": "Senior iOS Software Engineer",
-      "job_id": "200649208-3543"
-    },
-    "200649025-0836": {
-      "first_seen": 1775163183.86155,
-      "posted": "",
-      "title": "Sr Project Manager, Creativity Apps Product",
-      "job_id": "200649025-0836"
-    },
     "200645641-0836": {
       "first_seen": 1775163183.86155,
       "posted": "",
@@ -20005,6 +19987,27 @@
       "title": "Security Platform Automation Engineer",
       "job_id": "200679878-3337",
       "url": "https://jobs.apple.com/en-us/details/200679878-3337/security-platform-automation-engineer?team=SFTWR"
+    },
+    "200678974-0157": {
+      "first_seen": 1787749294.5713747,
+      "posted": "2026-08-26",
+      "title": "AIML Data Operations - L&D Program Manager",
+      "job_id": "200678974-0157",
+      "url": "https://jobs.apple.com/en-us/details/200678974-0157/aiml-data-operations-l-d-program-manager?team=SFTWR"
+    },
+    "200680025-3401": {
+      "first_seen": 1787749294.5713794,
+      "posted": "2026-08-26",
+      "title": "Wireless Bluetooth Tools & Triage Software Engineer",
+      "job_id": "200680025-3401",
+      "url": "https://jobs.apple.com/en-us/details/200680025-3401/wireless-bluetooth-tools-triage-software-engineer?team=SFTWR"
+    },
+    "200679881-3337": {
+      "first_seen": 1787749294.5713818,
+      "posted": "2026-08-26",
+      "title": "Senior Software Engineer - Security",
+      "job_id": "200679881-3337",
+      "url": "https://jobs.apple.com/en-us/details/200679881-3337/senior-software-engineer-security?team=SFTWR"
     }
   }
 }
