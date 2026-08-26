@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200649176-0157": {
-      "first_seen": 1775163183.8615491,
-      "posted": "",
-      "title": "Demand Insights Manager \u2013 Apple Ads (Search Demand)",
-      "job_id": "200649176-0157"
-    },
     "200649208-0836": {
       "first_seen": 1775163183.8615491,
       "posted": "",
@@ -20003,6 +19997,13 @@
       "title": "Software Quality Engineer, Sensing & Connectivity",
       "job_id": "200679705-3543",
       "url": "https://jobs.apple.com/en-us/details/200679705-3543/software-quality-engineer-sensing-connectivity?team=SFTWR"
+    },
+    "200679542-0836": {
+      "first_seen": 1787710304.3175154,
+      "posted": "2026-08-26",
+      "title": "Director of Business Management, Marketplace Platforms",
+      "job_id": "200679542-0836",
+      "url": "https://jobs.apple.com/en-us/details/200679542-0836/director-of-business-management-marketplace-platforms?team=SFTWR"
     }
   }
 }
