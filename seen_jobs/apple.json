@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200645641-0836": {
-      "first_seen": 1775163183.86155,
-      "posted": "",
-      "title": "Apps Accessibility Software Engineer",
-      "job_id": "200645641-0836"
-    },
     "200631447-3956": {
       "first_seen": 1775163183.86155,
       "posted": "",
@@ -20008,6 +20002,13 @@
       "title": "Senior Software Engineer - Security",
       "job_id": "200679881-3337",
       "url": "https://jobs.apple.com/en-us/details/200679881-3337/senior-software-engineer-security?team=SFTWR"
+    },
+    "200680022-1435": {
+      "first_seen": 1787760693.841421,
+      "posted": "2026-08-26",
+      "title": "Senior Backend Software Engineer, Apple Pay",
+      "job_id": "200680022-1435",
+      "url": "https://jobs.apple.com/en-us/details/200680022-1435/senior-backend-software-engineer-apple-pay?team=SFTWR"
     }
   }
 }
