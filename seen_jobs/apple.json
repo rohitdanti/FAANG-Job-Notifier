@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200648855-0836": {
-      "first_seen": 1775163183.861553,
-      "posted": "",
-      "title": "Staff Generative AI Research Engineer, Multimodal, Agent Modeling - SIML",
-      "job_id": "200648855-0836"
-    },
     "200648459-3956": {
       "first_seen": 1775163183.861553,
       "posted": "",
@@ -20021,6 +20015,13 @@
       "title": "Sr Software Engineer, Observability",
       "job_id": "200674021-3337",
       "url": "https://jobs.apple.com/en-us/details/200674021-3337/sr-software-engineer-observability?team=SFTWR"
+    },
+    "200675137-0836": {
+      "first_seen": 1787781701.8194265,
+      "posted": "2026-08-26",
+      "title": "Engingeering Project Manager, UI Frameworks",
+      "job_id": "200675137-0836",
+      "url": "https://jobs.apple.com/en-us/details/200675137-0836/engingeering-project-manager-ui-frameworks?team=SFTWR"
     }
   }
 }
