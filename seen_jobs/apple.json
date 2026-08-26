@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200591915-3337": {
-      "first_seen": 1775163183.8615522,
-      "posted": "",
-      "title": "Machine Learning Architect , LLM & Generative AI",
-      "job_id": "200591915-3337"
-    },
     "200634856-0836": {
       "first_seen": 1775163183.8615522,
       "posted": "",
@@ -20016,6 +20010,13 @@
       "title": "Senior Security Software Engineer, Software Supply Chain Security",
       "job_id": "200679771-3337",
       "url": "https://jobs.apple.com/en-us/details/200679771-3337/senior-security-software-engineer-software-supply-chain-security?team=SFTWR"
+    },
+    "200680222-5819": {
+      "first_seen": 1787778101.6483016,
+      "posted": "2026-08-26",
+      "title": "Engineering Program Manager, Ad Platforms",
+      "job_id": "200680222-5819",
+      "url": "https://jobs.apple.com/en-us/details/200680222-5819/engineering-program-manager-ad-platforms?team=SFTWR"
     }
   }
 }
