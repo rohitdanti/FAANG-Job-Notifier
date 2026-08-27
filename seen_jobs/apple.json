@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200648781-0836": {
-      "first_seen": 1775163183.861556,
-      "posted": "",
-      "title": "Cartography and Display Tools Engineer",
-      "job_id": "200648781-0836"
-    },
     "200648765-3543": {
       "first_seen": 1775163183.861556,
       "posted": "",
@@ -20041,6 +20035,13 @@
       "title": "Software Development Engineer in Test, Creativity Apps",
       "job_id": "200680177-3543",
       "url": "https://jobs.apple.com/en-us/details/200680177-3543/software-development-engineer-in-test-creativity-apps?team=SFTWR"
+    },
+    "200680193-0836": {
+      "first_seen": 1787860291.7589452,
+      "posted": "2026-08-27",
+      "title": "Release Engineer, Internet Technologies",
+      "job_id": "200680193-0836",
+      "url": "https://jobs.apple.com/en-us/details/200680193-0836/release-engineer-internet-technologies?team=SFTWR"
     }
   }
 }
