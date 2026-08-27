@@ -4,30 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200647585-3956": {
-      "first_seen": 1775163183.861554,
-      "posted": "",
-      "title": "Sr Software Engineer (Full Stack), Supply Chain Integration",
-      "job_id": "200647585-3956"
-    },
-    "200648238-3956": {
-      "first_seen": 1775163183.8615549,
-      "posted": "",
-      "title": "Administrative Assistant, Retail and Marcom Engineering",
-      "job_id": "200648238-3956"
-    },
-    "200648814-0836": {
-      "first_seen": 1775163183.8615549,
-      "posted": "",
-      "title": "Engineering Program Manager, Siri Attention and Invocation",
-      "job_id": "200648814-0836"
-    },
-    "200648915-0157": {
-      "first_seen": 1775163183.8615549,
-      "posted": "",
-      "title": "SDET MapKit Engineer (Android)",
-      "job_id": "200648915-0157"
-    },
     "200648807-0836": {
       "first_seen": 1775163183.8615549,
       "posted": "",
@@ -20031,6 +20007,34 @@
       "title": "Program Manager, Quality Data & Testing Lead, BPR: Supply Chain",
       "job_id": "200680036-3956",
       "url": "https://jobs.apple.com/en-us/details/200680036-3956/program-manager-quality-data-testing-lead-bpr-supply-chain?team=SFTWR"
+    },
+    "200680232-0157": {
+      "first_seen": 1787839311.1150167,
+      "posted": "2026-08-27",
+      "title": "Software Engineer, Apple Ads",
+      "job_id": "200680232-0157",
+      "url": "https://jobs.apple.com/en-us/details/200680232-0157/software-engineer-apple-ads?team=SFTWR"
+    },
+    "200680232-0836": {
+      "first_seen": 1787839311.1150224,
+      "posted": "2026-08-27",
+      "title": "Software Engineer, Apple Ads",
+      "job_id": "200680232-0836",
+      "url": "https://jobs.apple.com/en-us/details/200680232-0836/software-engineer-apple-ads?team=SFTWR"
+    },
+    "200680227-0157": {
+      "first_seen": 1787839311.115024,
+      "posted": "2026-08-27",
+      "title": "Senior Software Engineer, Apple Ads",
+      "job_id": "200680227-0157",
+      "url": "https://jobs.apple.com/en-us/details/200680227-0157/senior-software-engineer-apple-ads?team=SFTWR"
+    },
+    "200680227-0836": {
+      "first_seen": 1787839311.1150258,
+      "posted": "2026-08-27",
+      "title": "Senior Software Engineer, Apple Ads",
+      "job_id": "200680227-0836",
+      "url": "https://jobs.apple.com/en-us/details/200680227-0836/senior-software-engineer-apple-ads?team=SFTWR"
     }
   }
 }
