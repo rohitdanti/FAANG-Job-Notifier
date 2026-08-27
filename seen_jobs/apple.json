@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200648817-0836": {
-      "first_seen": 1775163183.8615549,
-      "posted": "",
-      "title": "Software Development Engineer in Test (SDET), Video Apps",
-      "job_id": "200648817-0836"
-    },
     "200648817-3543": {
       "first_seen": 1775163183.861556,
       "posted": "",
@@ -20037,6 +20031,13 @@
       "title": "Senior Network Software Engineer, Infrastructure Services",
       "job_id": "200674809-3401",
       "url": "https://jobs.apple.com/en-us/details/200674809-3401/senior-network-software-engineer-infrastructure-services?team=SFTWR"
+    },
+    "200680256-0836": {
+      "first_seen": 1787851315.2447188,
+      "posted": "2026-08-27",
+      "title": "AIML - Sr Machine Learning Engineering Manager, Evaluation",
+      "job_id": "200680256-0836",
+      "url": "https://jobs.apple.com/en-us/details/200680256-0836/aiml-sr-machine-learning-engineering-manager-evaluation?team=SFTWR"
     }
   }
 }
