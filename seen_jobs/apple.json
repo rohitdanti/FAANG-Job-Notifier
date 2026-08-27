@@ -4,42 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200648765-3543": {
-      "first_seen": 1775163183.861556,
-      "posted": "",
-      "title": "Senior Software Engineer - Transparency - iCloud",
-      "job_id": "200648765-3543"
-    },
-    "200644326-3337": {
-      "first_seen": 1775163183.861557,
-      "posted": "",
-      "title": "Principal Security Software Engineer",
-      "job_id": "200644326-3337"
-    },
-    "200648687-0836": {
-      "first_seen": 1775163183.861557,
-      "posted": "",
-      "title": "SDET Engineer - Maps Core Framework QE",
-      "job_id": "200648687-0836"
-    },
-    "200629654-0836": {
-      "first_seen": 1775163183.861557,
-      "posted": "",
-      "title": "Generative AI Research Engineer, Multimodal, Agent Modeling - SIML",
-      "job_id": "200629654-0836"
-    },
-    "200628549-0836": {
-      "first_seen": 1775163183.861557,
-      "posted": "",
-      "title": "Machine Learning Research Engineer, SIML - ISE",
-      "job_id": "200628549-0836"
-    },
-    "200630294-3337": {
-      "first_seen": 1775163183.861557,
-      "posted": "",
-      "title": "Senior Machine Learning Systems Infrastructure Engineer - SIML, ISE",
-      "job_id": "200630294-3337"
-    },
     "200632699-0836": {
       "first_seen": 1775163183.861558,
       "posted": "",
@@ -20042,6 +20006,48 @@
       "title": "Release Engineer, Internet Technologies",
       "job_id": "200680193-0836",
       "url": "https://jobs.apple.com/en-us/details/200680193-0836/release-engineer-internet-technologies?team=SFTWR"
+    },
+    "200680492-3337": {
+      "first_seen": 1787861492.3633704,
+      "posted": "2026-08-27",
+      "title": "Visual Generation Framework Software Engineer - Proactive",
+      "job_id": "200680492-3337",
+      "url": "https://jobs.apple.com/en-us/details/200680492-3337/visual-generation-framework-software-engineer-proactive?team=SFTWR"
+    },
+    "200680197-0836": {
+      "first_seen": 1787861492.3633747,
+      "posted": "2026-08-27",
+      "title": "Quality & Test Automation Engineer \u2013 Developer Experience",
+      "job_id": "200680197-0836",
+      "url": "https://jobs.apple.com/en-us/details/200680197-0836/quality-test-automation-engineer-developer-experience?team=SFTWR"
+    },
+    "200679992-0157": {
+      "first_seen": 1787861492.3633764,
+      "posted": "2026-08-27",
+      "title": "Software Engineer",
+      "job_id": "200679992-0157",
+      "url": "https://jobs.apple.com/en-us/details/200679992-0157/software-engineer?team=SFTWR"
+    },
+    "200679992-0836": {
+      "first_seen": 1787861492.3633776,
+      "posted": "2026-08-27",
+      "title": "Software Engineer",
+      "job_id": "200679992-0836",
+      "url": "https://jobs.apple.com/en-us/details/200679992-0836/software-engineer?team=SFTWR"
+    },
+    "200679992-5819": {
+      "first_seen": 1787861492.3633788,
+      "posted": "2026-08-27",
+      "title": "Software Engineer",
+      "job_id": "200679992-5819",
+      "url": "https://jobs.apple.com/en-us/details/200679992-5819/software-engineer?team=SFTWR"
+    },
+    "200678986-0836": {
+      "first_seen": 1787861492.36338,
+      "posted": "2026-08-27",
+      "title": "Senior Data Scientist, Client Insights - Apple Ads",
+      "job_id": "200678986-0836",
+      "url": "https://jobs.apple.com/en-us/details/200678986-0836/senior-data-scientist-client-insights-apple-ads?team=SFTWR"
     }
   }
 }
