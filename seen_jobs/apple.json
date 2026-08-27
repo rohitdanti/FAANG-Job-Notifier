@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200648807-0836": {
-      "first_seen": 1775163183.8615549,
-      "posted": "",
-      "title": "Sr Engineering Program Manager, Privacy",
-      "job_id": "200648807-0836"
-    },
     "200648817-0670": {
       "first_seen": 1775163183.8615549,
       "posted": "",
@@ -20035,6 +20029,13 @@
       "title": "Senior Software Engineer, Apple Ads",
       "job_id": "200680227-0836",
       "url": "https://jobs.apple.com/en-us/details/200680227-0836/senior-software-engineer-apple-ads?team=SFTWR"
+    },
+    "200680263-3956": {
+      "first_seen": 1787839889.533826,
+      "posted": "2026-08-27",
+      "title": "Tools & Automation Engineer, AppleCare",
+      "job_id": "200680263-3956",
+      "url": "https://jobs.apple.com/en-us/details/200680263-3956/tools-automation-engineer-applecare?team=SFTWR"
     }
   }
 }
