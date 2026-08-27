@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200633240-3337": {
-      "first_seen": 1775163183.8615592,
-      "posted": "",
-      "title": "ML Infrastructure Engineer - Multimodal Training Tools, SIML",
-      "job_id": "200633240-3337"
-    },
     "200631336-3956": {
       "first_seen": 1775163183.8615592,
       "posted": "",
@@ -20053,6 +20047,13 @@
       "title": "Engineering Program Manager, Data Privacy and Compliance, Apple Services Engineering",
       "job_id": "200679044-3337",
       "url": "https://jobs.apple.com/en-us/details/200679044-3337/engineering-program-manager-data-privacy-and-compliance-apple-services-engineering?team=SFTWR"
+    },
+    "200680541-2459": {
+      "first_seen": 1787872892.4221196,
+      "posted": "2026-08-27",
+      "title": "Senior Business Development Manager, Merchant & PSP (Payment Service Providers) Partnerships\u2013Apple Pay",
+      "job_id": "200680541-2459",
+      "url": "https://jobs.apple.com/en-us/details/200680541-2459/senior-business-development-manager-merchant-psp-payment-service-providers-partnerships-apple-pay?team=SFTWR"
     }
   }
 }
