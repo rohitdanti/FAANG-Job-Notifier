@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200633249-0836": {
-      "first_seen": 1775163183.861558,
-      "posted": "",
-      "title": "Senior ML Infrastructure Engineer - Training Algorithms, SIML",
-      "job_id": "200633249-0836"
-    },
     "200633249-3337": {
       "first_seen": 1775163183.861558,
       "posted": "",
@@ -20049,6 +20043,13 @@
       "title": "Director of Product Management, Marketplace and Developer Technologies",
       "job_id": "200679541-0836",
       "url": "https://jobs.apple.com/en-us/details/200679541-0836/director-of-product-management-marketplace-and-developer-technologies?team=SFTWR"
+    },
+    "200680523-3543": {
+      "first_seen": 1787867494.4350204,
+      "posted": "2026-08-27",
+      "title": "Health Software - QA Tools & Automation Engineer",
+      "job_id": "200680523-3543",
+      "url": "https://jobs.apple.com/en-us/details/200680523-3543/health-software-qa-tools-automation-engineer?team=SFTWR"
     }
   }
 }
