@@ -4,24 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200647749-0836": {
-      "first_seen": 1775163183.861554,
-      "posted": "",
-      "title": "Sr. Engineering Project Manager, Apps Frameworks",
-      "job_id": "200647749-0836"
-    },
-    "200647749-3543": {
-      "first_seen": 1775163183.861554,
-      "posted": "",
-      "title": "Sr. Engineering Project Manager, Apps Frameworks",
-      "job_id": "200647749-3543"
-    },
-    "200648938-0836": {
-      "first_seen": 1775163183.861554,
-      "posted": "",
-      "title": "UX Writer, Apple TV",
-      "job_id": "200648938-0836"
-    },
     "200647585-3956": {
       "first_seen": 1775163183.861554,
       "posted": "",
@@ -20028,6 +20010,27 @@
       "title": "Software Engineer (Full Stack), G&A Solutions Engineering",
       "job_id": "200679481-0240",
       "url": "https://jobs.apple.com/en-us/details/200679481-0240/software-engineer-full-stack-g-a-solutions-engineering?team=SFTWR"
+    },
+    "200679879-0836": {
+      "first_seen": 1787835710.083884,
+      "posted": "2026-08-27",
+      "title": "Places Data and ML Director",
+      "job_id": "200679879-0836",
+      "url": "https://jobs.apple.com/en-us/details/200679879-0836/places-data-and-ml-director?team=SFTWR"
+    },
+    "200680039-3956": {
+      "first_seen": 1787835710.083891,
+      "posted": "2026-08-27",
+      "title": "Solutions Lead, Regulatory Projects, BPR: Supply Chain",
+      "job_id": "200680039-3956",
+      "url": "https://jobs.apple.com/en-us/details/200680039-3956/solutions-lead-regulatory-projects-bpr-supply-chain?team=SFTWR"
+    },
+    "200680036-3956": {
+      "first_seen": 1787835710.0838933,
+      "posted": "2026-08-27",
+      "title": "Program Manager, Quality Data & Testing Lead, BPR: Supply Chain",
+      "job_id": "200680036-3956",
+      "url": "https://jobs.apple.com/en-us/details/200680036-3956/program-manager-quality-data-testing-lead-bpr-supply-chain?team=SFTWR"
     }
   }
 }
