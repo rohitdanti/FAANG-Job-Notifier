@@ -4,18 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200633249-3337": {
-      "first_seen": 1775163183.861558,
-      "posted": "",
-      "title": "Senior ML Infrastructure Engineer - Training Algorithms, SIML",
-      "job_id": "200633249-3337"
-    },
-    "200634290-3337": {
-      "first_seen": 1775163183.861558,
-      "posted": "",
-      "title": "Machine Learning Research Engineer (Human Sensing), SIML - ISE",
-      "job_id": "200634290-3337"
-    },
     "200633240-0836": {
       "first_seen": 1775163183.861558,
       "posted": "",
@@ -20050,6 +20038,20 @@
       "title": "Health Software - QA Tools & Automation Engineer",
       "job_id": "200680523-3543",
       "url": "https://jobs.apple.com/en-us/details/200680523-3543/health-software-qa-tools-automation-engineer?team=SFTWR"
+    },
+    "200680196-0157": {
+      "first_seen": 1787868127.7538838,
+      "posted": "2026-08-27",
+      "title": "Software Engineer (Framework Solutions), AI & Data Platforms (AiDP)",
+      "job_id": "200680196-0157",
+      "url": "https://jobs.apple.com/en-us/details/200680196-0157/software-engineer-framework-solutions-ai-data-platforms-aidp?team=SFTWR"
+    },
+    "200680196-3956": {
+      "first_seen": 1787868127.7538943,
+      "posted": "2026-08-27",
+      "title": "Software Engineer (Framework Solutions), AI & Data Platforms (AiDP)",
+      "job_id": "200680196-3956",
+      "url": "https://jobs.apple.com/en-us/details/200680196-3956/software-engineer-framework-solutions-ai-data-platforms-aidp?team=SFTWR"
     }
   }
 }
