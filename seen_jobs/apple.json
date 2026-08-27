@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200632699-0836": {
-      "first_seen": 1775163183.861558,
-      "posted": "",
-      "title": "Generative AI Applied Scientist, SIML - ISE",
-      "job_id": "200632699-0836"
-    },
     "200633249-0836": {
       "first_seen": 1775163183.861558,
       "posted": "",
@@ -20048,6 +20042,13 @@
       "title": "Senior Data Scientist, Client Insights - Apple Ads",
       "job_id": "200678986-0836",
       "url": "https://jobs.apple.com/en-us/details/200678986-0836/senior-data-scientist-client-insights-apple-ads?team=SFTWR"
+    },
+    "200679541-0836": {
+      "first_seen": 1787865170.1448343,
+      "posted": "2026-08-27",
+      "title": "Director of Product Management, Marketplace and Developer Technologies",
+      "job_id": "200679541-0836",
+      "url": "https://jobs.apple.com/en-us/details/200679541-0836/director-of-product-management-marketplace-and-developer-technologies?team=SFTWR"
     }
   }
 }
