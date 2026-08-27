@@ -4,18 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200648817-3337": {
-      "first_seen": 1775163183.861556,
-      "posted": "",
-      "title": "Software Development Engineer in Test (SDET), Video Apps",
-      "job_id": "200648817-3337"
-    },
-    "200647401-0670": {
-      "first_seen": 1775163183.861556,
-      "posted": "",
-      "title": "Sr. Creative Director, Brand, Apple TV (Product & Design)",
-      "job_id": "200647401-0670"
-    },
     "200648781-0836": {
       "first_seen": 1775163183.861556,
       "posted": "",
@@ -20039,6 +20027,20 @@
       "title": "App Review Specialist, French language",
       "job_id": "200679087-3956",
       "url": "https://jobs.apple.com/en-us/details/200679087-3956/app-review-specialist-french-language?team=SFTWR"
+    },
+    "200680399-3543": {
+      "first_seen": 1787858497.249185,
+      "posted": "2026-08-27",
+      "title": "Software Development Engineer in Test, Full Stack, Creativity Apps",
+      "job_id": "200680399-3543",
+      "url": "https://jobs.apple.com/en-us/details/200680399-3543/software-development-engineer-in-test-full-stack-creativity-apps?team=SFTWR"
+    },
+    "200680177-3543": {
+      "first_seen": 1787858497.24919,
+      "posted": "2026-08-27",
+      "title": "Software Development Engineer in Test, Creativity Apps",
+      "job_id": "200680177-3543",
+      "url": "https://jobs.apple.com/en-us/details/200680177-3543/software-development-engineer-in-test-creativity-apps?team=SFTWR"
     }
   }
 }
