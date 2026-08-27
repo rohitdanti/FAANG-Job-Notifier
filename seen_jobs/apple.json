@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200648817-3543": {
-      "first_seen": 1775163183.861556,
-      "posted": "",
-      "title": "Software Development Engineer in Test (SDET), Video Apps",
-      "job_id": "200648817-3543"
-    },
     "200648817-3337": {
       "first_seen": 1775163183.861556,
       "posted": "",
@@ -20038,6 +20032,13 @@
       "title": "AIML - Sr Machine Learning Engineering Manager, Evaluation",
       "job_id": "200680256-0836",
       "url": "https://jobs.apple.com/en-us/details/200680256-0836/aiml-sr-machine-learning-engineering-manager-evaluation?team=SFTWR"
+    },
+    "200679087-3956": {
+      "first_seen": 1787856176.6808994,
+      "posted": "2026-08-27",
+      "title": "App Review Specialist, French language",
+      "job_id": "200679087-3956",
+      "url": "https://jobs.apple.com/en-us/details/200679087-3956/app-review-specialist-french-language?team=SFTWR"
     }
   }
 }
