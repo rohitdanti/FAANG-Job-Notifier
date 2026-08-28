@@ -4,18 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200631336-3956": {
-      "first_seen": 1775163183.8615592,
-      "posted": "",
-      "title": "iOS Software Engineer, Customer Systems",
-      "job_id": "200631336-3956"
-    },
-    "200648418-0836": {
-      "first_seen": 1775163183.8615592,
-      "posted": "",
-      "title": "Software Development Engineering Manager, Test Automation \u2013 Apple Maps",
-      "job_id": "200648418-0836"
-    },
     "200648235-3543": {
       "first_seen": 1775163183.8615592,
       "posted": "",
@@ -20054,6 +20042,20 @@
       "title": "Senior Business Development Manager, Merchant & PSP (Payment Service Providers) Partnerships\u2013Apple Pay",
       "job_id": "200680541-2459",
       "url": "https://jobs.apple.com/en-us/details/200680541-2459/senior-business-development-manager-merchant-psp-payment-service-providers-partnerships-apple-pay?team=SFTWR"
+    },
+    "200680561-1242": {
+      "first_seen": 1787877691.4015973,
+      "posted": "2026-08-28",
+      "title": "Systems Software Engineer, Platform Architecture",
+      "job_id": "200680561-1242",
+      "url": "https://jobs.apple.com/en-us/details/200680561-1242/systems-software-engineer-platform-architecture?team=SFTWR"
+    },
+    "200680561-0836": {
+      "first_seen": 1787877691.4016023,
+      "posted": "2026-08-28",
+      "title": "Systems Software Engineer, Platform Architecture",
+      "job_id": "200680561-0836",
+      "url": "https://jobs.apple.com/en-us/details/200680561-0836/systems-software-engineer-platform-architecture?team=SFTWR"
     }
   }
 }
