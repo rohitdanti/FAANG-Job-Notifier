@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200630263-0836": {
-      "first_seen": 1775163183.8615649,
-      "posted": "",
-      "title": "Senior Engineering Program Manager, Find My",
-      "job_id": "200630263-0836"
-    },
     "200647894-3543": {
       "first_seen": 1775163183.8615649,
       "posted": "",
@@ -20090,6 +20084,13 @@
       "title": "Sr. Software Development Engineer",
       "job_id": "200679973-3956",
       "url": "https://jobs.apple.com/en-us/details/200679973-3956/sr-software-development-engineer?team=SFTWR"
+    },
+    "200680670-3956": {
+      "first_seen": 1787954500.8949423,
+      "posted": "2026-08-28",
+      "title": "Senior iOS Engineer",
+      "job_id": "200680670-3956",
+      "url": "https://jobs.apple.com/en-us/details/200680670-3956/senior-ios-engineer?team=SFTWR"
     }
   }
 }
