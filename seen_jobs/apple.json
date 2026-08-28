@@ -4,30 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200648101-0836": {
-      "first_seen": 1775163183.861564,
-      "posted": "",
-      "title": "Engineering Manager, Data for Applied AI Models",
-      "job_id": "200648101-0836"
-    },
-    "200646351-0776": {
-      "first_seen": 1775163183.861564,
-      "posted": "",
-      "title": "Senior Platform Engineer - Insight Engineering, Enterprise Technology Services",
-      "job_id": "200646351-0776"
-    },
-    "200627092-0836": {
-      "first_seen": 1775163183.861564,
-      "posted": "",
-      "title": "Senior Software Manager - UI Performance and Power",
-      "job_id": "200627092-0836"
-    },
-    "200631982-0836": {
-      "first_seen": 1775163183.861564,
-      "posted": "",
-      "title": "Sr Software Engineering Manager, UI Rendering",
-      "job_id": "200631982-0836"
-    },
     "200643223-0836": {
       "first_seen": 1775163183.861564,
       "posted": "",
@@ -20082,6 +20058,34 @@
       "title": "Creative Intelligence Software Engineer - Camera and Photos",
       "job_id": "200673613-0836",
       "url": "https://jobs.apple.com/en-us/details/200673613-0836/creative-intelligence-software-engineer-camera-and-photos?team=SFTWR"
+    },
+    "200680752-0157": {
+      "first_seen": 1787949092.73588,
+      "posted": "2026-08-28",
+      "title": "Software Engineer - Early Career (Front-end)",
+      "job_id": "200680752-0157",
+      "url": "https://jobs.apple.com/en-us/details/200680752-0157/software-engineer-early-career-front-end?team=SFTWR"
+    },
+    "200680752-0836": {
+      "first_seen": 1787949092.7358873,
+      "posted": "2026-08-28",
+      "title": "Software Engineer - Early Career (Front-end)",
+      "job_id": "200680752-0836",
+      "url": "https://jobs.apple.com/en-us/details/200680752-0836/software-engineer-early-career-front-end?team=SFTWR"
+    },
+    "200679366-0157": {
+      "first_seen": 1787949092.73589,
+      "posted": "2026-08-28",
+      "title": "Senior Cloud Engineer",
+      "job_id": "200679366-0157",
+      "url": "https://jobs.apple.com/en-us/details/200679366-0157/senior-cloud-engineer?team=SFTWR"
+    },
+    "200679366-1435": {
+      "first_seen": 1787949092.7358923,
+      "posted": "2026-08-28",
+      "title": "Senior Cloud Engineer",
+      "job_id": "200679366-1435",
+      "url": "https://jobs.apple.com/en-us/details/200679366-1435/senior-cloud-engineer?team=SFTWR"
     }
   }
 }
