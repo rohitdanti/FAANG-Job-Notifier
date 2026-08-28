@@ -4,66 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200648320-0836": {
-      "first_seen": 1775163183.86156,
-      "posted": "",
-      "title": "Staff AI Software Engineer, Siri Core Modeling",
-      "job_id": "200648320-0836"
-    },
-    "200648320-3956": {
-      "first_seen": 1775163183.86156,
-      "posted": "",
-      "title": "Staff AI Software Engineer, Siri Core Modeling",
-      "job_id": "200648320-3956"
-    },
-    "200648327-0836": {
-      "first_seen": 1775163183.861561,
-      "posted": "",
-      "title": "Backend Software Engineer - Server, Find My",
-      "job_id": "200648327-0836"
-    },
-    "200647945-0836": {
-      "first_seen": 1775163183.861561,
-      "posted": "",
-      "title": "Engineering Program Manager, Find My",
-      "job_id": "200647945-0836"
-    },
-    "200622685-0836": {
-      "first_seen": 1775163183.861561,
-      "posted": "",
-      "title": "Software Engineer, Apple Intelligence Model Platform",
-      "job_id": "200622685-0836"
-    },
-    "200618384-0836": {
-      "first_seen": 1775163183.861561,
-      "posted": "",
-      "title": "Staff Machine Learning Engineer \u2013 Ads Signals Intelligence & Information Retrieval",
-      "job_id": "200618384-0836"
-    },
-    "200647942-0836": {
-      "first_seen": 1775163183.861561,
-      "posted": "",
-      "title": "AirPrint Engineering Manager",
-      "job_id": "200647942-0836"
-    },
-    "200648265-3543": {
-      "first_seen": 1775163183.861561,
-      "posted": "",
-      "title": "Tools & Automation Engineer, Wireless Technologies & Ecosystems",
-      "job_id": "200648265-3543"
-    },
-    "200648273-3337": {
-      "first_seen": 1775163183.861561,
-      "posted": "",
-      "title": "Software Development Engineer in Test",
-      "job_id": "200648273-3337"
-    },
-    "200645664-0836": {
-      "first_seen": 1775163183.861562,
-      "posted": "",
-      "title": "Senior Full-Stack Engineer - Web Platforms for ML Inference",
-      "job_id": "200645664-0836"
-    },
     "200648219-3956": {
       "first_seen": 1775163183.861562,
       "posted": "",
@@ -20062,6 +20002,76 @@
       "title": "International Engineering Lead - Intelligence Features, Localizaiton & Release Engineering",
       "job_id": "200668733-0836",
       "url": "https://jobs.apple.com/en-us/details/200668733-0836/international-engineering-lead-intelligence-features-localizaiton-release-engineering?team=SFTWR"
+    },
+    "200680470-6137": {
+      "first_seen": 1787939487.1925716,
+      "posted": "2026-08-28",
+      "title": "ISE, System Experience - Senior Software Engineer, macOS System Experience",
+      "job_id": "200680470-6137",
+      "url": "https://jobs.apple.com/en-us/details/200680470-6137/ise-system-experience-senior-software-engineer-macos-system-experience?team=SFTWR"
+    },
+    "200680470-0234": {
+      "first_seen": 1787939487.192575,
+      "posted": "2026-08-28",
+      "title": "ISE, System Experience - Senior Software Engineer, macOS System Experience",
+      "job_id": "200680470-0234",
+      "url": "https://jobs.apple.com/en-us/details/200680470-0234/ise-system-experience-senior-software-engineer-macos-system-experience?team=SFTWR"
+    },
+    "200680470-6178": {
+      "first_seen": 1787939487.192577,
+      "posted": "2026-08-28",
+      "title": "ISE, System Experience - Senior Software Engineer, macOS System Experience",
+      "job_id": "200680470-6178",
+      "url": "https://jobs.apple.com/en-us/details/200680470-6178/ise-system-experience-senior-software-engineer-macos-system-experience?team=SFTWR"
+    },
+    "200680470-0287": {
+      "first_seen": 1787939487.1925783,
+      "posted": "2026-08-28",
+      "title": "ISE, System Experience - Senior Software Engineer, macOS System Experience",
+      "job_id": "200680470-0287",
+      "url": "https://jobs.apple.com/en-us/details/200680470-0287/ise-system-experience-senior-software-engineer-macos-system-experience?team=SFTWR"
+    },
+    "200680470-0746": {
+      "first_seen": 1787939487.1925793,
+      "posted": "2026-08-28",
+      "title": "ISE, System Experience - Senior Software Engineer, macOS System Experience",
+      "job_id": "200680470-0746",
+      "url": "https://jobs.apple.com/en-us/details/200680470-0746/ise-system-experience-senior-software-engineer-macos-system-experience?team=SFTWR"
+    },
+    "200680470-0785": {
+      "first_seen": 1787939487.1925805,
+      "posted": "2026-08-28",
+      "title": "ISE, System Experience - Senior Software Engineer, macOS System Experience",
+      "job_id": "200680470-0785",
+      "url": "https://jobs.apple.com/en-us/details/200680470-0785/ise-system-experience-senior-software-engineer-macos-system-experience?team=SFTWR"
+    },
+    "200680470-6772": {
+      "first_seen": 1787939487.1925814,
+      "posted": "2026-08-28",
+      "title": "ISE, System Experience - Senior Software Engineer, macOS System Experience",
+      "job_id": "200680470-6772",
+      "url": "https://jobs.apple.com/en-us/details/200680470-6772/ise-system-experience-senior-software-engineer-macos-system-experience?team=SFTWR"
+    },
+    "200680470-5984": {
+      "first_seen": 1787939487.1925824,
+      "posted": "2026-08-28",
+      "title": "ISE, System Experience - Senior Software Engineer, macOS System Experience",
+      "job_id": "200680470-5984",
+      "url": "https://jobs.apple.com/en-us/details/200680470-5984/ise-system-experience-senior-software-engineer-macos-system-experience?team=SFTWR"
+    },
+    "200680470-0966": {
+      "first_seen": 1787939487.1925833,
+      "posted": "2026-08-28",
+      "title": "ISE, System Experience - Senior Software Engineer, macOS System Experience",
+      "job_id": "200680470-0966",
+      "url": "https://jobs.apple.com/en-us/details/200680470-0966/ise-system-experience-senior-software-engineer-macos-system-experience?team=SFTWR"
+    },
+    "200680470-6164": {
+      "first_seen": 1787939487.1925845,
+      "posted": "2026-08-28",
+      "title": "ISE, System Experience - Senior Software Engineer, macOS System Experience",
+      "job_id": "200680470-6164",
+      "url": "https://jobs.apple.com/en-us/details/200680470-6164/ise-system-experience-senior-software-engineer-macos-system-experience?team=SFTWR"
     }
   }
 }
