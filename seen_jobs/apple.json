@@ -4,18 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200647926-0836": {
-      "first_seen": 1775163183.861564,
-      "posted": "",
-      "title": "JavaScriptCore Manager",
-      "job_id": "200647926-0836"
-    },
-    "200643663-0836": {
-      "first_seen": 1775163183.8615649,
-      "posted": "",
-      "title": "Senior Machine Learning Engineer \u2013 Ads Signals Intelligence and Information Retrieval",
-      "job_id": "200643663-0836"
-    },
     "200647772-0836": {
       "first_seen": 1775163183.8615649,
       "posted": "",
@@ -20087,6 +20075,20 @@
       "title": "AI/ML Performance Analysis and Validation Engineer",
       "job_id": "200680164-0836",
       "url": "https://jobs.apple.com/en-us/details/200680164-0836/ai-ml-performance-analysis-and-validation-engineer?team=SFTWR"
+    },
+    "200641263-3337": {
+      "first_seen": 1787950285.8022716,
+      "posted": "2026-08-28",
+      "title": "Machine Learning Engineer, Apple Search & Knowledge Platforms",
+      "job_id": "200641263-3337",
+      "url": "https://jobs.apple.com/en-us/details/200641263-3337/machine-learning-engineer-apple-search-knowledge-platforms?team=SFTWR"
+    },
+    "200680281-0157": {
+      "first_seen": 1787950285.8022764,
+      "posted": "2026-08-28",
+      "title": "Data Platform SRE, AI & Data Platforms (AiDP)",
+      "job_id": "200680281-0157",
+      "url": "https://jobs.apple.com/en-us/details/200680281-0157/data-platform-sre-ai-data-platforms-aidp?team=SFTWR"
     }
   }
 }
