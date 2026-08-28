@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200647894-3543": {
-      "first_seen": 1775163183.8615649,
-      "posted": "",
-      "title": "Software Development Engineer in Test, Release Validation Automation",
-      "job_id": "200647894-3543"
-    },
     "200647917-2459": {
       "first_seen": 1775163183.8615649,
       "posted": "",
@@ -20091,6 +20085,13 @@
       "title": "Senior iOS Engineer",
       "job_id": "200680670-3956",
       "url": "https://jobs.apple.com/en-us/details/200680670-3956/senior-ios-engineer?team=SFTWR"
+    },
+    "200680797-0157": {
+      "first_seen": 1787955698.328551,
+      "posted": "2026-08-28",
+      "title": "Site Reliability Engineer - Data, Apple Ads",
+      "job_id": "200680797-0157",
+      "url": "https://jobs.apple.com/en-us/details/200680797-0157/site-reliability-engineer-data-apple-ads?team=SFTWR"
     }
   }
 }
