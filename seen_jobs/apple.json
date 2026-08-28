@@ -4,36 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200647975-1242": {
-      "first_seen": 1775163183.861562,
-      "posted": "",
-      "title": "Senior iOS Engineer, App Frameworks",
-      "job_id": "200647975-1242"
-    },
-    "200647975-0836": {
-      "first_seen": 1775163183.861562,
-      "posted": "",
-      "title": "Senior iOS Engineer, App Frameworks",
-      "job_id": "200647975-0836"
-    },
-    "200647587-0365": {
-      "first_seen": 1775163183.861563,
-      "posted": "",
-      "title": "Sr. Systems Software Engineer - Video Technologies",
-      "job_id": "200647587-0365"
-    },
-    "200647587-0670": {
-      "first_seen": 1775163183.861563,
-      "posted": "",
-      "title": "Sr. Systems Software Engineer - Video Technologies",
-      "job_id": "200647587-0670"
-    },
-    "200647587-0836": {
-      "first_seen": 1775163183.861563,
-      "posted": "",
-      "title": "Sr. Systems Software Engineer - Video Technologies",
-      "job_id": "200647587-0836"
-    },
     "200647587-3543": {
       "first_seen": 1775163183.861563,
       "posted": "",
@@ -20074,6 +20044,41 @@
       "title": "Apple Books Copy Lead",
       "job_id": "200680669-0836",
       "url": "https://jobs.apple.com/en-us/details/200680669-0836/apple-books-copy-lead?team=SFTWR"
+    },
+    "200677345-3956": {
+      "first_seen": 1787940710.2916837,
+      "posted": "2026-08-28",
+      "title": "Engineering Program Manager- Customer Systems",
+      "job_id": "200677345-3956",
+      "url": "https://jobs.apple.com/en-us/details/200677345-3956/engineering-program-manager-customer-systems?team=SFTWR"
+    },
+    "200680644-0836": {
+      "first_seen": 1787940710.2916882,
+      "posted": "2026-08-28",
+      "title": "Software Engineer - UI Rendering, Performance & Power",
+      "job_id": "200680644-0836",
+      "url": "https://jobs.apple.com/en-us/details/200680644-0836/software-engineer-ui-rendering-performance-power?team=SFTWR"
+    },
+    "200680651-0836": {
+      "first_seen": 1787940710.2916899,
+      "posted": "2026-08-28",
+      "title": "Software Development Engineer, File Systems",
+      "job_id": "200680651-0836",
+      "url": "https://jobs.apple.com/en-us/details/200680651-0836/software-development-engineer-file-systems?team=SFTWR"
+    },
+    "200680683-0836": {
+      "first_seen": 1787940710.2916913,
+      "posted": "2026-08-28",
+      "title": "Full-Stack UI Software Engineer - Wallet, Payments & Commerce (WPC)",
+      "job_id": "200680683-0836",
+      "url": "https://jobs.apple.com/en-us/details/200680683-0836/full-stack-ui-software-engineer-wallet-payments-commerce-wpc?team=SFTWR"
+    },
+    "200680672-0836": {
+      "first_seen": 1787940710.2916925,
+      "posted": "2026-08-28",
+      "title": "Sr. Principal Engineer - Wallet, Payments & Commerce",
+      "job_id": "200680672-0836",
+      "url": "https://jobs.apple.com/en-us/details/200680672-0836/sr-principal-engineer-wallet-payments-commerce?team=SFTWR"
     }
   }
 }
