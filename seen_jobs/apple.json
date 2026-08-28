@@ -4,18 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200648219-3956": {
-      "first_seen": 1775163183.861562,
-      "posted": "",
-      "title": "Systems Software Developer, Vision Products Group",
-      "job_id": "200648219-3956"
-    },
-    "200647975-0157": {
-      "first_seen": 1775163183.861562,
-      "posted": "",
-      "title": "Senior iOS Engineer, App Frameworks",
-      "job_id": "200647975-0157"
-    },
     "200647975-1242": {
       "first_seen": 1775163183.861562,
       "posted": "",
@@ -20072,6 +20060,20 @@
       "title": "ISE, System Experience - Senior Software Engineer, macOS System Experience",
       "job_id": "200680470-6164",
       "url": "https://jobs.apple.com/en-us/details/200680470-6164/ise-system-experience-senior-software-engineer-macos-system-experience?team=SFTWR"
+    },
+    "200680669-0670": {
+      "first_seen": 1787940095.5536783,
+      "posted": "2026-08-28",
+      "title": "Apple Books Copy Lead",
+      "job_id": "200680669-0670",
+      "url": "https://jobs.apple.com/en-us/details/200680669-0670/apple-books-copy-lead?team=SFTWR"
+    },
+    "200680669-0836": {
+      "first_seen": 1787940095.553686,
+      "posted": "2026-08-28",
+      "title": "Apple Books Copy Lead",
+      "job_id": "200680669-0836",
+      "url": "https://jobs.apple.com/en-us/details/200680669-0836/apple-books-copy-lead?team=SFTWR"
     }
   }
 }
