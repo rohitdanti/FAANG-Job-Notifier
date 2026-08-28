@@ -4,60 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200647917-2459": {
-      "first_seen": 1775163183.8615649,
-      "posted": "",
-      "title": "Sr. Software Engineer, Siri Developer Platform",
-      "job_id": "200647917-2459"
-    },
-    "200647355-0836": {
-      "first_seen": 1775163183.861566,
-      "posted": "",
-      "title": "Sr Engineering Program Manager, Streaming Media",
-      "job_id": "200647355-0836"
-    },
-    "200647138-0836": {
-      "first_seen": 1775163183.861566,
-      "posted": "",
-      "title": "Machine Learning Engineer - LLM",
-      "job_id": "200647138-0836"
-    },
-    "200647424-3543": {
-      "first_seen": 1775163183.861566,
-      "posted": "",
-      "title": "Staff Security Engineer - Health Software",
-      "job_id": "200647424-3543"
-    },
-    "200647424-3956": {
-      "first_seen": 1775163183.861566,
-      "posted": "",
-      "title": "Staff Security Engineer - Health Software",
-      "job_id": "200647424-3956"
-    },
-    "200647331-0836": {
-      "first_seen": 1775163183.861566,
-      "posted": "",
-      "title": "Software Engineer - Systems (DFT Initiative)",
-      "job_id": "200647331-0836"
-    },
-    "200646212-3956": {
-      "first_seen": 1775163183.861566,
-      "posted": "",
-      "title": "Sr Software Engineer (Front End - Real-Time 3D), Retail and Marcom Engineering",
-      "job_id": "200646212-3956"
-    },
-    "200647688-0157": {
-      "first_seen": 1775163183.861567,
-      "posted": "",
-      "title": "Staff Machine Learning Engineer \u2013 Ads Platform",
-      "job_id": "200647688-0157"
-    },
-    "200624013-0157": {
-      "first_seen": 1775163183.861567,
-      "posted": "",
-      "title": "DevOps Engineer, Retail Engineering, IS&T Early Career",
-      "job_id": "200624013-0157"
-    },
     "200647763-3337": {
       "first_seen": 1775163183.861567,
       "posted": "",
@@ -20092,6 +20038,69 @@
       "title": "Site Reliability Engineer - Data, Apple Ads",
       "job_id": "200680797-0157",
       "url": "https://jobs.apple.com/en-us/details/200680797-0157/site-reliability-engineer-data-apple-ads?team=SFTWR"
+    },
+    "200680682-3401": {
+      "first_seen": 1787956885.9826164,
+      "posted": "2026-08-28",
+      "title": "HomeKit Machine Learning Engineer",
+      "job_id": "200680682-3401",
+      "url": "https://jobs.apple.com/en-us/details/200680682-3401/homekit-machine-learning-engineer?team=SFTWR"
+    },
+    "200680778-5763": {
+      "first_seen": 1787956885.9826214,
+      "posted": "2026-08-28",
+      "title": "Specialist, Emergency Services - Sensing & Connectivity",
+      "job_id": "200680778-5763",
+      "url": "https://jobs.apple.com/en-us/details/200680778-5763/specialist-emergency-services-sensing-connectivity?team=SFTWR"
+    },
+    "200680778-0186": {
+      "first_seen": 1787956885.9826233,
+      "posted": "2026-08-28",
+      "title": "Specialist, Emergency Services - Sensing & Connectivity",
+      "job_id": "200680778-0186",
+      "url": "https://jobs.apple.com/en-us/details/200680778-0186/specialist-emergency-services-sensing-connectivity?team=SFTWR"
+    },
+    "200680778-5911": {
+      "first_seen": 1787956885.9826248,
+      "posted": "2026-08-28",
+      "title": "Specialist, Emergency Services - Sensing & Connectivity",
+      "job_id": "200680778-5911",
+      "url": "https://jobs.apple.com/en-us/details/200680778-5911/specialist-emergency-services-sensing-connectivity?team=SFTWR"
+    },
+    "200680778-0224": {
+      "first_seen": 1787956885.9826262,
+      "posted": "2026-08-28",
+      "title": "Specialist, Emergency Services - Sensing & Connectivity",
+      "job_id": "200680778-0224",
+      "url": "https://jobs.apple.com/en-us/details/200680778-0224/specialist-emergency-services-sensing-connectivity?team=SFTWR"
+    },
+    "200680778-5685": {
+      "first_seen": 1787956885.9826274,
+      "posted": "2026-08-28",
+      "title": "Specialist, Emergency Services - Sensing & Connectivity",
+      "job_id": "200680778-5685",
+      "url": "https://jobs.apple.com/en-us/details/200680778-5685/specialist-emergency-services-sensing-connectivity?team=SFTWR"
+    },
+    "200680778-5909": {
+      "first_seen": 1787956885.9826286,
+      "posted": "2026-08-28",
+      "title": "Specialist, Emergency Services - Sensing & Connectivity",
+      "job_id": "200680778-5909",
+      "url": "https://jobs.apple.com/en-us/details/200680778-5909/specialist-emergency-services-sensing-connectivity?team=SFTWR"
+    },
+    "200680778-0836": {
+      "first_seen": 1787956885.9826295,
+      "posted": "2026-08-28",
+      "title": "Specialist, Emergency Services - Sensing & Connectivity",
+      "job_id": "200680778-0836",
+      "url": "https://jobs.apple.com/en-us/details/200680778-0836/specialist-emergency-services-sensing-connectivity?team=SFTWR"
+    },
+    "200680778-1168": {
+      "first_seen": 1787956885.9826305,
+      "posted": "2026-08-28",
+      "title": "Specialist, Emergency Services - Sensing & Connectivity",
+      "job_id": "200680778-1168",
+      "url": "https://jobs.apple.com/en-us/details/200680778-1168/specialist-emergency-services-sensing-connectivity?team=SFTWR"
     }
   }
 }
