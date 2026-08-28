@@ -4,18 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200648365-0836": {
-      "first_seen": 1775163183.8615592,
-      "posted": "",
-      "title": "Sr. Software Engineer, Audio & Media Technologies",
-      "job_id": "200648365-0836"
-    },
-    "200648309-3956": {
-      "first_seen": 1775163183.8615592,
-      "posted": "",
-      "title": "Senior Software Engineer",
-      "job_id": "200648309-3956"
-    },
     "200648315-3956": {
       "first_seen": 1775163183.86156,
       "posted": "",
@@ -20057,6 +20045,20 @@
       "title": "Software Quality Test Manager, Sensing & Connectivity",
       "job_id": "200680331-0836",
       "url": "https://jobs.apple.com/en-us/details/200680331-0836/software-quality-test-manager-sensing-connectivity?team=SFTWR"
+    },
+    "200680590-0157": {
+      "first_seen": 1787922124.2064025,
+      "posted": "2026-08-28",
+      "title": "Systems Strategist, AppleCare Technologies",
+      "job_id": "200680590-0157",
+      "url": "https://jobs.apple.com/en-us/details/200680590-0157/systems-strategist-applecare-technologies?team=SFTWR"
+    },
+    "200680590-3956": {
+      "first_seen": 1787922124.2064118,
+      "posted": "2026-08-28",
+      "title": "Systems Strategist, AppleCare Technologies",
+      "job_id": "200680590-3956",
+      "url": "https://jobs.apple.com/en-us/details/200680590-3956/systems-strategist-applecare-technologies?team=SFTWR"
     }
   }
 }
