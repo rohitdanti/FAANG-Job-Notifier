@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200647415-0836": {
-      "first_seen": 1775163183.861563,
-      "posted": "",
-      "title": "Software Engineer, Shortcuts",
-      "job_id": "200647415-0836"
-    },
     "200648101-0836": {
       "first_seen": 1775163183.861564,
       "posted": "",
@@ -20081,6 +20075,13 @@
       "title": "Technical Product Manager, Partner Reporting Solutions",
       "job_id": "200680673-0836",
       "url": "https://jobs.apple.com/en-us/details/200680673-0836/technical-product-manager-partner-reporting-solutions?team=SFTWR"
+    },
+    "200673613-0836": {
+      "first_seen": 1787947300.769307,
+      "posted": "2026-08-28",
+      "title": "Creative Intelligence Software Engineer - Camera and Photos",
+      "job_id": "200673613-0836",
+      "url": "https://jobs.apple.com/en-us/details/200673613-0836/creative-intelligence-software-engineer-camera-and-photos?team=SFTWR"
     }
   }
 }
