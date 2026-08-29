@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200647370-0157": {
-      "first_seen": 1775163183.861568,
-      "posted": "",
-      "title": "Senior Software Engineer, Enterprise Technology Services",
-      "job_id": "200647370-0157"
-    },
     "200647169-3956": {
       "first_seen": 1775163183.861568,
       "posted": "",
@@ -20105,6 +20099,13 @@
       "title": "On-Device ML Infrastructure Engineer (CoreML Runtime), Graphics, Games and Machine Learning",
       "job_id": "200680822-0836",
       "url": "https://jobs.apple.com/en-us/details/200680822-0836/on-device-ml-infrastructure-engineer-coreml-runtime-graphics-games-and-machine-learning?team=SFTWR"
+    },
+    "200680833-3337": {
+      "first_seen": 1787968291.5232537,
+      "posted": "2026-08-29",
+      "title": "On-device ML Performance Engineer, Graphics, Games and Machine Learning",
+      "job_id": "200680833-3337",
+      "url": "https://jobs.apple.com/en-us/details/200680833-3337/on-device-ml-performance-engineer-graphics-games-and-machine-learning?team=SFTWR"
     }
   }
 }
