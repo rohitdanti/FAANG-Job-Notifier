@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200647763-3337": {
-      "first_seen": 1775163183.861567,
-      "posted": "",
-      "title": "Full-Stack Software Engineer - Cloud Capacity Management",
-      "job_id": "200647763-3337"
-    },
     "200632890-0836": {
       "first_seen": 1775163183.861567,
       "posted": "",
@@ -20101,6 +20095,13 @@
       "title": "Specialist, Emergency Services - Sensing & Connectivity",
       "job_id": "200680778-1168",
       "url": "https://jobs.apple.com/en-us/details/200680778-1168/specialist-emergency-services-sensing-connectivity?team=SFTWR"
+    },
+    "200680832-0836": {
+      "first_seen": 1787965888.407285,
+      "posted": "2026-08-29",
+      "title": "On-device ML Performance Engineer, Graphics, Games and Machine Learning",
+      "job_id": "200680832-0836",
+      "url": "https://jobs.apple.com/en-us/details/200680832-0836/on-device-ml-performance-engineer-graphics-games-and-machine-learning?team=SFTWR"
     }
   }
 }
