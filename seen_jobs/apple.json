@@ -4,24 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200632890-0836": {
-      "first_seen": 1775163183.861567,
-      "posted": "",
-      "title": "Software QA Engineer Apple Services Engineering",
-      "job_id": "200632890-0836"
-    },
-    "200632890-3337": {
-      "first_seen": 1775163183.861567,
-      "posted": "",
-      "title": "Software QA Engineer Apple Services Engineering",
-      "job_id": "200632890-3337"
-    },
-    "200647419-0836": {
-      "first_seen": 1775163183.861568,
-      "posted": "",
-      "title": "Camera and Photos - Senior Cinematic Video Software Engineer",
-      "job_id": "200647419-0836"
-    },
     "200647370-0157": {
       "first_seen": 1775163183.861568,
       "posted": "",
@@ -20102,6 +20084,27 @@
       "title": "On-device ML Performance Engineer, Graphics, Games and Machine Learning",
       "job_id": "200680832-0836",
       "url": "https://jobs.apple.com/en-us/details/200680832-0836/on-device-ml-performance-engineer-graphics-games-and-machine-learning?team=SFTWR"
+    },
+    "200680827-3337": {
+      "first_seen": 1787967693.2855234,
+      "posted": "2026-08-29",
+      "title": "On-device ML Engineering Manager (Tools & Services)",
+      "job_id": "200680827-3337",
+      "url": "https://jobs.apple.com/en-us/details/200680827-3337/on-device-ml-engineering-manager-tools-services?team=SFTWR"
+    },
+    "200680446-0836": {
+      "first_seen": 1787967693.2855277,
+      "posted": "2026-08-29",
+      "title": "Software Engineer Simulation Infrastructure",
+      "job_id": "200680446-0836",
+      "url": "https://jobs.apple.com/en-us/details/200680446-0836/software-engineer-simulation-infrastructure?team=SFTWR"
+    },
+    "200680822-0836": {
+      "first_seen": 1787967693.2855296,
+      "posted": "2026-08-29",
+      "title": "On-Device ML Infrastructure Engineer (CoreML Runtime), Graphics, Games and Machine Learning",
+      "job_id": "200680822-0836",
+      "url": "https://jobs.apple.com/en-us/details/200680822-0836/on-device-ml-infrastructure-engineer-coreml-runtime-graphics-games-and-machine-learning?team=SFTWR"
     }
   }
 }
