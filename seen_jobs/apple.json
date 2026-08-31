@@ -4,30 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200647309-0836": {
-      "first_seen": 1775163183.861568,
-      "posted": "",
-      "title": "Senior ML Engineer, Apple Ray, Apple Data Platform",
-      "job_id": "200647309-0836"
-    },
-    "200647309-3337": {
-      "first_seen": 1775163183.861569,
-      "posted": "",
-      "title": "Senior ML Engineer, Apple Ray, Apple Data Platform",
-      "job_id": "200647309-3337"
-    },
-    "200619736-3337": {
-      "first_seen": 1775163183.861569,
-      "posted": "",
-      "title": "Engineering Program Manager, ML Lineage & Lifecycle Platform, Apple Services Engineering",
-      "job_id": "200619736-3337"
-    },
-    "200647366-0836": {
-      "first_seen": 1775163183.861569,
-      "posted": "",
-      "title": "Machine Learning Engineer - News, Books, & Stocks Team",
-      "job_id": "200647366-0836"
-    },
     "200646583-0240": {
       "first_seen": 1775163183.861569,
       "posted": "",
@@ -20108,6 +20084,34 @@
       "title": "Staff Media Applications Engineer, Audio & Media Technologies",
       "job_id": "200680838-0836",
       "url": "https://jobs.apple.com/en-us/details/200680838-0836/staff-media-applications-engineer-audio-media-technologies?team=SFTWR"
+    },
+    "200679196-1025": {
+      "first_seen": 1788189697.6552055,
+      "posted": "2026-08-31",
+      "title": "Optical Network Engineer, Infrastructure Services",
+      "job_id": "200679196-1025",
+      "url": "https://jobs.apple.com/en-us/details/200679196-1025/optical-network-engineer-infrastructure-services?team=SFTWR"
+    },
+    "200679196": {
+      "first_seen": 1788189697.6552112,
+      "posted": "2026-08-31",
+      "title": "Optical Network Engineer, Infrastructure Services",
+      "job_id": "200679196",
+      "url": "https://jobs.apple.com/en-us/details/200679196/optical-network-engineer-infrastructure-services?team=SFTWR"
+    },
+    "200679196-3121": {
+      "first_seen": 1788189697.6552138,
+      "posted": "2026-08-31",
+      "title": "Optical Network Engineer, Infrastructure Services",
+      "job_id": "200679196-3121",
+      "url": "https://jobs.apple.com/en-us/details/200679196-3121/optical-network-engineer-infrastructure-services?team=SFTWR"
+    },
+    "200679196-3401": {
+      "first_seen": 1788189697.655216,
+      "posted": "2026-08-31",
+      "title": "Optical Network Engineer, Infrastructure Services",
+      "job_id": "200679196-3401",
+      "url": "https://jobs.apple.com/en-us/details/200679196-3401/optical-network-engineer-infrastructure-services?team=SFTWR"
     }
   }
 }
