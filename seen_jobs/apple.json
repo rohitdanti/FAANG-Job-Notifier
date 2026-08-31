@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200646583-0240": {
-      "first_seen": 1775163183.861569,
-      "posted": "",
-      "title": "Machine Learning Engineer, Sales Engineering",
-      "job_id": "200646583-0240"
-    },
     "200647389-3337": {
       "first_seen": 1775163183.861569,
       "posted": "",
@@ -20112,6 +20106,13 @@
       "title": "Optical Network Engineer, Infrastructure Services",
       "job_id": "200679196-3401",
       "url": "https://jobs.apple.com/en-us/details/200679196-3401/optical-network-engineer-infrastructure-services?team=SFTWR"
+    },
+    "200680258-0836": {
+      "first_seen": 1788198093.8627198,
+      "posted": "2026-08-31",
+      "title": "AV Project Manager, SWE Employee Experience",
+      "job_id": "200680258-0836",
+      "url": "https://jobs.apple.com/en-us/details/200680258-0836/av-project-manager-swe-employee-experience?team=SFTWR"
     }
   }
 }
