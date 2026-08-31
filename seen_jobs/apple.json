@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200635459-1756": {
-      "first_seen": 1775163183.8615701,
-      "posted": "",
-      "title": "AR/VR Software Development Engineer, Vision Products Software",
-      "job_id": "200635459-1756"
-    },
     "200646828-0836": {
       "first_seen": 1775163183.8615701,
       "posted": "",
@@ -20114,6 +20108,13 @@
       "title": "AIML - Staff ML Infrastructure Engineer, ML Platform & Technology - Pre-training Infrastructure",
       "job_id": "200680978-3401",
       "url": "https://jobs.apple.com/en-us/details/200680978-3401/aiml-staff-ml-infrastructure-engineer-ml-platform-technology-pre-training-infrastructure?team=SFTWR"
+    },
+    "200663776-3543": {
+      "first_seen": 1788200511.4023545,
+      "posted": "2026-08-31",
+      "title": "Software Engineer, Calls Security",
+      "job_id": "200663776-3543",
+      "url": "https://jobs.apple.com/en-us/details/200663776-3543/software-engineer-calls-security?team=SFTWR"
     }
   }
 }
