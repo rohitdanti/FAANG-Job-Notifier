@@ -4,18 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200647169-3956": {
-      "first_seen": 1775163183.861568,
-      "posted": "",
-      "title": "Engineering Manager, Anti-Abuse",
-      "job_id": "200647169-3956"
-    },
-    "200641979-3956": {
-      "first_seen": 1775163183.861568,
-      "posted": "",
-      "title": "Software Engineer (Marcom Interactive Apps), Retail and Marcom Engineering",
-      "job_id": "200641979-3956"
-    },
     "200647309-0836": {
       "first_seen": 1775163183.861568,
       "posted": "",
@@ -20106,6 +20094,20 @@
       "title": "On-device ML Performance Engineer, Graphics, Games and Machine Learning",
       "job_id": "200680833-3337",
       "url": "https://jobs.apple.com/en-us/details/200680833-3337/on-device-ml-performance-engineer-graphics-games-and-machine-learning?team=SFTWR"
+    },
+    "200679583-0157": {
+      "first_seen": 1788181295.0756798,
+      "posted": "2026-08-31",
+      "title": "Sr. Engineering Program Manager - Customer Systems",
+      "job_id": "200679583-0157",
+      "url": "https://jobs.apple.com/en-us/details/200679583-0157/sr-engineering-program-manager-customer-systems?team=SFTWR"
+    },
+    "200680838-0836": {
+      "first_seen": 1788181295.0756845,
+      "posted": "2026-08-31",
+      "title": "Staff Media Applications Engineer, Audio & Media Technologies",
+      "job_id": "200680838-0836",
+      "url": "https://jobs.apple.com/en-us/details/200680838-0836/staff-media-applications-engineer-audio-media-technologies?team=SFTWR"
     }
   }
 }
