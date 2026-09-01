@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200646966-0836": {
-      "first_seen": 1775163183.861575,
-      "posted": "",
-      "title": "Engineering Program Manager, Siri User Experience",
-      "job_id": "200646966-0836"
-    },
     "200646966-3337": {
       "first_seen": 1775163183.861575,
       "posted": "",
@@ -20139,6 +20133,13 @@
       "title": "Lead iCloud Insights Engineer, Services Data Science & Analytics",
       "job_id": "200681257-0836",
       "url": "https://jobs.apple.com/en-us/details/200681257-0836/lead-icloud-insights-engineer-services-data-science-analytics?team=SFTWR"
+    },
+    "200681256-0836": {
+      "first_seen": 1788290512.5979295,
+      "posted": "2026-09-01",
+      "title": "Software Engineer, Commerce Segments and Platform, ASE",
+      "job_id": "200681256-0836",
+      "url": "https://jobs.apple.com/en-us/details/200681256-0836/software-engineer-commerce-segments-and-platform-ase?team=SFTWR"
     }
   }
 }
