@@ -4,18 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200646254-0836": {
-      "first_seen": 1775163183.8615758,
-      "posted": "",
-      "title": "Data Science Leader, AIML Data Operations",
-      "job_id": "200646254-0836"
-    },
-    "200646254-3337": {
-      "first_seen": 1775163183.861577,
-      "posted": "",
-      "title": "Data Science Leader, AIML Data Operations",
-      "job_id": "200646254-3337"
-    },
     "200645753-0836": {
       "first_seen": 1775163183.861577,
       "posted": "",
@@ -20146,6 +20134,20 @@
       "title": "Full Stack Engineer, Graphics, Games, and ML",
       "job_id": "200680950-0836",
       "url": "https://jobs.apple.com/en-us/details/200680950-0836/full-stack-engineer-graphics-games-and-ml?team=SFTWR"
+    },
+    "200681330-3543": {
+      "first_seen": 1788298290.6815147,
+      "posted": "2026-09-01",
+      "title": "Software Engineer, Apple Gift Systems",
+      "job_id": "200681330-3543",
+      "url": "https://jobs.apple.com/en-us/details/200681330-3543/software-engineer-apple-gift-systems?team=SFTWR"
+    },
+    "200681297-3543": {
+      "first_seen": 1788298290.681522,
+      "posted": "2026-09-01",
+      "title": "Software Engineer, Apple Gift Systems",
+      "job_id": "200681297-3543",
+      "url": "https://jobs.apple.com/en-us/details/200681297-3543/software-engineer-apple-gift-systems?team=SFTWR"
     }
   }
 }
