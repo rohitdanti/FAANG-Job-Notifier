@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200646710-0836": {
-      "first_seen": 1775163183.8615758,
-      "posted": "",
-      "title": "Software Engineer in Test - Music Creation Apps",
-      "job_id": "200646710-0836"
-    },
     "200646254-0836": {
       "first_seen": 1775163183.8615758,
       "posted": "",
@@ -20145,6 +20139,13 @@
       "title": "Quality Assurance Engineer - Siri AI Quality Engineering",
       "job_id": "200681214-0836",
       "url": "https://jobs.apple.com/en-us/details/200681214-0836/quality-assurance-engineer-siri-ai-quality-engineering?team=SFTWR"
+    },
+    "200680950-0836": {
+      "first_seen": 1788295289.023071,
+      "posted": "2026-09-01",
+      "title": "Full Stack Engineer, Graphics, Games, and ML",
+      "job_id": "200680950-0836",
+      "url": "https://jobs.apple.com/en-us/details/200680950-0836/full-stack-engineer-graphics-games-and-ml?team=SFTWR"
     }
   }
 }
