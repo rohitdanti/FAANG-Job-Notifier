@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200646073-0836": {
-      "first_seen": 1775163183.861577,
-      "posted": "",
-      "title": "Audio Embedded Software Engineer, Audio & Media Technologies",
-      "job_id": "200646073-0836"
-    },
     "200646518-0836": {
       "first_seen": 1775163183.861578,
       "posted": "",
@@ -20152,6 +20146,13 @@
       "title": "Visual Generation Framework Software Engineer - Proactive",
       "job_id": "200680492-0836",
       "url": "https://jobs.apple.com/en-us/details/200680492-0836/visual-generation-framework-software-engineer-proactive?team=SFTWR"
+    },
+    "200681318-3956": {
+      "first_seen": 1788301891.8497772,
+      "posted": "2026-09-01",
+      "title": "Senior Cellular Layer-1 Control Software Development Engineer, Wireless Technologies & Ecosystems",
+      "job_id": "200681318-3956",
+      "url": "https://jobs.apple.com/en-us/details/200681318-3956/senior-cellular-layer-1-control-software-development-engineer-wireless-technologies-ecosystems?team=SFTWR"
     }
   }
 }
