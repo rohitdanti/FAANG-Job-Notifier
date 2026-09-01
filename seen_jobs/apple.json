@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200646850-0670": {
-      "first_seen": 1775163183.8615732,
-      "posted": "",
-      "title": "Software Development Engineer in Test, Creativity Apps",
-      "job_id": "200646850-0670"
-    },
     "200646850-3543": {
       "first_seen": 1775163183.8615732,
       "posted": "",
@@ -20131,6 +20125,13 @@
       "title": "Sr. Technical Program Manager, AI Enablement",
       "job_id": "200681049-0836",
       "url": "https://jobs.apple.com/en-us/details/200681049-0836/sr-technical-program-manager-ai-enablement?team=SFTWR"
+    },
+    "200678452-3337": {
+      "first_seen": 1788286885.400255,
+      "posted": "2026-09-01",
+      "title": "Senior Platform Software Engineer",
+      "job_id": "200678452-3337",
+      "url": "https://jobs.apple.com/en-us/details/200678452-3337/senior-platform-software-engineer?team=SFTWR"
     }
   }
 }
