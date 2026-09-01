@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200635096-0157": {
-      "first_seen": 1775163183.861572,
-      "posted": "",
-      "title": "Senior Data Engineer",
-      "job_id": "200635096-0157"
-    },
     "200646702-0836": {
       "first_seen": 1775163183.861572,
       "posted": "",
@@ -20125,6 +20119,13 @@
       "title": "Creative Applications: Senior Developer Experience Engineer",
       "job_id": "200681060-3673",
       "url": "https://jobs.apple.com/en-us/details/200681060-3673/creative-applications-senior-developer-experience-engineer?team=SFTWR"
+    },
+    "200679077-3956": {
+      "first_seen": 1788226294.9933436,
+      "posted": "2026-09-01",
+      "title": "Program Manager, BPR: Supply Chain",
+      "job_id": "200679077-3956",
+      "url": "https://jobs.apple.com/en-us/details/200679077-3956/program-manager-bpr-supply-chain?team=SFTWR"
     }
   }
 }
