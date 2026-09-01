@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200646852-3337": {
-      "first_seen": 1775163183.8615732,
-      "posted": "",
-      "title": "Embedded Software and Prototyping Engineer, Vision Products Group",
-      "job_id": "200646852-3337"
-    },
     "200646711-0836": {
       "first_seen": 1775163183.8615732,
       "posted": "",
@@ -20129,6 +20123,13 @@
       "title": "Mail Data Foundations Engineering Manager",
       "job_id": "200663775-3543",
       "url": "https://jobs.apple.com/en-us/details/200663775-3543/mail-data-foundations-engineering-manager?team=SFTWR"
+    },
+    "200680831-3543": {
+      "first_seen": 1788283284.390157,
+      "posted": "2026-09-01",
+      "title": "Wireless Bluetooth Software Engineer, Wireless Technologies & Ecosystems",
+      "job_id": "200680831-3543",
+      "url": "https://jobs.apple.com/en-us/details/200680831-3543/wireless-bluetooth-software-engineer-wireless-technologies-ecosystems?team=SFTWR"
     }
   }
 }
