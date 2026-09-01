@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200641469-0836": {
-      "first_seen": 1775163183.861578,
-      "posted": "",
-      "title": "Software Tools Manager - Graphics, Cartography, and AI",
-      "job_id": "200641469-0836"
-    },
     "200646906-0836": {
       "first_seen": 1775163183.861578,
       "posted": "",
@@ -20157,6 +20151,13 @@
       "title": "Senior Engineering Program Manager, Appl Music - ML & Infrastructure, Apple Services Engineering",
       "job_id": "200679773-0836",
       "url": "https://jobs.apple.com/en-us/details/200679773-0836/senior-engineering-program-manager-appl-music-ml-infrastructure-apple-services-engineering?team=SFTWR"
+    },
+    "200678861-3956": {
+      "first_seen": 1788306097.0060132,
+      "posted": "2026-09-01",
+      "title": "Solutions Architect, Customer Systems",
+      "job_id": "200678861-3956",
+      "url": "https://jobs.apple.com/en-us/details/200678861-3956/solutions-architect-customer-systems?team=SFTWR"
     }
   }
 }
