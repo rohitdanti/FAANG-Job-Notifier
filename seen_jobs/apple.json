@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200647338-0836": {
-      "first_seen": 1775163183.861571,
-      "posted": "",
-      "title": "Developer Publications - Content Engineering Author",
-      "job_id": "200647338-0836"
-    },
     "200647338-3543": {
       "first_seen": 1775163183.861571,
       "posted": "",
@@ -20119,6 +20113,13 @@
       "title": "Sr. Privacy Systems Software Engineer, Sensing & Connectivity",
       "job_id": "200643254-3543",
       "url": "https://jobs.apple.com/en-us/details/200643254-3543/sr-privacy-systems-software-engineer-sensing-connectivity?team=SFTWR"
+    },
+    "200680764-0836": {
+      "first_seen": 1788223295.83661,
+      "posted": "2026-09-01",
+      "title": "Senior Software Engineer - Platform Apps & Technologies",
+      "job_id": "200680764-0836",
+      "url": "https://jobs.apple.com/en-us/details/200680764-0836/senior-software-engineer-platform-apps-technologies?team=SFTWR"
     }
   }
 }
