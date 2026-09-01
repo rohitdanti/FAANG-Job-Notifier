@@ -4,24 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200646931-3543": {
-      "first_seen": 1775163183.861574,
-      "posted": "",
-      "title": "Distinguished Engineer \u2013 Quality Engineering & Performance, Wallet, Payments & Commerce",
-      "job_id": "200646931-3543"
-    },
-    "200646968-0836": {
-      "first_seen": 1775163183.861574,
-      "posted": "",
-      "title": "Computer Vision Software Engineer",
-      "job_id": "200646968-0836"
-    },
-    "200643484-0240": {
-      "first_seen": 1775163183.861575,
-      "posted": "",
-      "title": "DevOps Engineer , Employee Experience & Productivity",
-      "job_id": "200643484-0240"
-    },
     "200646966-0836": {
       "first_seen": 1775163183.861575,
       "posted": "",
@@ -20136,6 +20118,27 @@
       "title": "Software Development Engineer, Data - AI, Search & Knowledge Platforms",
       "job_id": "200681278-3337",
       "url": "https://jobs.apple.com/en-us/details/200681278-3337/software-development-engineer-data-ai-search-knowledge-platforms?team=SFTWR"
+    },
+    "200681257-0157": {
+      "first_seen": 1788288091.4241993,
+      "posted": "2026-09-01",
+      "title": "Lead iCloud Insights Engineer, Services Data Science & Analytics",
+      "job_id": "200681257-0157",
+      "url": "https://jobs.apple.com/en-us/details/200681257-0157/lead-icloud-insights-engineer-services-data-science-analytics?team=SFTWR"
+    },
+    "200681257-0670": {
+      "first_seen": 1788288091.4242055,
+      "posted": "2026-09-01",
+      "title": "Lead iCloud Insights Engineer, Services Data Science & Analytics",
+      "job_id": "200681257-0670",
+      "url": "https://jobs.apple.com/en-us/details/200681257-0670/lead-icloud-insights-engineer-services-data-science-analytics?team=SFTWR"
+    },
+    "200681257-0836": {
+      "first_seen": 1788288091.4242077,
+      "posted": "2026-09-01",
+      "title": "Lead iCloud Insights Engineer, Services Data Science & Analytics",
+      "job_id": "200681257-0836",
+      "url": "https://jobs.apple.com/en-us/details/200681257-0836/lead-icloud-insights-engineer-services-data-science-analytics?team=SFTWR"
     }
   }
 }
