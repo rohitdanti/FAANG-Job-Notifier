@@ -4,30 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200646518-0836": {
-      "first_seen": 1775163183.861578,
-      "posted": "",
-      "title": "Senior Software Engineer - Data",
-      "job_id": "200646518-0836"
-    },
-    "200646518-3337": {
-      "first_seen": 1775163183.861578,
-      "posted": "",
-      "title": "Senior Software Engineer - Data",
-      "job_id": "200646518-3337"
-    },
-    "200646912-0836": {
-      "first_seen": 1775163183.861578,
-      "posted": "",
-      "title": "Pre-Silicon GPU Driver Engineer, Graphics, Game and ML",
-      "job_id": "200646912-0836"
-    },
-    "200646937-0836": {
-      "first_seen": 1775163183.861578,
-      "posted": "",
-      "title": "iOS Software Engineer, AIML Evaluation",
-      "job_id": "200646937-0836"
-    },
     "200641469-0836": {
       "first_seen": 1775163183.861578,
       "posted": "",
@@ -20153,6 +20129,34 @@
       "title": "Senior Cellular Layer-1 Control Software Development Engineer, Wireless Technologies & Ecosystems",
       "job_id": "200681318-3956",
       "url": "https://jobs.apple.com/en-us/details/200681318-3956/senior-cellular-layer-1-control-software-development-engineer-wireless-technologies-ecosystems?team=SFTWR"
+    },
+    "200679046-0157": {
+      "first_seen": 1788303094.703542,
+      "posted": "2026-09-01",
+      "title": "Engineering Program Manager, Security Compliance, Apple Services Engineering",
+      "job_id": "200679046-0157",
+      "url": "https://jobs.apple.com/en-us/details/200679046-0157/engineering-program-manager-security-compliance-apple-services-engineering?team=SFTWR"
+    },
+    "200681350-0836": {
+      "first_seen": 1788303094.7035468,
+      "posted": "2026-09-01",
+      "title": "Software Power Systems Engineer",
+      "job_id": "200681350-0836",
+      "url": "https://jobs.apple.com/en-us/details/200681350-0836/software-power-systems-engineer?team=SFTWR"
+    },
+    "200681270-0836": {
+      "first_seen": 1788303094.7035487,
+      "posted": "2026-09-01",
+      "title": "Simulation Pipeline Technical Artist - Special Projects (Jeff Lind)",
+      "job_id": "200681270-0836",
+      "url": "https://jobs.apple.com/en-us/details/200681270-0836/simulation-pipeline-technical-artist-special-projects-jeff-lind?team=SFTWR"
+    },
+    "200679773-0836": {
+      "first_seen": 1788303094.7035499,
+      "posted": "2026-09-01",
+      "title": "Senior Engineering Program Manager, Appl Music - ML & Infrastructure, Apple Services Engineering",
+      "job_id": "200679773-0836",
+      "url": "https://jobs.apple.com/en-us/details/200679773-0836/senior-engineering-program-manager-appl-music-ml-infrastructure-apple-services-engineering?team=SFTWR"
     }
   }
 }
