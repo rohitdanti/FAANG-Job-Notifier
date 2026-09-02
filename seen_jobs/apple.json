@@ -4,30 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200646760-0157": {
-      "first_seen": 1775163183.8615801,
-      "posted": "",
-      "title": "Mail Operations Lead, Anti Abuse Ops (Trust & Safety)",
-      "job_id": "200646760-0157"
-    },
-    "200646760-0836": {
-      "first_seen": 1775163183.861581,
-      "posted": "",
-      "title": "Mail Operations Lead, Anti Abuse Ops (Trust & Safety)",
-      "job_id": "200646760-0836"
-    },
-    "200646743-0836": {
-      "first_seen": 1775163183.861581,
-      "posted": "",
-      "title": "Applied Machine Learning Engineer - Customer Feedback",
-      "job_id": "200646743-0836"
-    },
-    "200645824-0836": {
-      "first_seen": 1775163183.861581,
-      "posted": "",
-      "title": "Senior Software Engineer - UI and Performance",
-      "job_id": "200645824-0836"
-    },
     "200645033-0836": {
       "first_seen": 1775163183.861581,
       "posted": "",
@@ -20169,6 +20145,34 @@
       "title": "AIML Data Operations, Senior Vendor Manager",
       "job_id": "200661924-0836",
       "url": "https://jobs.apple.com/en-us/details/200661924-0836/aiml-data-operations-senior-vendor-manager?team=SFTWR"
+    },
+    "200681519-0836": {
+      "first_seen": 1788370895.1292388,
+      "posted": "2026-09-02",
+      "title": "Software Engineer - SWE Ops Infrastructure & Planning",
+      "job_id": "200681519-0836",
+      "url": "https://jobs.apple.com/en-us/details/200681519-0836/software-engineer-swe-ops-infrastructure-planning?team=SFTWR"
+    },
+    "200681519-3543": {
+      "first_seen": 1788370895.1292434,
+      "posted": "2026-09-02",
+      "title": "Software Engineer - SWE Ops Infrastructure & Planning",
+      "job_id": "200681519-3543",
+      "url": "https://jobs.apple.com/en-us/details/200681519-3543/software-engineer-swe-ops-infrastructure-planning?team=SFTWR"
+    },
+    "200681529-0836": {
+      "first_seen": 1788370895.1292453,
+      "posted": "2026-09-02",
+      "title": "Program Manager, SWE Central Operations",
+      "job_id": "200681529-0836",
+      "url": "https://jobs.apple.com/en-us/details/200681529-0836/program-manager-swe-central-operations?team=SFTWR"
+    },
+    "200680648-0240": {
+      "first_seen": 1788370895.1292467,
+      "posted": "2026-09-02",
+      "title": "Software Engineer (ServiceNow Developer), G&A Solutions Engineering",
+      "job_id": "200680648-0240",
+      "url": "https://jobs.apple.com/en-us/details/200680648-0240/software-engineer-servicenow-developer-g-a-solutions-engineering?team=SFTWR"
     }
   }
 }
