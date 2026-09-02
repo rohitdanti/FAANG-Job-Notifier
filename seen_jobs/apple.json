@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200646592-3401": {
-      "first_seen": 1775163183.861579,
-      "posted": "",
-      "title": "Engineering Project Manager (SAP Payments & Trade In), IS&T Enterprise Systems",
-      "job_id": "200646592-3401"
-    },
     "200646856-0836": {
       "first_seen": 1775163183.861579,
       "posted": "",
@@ -20160,6 +20154,13 @@
       "title": "Software Engineer, Apple Pay \u2014 Wallet, Payments & Commerce (WPC)",
       "job_id": "200681309-1435",
       "url": "https://jobs.apple.com/en-us/details/200681309-1435/software-engineer-apple-pay-wallet-payments-commerce-wpc?team=SFTWR"
+    },
+    "200681348-3337": {
+      "first_seen": 1788359495.026859,
+      "posted": "2026-09-02",
+      "title": "Senior Software Engineer - Compute",
+      "job_id": "200681348-3337",
+      "url": "https://jobs.apple.com/en-us/details/200681348-3337/senior-software-engineer-compute?team=SFTWR"
     }
   }
 }
