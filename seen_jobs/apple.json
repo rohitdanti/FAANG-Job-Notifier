@@ -4,36 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200646879-3543": {
-      "first_seen": 1775163183.861579,
-      "posted": "",
-      "title": "Machine Learning & Data Scientist, OS Power & Performance, CoreOS",
-      "job_id": "200646879-3543"
-    },
-    "200646876-0836": {
-      "first_seen": 1775163183.861579,
-      "posted": "",
-      "title": "Software Development Engineering Manager, Device Management, Core OS",
-      "job_id": "200646876-0836"
-    },
-    "200646671-0836": {
-      "first_seen": 1775163183.8615801,
-      "posted": "",
-      "title": "Software Engineer, Siri Frameworks",
-      "job_id": "200646671-0836"
-    },
-    "200646880-0836": {
-      "first_seen": 1775163183.8615801,
-      "posted": "",
-      "title": "Machine Learning Manager, Siri Speech",
-      "job_id": "200646880-0836"
-    },
-    "200646843-3337": {
-      "first_seen": 1775163183.8615801,
-      "posted": "",
-      "title": "Software Engineering Manager - CI/CD",
-      "job_id": "200646843-3337"
-    },
     "200646684-3956": {
       "first_seen": 1775163183.8615801,
       "posted": "",
@@ -20163,6 +20133,41 @@
       "title": "Professional Services Consultant",
       "job_id": "200678708-0836",
       "url": "https://jobs.apple.com/en-us/details/200678708-0836/professional-services-consultant?team=SFTWR"
+    },
+    "200679473-0157": {
+      "first_seen": 1788369093.1865082,
+      "posted": "2026-09-02",
+      "title": "AIML Data Engineer",
+      "job_id": "200679473-0157",
+      "url": "https://jobs.apple.com/en-us/details/200679473-0157/aiml-data-engineer?team=SFTWR"
+    },
+    "200680237-0157": {
+      "first_seen": 1788369093.1865165,
+      "posted": "2026-09-02",
+      "title": "Solutions Architect, AppleCare Technologies",
+      "job_id": "200680237-0157",
+      "url": "https://jobs.apple.com/en-us/details/200680237-0157/solutions-architect-applecare-technologies?team=SFTWR"
+    },
+    "200680237-3956": {
+      "first_seen": 1788369093.1865196,
+      "posted": "2026-09-02",
+      "title": "Solutions Architect, AppleCare Technologies",
+      "job_id": "200680237-3956",
+      "url": "https://jobs.apple.com/en-us/details/200680237-3956/solutions-architect-applecare-technologies?team=SFTWR"
+    },
+    "200680445-0157": {
+      "first_seen": 1788369093.1865215,
+      "posted": "2026-09-02",
+      "title": "Systems Strategist, AppleCare Technologies",
+      "job_id": "200680445-0157",
+      "url": "https://jobs.apple.com/en-us/details/200680445-0157/systems-strategist-applecare-technologies?team=SFTWR"
+    },
+    "200680445-3956": {
+      "first_seen": 1788369093.1865242,
+      "posted": "2026-09-02",
+      "title": "Systems Strategist, AppleCare Technologies",
+      "job_id": "200680445-3956",
+      "url": "https://jobs.apple.com/en-us/details/200680445-3956/systems-strategist-applecare-technologies?team=SFTWR"
     }
   }
 }
