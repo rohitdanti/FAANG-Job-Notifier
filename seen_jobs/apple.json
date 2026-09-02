@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200636399-0157": {
-      "first_seen": 1775163183.861582,
-      "posted": "",
-      "title": "iOS Software Engineer, Corporate Systems Engineering",
-      "job_id": "200636399-0157"
-    },
     "200646567-0836": {
       "first_seen": 1775163183.861582,
       "posted": "",
@@ -20179,6 +20173,13 @@
       "title": "On-device ML Infrastructure Engineer (Orchestration & Performance)",
       "job_id": "200680834-0836",
       "url": "https://jobs.apple.com/en-us/details/200680834-0836/on-device-ml-infrastructure-engineer-orchestration-performance?team=SFTWR"
+    },
+    "200681266-3543": {
+      "first_seen": 1788378695.543479,
+      "posted": "2026-09-02",
+      "title": "Software Engineer, Calls Security",
+      "job_id": "200681266-3543",
+      "url": "https://jobs.apple.com/en-us/details/200681266-3543/software-engineer-calls-security?team=SFTWR"
     }
   }
 }
