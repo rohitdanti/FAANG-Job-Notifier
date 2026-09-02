@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200617928-3337": {
-      "first_seen": 1775163183.861582,
-      "posted": "",
-      "title": "Software Engineer, Siri Runtime Systems and Interaction",
-      "job_id": "200617928-3337"
-    },
     "200636399-0157": {
       "first_seen": 1775163183.861582,
       "posted": "",
@@ -20178,6 +20172,13 @@
       "title": "Engineering Project Manager- Customer Systems - Support Engineering Solutions",
       "job_id": "200681103-3956",
       "url": "https://jobs.apple.com/en-us/details/200681103-3956/engineering-project-manager-customer-systems-support-engineering-solutions?team=SFTWR"
+    },
+    "200680834-0836": {
+      "first_seen": 1788373298.5049944,
+      "posted": "2026-09-02",
+      "title": "On-device ML Infrastructure Engineer (Orchestration & Performance)",
+      "job_id": "200680834-0836",
+      "url": "https://jobs.apple.com/en-us/details/200680834-0836/on-device-ml-infrastructure-engineer-orchestration-performance?team=SFTWR"
     }
   }
 }
