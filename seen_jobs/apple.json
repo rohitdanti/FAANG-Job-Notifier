@@ -4,18 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200645033-0836": {
-      "first_seen": 1775163183.861581,
-      "posted": "",
-      "title": "Full Stack Sofware Engineer, Creativity Apps",
-      "job_id": "200645033-0836"
-    },
-    "200646699-0836": {
-      "first_seen": 1775163183.861581,
-      "posted": "",
-      "title": "Software Engineering Manager, Siri Runtime Systems and Interaction",
-      "job_id": "200646699-0836"
-    },
     "200645549-3337": {
       "first_seen": 1775163183.861581,
       "posted": "",
@@ -20173,6 +20161,20 @@
       "title": "Software Engineer (ServiceNow Developer), G&A Solutions Engineering",
       "job_id": "200680648-0240",
       "url": "https://jobs.apple.com/en-us/details/200680648-0240/software-engineer-servicenow-developer-g-a-solutions-engineering?team=SFTWR"
+    },
+    "200658150-0836": {
+      "first_seen": 1788372098.0066326,
+      "posted": "2026-09-02",
+      "title": "On-Device ML Compiler Engineer, Model Compilation, Graphics, Games and Machine Learning",
+      "job_id": "200658150-0836",
+      "url": "https://jobs.apple.com/en-us/details/200658150-0836/on-device-ml-compiler-engineer-model-compilation-graphics-games-and-machine-learning?team=SFTWR"
+    },
+    "200681089-3956": {
+      "first_seen": 1788372098.0066364,
+      "posted": "2026-09-02",
+      "title": "Infrastructure Compliance Engineer- Retail Eng Apps & Services",
+      "job_id": "200681089-3956",
+      "url": "https://jobs.apple.com/en-us/details/200681089-3956/infrastructure-compliance-engineer-retail-eng-apps-services?team=SFTWR"
     }
   }
 }
