@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200646550-0836": {
-      "first_seen": 1775163183.861582,
-      "posted": "",
-      "title": "Communication Engineering Project Manager, Apps",
-      "job_id": "200646550-0836"
-    },
     "200646230-0836": {
       "first_seen": 1775163183.861583,
       "posted": "",
@@ -20181,6 +20175,13 @@
       "title": "FTL Platform Firmware Engineer",
       "job_id": "200681619-0157",
       "url": "https://jobs.apple.com/en-us/details/200681619-0157/ftl-platform-firmware-engineer?team=SFTWR"
+    },
+    "200681331-0836": {
+      "first_seen": 1788389497.5385156,
+      "posted": "2026-09-02",
+      "title": "Streaming Media QE Web Automation Engineer, Graphics, Games, and ML",
+      "job_id": "200681331-0836",
+      "url": "https://jobs.apple.com/en-us/details/200681331-0836/streaming-media-qe-web-automation-engineer-graphics-games-and-ml?team=SFTWR"
     }
   }
 }
