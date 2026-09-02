@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200646567-0836": {
-      "first_seen": 1775163183.861582,
-      "posted": "",
-      "title": "Manager, Software Image Quality, Creativity Apps",
-      "job_id": "200646567-0836"
-    },
     "200646550-0836": {
       "first_seen": 1775163183.861582,
       "posted": "",
@@ -20180,6 +20174,13 @@
       "title": "Software Engineer, Calls Security",
       "job_id": "200681266-3543",
       "url": "https://jobs.apple.com/en-us/details/200681266-3543/software-engineer-calls-security?team=SFTWR"
+    },
+    "200681619-0157": {
+      "first_seen": 1788388320.1686895,
+      "posted": "2026-09-02",
+      "title": "FTL Platform Firmware Engineer",
+      "job_id": "200681619-0157",
+      "url": "https://jobs.apple.com/en-us/details/200681619-0157/ftl-platform-firmware-engineer?team=SFTWR"
     }
   }
 }
