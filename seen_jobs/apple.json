@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200646684-3956": {
-      "first_seen": 1775163183.8615801,
-      "posted": "",
-      "title": "Firmware Engineer - Apple Neural Engine",
-      "job_id": "200646684-3956"
-    },
     "200646760-0157": {
       "first_seen": 1775163183.8615801,
       "posted": "",
@@ -20168,6 +20162,13 @@
       "title": "Systems Strategist, AppleCare Technologies",
       "job_id": "200680445-3956",
       "url": "https://jobs.apple.com/en-us/details/200680445-3956/systems-strategist-applecare-technologies?team=SFTWR"
+    },
+    "200661924-0836": {
+      "first_seen": 1788369687.0729744,
+      "posted": "2026-09-02",
+      "title": "AIML Data Operations, Senior Vendor Manager",
+      "job_id": "200661924-0836",
+      "url": "https://jobs.apple.com/en-us/details/200661924-0836/aiml-data-operations-senior-vendor-manager?team=SFTWR"
     }
   }
 }
