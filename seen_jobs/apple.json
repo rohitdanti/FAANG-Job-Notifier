@@ -4,18 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200646220-0836": {
-      "first_seen": 1775163183.861584,
-      "posted": "",
-      "title": "Full-stack Software Engineer",
-      "job_id": "200646220-0836"
-    },
-    "200646338-0836": {
-      "first_seen": 1775163183.861584,
-      "posted": "",
-      "title": "Senior Data Scientist, Apple Services Engineering",
-      "job_id": "200646338-0836"
-    },
     "200646338-3577": {
       "first_seen": 1775163183.861584,
       "posted": "",
@@ -20190,6 +20178,20 @@
       "title": "Engineering Project Manager, BPR: Supply Chain",
       "job_id": "200680280-3956",
       "url": "https://jobs.apple.com/en-us/details/200680280-3956/engineering-project-manager-bpr-supply-chain?team=SFTWR"
+    },
+    "200681516-3543": {
+      "first_seen": 1788463907.1183536,
+      "posted": "2026-09-03",
+      "title": "Engineering Project Manager - Software Beta Program",
+      "job_id": "200681516-3543",
+      "url": "https://jobs.apple.com/en-us/details/200681516-3543/engineering-project-manager-software-beta-program?team=SFTWR"
+    },
+    "200681513-3543": {
+      "first_seen": 1788463907.1183577,
+      "posted": "2026-09-03",
+      "title": "Manager - Customer Feedback EPMs",
+      "job_id": "200681513-3543",
+      "url": "https://jobs.apple.com/en-us/details/200681513-3543/manager-customer-feedback-epms?team=SFTWR"
     }
   }
 }
