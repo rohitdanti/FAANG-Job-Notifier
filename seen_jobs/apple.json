@@ -4,18 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200642085-0240": {
-      "first_seen": 1775163183.861584,
-      "posted": "",
-      "title": "Software Engineer, Ai & Data Platforms",
-      "job_id": "200642085-0240"
-    },
-    "200646247-3543": {
-      "first_seen": 1775163183.861584,
-      "posted": "",
-      "title": "Software Performance Engineer, Audio & Media Technologies",
-      "job_id": "200646247-3543"
-    },
     "200646289-3337": {
       "first_seen": 1775163183.861585,
       "posted": "",
@@ -20193,6 +20181,20 @@
       "title": "Senior Software Engineer - Security",
       "job_id": "200679870-3337",
       "url": "https://jobs.apple.com/en-us/details/200679870-3337/senior-software-engineer-security?team=SFTWR"
+    },
+    "200681003-0670": {
+      "first_seen": 1788468693.3902218,
+      "posted": "2026-09-03",
+      "title": "Senior Product Data Scientist, Media Services",
+      "job_id": "200681003-0670",
+      "url": "https://jobs.apple.com/en-us/details/200681003-0670/senior-product-data-scientist-media-services?team=SFTWR"
+    },
+    "200681003-0836": {
+      "first_seen": 1788468693.3902302,
+      "posted": "2026-09-03",
+      "title": "Senior Product Data Scientist, Media Services",
+      "job_id": "200681003-0836",
+      "url": "https://jobs.apple.com/en-us/details/200681003-0836/senior-product-data-scientist-media-services?team=SFTWR"
     }
   }
 }
