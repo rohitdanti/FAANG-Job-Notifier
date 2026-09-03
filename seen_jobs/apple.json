@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200646338-3577": {
-      "first_seen": 1775163183.861584,
-      "posted": "",
-      "title": "Senior Data Scientist, Apple Services Engineering",
-      "job_id": "200646338-3577"
-    },
     "200642085-0240": {
       "first_seen": 1775163183.861584,
       "posted": "",
@@ -20192,6 +20186,13 @@
       "title": "Manager - Customer Feedback EPMs",
       "job_id": "200681513-3543",
       "url": "https://jobs.apple.com/en-us/details/200681513-3543/manager-customer-feedback-epms?team=SFTWR"
+    },
+    "200679870-3337": {
+      "first_seen": 1788466308.6431816,
+      "posted": "2026-09-03",
+      "title": "Senior Software Engineer - Security",
+      "job_id": "200679870-3337",
+      "url": "https://jobs.apple.com/en-us/details/200679870-3337/senior-software-engineer-security?team=SFTWR"
     }
   }
 }
