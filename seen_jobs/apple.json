@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200646289-3337": {
-      "first_seen": 1775163183.861585,
-      "posted": "",
-      "title": "Systems Framework Engineer, Vision Products Group",
-      "job_id": "200646289-3337"
-    },
     "200646289-3956": {
       "first_seen": 1775163183.861585,
       "posted": "",
@@ -20195,6 +20189,13 @@
       "title": "Senior Product Data Scientist, Media Services",
       "job_id": "200681003-0836",
       "url": "https://jobs.apple.com/en-us/details/200681003-0836/senior-product-data-scientist-media-services?team=SFTWR"
+    },
+    "200631981-0836": {
+      "first_seen": 1788470493.2476196,
+      "posted": "2026-09-03",
+      "title": "Director of Software Engineering, Comms Apps Teams",
+      "job_id": "200631981-0836",
+      "url": "https://jobs.apple.com/en-us/details/200631981-0836/director-of-software-engineering-comms-apps-teams?team=SFTWR"
     }
   }
 }
