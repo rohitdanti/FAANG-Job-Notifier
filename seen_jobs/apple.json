@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200626114-0157": {
-      "first_seen": 1775163183.861585,
-      "posted": "",
-      "title": "AI/ML Engineer (GenAI), G&A Solutions Engineering (GSE)",
-      "job_id": "200626114-0157"
-    },
     "200643826-3956": {
       "first_seen": 1775163183.8615859,
       "posted": "",
@@ -20198,6 +20192,13 @@
       "title": "App Store Digital Asset Manager",
       "job_id": "200681785-0836",
       "url": "https://jobs.apple.com/en-us/details/200681785-0836/app-store-digital-asset-manager?team=SFTWR"
+    },
+    "200680450-0836": {
+      "first_seen": 1788473487.9924245,
+      "posted": "2026-09-03",
+      "title": "Sr. Game Artist",
+      "job_id": "200680450-0836",
+      "url": "https://jobs.apple.com/en-us/details/200680450-0836/sr-game-artist?team=SFTWR"
     }
   }
 }
