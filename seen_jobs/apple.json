@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200643826-3956": {
-      "first_seen": 1775163183.8615859,
-      "posted": "",
-      "title": "Engineering Program Manager - Customer Systems",
-      "job_id": "200643826-3956"
-    },
     "200645366-3543": {
       "first_seen": 1775163183.8615859,
       "posted": "",
@@ -20199,6 +20193,13 @@
       "title": "Sr. Game Artist",
       "job_id": "200680450-0836",
       "url": "https://jobs.apple.com/en-us/details/200680450-0836/sr-game-artist?team=SFTWR"
+    },
+    "200681561-0836": {
+      "first_seen": 1788474087.0553021,
+      "posted": "2026-09-03",
+      "title": "Applied Machine Learning Engineer - Localization",
+      "job_id": "200681561-0836",
+      "url": "https://jobs.apple.com/en-us/details/200681561-0836/applied-machine-learning-engineer-localization?team=SFTWR"
     }
   }
 }
