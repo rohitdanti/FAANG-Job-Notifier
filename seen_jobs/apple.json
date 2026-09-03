@@ -4,18 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200646289-3956": {
-      "first_seen": 1775163183.861585,
-      "posted": "",
-      "title": "Systems Framework Engineer, Vision Products Group",
-      "job_id": "200646289-3956"
-    },
-    "200646309-3956": {
-      "first_seen": 1775163183.861585,
-      "posted": "",
-      "title": "Full-Stack Software Engineer",
-      "job_id": "200646309-3956"
-    },
     "200626114-0157": {
       "first_seen": 1775163183.861585,
       "posted": "",
@@ -20196,6 +20184,20 @@
       "title": "Director of Software Engineering, Comms Apps Teams",
       "job_id": "200631981-0836",
       "url": "https://jobs.apple.com/en-us/details/200631981-0836/director-of-software-engineering-comms-apps-teams?team=SFTWR"
+    },
+    "200681785-0670": {
+      "first_seen": 1788472892.4501977,
+      "posted": "2026-09-03",
+      "title": "App Store Digital Asset Manager",
+      "job_id": "200681785-0670",
+      "url": "https://jobs.apple.com/en-us/details/200681785-0670/app-store-digital-asset-manager?team=SFTWR"
+    },
+    "200681785-0836": {
+      "first_seen": 1788472892.4502046,
+      "posted": "2026-09-03",
+      "title": "App Store Digital Asset Manager",
+      "job_id": "200681785-0836",
+      "url": "https://jobs.apple.com/en-us/details/200681785-0836/app-store-digital-asset-manager?team=SFTWR"
     }
   }
 }
