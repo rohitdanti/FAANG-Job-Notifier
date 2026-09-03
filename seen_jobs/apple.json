@@ -4,18 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200644813-0836": {
-      "first_seen": 1775163183.861584,
-      "posted": "",
-      "title": "Software Engineer - iWork Team",
-      "job_id": "200644813-0836"
-    },
-    "200644813-2926": {
-      "first_seen": 1775163183.861584,
-      "posted": "",
-      "title": "Software Engineer - iWork Team",
-      "job_id": "200644813-2926"
-    },
     "200646220-0836": {
       "first_seen": 1775163183.861584,
       "posted": "",
@@ -20188,6 +20176,20 @@
       "title": "Software Development Engineer - Test",
       "job_id": "200681743-0836",
       "url": "https://jobs.apple.com/en-us/details/200681743-0836/software-development-engineer-test?team=SFTWR"
+    },
+    "200681653-0836": {
+      "first_seen": 1788459706.5713193,
+      "posted": "2026-09-03",
+      "title": "Research Scientist, Applied Machine Learning Security (Agent Systems), SEAR",
+      "job_id": "200681653-0836",
+      "url": "https://jobs.apple.com/en-us/details/200681653-0836/research-scientist-applied-machine-learning-security-agent-systems-sear?team=SFTWR"
+    },
+    "200680280-3956": {
+      "first_seen": 1788459706.5713239,
+      "posted": "2026-09-03",
+      "title": "Engineering Project Manager, BPR: Supply Chain",
+      "job_id": "200680280-3956",
+      "url": "https://jobs.apple.com/en-us/details/200680280-3956/engineering-project-manager-bpr-supply-chain?team=SFTWR"
     }
   }
 }
