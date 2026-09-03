@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200618378-0836": {
-      "first_seen": 1775163183.861583,
-      "posted": "",
-      "title": "Senior Software Engineer - Solution Architecture & Platform, ASE",
-      "job_id": "200618378-0836"
-    },
     "200645833-2459": {
       "first_seen": 1775163183.861583,
       "posted": "",
@@ -20184,6 +20178,13 @@
       "title": "Senior Software Engineer, iCloud Foundation",
       "job_id": "200681645-3337",
       "url": "https://jobs.apple.com/en-us/details/200681645-3337/senior-software-engineer-icloud-foundation?team=SFTWR"
+    },
+    "200629526-3543": {
+      "first_seen": 1788440504.7163355,
+      "posted": "2026-09-03",
+      "title": "Senior Server Software Engineer - Health Software",
+      "job_id": "200629526-3543",
+      "url": "https://jobs.apple.com/en-us/details/200629526-3543/senior-server-software-engineer-health-software?team=SFTWR"
     }
   }
 }
