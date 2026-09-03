@@ -4,24 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200645833-2459": {
-      "first_seen": 1775163183.861583,
-      "posted": "",
-      "title": "ML Engineering Manager, Gen AI Frameworks Team",
-      "job_id": "200645833-2459"
-    },
-    "200646308-2459": {
-      "first_seen": 1775163183.861583,
-      "posted": "",
-      "title": "Senior Platform Software Engineer, Operational Data",
-      "job_id": "200646308-2459"
-    },
-    "200646074-2926": {
-      "first_seen": 1775163183.861583,
-      "posted": "",
-      "title": "Software Engineer, Visual Productivity",
-      "job_id": "200646074-2926"
-    },
     "200644813-0836": {
       "first_seen": 1775163183.861584,
       "posted": "",
@@ -20185,6 +20167,27 @@
       "title": "Senior Server Software Engineer - Health Software",
       "job_id": "200629526-3543",
       "url": "https://jobs.apple.com/en-us/details/200629526-3543/senior-server-software-engineer-health-software?team=SFTWR"
+    },
+    "200681654-3543": {
+      "first_seen": 1788455514.3705766,
+      "posted": "2026-09-03",
+      "title": "Software Engineer - Build Support Engineering",
+      "job_id": "200681654-3543",
+      "url": "https://jobs.apple.com/en-us/details/200681654-3543/software-engineer-build-support-engineering?team=SFTWR"
+    },
+    "200681743-1242": {
+      "first_seen": 1788455514.3705854,
+      "posted": "2026-09-03",
+      "title": "Software Development Engineer - Test",
+      "job_id": "200681743-1242",
+      "url": "https://jobs.apple.com/en-us/details/200681743-1242/software-development-engineer-test?team=SFTWR"
+    },
+    "200681743-0836": {
+      "first_seen": 1788455514.3705878,
+      "posted": "2026-09-03",
+      "title": "Software Development Engineer - Test",
+      "job_id": "200681743-0836",
+      "url": "https://jobs.apple.com/en-us/details/200681743-0836/software-development-engineer-test?team=SFTWR"
     }
   }
 }
