@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200645992-0670": {
-      "first_seen": 1775163183.861589,
-      "posted": "",
-      "title": "iOS Engineer, Creativity Apps",
-      "job_id": "200645992-0670"
-    },
     "200645992-0836": {
       "first_seen": 1775163183.861589,
       "posted": "",
@@ -20216,6 +20210,13 @@
       "title": "Senior Systems Engineer - Special Projects",
       "job_id": "200681868-0836",
       "url": "https://jobs.apple.com/en-us/details/200681868-0836/senior-systems-engineer-special-projects?team=SFTWR"
+    },
+    "200679654-0836": {
+      "first_seen": 1788556906.740555,
+      "posted": "2026-09-04",
+      "title": "Lead AI Engineer, Finance Digital Transformation",
+      "job_id": "200679654-0836",
+      "url": "https://jobs.apple.com/en-us/details/200679654-0836/lead-ai-engineer-finance-digital-transformation?team=SFTWR"
     }
   }
 }
