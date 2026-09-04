@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200646063-0157": {
-      "first_seen": 1775163183.861588,
-      "posted": "",
-      "title": "Engineering Project Manager- Data Foundation (Wallet and Payments)",
-      "job_id": "200646063-0157"
-    },
     "200646041-0670": {
       "first_seen": 1775163183.861588,
       "posted": "",
@@ -20210,6 +20204,13 @@
       "title": "Program Manager, BPR: Supply Chain",
       "job_id": "200682019-3956",
       "url": "https://jobs.apple.com/en-us/details/200682019-3956/program-manager-bpr-supply-chain?team=SFTWR"
+    },
+    "200682044-3543": {
+      "first_seen": 1788551510.0480971,
+      "posted": "2026-09-04",
+      "title": "Applied AI/ML Software Engineer",
+      "job_id": "200682044-3543",
+      "url": "https://jobs.apple.com/en-us/details/200682044-3543/applied-ai-ml-software-engineer?team=SFTWR"
     }
   }
 }
