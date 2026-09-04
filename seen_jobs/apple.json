@@ -4,30 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200645366-3543": {
-      "first_seen": 1775163183.8615859,
-      "posted": "",
-      "title": "OS Performance Engineer, CoreOS",
-      "job_id": "200645366-3543"
-    },
-    "200646159-3543": {
-      "first_seen": 1775163183.8615859,
-      "posted": "",
-      "title": "Java Server Engineer-iCloud Products",
-      "job_id": "200646159-3543"
-    },
-    "200646169-0157": {
-      "first_seen": 1775163183.8615859,
-      "posted": "",
-      "title": "Site Reliability Engineer \u2014 Info Apps",
-      "job_id": "200646169-0157"
-    },
-    "200646169-0836": {
-      "first_seen": 1775163183.8615859,
-      "posted": "",
-      "title": "Site Reliability Engineer \u2014 Info Apps",
-      "job_id": "200646169-0836"
-    },
     "200646169-3543": {
       "first_seen": 1775163183.861587,
       "posted": "",
@@ -20200,6 +20176,34 @@
       "title": "Applied Machine Learning Engineer - Localization",
       "job_id": "200681561-0836",
       "url": "https://jobs.apple.com/en-us/details/200681561-0836/applied-machine-learning-engineer-localization?team=SFTWR"
+    },
+    "200681859-0157": {
+      "first_seen": 1788489107.3758876,
+      "posted": "2026-09-04",
+      "title": "Secure Systems Engineer - Platform Architecture Security Team",
+      "job_id": "200681859-0157",
+      "url": "https://jobs.apple.com/en-us/details/200681859-0157/secure-systems-engineer-platform-architecture-security-team?team=SFTWR"
+    },
+    "200681859-0505": {
+      "first_seen": 1788489107.375892,
+      "posted": "2026-09-04",
+      "title": "Secure Systems Engineer - Platform Architecture Security Team",
+      "job_id": "200681859-0505",
+      "url": "https://jobs.apple.com/en-us/details/200681859-0505/secure-systems-engineer-platform-architecture-security-team?team=SFTWR"
+    },
+    "200681859-0836": {
+      "first_seen": 1788489107.375894,
+      "posted": "2026-09-04",
+      "title": "Secure Systems Engineer - Platform Architecture Security Team",
+      "job_id": "200681859-0836",
+      "url": "https://jobs.apple.com/en-us/details/200681859-0836/secure-systems-engineer-platform-architecture-security-team?team=SFTWR"
+    },
+    "200681859-3543": {
+      "first_seen": 1788489107.3758953,
+      "posted": "2026-09-04",
+      "title": "Secure Systems Engineer - Platform Architecture Security Team",
+      "job_id": "200681859-3543",
+      "url": "https://jobs.apple.com/en-us/details/200681859-3543/secure-systems-engineer-platform-architecture-security-team?team=SFTWR"
     }
   }
 }
