@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200646057-0836": {
-      "first_seen": 1775163183.861589,
-      "posted": "",
-      "title": "Manager, Software Developer in Test, Creativity Apps",
-      "job_id": "200646057-0836"
-    },
     "200645992-0670": {
       "first_seen": 1775163183.861589,
       "posted": "",
@@ -20215,6 +20209,13 @@
       "title": "Sr. Software Engineering Manager, UI Rendering",
       "job_id": "200631982-0836",
       "url": "https://jobs.apple.com/en-us/details/200631982-0836/sr-software-engineering-manager-ui-rendering?team=SFTWR"
+    },
+    "200681868-0836": {
+      "first_seen": 1788556290.730404,
+      "posted": "2026-09-04",
+      "title": "Senior Systems Engineer - Special Projects",
+      "job_id": "200681868-0836",
+      "url": "https://jobs.apple.com/en-us/details/200681868-0836/senior-systems-engineer-special-projects?team=SFTWR"
     }
   }
 }
