@@ -4,30 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200646041-0670": {
-      "first_seen": 1775163183.861588,
-      "posted": "",
-      "title": "iOS Engineer, Creativity Apps",
-      "job_id": "200646041-0670"
-    },
-    "200646041-0836": {
-      "first_seen": 1775163183.861588,
-      "posted": "",
-      "title": "iOS Engineer, Creativity Apps",
-      "job_id": "200646041-0836"
-    },
-    "200646041-3543": {
-      "first_seen": 1775163183.861588,
-      "posted": "",
-      "title": "iOS Engineer, Creativity Apps",
-      "job_id": "200646041-3543"
-    },
-    "200646041-3673": {
-      "first_seen": 1775163183.861588,
-      "posted": "",
-      "title": "iOS Engineer, Creativity Apps",
-      "job_id": "200646041-3673"
-    },
     "200646057-0836": {
       "first_seen": 1775163183.861589,
       "posted": "",
@@ -20211,6 +20187,34 @@
       "title": "Applied AI/ML Software Engineer",
       "job_id": "200682044-3543",
       "url": "https://jobs.apple.com/en-us/details/200682044-3543/applied-ai-ml-software-engineer?team=SFTWR"
+    },
+    "200682065-0836": {
+      "first_seen": 1788555084.364191,
+      "posted": "2026-09-04",
+      "title": "Software Engineering Manager - Analytics Platform",
+      "job_id": "200682065-0836",
+      "url": "https://jobs.apple.com/en-us/details/200682065-0836/software-engineering-manager-analytics-platform?team=SFTWR"
+    },
+    "200682033-0836": {
+      "first_seen": 1788555084.364196,
+      "posted": "2026-09-04",
+      "title": "Machine Learning Researcher Multi-Modal Reasoning",
+      "job_id": "200682033-0836",
+      "url": "https://jobs.apple.com/en-us/details/200682033-0836/machine-learning-researcher-multi-modal-reasoning?team=SFTWR"
+    },
+    "200682033-3337": {
+      "first_seen": 1788555084.3641982,
+      "posted": "2026-09-04",
+      "title": "Machine Learning Researcher Multi-Modal Reasoning",
+      "job_id": "200682033-3337",
+      "url": "https://jobs.apple.com/en-us/details/200682033-3337/machine-learning-researcher-multi-modal-reasoning?team=SFTWR"
+    },
+    "200631982-0836": {
+      "first_seen": 1788555084.3641994,
+      "posted": "2026-09-04",
+      "title": "Sr. Software Engineering Manager, UI Rendering",
+      "job_id": "200631982-0836",
+      "url": "https://jobs.apple.com/en-us/details/200631982-0836/sr-software-engineering-manager-ui-rendering?team=SFTWR"
     }
   }
 }
