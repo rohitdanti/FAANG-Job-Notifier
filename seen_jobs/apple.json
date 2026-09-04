@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200617504-3956": {
-      "first_seen": 1775163183.861588,
-      "posted": "",
-      "title": "Software Engineering Project Manager (EPM) - Apple Vision Pro",
-      "job_id": "200617504-3956"
-    },
     "200646063-0157": {
       "first_seen": 1775163183.861588,
       "posted": "",
@@ -20209,6 +20203,13 @@
       "title": "Data Engineer, Apple Ads",
       "job_id": "200681997-2459",
       "url": "https://jobs.apple.com/en-us/details/200681997-2459/data-engineer-apple-ads?team=SFTWR"
+    },
+    "200682019-3956": {
+      "first_seen": 1788547299.3454385,
+      "posted": "2026-09-04",
+      "title": "Program Manager, BPR: Supply Chain",
+      "job_id": "200682019-3956",
+      "url": "https://jobs.apple.com/en-us/details/200682019-3956/program-manager-bpr-supply-chain?team=SFTWR"
     }
   }
 }
