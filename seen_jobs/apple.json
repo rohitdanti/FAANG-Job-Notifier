@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200646169-3543": {
-      "first_seen": 1775163183.861587,
-      "posted": "",
-      "title": "Site Reliability Engineer \u2014 Info Apps",
-      "job_id": "200646169-3543"
-    },
     "200617052-3401": {
       "first_seen": 1775163183.861587,
       "posted": "",
@@ -20204,6 +20198,13 @@
       "title": "Secure Systems Engineer - Platform Architecture Security Team",
       "job_id": "200681859-3543",
       "url": "https://jobs.apple.com/en-us/details/200681859-3543/secure-systems-engineer-platform-architecture-security-team?team=SFTWR"
+    },
+    "200679049-3337": {
+      "first_seen": 1788526905.4855986,
+      "posted": "2026-09-04",
+      "title": "Engineering Program Manager, Apple Services Engineering",
+      "job_id": "200679049-3337",
+      "url": "https://jobs.apple.com/en-us/details/200679049-3337/engineering-program-manager-apple-services-engineering?team=SFTWR"
     }
   }
 }
