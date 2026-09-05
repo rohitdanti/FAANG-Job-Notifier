@@ -4,30 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200645992-0836": {
-      "first_seen": 1775163183.861589,
-      "posted": "",
-      "title": "iOS Engineer, Creativity Apps",
-      "job_id": "200645992-0836"
-    },
-    "200645992-3543": {
-      "first_seen": 1775163183.861589,
-      "posted": "",
-      "title": "iOS Engineer, Creativity Apps",
-      "job_id": "200645992-3543"
-    },
-    "200645992-3673": {
-      "first_seen": 1775163183.861589,
-      "posted": "",
-      "title": "iOS Engineer, Creativity Apps",
-      "job_id": "200645992-3673"
-    },
-    "200646141-0157": {
-      "first_seen": 1775163183.86159,
-      "posted": "",
-      "title": "ML Engineer - Creator Studio",
-      "job_id": "200646141-0157"
-    },
     "200646141-1435": {
       "first_seen": 1775163183.86159,
       "posted": "",
@@ -20217,6 +20193,34 @@
       "title": "Lead AI Engineer, Finance Digital Transformation",
       "job_id": "200679654-0836",
       "url": "https://jobs.apple.com/en-us/details/200679654-0836/lead-ai-engineer-finance-digital-transformation?team=SFTWR"
+    },
+    "200673777-0017": {
+      "first_seen": 1788567690.323635,
+      "posted": "2026-09-05",
+      "title": "Claris Enterprise Field Sales Representative",
+      "job_id": "200673777-0017",
+      "url": "https://jobs.apple.com/en-us/details/200673777-0017/claris-enterprise-field-sales-representative?team=SFTWR"
+    },
+    "200673777-3543": {
+      "first_seen": 1788567690.3236396,
+      "posted": "2026-09-05",
+      "title": "Claris Enterprise Field Sales Representative",
+      "job_id": "200673777-3543",
+      "url": "https://jobs.apple.com/en-us/details/200673777-3543/claris-enterprise-field-sales-representative?team=SFTWR"
+    },
+    "200673777-3956": {
+      "first_seen": 1788567690.323641,
+      "posted": "2026-09-05",
+      "title": "Claris Enterprise Field Sales Representative",
+      "job_id": "200673777-3956",
+      "url": "https://jobs.apple.com/en-us/details/200673777-3956/claris-enterprise-field-sales-representative?team=SFTWR"
+    },
+    "200673777-4079": {
+      "first_seen": 1788567690.3236427,
+      "posted": "2026-09-05",
+      "title": "Claris Enterprise Field Sales Representative",
+      "job_id": "200673777-4079",
+      "url": "https://jobs.apple.com/en-us/details/200673777-4079/claris-enterprise-field-sales-representative?team=SFTWR"
     }
   }
 }
