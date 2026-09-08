@@ -4,24 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200646141-3337": {
-      "first_seen": 1775163183.86159,
-      "posted": "",
-      "title": "ML Engineer - Creator Studio",
-      "job_id": "200646141-3337"
-    },
-    "200646098-0836": {
-      "first_seen": 1775163183.86159,
-      "posted": "",
-      "title": "Senior iCloud Efficiency Engineer",
-      "job_id": "200646098-0836"
-    },
-    "200646098-3543": {
-      "first_seen": 1775163183.861591,
-      "posted": "",
-      "title": "Senior iCloud Efficiency Engineer",
-      "job_id": "200646098-3543"
-    },
     "200646098-3577": {
       "first_seen": 1775163183.861591,
       "posted": "",
@@ -20225,6 +20207,27 @@
       "title": "Sr. Machine Learning Engineer, Speech LLM Evaluation",
       "job_id": "200682418-0836",
       "url": "https://jobs.apple.com/en-us/details/200682418-0836/sr-machine-learning-engineer-speech-llm-evaluation?team=SFTWR"
+    },
+    "200681304-0157": {
+      "first_seen": 1788900713.450192,
+      "posted": "2026-09-08",
+      "title": "Data Center Capacity Planner, Infrastructure Services",
+      "job_id": "200681304-0157",
+      "url": "https://jobs.apple.com/en-us/details/200681304-0157/data-center-capacity-planner-infrastructure-services?team=SFTWR"
+    },
+    "200681304-0776": {
+      "first_seen": 1788900713.4501977,
+      "posted": "2026-09-08",
+      "title": "Data Center Capacity Planner, Infrastructure Services",
+      "job_id": "200681304-0776",
+      "url": "https://jobs.apple.com/en-us/details/200681304-0776/data-center-capacity-planner-infrastructure-services?team=SFTWR"
+    },
+    "200681304-3956": {
+      "first_seen": 1788900713.4501998,
+      "posted": "2026-09-08",
+      "title": "Data Center Capacity Planner, Infrastructure Services",
+      "job_id": "200681304-3956",
+      "url": "https://jobs.apple.com/en-us/details/200681304-3956/data-center-capacity-planner-infrastructure-services?team=SFTWR"
     }
   }
 }
