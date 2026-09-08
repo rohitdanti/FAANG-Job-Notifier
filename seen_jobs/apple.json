@@ -4,18 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200645036-0836": {
-      "first_seen": 1775163183.861592,
-      "posted": "",
-      "title": "Software Image Quality Engineer - Creativity Apps",
-      "job_id": "200645036-0836"
-    },
-    "200645396-0670": {
-      "first_seen": 1775163183.861592,
-      "posted": "",
-      "title": "Software QA Engineer, Machine Learning - Creativity Apps",
-      "job_id": "200645396-0670"
-    },
     "200645396-0836": {
       "first_seen": 1775163183.861592,
       "posted": "",
@@ -20233,6 +20221,20 @@
       "title": "Automation and Design Test Engineer, Siri",
       "job_id": "200651908-3337",
       "url": "https://jobs.apple.com/en-us/details/200651908-3337/automation-and-design-test-engineer-siri?team=SFTWR"
+    },
+    "200682462-0836": {
+      "first_seen": 1788907905.7551758,
+      "posted": "2026-09-08",
+      "title": "Software Engineer, Applied ML",
+      "job_id": "200682462-0836",
+      "url": "https://jobs.apple.com/en-us/details/200682462-0836/software-engineer-applied-ml?team=SFTWR"
+    },
+    "200681340-0836": {
+      "first_seen": 1788907905.7551844,
+      "posted": "2026-09-08",
+      "title": "Wireless Bluetooth Quality Engineer, Wireless Technologies & Ecosystems",
+      "job_id": "200681340-0836",
+      "url": "https://jobs.apple.com/en-us/details/200681340-0836/wireless-bluetooth-quality-engineer-wireless-technologies-ecosystems?team=SFTWR"
     }
   }
 }
