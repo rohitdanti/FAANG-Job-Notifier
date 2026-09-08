@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200646141-3543": {
-      "first_seen": 1775163183.86159,
-      "posted": "",
-      "title": "ML Engineer - Creator Studio",
-      "job_id": "200646141-3543"
-    },
     "200646141-3337": {
       "first_seen": 1775163183.86159,
       "posted": "",
@@ -20224,6 +20218,13 @@
       "title": "Software Engineer, Accessibility",
       "job_id": "200681778-0836",
       "url": "https://jobs.apple.com/en-us/details/200681778-0836/software-engineer-accessibility?team=SFTWR"
+    },
+    "200682418-0836": {
+      "first_seen": 1788890497.7589161,
+      "posted": "2026-09-08",
+      "title": "Sr. Machine Learning Engineer, Speech LLM Evaluation",
+      "job_id": "200682418-0836",
+      "url": "https://jobs.apple.com/en-us/details/200682418-0836/sr-machine-learning-engineer-speech-llm-evaluation?team=SFTWR"
     }
   }
 }
