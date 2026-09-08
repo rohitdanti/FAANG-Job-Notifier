@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200646141-0836": {
-      "first_seen": 1775163183.86159,
-      "posted": "",
-      "title": "ML Engineer - Creator Studio",
-      "job_id": "200646141-0836"
-    },
     "200646141-2926": {
       "first_seen": 1775163183.86159,
       "posted": "",
@@ -20222,6 +20216,13 @@
       "title": "Pricing Technical Product Manager",
       "job_id": "200679672-0836",
       "url": "https://jobs.apple.com/en-us/details/200679672-0836/pricing-technical-product-manager?team=SFTWR"
+    },
+    "200682395-3543": {
+      "first_seen": 1788886899.355356,
+      "posted": "2026-09-08",
+      "title": "Software Development Engineer in Test - Contacts, Phone, FaceTime",
+      "job_id": "200682395-3543",
+      "url": "https://jobs.apple.com/en-us/details/200682395-3543/software-development-engineer-in-test-contacts-phone-facetime?team=SFTWR"
     }
   }
 }
