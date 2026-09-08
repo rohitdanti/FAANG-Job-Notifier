@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200646098-3577": {
-      "first_seen": 1775163183.861591,
-      "posted": "",
-      "title": "Senior iCloud Efficiency Engineer",
-      "job_id": "200646098-3577"
-    },
     "200646098-3337": {
       "first_seen": 1775163183.861591,
       "posted": "",
@@ -20228,6 +20222,13 @@
       "title": "Data Center Capacity Planner, Infrastructure Services",
       "job_id": "200681304-3956",
       "url": "https://jobs.apple.com/en-us/details/200681304-3956/data-center-capacity-planner-infrastructure-services?team=SFTWR"
+    },
+    "200681844-3956": {
+      "first_seen": 1788901891.5342944,
+      "posted": "2026-09-08",
+      "title": "Technical Release Manager, Retail and Marcom Engineering",
+      "job_id": "200681844-3956",
+      "url": "https://jobs.apple.com/en-us/details/200681844-3956/technical-release-manager-retail-and-marcom-engineering?team=SFTWR"
     }
   }
 }
