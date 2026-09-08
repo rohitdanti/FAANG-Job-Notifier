@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200645996-0157": {
-      "first_seen": 1775163183.861591,
-      "posted": "",
-      "title": "Software Engineer (C++), Supply Chain Integration",
-      "job_id": "200645996-0157"
-    },
     "200645220-0836": {
       "first_seen": 1775163183.861591,
       "posted": "",
@@ -20230,6 +20224,13 @@
       "title": "UI Frameworks Engineer, Swift Platform Experience",
       "job_id": "200681247-0836",
       "url": "https://jobs.apple.com/en-us/details/200681247-0836/ui-frameworks-engineer-swift-platform-experience?team=SFTWR"
+    },
+    "200682482-0836": {
+      "first_seen": 1788904900.7568364,
+      "posted": "2026-09-08",
+      "title": "Performance & Automation Test Engineer, Creativity Apps",
+      "job_id": "200682482-0836",
+      "url": "https://jobs.apple.com/en-us/details/200682482-0836/performance-automation-test-engineer-creativity-apps?team=SFTWR"
     }
   }
 }
