@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200646141-2926": {
-      "first_seen": 1775163183.86159,
-      "posted": "",
-      "title": "ML Engineer - Creator Studio",
-      "job_id": "200646141-2926"
-    },
     "200646141-3543": {
       "first_seen": 1775163183.86159,
       "posted": "",
@@ -20223,6 +20217,13 @@
       "title": "Software Development Engineer in Test - Contacts, Phone, FaceTime",
       "job_id": "200682395-3543",
       "url": "https://jobs.apple.com/en-us/details/200682395-3543/software-development-engineer-in-test-contacts-phone-facetime?team=SFTWR"
+    },
+    "200681778-0836": {
+      "first_seen": 1788888121.4968717,
+      "posted": "2026-09-08",
+      "title": "Software Engineer, Accessibility",
+      "job_id": "200681778-0836",
+      "url": "https://jobs.apple.com/en-us/details/200681778-0836/software-engineer-accessibility?team=SFTWR"
     }
   }
 }
