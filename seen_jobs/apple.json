@@ -4,18 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200645220-0836": {
-      "first_seen": 1775163183.861591,
-      "posted": "",
-      "title": "HomeKit Software Engineer, Wireless Technologies & Ecosystems",
-      "job_id": "200645220-0836"
-    },
-    "200645944-0157": {
-      "first_seen": 1775163183.861591,
-      "posted": "",
-      "title": "Senior Site Reliability Engineer",
-      "job_id": "200645944-0157"
-    },
     "200645036-0836": {
       "first_seen": 1775163183.861592,
       "posted": "",
@@ -20231,6 +20219,20 @@
       "title": "Performance & Automation Test Engineer, Creativity Apps",
       "job_id": "200682482-0836",
       "url": "https://jobs.apple.com/en-us/details/200682482-0836/performance-automation-test-engineer-creativity-apps?team=SFTWR"
+    },
+    "200651908-3401": {
+      "first_seen": 1788905487.4760046,
+      "posted": "2026-09-08",
+      "title": "Automation and Design Test Engineer, Siri",
+      "job_id": "200651908-3401",
+      "url": "https://jobs.apple.com/en-us/details/200651908-3401/automation-and-design-test-engineer-siri?team=SFTWR"
+    },
+    "200651908-3337": {
+      "first_seen": 1788905487.4760094,
+      "posted": "2026-09-08",
+      "title": "Automation and Design Test Engineer, Siri",
+      "job_id": "200651908-3337",
+      "url": "https://jobs.apple.com/en-us/details/200651908-3337/automation-and-design-test-engineer-siri?team=SFTWR"
     }
   }
 }
