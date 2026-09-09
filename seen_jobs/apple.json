@@ -4,18 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200636664-0836": {
-      "first_seen": 1775163183.8615942,
-      "posted": "",
-      "title": "Senior Software Engineer (Technical Architect) - Wallet Platforms",
-      "job_id": "200636664-0836"
-    },
-    "200645990-3543": {
-      "first_seen": 1775163183.861595,
-      "posted": "",
-      "title": "Software Development Engineer in Test (SDET), Wallet Payments & Commerce",
-      "job_id": "200645990-3543"
-    },
     "200645984-0157": {
       "first_seen": 1775163183.861595,
       "posted": "",
@@ -20249,6 +20237,20 @@
       "title": "Site Reliability Engineer - ML, Apple Ads",
       "job_id": "200682786-2459",
       "url": "https://jobs.apple.com/en-us/details/200682786-2459/site-reliability-engineer-ml-apple-ads?team=SFTWR"
+    },
+    "200682685-0836": {
+      "first_seen": 1788991893.1822634,
+      "posted": "2026-09-09",
+      "title": "Software Engineer, Apple Ads",
+      "job_id": "200682685-0836",
+      "url": "https://jobs.apple.com/en-us/details/200682685-0836/software-engineer-apple-ads?team=SFTWR"
+    },
+    "200682706-0157": {
+      "first_seen": 1788991893.1822684,
+      "posted": "2026-09-09",
+      "title": "Software Engineer, Apple Ads",
+      "job_id": "200682706-0157",
+      "url": "https://jobs.apple.com/en-us/details/200682706-0157/software-engineer-apple-ads?team=SFTWR"
     }
   }
 }
