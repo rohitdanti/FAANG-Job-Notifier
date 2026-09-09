@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200646097-0836": {
-      "first_seen": 1775163183.861592,
-      "posted": "",
-      "title": "Clinical Implementation Specialist",
-      "job_id": "200646097-0836"
-    },
     "200646002-0836": {
       "first_seen": 1775163183.861593,
       "posted": "",
@@ -20238,6 +20232,13 @@
       "title": "AppleCare Data Privacy Project Manager",
       "job_id": "200680514-3956",
       "url": "https://jobs.apple.com/en-us/details/200680514-3956/applecare-data-privacy-project-manager?team=SFTWR"
+    },
+    "200682667-0836": {
+      "first_seen": 1788968504.4916847,
+      "posted": "2026-09-09",
+      "title": "Quality Engineer, Tools and Automation",
+      "job_id": "200682667-0836",
+      "url": "https://jobs.apple.com/en-us/details/200682667-0836/quality-engineer-tools-and-automation?team=SFTWR"
     }
   }
 }
