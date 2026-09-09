@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200645396-0836": {
-      "first_seen": 1775163183.861592,
-      "posted": "",
-      "title": "Software QA Engineer, Machine Learning - Creativity Apps",
-      "job_id": "200645396-0836"
-    },
     "200645396-3543": {
       "first_seen": 1775163183.861592,
       "posted": "",
@@ -20235,6 +20229,13 @@
       "title": "Wireless Bluetooth Quality Engineer, Wireless Technologies & Ecosystems",
       "job_id": "200681340-0836",
       "url": "https://jobs.apple.com/en-us/details/200681340-0836/wireless-bluetooth-quality-engineer-wireless-technologies-ecosystems?team=SFTWR"
+    },
+    "200666131-0836": {
+      "first_seen": 1788916888.7070196,
+      "posted": "2026-09-09",
+      "title": "Senior Manager, Media Services, Apple Services Engineering",
+      "job_id": "200666131-0836",
+      "url": "https://jobs.apple.com/en-us/details/200666131-0836/senior-manager-media-services-apple-services-engineering?team=SFTWR"
     }
   }
 }
