@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200645763-0836": {
-      "first_seen": 1775163183.861593,
-      "posted": "",
-      "title": "Software QA Engineer, Apps",
-      "job_id": "200645763-0836"
-    },
     "200644805-3337": {
       "first_seen": 1775163183.8615942,
       "posted": "",
@@ -20242,6 +20236,13 @@
       "title": "Research Scientist, Applied Machine Learning Security (Agent Systems), SEAR",
       "job_id": "200682701-0836",
       "url": "https://jobs.apple.com/en-us/details/200682701-0836/research-scientist-applied-machine-learning-security-agent-systems-sear?team=SFTWR"
+    },
+    "200671804-0157": {
+      "first_seen": 1788979285.8204224,
+      "posted": "2026-09-09",
+      "title": "Senior Software Engineer \u2014 Full Stack (Node.js/TypeScript/functional)",
+      "job_id": "200671804-0157",
+      "url": "https://jobs.apple.com/en-us/details/200671804-0157/senior-software-engineer-full-stack-node-js-typescript-functional?team=SFTWR"
     }
   }
 }
