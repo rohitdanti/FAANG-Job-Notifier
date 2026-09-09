@@ -4,24 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200644805-3337": {
-      "first_seen": 1775163183.8615942,
-      "posted": "",
-      "title": "Engineering Program Manager - ASE / iCloud Platform",
-      "job_id": "200644805-3337"
-    },
-    "200645811-1435": {
-      "first_seen": 1775163183.8615942,
-      "posted": "",
-      "title": "Software Engineer - Creator Studio",
-      "job_id": "200645811-1435"
-    },
-    "200645811-0836": {
-      "first_seen": 1775163183.8615942,
-      "posted": "",
-      "title": "Software Engineer - Creator Studio",
-      "job_id": "200645811-0836"
-    },
     "200645811-2926": {
       "first_seen": 1775163183.8615942,
       "posted": "",
@@ -20243,6 +20225,27 @@
       "title": "Senior Software Engineer \u2014 Full Stack (Node.js/TypeScript/functional)",
       "job_id": "200671804-0157",
       "url": "https://jobs.apple.com/en-us/details/200671804-0157/senior-software-engineer-full-stack-node-js-typescript-functional?team=SFTWR"
+    },
+    "200674663-3956": {
+      "first_seen": 1788981687.545058,
+      "posted": "2026-09-09",
+      "title": "Claris Developer Advocate",
+      "job_id": "200674663-3956",
+      "url": "https://jobs.apple.com/en-us/details/200674663-3956/claris-developer-advocate?team=SFTWR"
+    },
+    "200676676-0836": {
+      "first_seen": 1788981687.545062,
+      "posted": "2026-09-09",
+      "title": "Screening & Integration Engineer, Watch Software, Sensing & Connectivity",
+      "job_id": "200676676-0836",
+      "url": "https://jobs.apple.com/en-us/details/200676676-0836/screening-integration-engineer-watch-software-sensing-connectivity?team=SFTWR"
+    },
+    "200676676-3543": {
+      "first_seen": 1788981687.545064,
+      "posted": "2026-09-09",
+      "title": "Screening & Integration Engineer, Watch Software, Sensing & Connectivity",
+      "job_id": "200676676-3543",
+      "url": "https://jobs.apple.com/en-us/details/200676676-3543/screening-integration-engineer-watch-software-sensing-connectivity?team=SFTWR"
     }
   }
 }
