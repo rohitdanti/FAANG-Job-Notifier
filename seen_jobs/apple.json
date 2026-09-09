@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200645811-2926": {
-      "first_seen": 1775163183.8615942,
-      "posted": "",
-      "title": "Software Engineer - Creator Studio",
-      "job_id": "200645811-2926"
-    },
     "200645811-3543": {
       "first_seen": 1775163183.8615942,
       "posted": "",
@@ -20246,6 +20240,13 @@
       "title": "Screening & Integration Engineer, Watch Software, Sensing & Connectivity",
       "job_id": "200676676-3543",
       "url": "https://jobs.apple.com/en-us/details/200676676-3543/screening-integration-engineer-watch-software-sensing-connectivity?team=SFTWR"
+    },
+    "200682687-3337": {
+      "first_seen": 1788982885.7063994,
+      "posted": "2026-09-09",
+      "title": "Senior Software Engineer - Security Frameworks",
+      "job_id": "200682687-3337",
+      "url": "https://jobs.apple.com/en-us/details/200682687-3337/senior-software-engineer-security-frameworks?team=SFTWR"
     }
   }
 }
