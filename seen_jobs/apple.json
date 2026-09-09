@@ -4,24 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200646002-0836": {
-      "first_seen": 1775163183.861593,
-      "posted": "",
-      "title": "Senior Software Development Engineer in Test",
-      "job_id": "200646002-0836"
-    },
-    "200635013-0240": {
-      "first_seen": 1775163183.861593,
-      "posted": "",
-      "title": "Software Engineer (Full Stack), eBusiness Services",
-      "job_id": "200635013-0240"
-    },
-    "200629853-3956": {
-      "first_seen": 1775163183.861593,
-      "posted": "",
-      "title": "Software Engineer (Graph), Supply Chain Integration",
-      "job_id": "200629853-3956"
-    },
     "200645763-0836": {
       "first_seen": 1775163183.861593,
       "posted": "",
@@ -20239,6 +20221,27 @@
       "title": "Quality Engineer, Tools and Automation",
       "job_id": "200682667-0836",
       "url": "https://jobs.apple.com/en-us/details/200682667-0836/quality-engineer-tools-and-automation?team=SFTWR"
+    },
+    "200677400-0836": {
+      "first_seen": 1788977492.3727205,
+      "posted": "2026-09-09",
+      "title": "Sr Software Engineer, Customer Systems",
+      "job_id": "200677400-0836",
+      "url": "https://jobs.apple.com/en-us/details/200677400-0836/sr-software-engineer-customer-systems?team=SFTWR"
+    },
+    "200677400-3956": {
+      "first_seen": 1788977492.3727257,
+      "posted": "2026-09-09",
+      "title": "Sr Software Engineer, Customer Systems",
+      "job_id": "200677400-3956",
+      "url": "https://jobs.apple.com/en-us/details/200677400-3956/sr-software-engineer-customer-systems?team=SFTWR"
+    },
+    "200682701-0836": {
+      "first_seen": 1788977492.372728,
+      "posted": "2026-09-09",
+      "title": "Research Scientist, Applied Machine Learning Security (Agent Systems), SEAR",
+      "job_id": "200682701-0836",
+      "url": "https://jobs.apple.com/en-us/details/200682701-0836/research-scientist-applied-machine-learning-security-agent-systems-sear?team=SFTWR"
     }
   }
 }
