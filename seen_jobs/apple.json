@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200643883-3956": {
-      "first_seen": 1775163183.861599,
-      "posted": "",
-      "title": "Engineering Program Manager (Strategic Programs), Retail & Marcom Engineering",
-      "job_id": "200643883-3956"
-    },
     "200645378-0670": {
       "first_seen": 1775163183.861599,
       "posted": "",
@@ -20272,6 +20266,13 @@
       "title": "Studies Project Manager - Health",
       "job_id": "200683124-3956",
       "url": "https://jobs.apple.com/en-us/details/200683124-3956/studies-project-manager-health?team=SFTWR"
+    },
+    "200682986-3543": {
+      "first_seen": 1789083687.9436154,
+      "posted": "2026-09-10",
+      "title": "Client Software Engineer - Private Cloud Compute",
+      "job_id": "200682986-3543",
+      "url": "https://jobs.apple.com/en-us/details/200682986-3543/client-software-engineer-private-cloud-compute?team=SFTWR"
     }
   }
 }
