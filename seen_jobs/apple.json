@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200645984-2926": {
-      "first_seen": 1775163183.861595,
-      "posted": "",
-      "title": "iOS Engineer, Creativity Apps",
-      "job_id": "200645984-2926"
-    },
     "200645984-3543": {
       "first_seen": 1775163183.861595,
       "posted": "",
@@ -20252,6 +20246,13 @@
       "title": "Bluetooth Embedded Software Engineer, Wireless Technologies & Ecosystems",
       "job_id": "200643923-0836",
       "url": "https://jobs.apple.com/en-us/details/200643923-0836/bluetooth-embedded-software-engineer-wireless-technologies-ecosystems?team=SFTWR"
+    },
+    "200682819-0836": {
+      "first_seen": 1788999096.486336,
+      "posted": "2026-09-10",
+      "title": "Senior Software Engineer, SWE Program Tools",
+      "job_id": "200682819-0836",
+      "url": "https://jobs.apple.com/en-us/details/200682819-0836/senior-software-engineer-swe-program-tools?team=SFTWR"
     }
   }
 }
