@@ -4,24 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200645656-0670": {
-      "first_seen": 1775163183.8615968,
-      "posted": "",
-      "title": "UX Writer, Customer Journeys",
-      "job_id": "200645656-0670"
-    },
-    "200644331-0670": {
-      "first_seen": 1775163183.8615968,
-      "posted": "",
-      "title": "Product Management Lead, TV App Platforms",
-      "job_id": "200644331-0670"
-    },
-    "200644331-0836": {
-      "first_seen": 1775163183.8615968,
-      "posted": "",
-      "title": "Product Management Lead, TV App Platforms",
-      "job_id": "200644331-0836"
-    },
     "200645032-0836": {
       "first_seen": 1775163183.8615968,
       "posted": "",
@@ -20258,6 +20240,27 @@
       "title": "iOS Engineer - AppleTV (tvOS)",
       "job_id": "200683052-0836",
       "url": "https://jobs.apple.com/en-us/details/200683052-0836/ios-engineer-appletv-tvos?team=SFTWR"
+    },
+    "200682994-0836": {
+      "first_seen": 1789067495.497924,
+      "posted": "2026-09-10",
+      "title": "Senior Software Engineer, Apple Ads",
+      "job_id": "200682994-0836",
+      "url": "https://jobs.apple.com/en-us/details/200682994-0836/senior-software-engineer-apple-ads?team=SFTWR"
+    },
+    "200682996-0157": {
+      "first_seen": 1789067495.4979308,
+      "posted": "2026-09-10",
+      "title": "Senior Software Engineer, Apple Ads",
+      "job_id": "200682996-0157",
+      "url": "https://jobs.apple.com/en-us/details/200682996-0157/senior-software-engineer-apple-ads?team=SFTWR"
+    },
+    "200683061-2459": {
+      "first_seen": 1789067495.4979331,
+      "posted": "2026-09-10",
+      "title": "Senior Software Engineer",
+      "job_id": "200683061-2459",
+      "url": "https://jobs.apple.com/en-us/details/200683061-2459/senior-software-engineer?team=SFTWR"
     }
   }
 }
