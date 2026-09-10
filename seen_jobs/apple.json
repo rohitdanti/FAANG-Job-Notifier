@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200620241-3337": {
-      "first_seen": 1775163183.861598,
-      "posted": "",
-      "title": "AIML - Sr Engineering Program Manager, Apple Intelligence and Model Evaluation",
-      "job_id": "200620241-3337"
-    },
     "200645328-0836": {
       "first_seen": 1775163183.861598,
       "posted": "",
@@ -20267,6 +20261,13 @@
       "title": "Wireless Bluetooth Software Engineer, Wireless Technologies & Ecosystems",
       "job_id": "200683088-3543",
       "url": "https://jobs.apple.com/en-us/details/200683088-3543/wireless-bluetooth-software-engineer-wireless-technologies-ecosystems?team=SFTWR"
+    },
+    "200682058-0836": {
+      "first_seen": 1789077691.3848772,
+      "posted": "2026-09-10",
+      "title": "System Software Developer",
+      "job_id": "200682058-0836",
+      "url": "https://jobs.apple.com/en-us/details/200682058-0836/system-software-developer?team=SFTWR"
     }
   }
 }
