@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200645032-3543": {
-      "first_seen": 1775163183.8615968,
-      "posted": "",
-      "title": "Data Scientist, Subscription Analytics",
-      "job_id": "200645032-3543"
-    },
     "200645032-3337": {
       "first_seen": 1775163183.8615968,
       "posted": "",
@@ -20262,6 +20256,13 @@
       "title": "Senior Performance Engineer, Apple Services Engineering",
       "job_id": "200682079-3337",
       "url": "https://jobs.apple.com/en-us/details/200682079-3337/senior-performance-engineer-apple-services-engineering?team=SFTWR"
+    },
+    "200683055-0836": {
+      "first_seen": 1789069316.0003622,
+      "posted": "2026-09-10",
+      "title": "Sr. Machine Learning Engineer, ML Systems Evaluation Engineering",
+      "job_id": "200683055-0836",
+      "url": "https://jobs.apple.com/en-us/details/200683055-0836/sr-machine-learning-engineer-ml-systems-evaluation-engineering?team=SFTWR"
     }
   }
 }
