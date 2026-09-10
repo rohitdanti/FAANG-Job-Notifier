@@ -4,18 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200645328-0836": {
-      "first_seen": 1775163183.861598,
-      "posted": "",
-      "title": "Senior Product Manager \u2013 Databases",
-      "job_id": "200645328-0836"
-    },
-    "200645328-3337": {
-      "first_seen": 1775163183.861599,
-      "posted": "",
-      "title": "Senior Product Manager \u2013 Databases",
-      "job_id": "200645328-3337"
-    },
     "200645529-0670": {
       "first_seen": 1775163183.861599,
       "posted": "",
@@ -20268,6 +20256,20 @@
       "title": "System Software Developer",
       "job_id": "200682058-0836",
       "url": "https://jobs.apple.com/en-us/details/200682058-0836/system-software-developer?team=SFTWR"
+    },
+    "200682755-0836": {
+      "first_seen": 1789078893.5524795,
+      "posted": "2026-09-10",
+      "title": "Sr Product Manager, Apple Savings",
+      "job_id": "200682755-0836",
+      "url": "https://jobs.apple.com/en-us/details/200682755-0836/sr-product-manager-apple-savings?team=SFTWR"
+    },
+    "200682755-2459": {
+      "first_seen": 1789078893.5524845,
+      "posted": "2026-09-10",
+      "title": "Sr Product Manager, Apple Savings",
+      "job_id": "200682755-2459",
+      "url": "https://jobs.apple.com/en-us/details/200682755-2459/sr-product-manager-apple-savings?team=SFTWR"
     }
   }
 }
