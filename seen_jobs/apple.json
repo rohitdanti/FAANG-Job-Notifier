@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200631119-3956": {
-      "first_seen": 1775163183.861598,
-      "posted": "",
-      "title": "Software Application Support Engineer, Retail & Marcom Engineering",
-      "job_id": "200631119-3956"
-    },
     "200643225-0836": {
       "first_seen": 1775163183.861598,
       "posted": "",
@@ -20264,6 +20258,13 @@
       "title": "Senior Site Reliability Engineer - iCloud / Apple Services Engineering",
       "job_id": "200649118-3337",
       "url": "https://jobs.apple.com/en-us/details/200649118-3337/senior-site-reliability-engineer-icloud-apple-services-engineering?team=SFTWR"
+    },
+    "200683024-0836": {
+      "first_seen": 1789074096.6866236,
+      "posted": "2026-09-10",
+      "title": "Data & Analytics Engineer, Health & Fitness, Sensing & Connectivity",
+      "job_id": "200683024-0836",
+      "url": "https://jobs.apple.com/en-us/details/200683024-0836/data-analytics-engineer-health-fitness-sensing-connectivity?team=SFTWR"
     }
   }
 }
