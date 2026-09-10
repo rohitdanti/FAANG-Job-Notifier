@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200614648-0836": {
-      "first_seen": 1775163183.861595,
-      "posted": "",
-      "title": "AI/ML - Senior OS Software Engineer, Evaluation",
-      "job_id": "200614648-0836"
-    },
     "200645819-0836": {
       "first_seen": 1775163183.8615959,
       "posted": "",
@@ -20255,6 +20249,13 @@
       "title": "Senior Machine Learning Engineer",
       "job_id": "200677492-3337",
       "url": "https://jobs.apple.com/en-us/details/200677492-3337/senior-machine-learning-engineer?team=SFTWR"
+    },
+    "200682437-3543": {
+      "first_seen": 1789056691.284918,
+      "posted": "2026-09-10",
+      "title": "Software Quality Engineer - Media, Graphics & Compute Technologies",
+      "job_id": "200682437-3543",
+      "url": "https://jobs.apple.com/en-us/details/200682437-3543/software-quality-engineer-media-graphics-compute-technologies?team=SFTWR"
     }
   }
 }
