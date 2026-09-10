@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200645529-0836": {
-      "first_seen": 1775163183.861599,
-      "posted": "",
-      "title": "AI Operations Lead, Original Content Operations",
-      "job_id": "200645529-0836"
-    },
     "200643883-3956": {
       "first_seen": 1775163183.861599,
       "posted": "",
@@ -20271,6 +20265,13 @@
       "title": "Wireless Analytics & Intelligence Software Engineer",
       "job_id": "200679300-3401",
       "url": "https://jobs.apple.com/en-us/details/200679300-3401/wireless-analytics-intelligence-software-engineer?team=SFTWR"
+    },
+    "200683124-3956": {
+      "first_seen": 1789081900.7589493,
+      "posted": "2026-09-10",
+      "title": "Studies Project Manager - Health",
+      "job_id": "200683124-3956",
+      "url": "https://jobs.apple.com/en-us/details/200683124-3956/studies-project-manager-health?team=SFTWR"
     }
   }
 }
