@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200645378-0836": {
-      "first_seen": 1775163183.8616,
-      "posted": "",
-      "title": "Senior iOS Engineer: Photography Editing & Creativity Tools",
-      "job_id": "200645378-0836"
-    },
     "200645378-3543": {
       "first_seen": 1775163183.8616,
       "posted": "",
@@ -20274,6 +20268,13 @@
       "title": "WiFi Experience Software Engineer",
       "job_id": "200679966-3401",
       "url": "https://jobs.apple.com/en-us/details/200679966-3401/wifi-experience-software-engineer?team=SFTWR"
+    },
+    "200683007-3401": {
+      "first_seen": 1789089689.7186058,
+      "posted": "2026-09-11",
+      "title": "Bluetooth Software Engineer",
+      "job_id": "200683007-3401",
+      "url": "https://jobs.apple.com/en-us/details/200683007-3401/bluetooth-software-engineer?team=SFTWR"
     }
   }
 }
