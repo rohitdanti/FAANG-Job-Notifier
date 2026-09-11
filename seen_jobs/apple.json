@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200645378-3673": {
-      "first_seen": 1775163183.8616,
-      "posted": "",
-      "title": "Senior iOS Engineer: Photography Editing & Creativity Tools",
-      "job_id": "200645378-3673"
-    },
     "200642066-3956": {
       "first_seen": 1775163183.8616,
       "posted": "",
@@ -20277,6 +20271,13 @@
       "title": "Bluetooth Software Engineer",
       "job_id": "200683018-0836",
       "url": "https://jobs.apple.com/en-us/details/200683018-0836/bluetooth-software-engineer?team=SFTWR"
+    },
+    "200682965-3337": {
+      "first_seen": 1789131693.2149694,
+      "posted": "2026-09-11",
+      "title": "Product Security Engineer, SEAR",
+      "job_id": "200682965-3337",
+      "url": "https://jobs.apple.com/en-us/details/200682965-3337/product-security-engineer-sear?team=SFTWR"
     }
   }
 }
