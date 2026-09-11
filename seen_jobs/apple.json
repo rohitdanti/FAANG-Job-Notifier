@@ -4,24 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200642066-3956": {
-      "first_seen": 1775163183.8616,
-      "posted": "",
-      "title": "Engineering Project Manager, Customer Systems",
-      "job_id": "200642066-3956"
-    },
-    "200621037-0836": {
-      "first_seen": 1775163183.861601,
-      "posted": "",
-      "title": "GPU Systems Software Engineer, Platform Architecture",
-      "job_id": "200621037-0836"
-    },
-    "200621036-0836": {
-      "first_seen": 1775163183.861601,
-      "posted": "",
-      "title": "GPU Systems Software Engineer, Platform Architecture",
-      "job_id": "200621036-0836"
-    },
     "200645410-3401": {
       "first_seen": 1775163183.861601,
       "posted": "",
@@ -20278,6 +20260,27 @@
       "title": "Product Security Engineer, SEAR",
       "job_id": "200682965-3337",
       "url": "https://jobs.apple.com/en-us/details/200682965-3337/product-security-engineer-sear?team=SFTWR"
+    },
+    "200683241-0157": {
+      "first_seen": 1789154494.6688766,
+      "posted": "2026-09-11",
+      "title": "Platform Security Engineer - Wallet Payments & Commerce",
+      "job_id": "200683241-0157",
+      "url": "https://jobs.apple.com/en-us/details/200683241-0157/platform-security-engineer-wallet-payments-commerce?team=SFTWR"
+    },
+    "200683241-0836": {
+      "first_seen": 1789154494.6688824,
+      "posted": "2026-09-11",
+      "title": "Platform Security Engineer - Wallet Payments & Commerce",
+      "job_id": "200683241-0836",
+      "url": "https://jobs.apple.com/en-us/details/200683241-0836/platform-security-engineer-wallet-payments-commerce?team=SFTWR"
+    },
+    "200683123-0836": {
+      "first_seen": 1789154494.6688848,
+      "posted": "2026-09-11",
+      "title": "Data Scientist, Apple Pay",
+      "job_id": "200683123-0836",
+      "url": "https://jobs.apple.com/en-us/details/200683123-0836/data-scientist-apple-pay?team=SFTWR"
     }
   }
 }
