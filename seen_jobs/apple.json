@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200644845-3543": {
-      "first_seen": 1775163183.861601,
-      "posted": "",
-      "title": "Senior Tooling Engineer",
-      "job_id": "200644845-3543"
-    },
     "200644845-3956": {
       "first_seen": 1775163183.861601,
       "posted": "",
@@ -20283,6 +20277,13 @@
       "title": "Flow Solutions Architect",
       "job_id": "200683299-3956",
       "url": "https://jobs.apple.com/en-us/details/200683299-3956/flow-solutions-architect?team=SFTWR"
+    },
+    "200680032-3956": {
+      "first_seen": 1789157511.2854111,
+      "posted": "2026-09-11",
+      "title": "Full Stack Engineer",
+      "job_id": "200680032-3956",
+      "url": "https://jobs.apple.com/en-us/details/200680032-3956/full-stack-engineer?team=SFTWR"
     }
   }
 }
