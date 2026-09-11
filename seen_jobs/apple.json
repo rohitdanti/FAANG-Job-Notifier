@@ -4,18 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200645410-3401": {
-      "first_seen": 1775163183.861601,
-      "posted": "",
-      "title": "AR/VR OS Rendering and Graphics Software Engineer - RealityKit, Vision Products Software",
-      "job_id": "200645410-3401"
-    },
-    "200631379-0836": {
-      "first_seen": 1775163183.861601,
-      "posted": "",
-      "title": "Hardware Engineer - Apple Maps",
-      "job_id": "200631379-0836"
-    },
     "200644845-3543": {
       "first_seen": 1775163183.861601,
       "posted": "",
@@ -20281,6 +20269,20 @@
       "title": "Data Scientist, Apple Pay",
       "job_id": "200683123-0836",
       "url": "https://jobs.apple.com/en-us/details/200683123-0836/data-scientist-apple-pay?team=SFTWR"
+    },
+    "200682541-0836": {
+      "first_seen": 1789156894.8080313,
+      "posted": "2026-09-11",
+      "title": "Software Release Engineering Program Manager (EPM) - Siri",
+      "job_id": "200682541-0836",
+      "url": "https://jobs.apple.com/en-us/details/200682541-0836/software-release-engineering-program-manager-epm-siri?team=SFTWR"
+    },
+    "200683299-3956": {
+      "first_seen": 1789156894.8080373,
+      "posted": "2026-09-11",
+      "title": "Flow Solutions Architect",
+      "job_id": "200683299-3956",
+      "url": "https://jobs.apple.com/en-us/details/200683299-3956/flow-solutions-architect?team=SFTWR"
     }
   }
 }
