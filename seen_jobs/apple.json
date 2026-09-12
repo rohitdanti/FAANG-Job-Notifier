@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200645243-0836": {
-      "first_seen": 1775163183.861602,
-      "posted": "",
-      "title": "Software Development Engineer in Test, Siri",
-      "job_id": "200645243-0836"
-    },
     "200644339-1756": {
       "first_seen": 1775163183.861602,
       "posted": "",
@@ -20288,6 +20282,13 @@
       "title": "Partner Success Engineering Manager, Enterprise Technology Services",
       "job_id": "200683291-0157",
       "url": "https://jobs.apple.com/en-us/details/200683291-0157/partner-success-engineering-manager-enterprise-technology-services?team=SFTWR"
+    },
+    "200683291-0776": {
+      "first_seen": 1789173096.500954,
+      "posted": "2026-09-12",
+      "title": "Partner Success Engineering Manager, Enterprise Technology Services",
+      "job_id": "200683291-0776",
+      "url": "https://jobs.apple.com/en-us/details/200683291-0776/partner-success-engineering-manager-enterprise-technology-services?team=SFTWR"
     }
   }
 }
