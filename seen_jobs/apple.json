@@ -4,24 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200644893-3337": {
-      "first_seen": 1775163183.8616052,
-      "posted": "",
-      "title": "Senior Staff / Principal Engineer, Apple Data Platform",
-      "job_id": "200644893-3337"
-    },
-    "200616320-0836": {
-      "first_seen": 1775163183.8616052,
-      "posted": "",
-      "title": "Sr Software Engineer, Siri User Experience Metrics and Data",
-      "job_id": "200616320-0836"
-    },
-    "200644676-3543": {
-      "first_seen": 1775163183.8616052,
-      "posted": "",
-      "title": "Engineering Program Specialist, OS Build",
-      "job_id": "200644676-3543"
-    },
     "200636088-0240": {
       "first_seen": 1775163183.8616052,
       "posted": "",
@@ -20303,6 +20285,27 @@
       "title": "Business Development Manager - Identity",
       "job_id": "200683543-2459",
       "url": "https://jobs.apple.com/en-us/details/200683543-2459/business-development-manager-identity?team=SFTWR"
+    },
+    "200683554-2459": {
+      "first_seen": 1789422687.5409598,
+      "posted": "2026-09-14",
+      "title": "Staff Experience Designer, AI Evaluation Platform",
+      "job_id": "200683554-2459",
+      "url": "https://jobs.apple.com/en-us/details/200683554-2459/staff-experience-designer-ai-evaluation-platform?team=SFTWR"
+    },
+    "200683554-3337": {
+      "first_seen": 1789422687.5409632,
+      "posted": "2026-09-14",
+      "title": "Staff Experience Designer, AI Evaluation Platform",
+      "job_id": "200683554-3337",
+      "url": "https://jobs.apple.com/en-us/details/200683554-3337/staff-experience-designer-ai-evaluation-platform?team=SFTWR"
+    },
+    "200681081-3956": {
+      "first_seen": 1789422687.5409648,
+      "posted": "2026-09-14",
+      "title": "Engineering Program Manager Enterprise Technology Services",
+      "job_id": "200681081-3956",
+      "url": "https://jobs.apple.com/en-us/details/200681081-3956/engineering-program-manager-enterprise-technology-services?team=SFTWR"
     }
   }
 }
