@@ -4,18 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200643814-3956": {
-      "first_seen": 1775163183.861606,
-      "posted": "",
-      "title": "Sr. Engineering Program Manager - Customer Systems",
-      "job_id": "200643814-3956"
-    },
-    "200613553-0836": {
-      "first_seen": 1775163183.8616068,
-      "posted": "",
-      "title": "Sr. Media Applications Engineer, Audio & Media Technologies",
-      "job_id": "200613553-0836"
-    },
     "200635787-3337": {
       "first_seen": 1775163183.8616068,
       "posted": "",
@@ -20312,6 +20300,20 @@
       "title": "Security Infrastructure Software Engineer, SEAR",
       "job_id": "200683652-0157",
       "url": "https://jobs.apple.com/en-us/details/200683652-0157/security-infrastructure-software-engineer-sear?team=SFTWR"
+    },
+    "200647673-3543": {
+      "first_seen": 1789428089.0431669,
+      "posted": "2026-09-14",
+      "title": "DevOps Engineer, Claris",
+      "job_id": "200647673-3543",
+      "url": "https://jobs.apple.com/en-us/details/200647673-3543/devops-engineer-claris?team=SFTWR"
+    },
+    "200647673-3956": {
+      "first_seen": 1789428089.043171,
+      "posted": "2026-09-14",
+      "title": "DevOps Engineer, Claris",
+      "job_id": "200647673-3956",
+      "url": "https://jobs.apple.com/en-us/details/200647673-3956/devops-engineer-claris?team=SFTWR"
     }
   }
 }
