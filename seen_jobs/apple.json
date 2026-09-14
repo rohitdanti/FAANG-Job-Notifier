@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200644347-0836": {
-      "first_seen": 1775163183.8616052,
-      "posted": "",
-      "title": "Engineering Program Manager, OS Build Deployment",
-      "job_id": "200644347-0836"
-    },
     "200644893-3337": {
       "first_seen": 1775163183.8616052,
       "posted": "",
@@ -20302,6 +20296,13 @@
       "title": "Product System Test Engineer, Wireless Technologies & Ecosystems",
       "job_id": "200675469-3543",
       "url": "https://jobs.apple.com/en-us/details/200675469-3543/product-system-test-engineer-wireless-technologies-ecosystems?team=SFTWR"
+    },
+    "200683543-2459": {
+      "first_seen": 1789411899.3237412,
+      "posted": "2026-09-14",
+      "title": "Business Development Manager - Identity",
+      "job_id": "200683543-2459",
+      "url": "https://jobs.apple.com/en-us/details/200683543-2459/business-development-manager-identity?team=SFTWR"
     }
   }
 }
