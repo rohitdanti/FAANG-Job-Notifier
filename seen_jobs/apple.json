@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200644478-0836": {
-      "first_seen": 1775163183.861606,
-      "posted": "",
-      "title": "Senior Machine Learning Engineer - Matching, Apple Ads",
-      "job_id": "200644478-0836"
-    },
     "200644114-2459": {
       "first_seen": 1775163183.861606,
       "posted": "",
@@ -20307,6 +20301,13 @@
       "title": "Software Engineer, Triage Services",
       "job_id": "200683343-0836",
       "url": "https://jobs.apple.com/en-us/details/200683343-0836/software-engineer-triage-services?team=SFTWR"
+    },
+    "200683064-0836": {
+      "first_seen": 1789424485.3995364,
+      "posted": "2026-09-14",
+      "title": "Machine Learning Engineer - Notifications & Personalization",
+      "job_id": "200683064-0836",
+      "url": "https://jobs.apple.com/en-us/details/200683064-0836/machine-learning-engineer-notifications-personalization?team=SFTWR"
     }
   }
 }
