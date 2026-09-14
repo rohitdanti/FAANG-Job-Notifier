@@ -4,24 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200644339-1756": {
-      "first_seen": 1775163183.861602,
-      "posted": "",
-      "title": "Software Engineer - Apple Vision Pro, Vision Products Software",
-      "job_id": "200644339-1756"
-    },
-    "200645111-2459": {
-      "first_seen": 1775163183.861602,
-      "posted": "",
-      "title": "Cloud Traffic Engineer, Apple Pay",
-      "job_id": "200645111-2459"
-    },
-    "200645189-0836": {
-      "first_seen": 1775163183.861602,
-      "posted": "",
-      "title": "Manager, Cloud Infrastructure Demand & Capacity Planning",
-      "job_id": "200645189-0836"
-    },
     "200645161-0836": {
       "first_seen": 1775163183.861603,
       "posted": "",
@@ -20289,6 +20271,27 @@
       "title": "Partner Success Engineering Manager, Enterprise Technology Services",
       "job_id": "200683291-0776",
       "url": "https://jobs.apple.com/en-us/details/200683291-0776/partner-success-engineering-manager-enterprise-technology-services?team=SFTWR"
+    },
+    "200683388-0157": {
+      "first_seen": 1789390894.373937,
+      "posted": "2026-09-14",
+      "title": "Apple Pay eCommerce Merchant Specialist",
+      "job_id": "200683388-0157",
+      "url": "https://jobs.apple.com/en-us/details/200683388-0157/apple-pay-ecommerce-merchant-specialist?team=SFTWR"
+    },
+    "200683390-0157": {
+      "first_seen": 1789390894.373941,
+      "posted": "2026-09-14",
+      "title": "Apple Pay eCommerce Merchant Specialist",
+      "job_id": "200683390-0157",
+      "url": "https://jobs.apple.com/en-us/details/200683390-0157/apple-pay-ecommerce-merchant-specialist?team=SFTWR"
+    },
+    "200679737-0836": {
+      "first_seen": 1789390894.373943,
+      "posted": "2026-09-14",
+      "title": "Principal Quality Engineer",
+      "job_id": "200679737-0836",
+      "url": "https://jobs.apple.com/en-us/details/200679737-0836/principal-quality-engineer?team=SFTWR"
     }
   }
 }
