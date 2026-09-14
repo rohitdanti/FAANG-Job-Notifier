@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200644911-3337": {
-      "first_seen": 1775163183.8616042,
-      "posted": "",
-      "title": "SWE \u2014 Senior Software Engineer, Siri Communications Experiences",
-      "job_id": "200644911-3337"
-    },
     "200644347-0836": {
       "first_seen": 1775163183.8616052,
       "posted": "",
@@ -20301,6 +20295,13 @@
       "title": "Senior Software Engineer, Developer Productivity, Sensing & Connectivity",
       "job_id": "200683546-3543",
       "url": "https://jobs.apple.com/en-us/details/200683546-3543/senior-software-engineer-developer-productivity-sensing-connectivity?team=SFTWR"
+    },
+    "200675469-3543": {
+      "first_seen": 1789410114.4195023,
+      "posted": "2026-09-14",
+      "title": "Product System Test Engineer, Wireless Technologies & Ecosystems",
+      "job_id": "200675469-3543",
+      "url": "https://jobs.apple.com/en-us/details/200675469-3543/product-system-test-engineer-wireless-technologies-ecosystems?team=SFTWR"
     }
   }
 }
