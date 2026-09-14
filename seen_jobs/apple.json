@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200636088-0240": {
-      "first_seen": 1775163183.8616052,
-      "posted": "",
-      "title": "Software Engineer (SAP Development Support), IS&T Enterprise Systems",
-      "job_id": "200636088-0240"
-    },
     "200644478-0836": {
       "first_seen": 1775163183.861606,
       "posted": "",
@@ -20306,6 +20300,13 @@
       "title": "Engineering Program Manager Enterprise Technology Services",
       "job_id": "200681081-3956",
       "url": "https://jobs.apple.com/en-us/details/200681081-3956/engineering-program-manager-enterprise-technology-services?team=SFTWR"
+    },
+    "200683343-0836": {
+      "first_seen": 1789423893.919722,
+      "posted": "2026-09-14",
+      "title": "Software Engineer, Triage Services",
+      "job_id": "200683343-0836",
+      "url": "https://jobs.apple.com/en-us/details/200683343-0836/software-engineer-triage-services?team=SFTWR"
     }
   }
 }
