@@ -4,30 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200644114-2459": {
-      "first_seen": 1775163183.861606,
-      "posted": "",
-      "title": "Principal Technical Strategist \u2014 Wallet, Payments, and Commerce Engineering",
-      "job_id": "200644114-2459"
-    },
-    "200644114-3543": {
-      "first_seen": 1775163183.861606,
-      "posted": "",
-      "title": "Principal Technical Strategist \u2014 Wallet, Payments, and Commerce Engineering",
-      "job_id": "200644114-3543"
-    },
-    "200641575-0670": {
-      "first_seen": 1775163183.861606,
-      "posted": "",
-      "title": "Graphic Designer / Illustrator",
-      "job_id": "200641575-0670"
-    },
-    "200643926-3956": {
-      "first_seen": 1775163183.861606,
-      "posted": "",
-      "title": "Sr. Engineering Program Manager - Customer Systems",
-      "job_id": "200643926-3956"
-    },
     "200643814-3956": {
       "first_seen": 1775163183.861606,
       "posted": "",
@@ -20308,6 +20284,34 @@
       "title": "Machine Learning Engineer - Notifications & Personalization",
       "job_id": "200683064-0836",
       "url": "https://jobs.apple.com/en-us/details/200683064-0836/machine-learning-engineer-notifications-personalization?team=SFTWR"
+    },
+    "200683640-0157": {
+      "first_seen": 1789425096.017199,
+      "posted": "2026-09-14",
+      "title": "SoC Security Architect - Platform Architecture",
+      "job_id": "200683640-0157",
+      "url": "https://jobs.apple.com/en-us/details/200683640-0157/soc-security-architect-platform-architecture?team=SFTWR"
+    },
+    "200683640-0836": {
+      "first_seen": 1789425096.0172036,
+      "posted": "2026-09-14",
+      "title": "SoC Security Architect - Platform Architecture",
+      "job_id": "200683640-0836",
+      "url": "https://jobs.apple.com/en-us/details/200683640-0836/soc-security-architect-platform-architecture?team=SFTWR"
+    },
+    "200678781-0836": {
+      "first_seen": 1789425096.0172052,
+      "posted": "2026-09-14",
+      "title": "Compiler Security Engineer - C/C++, Languages & Runtimes",
+      "job_id": "200678781-0836",
+      "url": "https://jobs.apple.com/en-us/details/200678781-0836/compiler-security-engineer-c-c-languages-runtimes?team=SFTWR"
+    },
+    "200683652-0157": {
+      "first_seen": 1789425096.0172064,
+      "posted": "2026-09-14",
+      "title": "Security Infrastructure Software Engineer, SEAR",
+      "job_id": "200683652-0157",
+      "url": "https://jobs.apple.com/en-us/details/200683652-0157/security-infrastructure-software-engineer-sear?team=SFTWR"
     }
   }
 }
