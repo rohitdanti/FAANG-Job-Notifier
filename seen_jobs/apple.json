@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200643964-3543": {
-      "first_seen": 1775163183.861611,
-      "posted": "",
-      "title": "Privacy Engineer, Apple Wallet, Payments & Commerce",
-      "job_id": "200643964-3543"
-    },
     "200644098-3337": {
       "first_seen": 1775163183.861611,
       "posted": "",
@@ -20337,6 +20331,13 @@
       "title": "Sr. Engineering Project Manager, Productivity Apps",
       "job_id": "200683700-0836",
       "url": "https://jobs.apple.com/en-us/details/200683700-0836/sr-engineering-project-manager-productivity-apps?team=SFTWR"
+    },
+    "200683935-3543": {
+      "first_seen": 1789511497.2222872,
+      "posted": "2026-09-15",
+      "title": "Software Engineer - Customer Feedback",
+      "job_id": "200683935-3543",
+      "url": "https://jobs.apple.com/en-us/details/200683935-3543/software-engineer-customer-feedback?team=SFTWR"
     }
   }
 }
