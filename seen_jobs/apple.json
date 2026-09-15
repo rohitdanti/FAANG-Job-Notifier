@@ -4,24 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200644581-3401": {
-      "first_seen": 1775163183.8616068,
-      "posted": "",
-      "title": "Senior Software Engineer, Apple Pay \u2014 Wallet, Payments & Commerce (WPC)",
-      "job_id": "200644581-3401"
-    },
-    "200644581-0157": {
-      "first_seen": 1775163183.8616068,
-      "posted": "",
-      "title": "Senior Software Engineer, Apple Pay \u2014 Wallet, Payments & Commerce (WPC)",
-      "job_id": "200644581-0157"
-    },
-    "200644581-1435": {
-      "first_seen": 1775163183.8616068,
-      "posted": "",
-      "title": "Senior Software Engineer, Apple Pay \u2014 Wallet, Payments & Commerce (WPC)",
-      "job_id": "200644581-1435"
-    },
     "200644581-2459": {
       "first_seen": 1775163183.861608,
       "posted": "",
@@ -20316,6 +20298,27 @@
       "title": "Machine Learning Engineer - Notifications & Personalization",
       "job_id": "200683686-0836",
       "url": "https://jobs.apple.com/en-us/details/200683686-0836/machine-learning-engineer-notifications-personalization?team=SFTWR"
+    },
+    "200683519-0365": {
+      "first_seen": 1789434095.6025434,
+      "posted": "2026-09-15",
+      "title": "Senior Systems Engineer, Watch Software",
+      "job_id": "200683519-0365",
+      "url": "https://jobs.apple.com/en-us/details/200683519-0365/senior-systems-engineer-watch-software?team=SFTWR"
+    },
+    "200683519-0836": {
+      "first_seen": 1789434095.602548,
+      "posted": "2026-09-15",
+      "title": "Senior Systems Engineer, Watch Software",
+      "job_id": "200683519-0836",
+      "url": "https://jobs.apple.com/en-us/details/200683519-0836/senior-systems-engineer-watch-software?team=SFTWR"
+    },
+    "200683519-3543": {
+      "first_seen": 1789434095.6025503,
+      "posted": "2026-09-15",
+      "title": "Senior Systems Engineer, Watch Software",
+      "job_id": "200683519-3543",
+      "url": "https://jobs.apple.com/en-us/details/200683519-3543/senior-systems-engineer-watch-software?team=SFTWR"
     }
   }
 }
