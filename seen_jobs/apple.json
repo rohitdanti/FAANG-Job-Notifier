@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200616757-0836": {
-      "first_seen": 1775163183.8616068,
-      "posted": "",
-      "title": "UI Frameworks Senior Engineer",
-      "job_id": "200616757-0836"
-    },
     "200644581-3401": {
       "first_seen": 1775163183.8616068,
       "posted": "",
@@ -20315,6 +20309,13 @@
       "title": "Software Development Engineer - iOS for Keyboard",
       "job_id": "200683681-0836",
       "url": "https://jobs.apple.com/en-us/details/200683681-0836/software-development-engineer-ios-for-keyboard?team=SFTWR"
+    },
+    "200683686-0836": {
+      "first_seen": 1789431084.0813646,
+      "posted": "2026-09-15",
+      "title": "Machine Learning Engineer - Notifications & Personalization",
+      "job_id": "200683686-0836",
+      "url": "https://jobs.apple.com/en-us/details/200683686-0836/machine-learning-engineer-notifications-personalization?team=SFTWR"
     }
   }
 }
