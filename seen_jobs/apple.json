@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200644581-3543": {
-      "first_seen": 1775163183.861608,
-      "posted": "",
-      "title": "Senior Software Engineer, Apple Pay \u2014 Wallet, Payments & Commerce (WPC)",
-      "job_id": "200644581-3543"
-    },
     "200643734-0157": {
       "first_seen": 1775163183.861608,
       "posted": "",
@@ -20320,6 +20314,13 @@
       "title": "Sr. Software Engineer, Infrastructure Services (Data Plane)",
       "job_id": "200683051-3401",
       "url": "https://jobs.apple.com/en-us/details/200683051-3401/sr-software-engineer-infrastructure-services-data-plane?team=SFTWR"
+    },
+    "200675757-0836": {
+      "first_seen": 1789488712.1681373,
+      "posted": "2026-09-15",
+      "title": "Software Engineer, Trusted Execution, SEAR",
+      "job_id": "200675757-0836",
+      "url": "https://jobs.apple.com/en-us/details/200675757-0836/software-engineer-trusted-execution-sear?team=SFTWR"
     }
   }
 }
