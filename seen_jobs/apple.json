@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200644163-3543": {
-      "first_seen": 1775163183.86161,
-      "posted": "",
-      "title": "Software Development Engineer in Test - Camera API",
-      "job_id": "200644163-3543"
-    },
     "200633223-0836": {
       "first_seen": 1775163183.86161,
       "posted": "",
@@ -20334,6 +20328,13 @@
       "title": "iOS Engineer - Apple TV",
       "job_id": "200682807-0836",
       "url": "https://jobs.apple.com/en-us/details/200682807-0836/ios-engineer-apple-tv?team=SFTWR"
+    },
+    "200682772-0836": {
+      "first_seen": 1789504901.1467323,
+      "posted": "2026-09-15",
+      "title": "Senior Engineering Program Manager, On-Device ML",
+      "job_id": "200682772-0836",
+      "url": "https://jobs.apple.com/en-us/details/200682772-0836/senior-engineering-program-manager-on-device-ml?team=SFTWR"
     }
   }
 }
