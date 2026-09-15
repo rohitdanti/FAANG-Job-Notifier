@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200643917-0836": {
-      "first_seen": 1775163183.861609,
-      "posted": "",
-      "title": "Full Stack Software Engineer, Core OS",
-      "job_id": "200643917-0836"
-    },
     "200644222-2459": {
       "first_seen": 1775163183.861609,
       "posted": "",
@@ -20326,6 +20320,13 @@
       "title": "Software Engineer, OS and System Services",
       "job_id": "200683813-3337",
       "url": "https://jobs.apple.com/en-us/details/200683813-3337/software-engineer-os-and-system-services?team=SFTWR"
+    },
+    "200683829-0836": {
+      "first_seen": 1789494685.6644676,
+      "posted": "2026-09-15",
+      "title": "Software Engineering Manager (Watch Faces) - Watch Software",
+      "job_id": "200683829-0836",
+      "url": "https://jobs.apple.com/en-us/details/200683829-0836/software-engineering-manager-watch-faces-watch-software?team=SFTWR"
     }
   }
 }
