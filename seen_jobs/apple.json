@@ -4,24 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200635085-0157": {
-      "first_seen": 1775163183.861608,
-      "posted": "",
-      "title": "Senior Data Engineer",
-      "job_id": "200635085-0157"
-    },
-    "200638268-0836": {
-      "first_seen": 1775163183.861609,
-      "posted": "",
-      "title": "Senior Manager, Quality Engineering Xcode",
-      "job_id": "200638268-0836"
-    },
-    "200643905-0836": {
-      "first_seen": 1775163183.861609,
-      "posted": "",
-      "title": "Senior UI Engineer - Special Projects",
-      "job_id": "200643905-0836"
-    },
     "200643917-0836": {
       "first_seen": 1775163183.861609,
       "posted": "",
@@ -20323,6 +20305,27 @@
       "title": "Governance & Operations Lead, Infrastructure & Planning",
       "job_id": "200683618-0836",
       "url": "https://jobs.apple.com/en-us/details/200683618-0836/governance-operations-lead-infrastructure-planning?team=SFTWR"
+    },
+    "200683803-0836": {
+      "first_seen": 1789492892.7738473,
+      "posted": "2026-09-15",
+      "title": "Senior Machine Learning Engineer",
+      "job_id": "200683803-0836",
+      "url": "https://jobs.apple.com/en-us/details/200683803-0836/senior-machine-learning-engineer?team=SFTWR"
+    },
+    "200683803-3337": {
+      "first_seen": 1789492892.773852,
+      "posted": "2026-09-15",
+      "title": "Senior Machine Learning Engineer",
+      "job_id": "200683803-3337",
+      "url": "https://jobs.apple.com/en-us/details/200683803-3337/senior-machine-learning-engineer?team=SFTWR"
+    },
+    "200683813-3337": {
+      "first_seen": 1789492892.7738545,
+      "posted": "2026-09-15",
+      "title": "Software Engineer, OS and System Services",
+      "job_id": "200683813-3337",
+      "url": "https://jobs.apple.com/en-us/details/200683813-3337/software-engineer-os-and-system-services?team=SFTWR"
     }
   }
 }
