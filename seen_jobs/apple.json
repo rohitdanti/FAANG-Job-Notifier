@@ -4,18 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200644158-3337": {
-      "first_seen": 1775163183.861609,
-      "posted": "",
-      "title": "Senior Software Engineer, Security Enablement Team ASE",
-      "job_id": "200644158-3337"
-    },
-    "200644217-2605": {
-      "first_seen": 1775163183.86161,
-      "posted": "",
-      "title": "AR/VR Software Development Engineer, Vision Products Software",
-      "job_id": "200644217-2605"
-    },
     "200644217-3956": {
       "first_seen": 1775163183.86161,
       "posted": "",
@@ -20330,6 +20318,20 @@
       "title": "Software Development Engineer",
       "job_id": "200683692-0836",
       "url": "https://jobs.apple.com/en-us/details/200683692-0836/software-development-engineer?team=SFTWR"
+    },
+    "200682521-0836": {
+      "first_seen": 1789503098.7460814,
+      "posted": "2026-09-15",
+      "title": "Sr ML Researcher Multi-Modal Reasoning",
+      "job_id": "200682521-0836",
+      "url": "https://jobs.apple.com/en-us/details/200682521-0836/sr-ml-researcher-multi-modal-reasoning?team=SFTWR"
+    },
+    "200682521-3337": {
+      "first_seen": 1789503098.7460854,
+      "posted": "2026-09-15",
+      "title": "Sr ML Researcher Multi-Modal Reasoning",
+      "job_id": "200682521-3337",
+      "url": "https://jobs.apple.com/en-us/details/200682521-3337/sr-ml-researcher-multi-modal-reasoning?team=SFTWR"
     }
   }
 }
