@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200643909-0836": {
-      "first_seen": 1775163183.861609,
-      "posted": "",
-      "title": "Senior Systems Engineer - Special Projects",
-      "job_id": "200643909-0836"
-    },
     "200644317-0836": {
       "first_seen": 1775163183.861609,
       "posted": "",
@@ -20328,6 +20322,13 @@
       "title": "Machine Learning Engineer - Sensing & Connectivity",
       "job_id": "200683839-0836",
       "url": "https://jobs.apple.com/en-us/details/200683839-0836/machine-learning-engineer-sensing-connectivity?team=SFTWR"
+    },
+    "200681824-0836": {
+      "first_seen": 1789498902.1753192,
+      "posted": "2026-09-15",
+      "title": "Software Engineering Manager, Fitness Intelligence Infrastructure - Watch Software",
+      "job_id": "200681824-0836",
+      "url": "https://jobs.apple.com/en-us/details/200681824-0836/software-engineering-manager-fitness-intelligence-infrastructure-watch-software?team=SFTWR"
     }
   }
 }
