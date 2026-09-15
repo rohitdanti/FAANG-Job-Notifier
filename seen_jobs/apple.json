@@ -4,18 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200644217-3956": {
-      "first_seen": 1775163183.86161,
-      "posted": "",
-      "title": "AR/VR Software Development Engineer, Vision Products Software",
-      "job_id": "200644217-3956"
-    },
-    "200644163-0836": {
-      "first_seen": 1775163183.86161,
-      "posted": "",
-      "title": "Software Development Engineer in Test - Camera API",
-      "job_id": "200644163-0836"
-    },
     "200644163-3543": {
       "first_seen": 1775163183.86161,
       "posted": "",
@@ -20332,6 +20320,20 @@
       "title": "Sr ML Researcher Multi-Modal Reasoning",
       "job_id": "200682521-3337",
       "url": "https://jobs.apple.com/en-us/details/200682521-3337/sr-ml-researcher-multi-modal-reasoning?team=SFTWR"
+    },
+    "200651198-0836": {
+      "first_seen": 1789503688.6995423,
+      "posted": "2026-09-15",
+      "title": "AIML Data Operations - Senior Manager, Communications, Engagement and Learning & Development",
+      "job_id": "200651198-0836",
+      "url": "https://jobs.apple.com/en-us/details/200651198-0836/aiml-data-operations-senior-manager-communications-engagement-and-learning-development?team=SFTWR"
+    },
+    "200682807-0836": {
+      "first_seen": 1789503688.6995482,
+      "posted": "2026-09-15",
+      "title": "iOS Engineer - Apple TV",
+      "job_id": "200682807-0836",
+      "url": "https://jobs.apple.com/en-us/details/200682807-0836/ios-engineer-apple-tv?team=SFTWR"
     }
   }
 }
