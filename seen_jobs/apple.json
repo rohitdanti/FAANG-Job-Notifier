@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200643671-0836": {
-      "first_seen": 1775163183.861614,
-      "posted": "",
-      "title": "Finder and Files Application Engineer",
-      "job_id": "200643671-0836"
-    },
     "200643343-0157": {
       "first_seen": 1775163183.861614,
       "posted": "",
@@ -20358,6 +20352,13 @@
       "title": "Lead Machine Learning Engineer, Human Sensing",
       "job_id": "200683924-3337",
       "url": "https://jobs.apple.com/en-us/details/200683924-3337/lead-machine-learning-engineer-human-sensing?team=SFTWR"
+    },
+    "200683959-3401": {
+      "first_seen": 1789597292.829127,
+      "posted": "2026-09-16",
+      "title": "Sr Software Engineer - G&A Solutions Engineering (GSE)",
+      "job_id": "200683959-3401",
+      "url": "https://jobs.apple.com/en-us/details/200683959-3401/sr-software-engineer-g-a-solutions-engineering-gse?team=SFTWR"
     }
   }
 }
