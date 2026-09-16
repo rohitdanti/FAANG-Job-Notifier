@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200642285-3543": {
-      "first_seen": 1775163183.861611,
-      "posted": "",
-      "title": "Distributed Systems Software Engineer (Golang)",
-      "job_id": "200642285-3543"
-    },
     "200644064-3337": {
       "first_seen": 1775163183.861611,
       "posted": "",
@@ -20340,6 +20334,13 @@
       "title": "Engineering Program Manager, SWE tvOS",
       "job_id": "200683541-0836",
       "url": "https://jobs.apple.com/en-us/details/200683541-0836/engineering-program-manager-swe-tvos?team=SFTWR"
+    },
+    "200683993-2903": {
+      "first_seen": 1789563694.1983614,
+      "posted": "2026-09-16",
+      "title": "Critical Facilities Technician, Data Center Operations",
+      "job_id": "200683993-2903",
+      "url": "https://jobs.apple.com/en-us/details/200683993-2903/critical-facilities-technician-data-center-operations?team=SFTWR"
     }
   }
 }
