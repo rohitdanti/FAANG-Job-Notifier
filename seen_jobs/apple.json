@@ -4,18 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200643947-3337": {
-      "first_seen": 1775163183.861613,
-      "posted": "",
-      "title": "Senior Software Engineer \u2014 iCloud Client",
-      "job_id": "200643947-3337"
-    },
-    "200643549-3956": {
-      "first_seen": 1775163183.861613,
-      "posted": "",
-      "title": "Software QA Engineer - UI Frameworks, Vision Products Software",
-      "job_id": "200643549-3956"
-    },
     "200643898-0157": {
       "first_seen": 1775163183.861613,
       "posted": "",
@@ -20349,6 +20337,20 @@
       "title": "Sr. Software Development Engineer in Test",
       "job_id": "200683947-3543",
       "url": "https://jobs.apple.com/en-us/details/200683947-3543/sr-software-development-engineer-in-test?team=SFTWR"
+    },
+    "200683797-0836": {
+      "first_seen": 1789582293.276669,
+      "posted": "2026-09-16",
+      "title": "Sr Machine Learning Engineer - ML Data",
+      "job_id": "200683797-0836",
+      "url": "https://jobs.apple.com/en-us/details/200683797-0836/sr-machine-learning-engineer-ml-data?team=SFTWR"
+    },
+    "200683797-2459": {
+      "first_seen": 1789582293.2766733,
+      "posted": "2026-09-16",
+      "title": "Sr Machine Learning Engineer - ML Data",
+      "job_id": "200683797-2459",
+      "url": "https://jobs.apple.com/en-us/details/200683797-2459/sr-machine-learning-engineer-ml-data?team=SFTWR"
     }
   }
 }
