@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200643707-3543": {
-      "first_seen": 1775163183.861614,
-      "posted": "",
-      "title": "Software Engineer",
-      "job_id": "200643707-3543"
-    },
     "200643671-0836": {
       "first_seen": 1775163183.861614,
       "posted": "",
@@ -20357,6 +20351,13 @@
       "title": "Engineering Program Manager, Siri User Experience",
       "job_id": "200684235-3337",
       "url": "https://jobs.apple.com/en-us/details/200684235-3337/engineering-program-manager-siri-user-experience?team=SFTWR"
+    },
+    "200683924-3337": {
+      "first_seen": 1789596093.0009904,
+      "posted": "2026-09-16",
+      "title": "Lead Machine Learning Engineer, Human Sensing",
+      "job_id": "200683924-3337",
+      "url": "https://jobs.apple.com/en-us/details/200683924-3337/lead-machine-learning-engineer-human-sensing?team=SFTWR"
     }
   }
 }
