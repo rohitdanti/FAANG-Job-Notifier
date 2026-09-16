@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200643956-3337": {
-      "first_seen": 1775163183.861612,
-      "posted": "",
-      "title": "Sr. Data Engineer, iCloud",
-      "job_id": "200643956-3337"
-    },
     "200643947-3337": {
       "first_seen": 1775163183.861613,
       "posted": "",
@@ -20348,6 +20342,13 @@
       "title": "Engineering Program Manager, Intelligent System Experience",
       "job_id": "200683339-0836",
       "url": "https://jobs.apple.com/en-us/details/200683339-0836/engineering-program-manager-intelligent-system-experience?team=SFTWR"
+    },
+    "200683947-3543": {
+      "first_seen": 1789581101.1619372,
+      "posted": "2026-09-16",
+      "title": "Sr. Software Development Engineer in Test",
+      "job_id": "200683947-3543",
+      "url": "https://jobs.apple.com/en-us/details/200683947-3543/sr-software-development-engineer-in-test?team=SFTWR"
     }
   }
 }
