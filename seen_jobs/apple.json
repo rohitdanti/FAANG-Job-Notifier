@@ -4,24 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200643940-0836": {
-      "first_seen": 1775163183.861612,
-      "posted": "",
-      "title": "Software Development Engineer, CI/CD",
-      "job_id": "200643940-0836"
-    },
-    "200643940-3543": {
-      "first_seen": 1775163183.861612,
-      "posted": "",
-      "title": "Software Development Engineer, CI/CD",
-      "job_id": "200643940-3543"
-    },
-    "200643250-3401": {
-      "first_seen": 1775163183.861612,
-      "posted": "",
-      "title": "Software Development Engineer - Intelligence Platform",
-      "job_id": "200643250-3401"
-    },
     "200643956-0157": {
       "first_seen": 1775163183.861612,
       "posted": "",
@@ -20343,6 +20325,27 @@
       "title": "Sr Manager - Infrastructure, SRE, & AI Platforms - Services Special Projects",
       "job_id": "200681287-0836",
       "url": "https://jobs.apple.com/en-us/details/200681287-0836/sr-manager-infrastructure-sre-ai-platforms-services-special-projects?team=SFTWR"
+    },
+    "200684138-3337": {
+      "first_seen": 1789578107.9504783,
+      "posted": "2026-09-16",
+      "title": "Storage Infrastructure - Apple Service Engineering",
+      "job_id": "200684138-3337",
+      "url": "https://jobs.apple.com/en-us/details/200684138-3337/storage-infrastructure-apple-service-engineering?team=SFTWR"
+    },
+    "200684113-3337": {
+      "first_seen": 1789578107.9504828,
+      "posted": "2026-09-16",
+      "title": "Site Reliability Engineer (SRE) - Object Storage",
+      "job_id": "200684113-3337",
+      "url": "https://jobs.apple.com/en-us/details/200684113-3337/site-reliability-engineer-sre-object-storage?team=SFTWR"
+    },
+    "200683907-3337": {
+      "first_seen": 1789578107.9504848,
+      "posted": "2026-09-16",
+      "title": "Machine Learning Engineer, Apple Search & Knowledge Platforms",
+      "job_id": "200683907-3337",
+      "url": "https://jobs.apple.com/en-us/details/200683907-3337/machine-learning-engineer-apple-search-knowledge-platforms?team=SFTWR"
     }
   }
 }
