@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200632667-3401": {
-      "first_seen": 1775163183.8616152,
-      "posted": "",
-      "title": "Software Test Automation Engineer, Vision Products Software",
-      "job_id": "200632667-3401"
-    },
     "200638229-3543": {
       "first_seen": 1775163183.8616161,
       "posted": "",
@@ -20364,6 +20358,13 @@
       "title": "Director of Engineering, Claris AI Services",
       "job_id": "200683220-3956",
       "url": "https://jobs.apple.com/en-us/details/200683220-3956/director-of-engineering-claris-ai-services?team=SFTWR"
+    },
+    "200673277-3337": {
+      "first_seen": 1789668099.614711,
+      "posted": "2026-09-17",
+      "title": "Senior Software Engineer - Host Access",
+      "job_id": "200673277-3337",
+      "url": "https://jobs.apple.com/en-us/details/200673277-3337/senior-software-engineer-host-access?team=SFTWR"
     }
   }
 }
