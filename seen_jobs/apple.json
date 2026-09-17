@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200642842-0365": {
-      "first_seen": 1775163183.8616152,
-      "posted": "",
-      "title": "Software Development Engineer, Vision Products Group",
-      "job_id": "200642842-0365"
-    },
     "200642842-3956": {
       "first_seen": 1775163183.8616152,
       "posted": "",
@@ -20361,6 +20355,13 @@
       "title": "Sr. Program Manager, Apps Business Ops",
       "job_id": "200684352-0836",
       "url": "https://jobs.apple.com/en-us/details/200684352-0836/sr-program-manager-apps-business-ops?team=SFTWR"
+    },
+    "200683814-0836": {
+      "first_seen": 1789609898.908032,
+      "posted": "2026-09-17",
+      "title": "Executive Assistant, Cloud Infrastructure \u2014 Apple Services",
+      "job_id": "200683814-0836",
+      "url": "https://jobs.apple.com/en-us/details/200683814-0836/executive-assistant-cloud-infrastructure-apple-services?team=SFTWR"
     }
   }
 }
