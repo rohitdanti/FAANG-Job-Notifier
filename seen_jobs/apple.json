@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200635087-0157": {
-      "first_seen": 1775163183.8616161,
-      "posted": "",
-      "title": "Staff Data Engineer",
-      "job_id": "200635087-0157"
-    },
     "200642549-3121": {
       "first_seen": 1775163183.8616161,
       "posted": "",
@@ -20369,6 +20363,13 @@
       "title": "Platform Program Manager, AMP Partner Operations",
       "job_id": "200684524-2459",
       "url": "https://jobs.apple.com/en-us/details/200684524-2459/platform-program-manager-amp-partner-operations?team=SFTWR"
+    },
+    "200684112-0836": {
+      "first_seen": 1789688531.0485868,
+      "posted": "2026-09-17",
+      "title": "Triage Engineer, Internet Technologies",
+      "job_id": "200684112-0836",
+      "url": "https://jobs.apple.com/en-us/details/200684112-0836/triage-engineer-internet-technologies?team=SFTWR"
     }
   }
 }
