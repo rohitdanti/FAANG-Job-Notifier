@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200643553-3543": {
-      "first_seen": 1775163183.8616161,
-      "posted": "",
-      "title": "Software Build Engineer",
-      "job_id": "200643553-3543"
-    },
     "200643401-0240": {
       "first_seen": 1775163183.8616161,
       "posted": "",
@@ -20366,6 +20360,13 @@
       "title": "Sr. Software Development Engineer In Test - Siri AI Quality",
       "job_id": "200684226-0836",
       "url": "https://jobs.apple.com/en-us/details/200684226-0836/sr-software-development-engineer-in-test-siri-ai-quality?team=SFTWR"
+    },
+    "200673282-3337": {
+      "first_seen": 1789680089.9402025,
+      "posted": "2026-09-17",
+      "title": "Senior Security Engineer",
+      "job_id": "200673282-3337",
+      "url": "https://jobs.apple.com/en-us/details/200673282-3337/senior-security-engineer?team=SFTWR"
     }
   }
 }
