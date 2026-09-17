@@ -4,18 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200643401-0240": {
-      "first_seen": 1775163183.8616161,
-      "posted": "",
-      "title": "IS&T SAP Engineering Project Manager, Early Career",
-      "job_id": "200643401-0240"
-    },
-    "200615767-3401": {
-      "first_seen": 1775163183.8616161,
-      "posted": "",
-      "title": "AIML - Engineering Program Manager, Developer Tools",
-      "job_id": "200615767-3401"
-    },
     "200635087-0157": {
       "first_seen": 1775163183.8616161,
       "posted": "",
@@ -20367,6 +20355,20 @@
       "title": "Senior Security Engineer",
       "job_id": "200673282-3337",
       "url": "https://jobs.apple.com/en-us/details/200673282-3337/senior-security-engineer?team=SFTWR"
+    },
+    "200684524-0836": {
+      "first_seen": 1789682496.611455,
+      "posted": "2026-09-17",
+      "title": "Platform Program Manager, AMP Partner Operations",
+      "job_id": "200684524-0836",
+      "url": "https://jobs.apple.com/en-us/details/200684524-0836/platform-program-manager-amp-partner-operations?team=SFTWR"
+    },
+    "200684524-2459": {
+      "first_seen": 1789682496.6114604,
+      "posted": "2026-09-17",
+      "title": "Platform Program Manager, AMP Partner Operations",
+      "job_id": "200684524-2459",
+      "url": "https://jobs.apple.com/en-us/details/200684524-2459/platform-program-manager-amp-partner-operations?team=SFTWR"
     }
   }
 }
