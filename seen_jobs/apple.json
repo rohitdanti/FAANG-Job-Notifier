@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200642672-3401": {
-      "first_seen": 1775163183.8616152,
-      "posted": "",
-      "title": "Distributed Cloud Network Solution Architect",
-      "job_id": "200642672-3401"
-    },
     "200642842-0365": {
       "first_seen": 1775163183.8616152,
       "posted": "",
@@ -20360,6 +20354,13 @@
       "title": "OS Performance Engineer (AI Feature Performance)",
       "job_id": "200684263-0836",
       "url": "https://jobs.apple.com/en-us/details/200684263-0836/os-performance-engineer-ai-feature-performance?team=SFTWR"
+    },
+    "200684352-0836": {
+      "first_seen": 1789604491.1938384,
+      "posted": "2026-09-17",
+      "title": "Sr. Program Manager, Apps Business Ops",
+      "job_id": "200684352-0836",
+      "url": "https://jobs.apple.com/en-us/details/200684352-0836/sr-program-manager-apps-business-ops?team=SFTWR"
     }
   }
 }
