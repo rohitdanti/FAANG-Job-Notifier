@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200642842-3956": {
-      "first_seen": 1775163183.8616152,
-      "posted": "",
-      "title": "Software Development Engineer, Vision Products Group",
-      "job_id": "200642842-3956"
-    },
     "200633237-0953": {
       "first_seen": 1775163183.8616152,
       "posted": "",
@@ -20362,6 +20356,13 @@
       "title": "Executive Assistant, Cloud Infrastructure \u2014 Apple Services",
       "job_id": "200683814-0836",
       "url": "https://jobs.apple.com/en-us/details/200683814-0836/executive-assistant-cloud-infrastructure-apple-services?team=SFTWR"
+    },
+    "200684319-0836": {
+      "first_seen": 1789650104.8112876,
+      "posted": "2026-09-17",
+      "title": "Data Engineer, Apple Ads",
+      "job_id": "200684319-0836",
+      "url": "https://jobs.apple.com/en-us/details/200684319-0836/data-engineer-apple-ads?team=SFTWR"
     }
   }
 }
