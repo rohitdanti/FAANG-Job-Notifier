@@ -4,30 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200640898-0157": {
-      "first_seen": 1775163183.861619,
-      "posted": "",
-      "title": "Software Quality Engineer, GSE Solutions Engineering",
-      "job_id": "200640898-0157"
-    },
-    "200641585-0157": {
-      "first_seen": 1775163183.861619,
-      "posted": "",
-      "title": "Technical Release Manager, Retail & Marcom Engineering",
-      "job_id": "200641585-0157"
-    },
-    "200641792-0240": {
-      "first_seen": 1775163183.86162,
-      "posted": "",
-      "title": "Software Development Engineer (Full Stack Engineer - J2EE), IS&T Enterprise Systems",
-      "job_id": "200641792-0240"
-    },
-    "200642908-1756": {
-      "first_seen": 1775163183.86162,
-      "posted": "",
-      "title": "Enterprise Network Engineer, Tech Refresh",
-      "job_id": "200642908-1756"
-    },
     "200642910-0836": {
       "first_seen": 1775163183.86162,
       "posted": "",
@@ -20386,6 +20362,34 @@
       "title": "Software Engineer - UI Rendering",
       "job_id": "200680505-0836",
       "url": "https://jobs.apple.com/en-us/details/200680505-0836/software-engineer-ui-rendering?team=SFTWR"
+    },
+    "200682098-3634": {
+      "first_seen": 1789760520.5894969,
+      "posted": "2026-09-18",
+      "title": "Claris Enterprise Field Sales Representative",
+      "job_id": "200682098-3634",
+      "url": "https://jobs.apple.com/en-us/details/200682098-3634/claris-enterprise-field-sales-representative?team=SFTWR"
+    },
+    "200682098-3543": {
+      "first_seen": 1789760520.5895011,
+      "posted": "2026-09-18",
+      "title": "Claris Enterprise Field Sales Representative",
+      "job_id": "200682098-3543",
+      "url": "https://jobs.apple.com/en-us/details/200682098-3543/claris-enterprise-field-sales-representative?team=SFTWR"
+    },
+    "200682098-3956": {
+      "first_seen": 1789760520.5895028,
+      "posted": "2026-09-18",
+      "title": "Claris Enterprise Field Sales Representative",
+      "job_id": "200682098-3956",
+      "url": "https://jobs.apple.com/en-us/details/200682098-3956/claris-enterprise-field-sales-representative?team=SFTWR"
+    },
+    "200682098-4079": {
+      "first_seen": 1789760520.589504,
+      "posted": "2026-09-18",
+      "title": "Claris Enterprise Field Sales Representative",
+      "job_id": "200682098-4079",
+      "url": "https://jobs.apple.com/en-us/details/200682098-4079/claris-enterprise-field-sales-representative?team=SFTWR"
     }
   }
 }
