@@ -4,18 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200642876-0836": {
-      "first_seen": 1775163183.8616178,
-      "posted": "",
-      "title": "Senior DevOps Engineer",
-      "job_id": "200642876-0836"
-    },
-    "200642859-0836": {
-      "first_seen": 1775163183.8616178,
-      "posted": "",
-      "title": "DevOps Engineer",
-      "job_id": "200642859-0836"
-    },
     "200643075-0836": {
       "first_seen": 1775163183.8616178,
       "posted": "",
@@ -20378,6 +20366,20 @@
       "title": "Software Engineer (Graph), Supply Chain Integration",
       "job_id": "200684594-3956",
       "url": "https://jobs.apple.com/en-us/details/200684594-3956/software-engineer-graph-supply-chain-integration?team=SFTWR"
+    },
+    "200684192-0836": {
+      "first_seen": 1789752087.8720517,
+      "posted": "2026-09-18",
+      "title": "Software Engineer - Journal Team",
+      "job_id": "200684192-0836",
+      "url": "https://jobs.apple.com/en-us/details/200684192-0836/software-engineer-journal-team?team=SFTWR"
+    },
+    "200684192-3543": {
+      "first_seen": 1789752087.8720558,
+      "posted": "2026-09-18",
+      "title": "Software Engineer - Journal Team",
+      "job_id": "200684192-3543",
+      "url": "https://jobs.apple.com/en-us/details/200684192-3543/software-engineer-journal-team?team=SFTWR"
     }
   }
 }
