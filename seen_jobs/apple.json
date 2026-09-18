@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200642941-0836": {
-      "first_seen": 1775163183.86162,
-      "posted": "",
-      "title": "Compiler Security Engineer - C/C++",
-      "job_id": "200642941-0836"
-    },
     "200618355-0836": {
       "first_seen": 1775163183.86162,
       "posted": "",
@@ -20392,6 +20386,13 @@
       "title": "Software Engineer, Finance Engineering",
       "job_id": "200684265-3401",
       "url": "https://jobs.apple.com/en-us/details/200684265-3401/software-engineer-finance-engineering?team=SFTWR"
+    },
+    "200672921-0836": {
+      "first_seen": 1789762884.8584037,
+      "posted": "2026-09-18",
+      "title": "Software Engineer, Algorithms (SDE)",
+      "job_id": "200672921-0836",
+      "url": "https://jobs.apple.com/en-us/details/200672921-0836/software-engineer-algorithms-sde?team=SFTWR"
     }
   }
 }
