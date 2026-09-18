@@ -4,24 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200643348-0836": {
-      "first_seen": 1775163183.8616168,
-      "posted": "",
-      "title": "iOS Engineer - Generative AI Experiences Software",
-      "job_id": "200643348-0836"
-    },
-    "200643345-0836": {
-      "first_seen": 1775163183.8616168,
-      "posted": "",
-      "title": "Senior iOS Engineer - Generative AI Experiences Software",
-      "job_id": "200643345-0836"
-    },
-    "200643329-0836": {
-      "first_seen": 1775163183.8616168,
-      "posted": "",
-      "title": "Senior Data Scientist, AI, Search & Knowledge Platforms",
-      "job_id": "200643329-0836"
-    },
     "200643329-3337": {
       "first_seen": 1775163183.8616168,
       "posted": "",
@@ -20373,6 +20355,27 @@
       "title": "Senior Software Engineer, Capacity & Efficiency Engineering",
       "job_id": "200684368-3337",
       "url": "https://jobs.apple.com/en-us/details/200684368-3337/senior-software-engineer-capacity-efficiency-engineering?team=SFTWR"
+    },
+    "200684539-0670": {
+      "first_seen": 1789736500.5184603,
+      "posted": "2026-09-18",
+      "title": "Technical Operations Engineer, Apple News",
+      "job_id": "200684539-0670",
+      "url": "https://jobs.apple.com/en-us/details/200684539-0670/technical-operations-engineer-apple-news?team=SFTWR"
+    },
+    "200684539-0836": {
+      "first_seen": 1789736500.5184639,
+      "posted": "2026-09-18",
+      "title": "Technical Operations Engineer, Apple News",
+      "job_id": "200684539-0836",
+      "url": "https://jobs.apple.com/en-us/details/200684539-0836/technical-operations-engineer-apple-news?team=SFTWR"
+    },
+    "200684532-0836": {
+      "first_seen": 1789736500.5184655,
+      "posted": "2026-09-18",
+      "title": "Sr. Business Ops Program Manager, Apps",
+      "job_id": "200684532-0836",
+      "url": "https://jobs.apple.com/en-us/details/200684532-0836/sr-business-ops-program-manager-apps?team=SFTWR"
     }
   }
 }
