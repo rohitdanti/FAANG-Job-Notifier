@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200642848-0157": {
-      "first_seen": 1775163183.861619,
-      "posted": "",
-      "title": "Graphics Software Engineer",
-      "job_id": "200642848-0157"
-    },
     "200643073-3577": {
       "first_seen": 1775163183.861619,
       "posted": "",
@@ -20384,6 +20378,13 @@
       "title": "Software Engineer (Data Solutions), AI & Data Platforms (AiDP)",
       "job_id": "200684577-3956",
       "url": "https://jobs.apple.com/en-us/details/200684577-3956/software-engineer-data-solutions-ai-data-platforms-aidp?team=SFTWR"
+    },
+    "200683544": {
+      "first_seen": 1789755096.584056,
+      "posted": "2026-09-18",
+      "title": "Camera Software Frameworks Engineer",
+      "job_id": "200683544",
+      "url": "https://jobs.apple.com/en-us/details/200683544/camera-software-frameworks-engineer?team=SFTWR"
     }
   }
 }
