@@ -4,24 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200642549-3121": {
-      "first_seen": 1775163183.8616161,
-      "posted": "",
-      "title": "Senior Security Engineer, Data Center Network",
-      "job_id": "200642549-3121"
-    },
-    "200642625-3956": {
-      "first_seen": 1775163183.8616168,
-      "posted": "",
-      "title": "iOS Application Developer - Health Software",
-      "job_id": "200642625-3956"
-    },
-    "200635627-0836": {
-      "first_seen": 1775163183.8616168,
-      "posted": "",
-      "title": "Distinguished Engineer, AI Infrastructure",
-      "job_id": "200635627-0836"
-    },
     "200643348-0836": {
       "first_seen": 1775163183.8616168,
       "posted": "",
@@ -20370,6 +20352,27 @@
       "title": "Triage Engineer, Internet Technologies",
       "job_id": "200684112-0836",
       "url": "https://jobs.apple.com/en-us/details/200684112-0836/triage-engineer-internet-technologies?team=SFTWR"
+    },
+    "200684457-0836": {
+      "first_seen": 1789697502.3706367,
+      "posted": "2026-09-18",
+      "title": "Senior Product Manager, Commerce",
+      "job_id": "200684457-0836",
+      "url": "https://jobs.apple.com/en-us/details/200684457-0836/senior-product-manager-commerce?team=SFTWR"
+    },
+    "200684368-0836": {
+      "first_seen": 1789697502.3706431,
+      "posted": "2026-09-18",
+      "title": "Senior Software Engineer, Capacity & Efficiency Engineering",
+      "job_id": "200684368-0836",
+      "url": "https://jobs.apple.com/en-us/details/200684368-0836/senior-software-engineer-capacity-efficiency-engineering?team=SFTWR"
+    },
+    "200684368-3337": {
+      "first_seen": 1789697502.3706453,
+      "posted": "2026-09-18",
+      "title": "Senior Software Engineer, Capacity & Efficiency Engineering",
+      "job_id": "200684368-3337",
+      "url": "https://jobs.apple.com/en-us/details/200684368-3337/senior-software-engineer-capacity-efficiency-engineering?team=SFTWR"
     }
   }
 }
