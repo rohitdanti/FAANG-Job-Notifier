@@ -4,30 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200636475-3401": {
-      "first_seen": 1775163183.861621,
-      "posted": "",
-      "title": "Cloud Engineer, Health Software",
-      "job_id": "200636475-3401"
-    },
-    "200636204-3337": {
-      "first_seen": 1775163183.861621,
-      "posted": "",
-      "title": "Machine Learning Engineer, Natural Language Generation",
-      "job_id": "200636204-3337"
-    },
-    "200642700-3543": {
-      "first_seen": 1775163183.861621,
-      "posted": "",
-      "title": "OS Build QE",
-      "job_id": "200642700-3543"
-    },
-    "200625072-0836": {
-      "first_seen": 1775163183.861621,
-      "posted": "",
-      "title": "Camera Calibration & Instrumentation Engineer",
-      "job_id": "200625072-0836"
-    },
     "200641742-0836": {
       "first_seen": 1775163183.861621,
       "posted": "",
@@ -20395,6 +20371,34 @@
       "title": "Senior AI Enablement Engineering Manager, Apps Team",
       "job_id": "200683656-0836",
       "url": "https://jobs.apple.com/en-us/details/200683656-0836/senior-ai-enablement-engineering-manager-apps-team?team=SFTWR"
+    },
+    "200683324-0670": {
+      "first_seen": 1789776691.3745694,
+      "posted": "2026-09-19",
+      "title": "Senior Graphics Software Engineer",
+      "job_id": "200683324-0670",
+      "url": "https://jobs.apple.com/en-us/details/200683324-0670/senior-graphics-software-engineer?team=SFTWR"
+    },
+    "200683324-0836": {
+      "first_seen": 1789776691.3745737,
+      "posted": "2026-09-19",
+      "title": "Senior Graphics Software Engineer",
+      "job_id": "200683324-0836",
+      "url": "https://jobs.apple.com/en-us/details/200683324-0836/senior-graphics-software-engineer?team=SFTWR"
+    },
+    "200683324-3543": {
+      "first_seen": 1789776691.3745756,
+      "posted": "2026-09-19",
+      "title": "Senior Graphics Software Engineer",
+      "job_id": "200683324-3543",
+      "url": "https://jobs.apple.com/en-us/details/200683324-3543/senior-graphics-software-engineer?team=SFTWR"
+    },
+    "200683324-3337": {
+      "first_seen": 1789776691.3745766,
+      "posted": "2026-09-19",
+      "title": "Senior Graphics Software Engineer",
+      "job_id": "200683324-3337",
+      "url": "https://jobs.apple.com/en-us/details/200683324-3337/senior-graphics-software-engineer?team=SFTWR"
     }
   }
 }
