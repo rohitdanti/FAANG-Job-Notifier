@@ -4,18 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200641742-0836": {
-      "first_seen": 1775163183.861621,
-      "posted": "",
-      "title": "Engineering Program Manager, Apple Services Engineering, App Store",
-      "job_id": "200641742-0836"
-    },
-    "200625867-0836": {
-      "first_seen": 1775163183.861622,
-      "posted": "",
-      "title": "Senior Video Standards Engineer, Audio & Media Technologies",
-      "job_id": "200625867-0836"
-    },
     "200641615-0836": {
       "first_seen": 1775163183.861622,
       "posted": "",
@@ -20399,6 +20387,20 @@
       "title": "Senior Graphics Software Engineer",
       "job_id": "200683324-3337",
       "url": "https://jobs.apple.com/en-us/details/200683324-3337/senior-graphics-software-engineer?team=SFTWR"
+    },
+    "200684475-0157": {
+      "first_seen": 1789995695.5974233,
+      "posted": "2026-09-21",
+      "title": "Data Governance Engineer",
+      "job_id": "200684475-0157",
+      "url": "https://jobs.apple.com/en-us/details/200684475-0157/data-governance-engineer?team=SFTWR"
+    },
+    "200684475-0836": {
+      "first_seen": 1789995695.5974295,
+      "posted": "2026-09-21",
+      "title": "Data Governance Engineer",
+      "job_id": "200684475-0836",
+      "url": "https://jobs.apple.com/en-us/details/200684475-0836/data-governance-engineer?team=SFTWR"
     }
   }
 }
