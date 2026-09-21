@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200642548-0836": {
-      "first_seen": 1775163183.861623,
-      "posted": "",
-      "title": "Senior Product Manager \u2013 Applied Analytics, Data Engineering & AI/GenAI Platforms",
-      "job_id": "200642548-0836"
-    },
     "200642548-3337": {
       "first_seen": 1775163183.861623,
       "posted": "",
@@ -20409,6 +20403,13 @@
       "title": "Tools & Automation Engineer",
       "job_id": "200684875-3543",
       "url": "https://jobs.apple.com/en-us/details/200684875-3543/tools-automation-engineer?team=SFTWR"
+    },
+    "200684878-0836": {
+      "first_seen": 1790028093.4594715,
+      "posted": "2026-09-21",
+      "title": "Software Engineer - Generative UI, Input Experience",
+      "job_id": "200684878-0836",
+      "url": "https://jobs.apple.com/en-us/details/200684878-0836/software-engineer-generative-ui-input-experience?team=SFTWR"
     }
   }
 }
