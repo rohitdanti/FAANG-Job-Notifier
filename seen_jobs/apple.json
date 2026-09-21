@@ -4,18 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200642189-0157": {
-      "first_seen": 1775163183.861622,
-      "posted": "",
-      "title": "Sr Software Engineer (o9 Solutions), Supply Chain Integration",
-      "job_id": "200642189-0157"
-    },
-    "200642617-0836": {
-      "first_seen": 1775163183.861622,
-      "posted": "",
-      "title": "Infrastructure Planner, Cloud Infrastructure Business Operations",
-      "job_id": "200642617-0836"
-    },
     "200642570-0836": {
       "first_seen": 1775163183.861622,
       "posted": "",
@@ -20403,6 +20391,20 @@
       "title": "Software Development Engineering Manager, ASK Production Engineering",
       "job_id": "200684595-0836",
       "url": "https://jobs.apple.com/en-us/details/200684595-0836/software-development-engineering-manager-ask-production-engineering?team=SFTWR"
+    },
+    "200684861-0836": {
+      "first_seen": 1790016693.1469295,
+      "posted": "2026-09-21",
+      "title": "ODI Server Engineer",
+      "job_id": "200684861-0836",
+      "url": "https://jobs.apple.com/en-us/details/200684861-0836/odi-server-engineer?team=SFTWR"
+    },
+    "200683520-3121": {
+      "first_seen": 1790016693.1469338,
+      "posted": "2026-09-21",
+      "title": "Network Engineer, Infrastructure Services",
+      "job_id": "200683520-3121",
+      "url": "https://jobs.apple.com/en-us/details/200683520-3121/network-engineer-infrastructure-services?team=SFTWR"
     }
   }
 }
