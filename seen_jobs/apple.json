@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200640635-0836": {
-      "first_seen": 1775163183.861623,
-      "posted": "",
-      "title": "Realtime Rendering and Graphics Software Engineer",
-      "job_id": "200640635-0836"
-    },
     "200640635-3337": {
       "first_seen": 1775163183.861623,
       "posted": "",
@@ -20406,6 +20400,13 @@
       "title": "Camera Power & Performance Engineer",
       "job_id": "200684845-0836",
       "url": "https://jobs.apple.com/en-us/details/200684845-0836/camera-power-performance-engineer?team=SFTWR"
+    },
+    "200684876-3577": {
+      "first_seen": 1790020296.332492,
+      "posted": "2026-09-21",
+      "title": "Principal Software Engineer, Apple Services Engineering",
+      "job_id": "200684876-3577",
+      "url": "https://jobs.apple.com/en-us/details/200684876-3577/principal-software-engineer-apple-services-engineering?team=SFTWR"
     }
   }
 }
