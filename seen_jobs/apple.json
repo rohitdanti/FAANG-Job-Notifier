@@ -4,18 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200642548-3337": {
-      "first_seen": 1775163183.861623,
-      "posted": "",
-      "title": "Senior Product Manager \u2013 Applied Analytics, Data Engineering & AI/GenAI Platforms",
-      "job_id": "200642548-3337"
-    },
-    "200632853-0240": {
-      "first_seen": 1775163183.861623,
-      "posted": "",
-      "title": "Software Engineer, Full Stack, eBusiness Services",
-      "job_id": "200632853-0240"
-    },
     "200635007-0240": {
       "first_seen": 1775163183.861624,
       "posted": "",
@@ -20410,6 +20398,20 @@
       "title": "Software Engineer - Generative UI, Input Experience",
       "job_id": "200684878-0836",
       "url": "https://jobs.apple.com/en-us/details/200684878-0836/software-engineer-generative-ui-input-experience?team=SFTWR"
+    },
+    "200652948-0670": {
+      "first_seen": 1790032895.739139,
+      "posted": "2026-09-21",
+      "title": "Software Engineer, Employee Experience & Productivity",
+      "job_id": "200652948-0670",
+      "url": "https://jobs.apple.com/en-us/details/200652948-0670/software-engineer-employee-experience-productivity?team=SFTWR"
+    },
+    "200671481-0670": {
+      "first_seen": 1790032895.739144,
+      "posted": "2026-09-21",
+      "title": "Software Engineer, Employee Experience & Productivity",
+      "job_id": "200671481-0670",
+      "url": "https://jobs.apple.com/en-us/details/200671481-0670/software-engineer-employee-experience-productivity?team=SFTWR"
     }
   }
 }
