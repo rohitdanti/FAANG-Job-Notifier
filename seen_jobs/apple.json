@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200624367-3543": {
-      "first_seen": 1775163183.861623,
-      "posted": "",
-      "title": "Full-Stack Software Engineer, OS Performance Tools, CoreOS",
-      "job_id": "200624367-3543"
-    },
     "200642548-0836": {
       "first_seen": 1775163183.861623,
       "posted": "",
@@ -20408,6 +20402,13 @@
       "title": "Software Integrity Engineer, CoreMotion, Sensing & Connectivity",
       "job_id": "200684904-0836",
       "url": "https://jobs.apple.com/en-us/details/200684904-0836/software-integrity-engineer-coremotion-sensing-connectivity?team=SFTWR"
+    },
+    "200684875-3543": {
+      "first_seen": 1790025689.7988892,
+      "posted": "2026-09-21",
+      "title": "Tools & Automation Engineer",
+      "job_id": "200684875-3543",
+      "url": "https://jobs.apple.com/en-us/details/200684875-3543/tools-automation-engineer?team=SFTWR"
     }
   }
 }
