@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200642570-0836": {
-      "first_seen": 1775163183.861622,
-      "posted": "",
-      "title": "WebKit Performance Infrastructure Engineer",
-      "job_id": "200642570-0836"
-    },
     "200640635-0836": {
       "first_seen": 1775163183.861623,
       "posted": "",
@@ -20405,6 +20399,13 @@
       "title": "Network Engineer, Infrastructure Services",
       "job_id": "200683520-3121",
       "url": "https://jobs.apple.com/en-us/details/200683520-3121/network-engineer-infrastructure-services?team=SFTWR"
+    },
+    "200684845-0836": {
+      "first_seen": 1790019091.0509622,
+      "posted": "2026-09-21",
+      "title": "Camera Power & Performance Engineer",
+      "job_id": "200684845-0836",
+      "url": "https://jobs.apple.com/en-us/details/200684845-0836/camera-power-performance-engineer?team=SFTWR"
     }
   }
 }
