@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200642210-3956": {
-      "first_seen": 1775163183.861622,
-      "posted": "",
-      "title": "Engineering Manager, Cloud Network Reliability",
-      "job_id": "200642210-3956"
-    },
     "200642189-0157": {
       "first_seen": 1775163183.861622,
       "posted": "",
@@ -20402,6 +20396,13 @@
       "title": "Software Integrity Engineer, Sensing & Connectivity",
       "job_id": "200684740-0836",
       "url": "https://jobs.apple.com/en-us/details/200684740-0836/software-integrity-engineer-sensing-connectivity?team=SFTWR"
+    },
+    "200684595-0836": {
+      "first_seen": 1790010704.617789,
+      "posted": "2026-09-21",
+      "title": "Software Development Engineering Manager, ASK Production Engineering",
+      "job_id": "200684595-0836",
+      "url": "https://jobs.apple.com/en-us/details/200684595-0836/software-development-engineering-manager-ask-production-engineering?team=SFTWR"
     }
   }
 }
