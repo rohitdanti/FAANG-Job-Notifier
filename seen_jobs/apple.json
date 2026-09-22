@@ -4,30 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200642220-0836": {
-      "first_seen": 1775163183.8616252,
-      "posted": "",
-      "title": "Sr. iOS & macOS Software Engineer Voice Input/Dictation, Siri Dictation",
-      "job_id": "200642220-0836"
-    },
-    "200640079-3577": {
-      "first_seen": 1775163183.8616252,
-      "posted": "",
-      "title": "Sr Manager ML Data Operations, Apple Services Engineering",
-      "job_id": "200640079-3577"
-    },
-    "200635092-0157": {
-      "first_seen": 1775163183.8616261,
-      "posted": "",
-      "title": "Detection and Response Software Engineer",
-      "job_id": "200635092-0157"
-    },
-    "200635092-3337": {
-      "first_seen": 1775163183.8616261,
-      "posted": "",
-      "title": "Detection and Response Software Engineer",
-      "job_id": "200635092-3337"
-    },
     "200641491-0836": {
       "first_seen": 1775163183.8616261,
       "posted": "",
@@ -20420,6 +20396,34 @@
       "title": "Senior Software Engineer, Find My",
       "job_id": "200683340-0836",
       "url": "https://jobs.apple.com/en-us/details/200683340-0836/senior-software-engineer-find-my?team=SFTWR"
+    },
+    "200683826-0836": {
+      "first_seen": 1790101894.4383218,
+      "posted": "2026-09-22",
+      "title": "Performance & Automation Test Engineer, Creativity Apps",
+      "job_id": "200683826-0836",
+      "url": "https://jobs.apple.com/en-us/details/200683826-0836/performance-automation-test-engineer-creativity-apps?team=SFTWR"
+    },
+    "200684248-0836": {
+      "first_seen": 1790101894.4383276,
+      "posted": "2026-09-22",
+      "title": "Machine Learning & Data Scientist, OS Power & Performance",
+      "job_id": "200684248-0836",
+      "url": "https://jobs.apple.com/en-us/details/200684248-0836/machine-learning-data-scientist-os-power-performance?team=SFTWR"
+    },
+    "200685121-3543": {
+      "first_seen": 1790101894.4383302,
+      "posted": "2026-09-22",
+      "title": "Systems Engineer - Health Software",
+      "job_id": "200685121-3543",
+      "url": "https://jobs.apple.com/en-us/details/200685121-3543/systems-engineer-health-software?team=SFTWR"
+    },
+    "200685121-3956": {
+      "first_seen": 1790101894.4383318,
+      "posted": "2026-09-22",
+      "title": "Systems Engineer - Health Software",
+      "job_id": "200685121-3956",
+      "url": "https://jobs.apple.com/en-us/details/200685121-3956/systems-engineer-health-software?team=SFTWR"
     }
   }
 }
