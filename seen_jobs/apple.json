@@ -4,18 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200641491-0836": {
-      "first_seen": 1775163183.8616261,
-      "posted": "",
-      "title": "Engineering Program Manager - Graphics, Gaming and Machine Learning",
-      "job_id": "200641491-0836"
-    },
-    "200640147-3956": {
-      "first_seen": 1775163183.8616261,
-      "posted": "",
-      "title": "Engineering Project Manager, Customer Systems",
-      "job_id": "200640147-3956"
-    },
     "200635090-3337": {
       "first_seen": 1775163183.8616261,
       "posted": "",
@@ -20424,6 +20412,20 @@
       "title": "Systems Engineer - Health Software",
       "job_id": "200685121-3956",
       "url": "https://jobs.apple.com/en-us/details/200685121-3956/systems-engineer-health-software?team=SFTWR"
+    },
+    "200685148-0836": {
+      "first_seen": 1790102505.8894396,
+      "posted": "2026-09-22",
+      "title": "Platform Program Manager, AMP Partner Operations",
+      "job_id": "200685148-0836",
+      "url": "https://jobs.apple.com/en-us/details/200685148-0836/platform-program-manager-amp-partner-operations?team=SFTWR"
+    },
+    "200685148-2459": {
+      "first_seen": 1790102505.889444,
+      "posted": "2026-09-22",
+      "title": "Platform Program Manager, AMP Partner Operations",
+      "job_id": "200685148-2459",
+      "url": "https://jobs.apple.com/en-us/details/200685148-2459/platform-program-manager-amp-partner-operations?team=SFTWR"
     }
   }
 }
