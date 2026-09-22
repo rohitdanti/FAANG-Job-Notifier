@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200635090-3337": {
-      "first_seen": 1775163183.8616261,
-      "posted": "",
-      "title": "Senior Cloud Security Engineer - Design Review",
-      "job_id": "200635090-3337"
-    },
     "200641995-0836": {
       "first_seen": 1775163183.8616269,
       "posted": "",
@@ -20426,6 +20420,13 @@
       "title": "Platform Program Manager, AMP Partner Operations",
       "job_id": "200685148-2459",
       "url": "https://jobs.apple.com/en-us/details/200685148-2459/platform-program-manager-amp-partner-operations?team=SFTWR"
+    },
+    "200685106-0836": {
+      "first_seen": 1790107888.685387,
+      "posted": "2026-09-22",
+      "title": "UI Frameworks Engineer, Swift Platform Experience",
+      "job_id": "200685106-0836",
+      "url": "https://jobs.apple.com/en-us/details/200685106-0836/ui-frameworks-engineer-swift-platform-experience?team=SFTWR"
     }
   }
 }
