@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200635139-2903": {
-      "first_seen": 1775163183.8616269,
-      "posted": "",
-      "title": "Front-End Design Engineer, Apple Services Engineering",
-      "job_id": "200635139-2903"
-    },
     "200617562-0240": {
       "first_seen": 1775163183.8616269,
       "posted": "",
@@ -20428,6 +20422,13 @@
       "title": "Technical Data Product Manager, iCloud Data",
       "job_id": "200684666-0670",
       "url": "https://jobs.apple.com/en-us/details/200684666-0670/technical-data-product-manager-icloud-data?team=SFTWR"
+    },
+    "200683954-0836": {
+      "first_seen": 1790120495.859842,
+      "posted": "2026-09-22",
+      "title": "Manager, Product Management, Apple Payment Services",
+      "job_id": "200683954-0836",
+      "url": "https://jobs.apple.com/en-us/details/200683954-0836/manager-product-management-apple-payment-services?team=SFTWR"
     }
   }
 }
