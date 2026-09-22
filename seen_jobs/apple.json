@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200641781-3337": {
-      "first_seen": 1775163183.861624,
-      "posted": "",
-      "title": "Security Developer Tools Engineer (Static Analysis)",
-      "job_id": "200641781-3337"
-    },
     "200642314-3337": {
       "first_seen": 1775163183.861624,
       "posted": "",
@@ -20414,6 +20408,13 @@
       "title": "Data Engineer, Apple Ads",
       "job_id": "200684964-0836",
       "url": "https://jobs.apple.com/en-us/details/200684964-0836/data-engineer-apple-ads?team=SFTWR"
+    },
+    "200684820-3543": {
+      "first_seen": 1790037088.7024858,
+      "posted": "2026-09-22",
+      "title": "Software Development Engineer in Test - Charging & Inductive Power",
+      "job_id": "200684820-3543",
+      "url": "https://jobs.apple.com/en-us/details/200684820-3543/software-development-engineer-in-test-charging-inductive-power?team=SFTWR"
     }
   }
 }
