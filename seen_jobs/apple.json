@@ -4,18 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200617562-0240": {
-      "first_seen": 1775163183.8616269,
-      "posted": "",
-      "title": "Software Engineer (Cloud Systems Administrator), IS&T Enterprise Systems",
-      "job_id": "200617562-0240"
-    },
-    "200641827-0836": {
-      "first_seen": 1775163183.8616269,
-      "posted": "",
-      "title": "Sr. Applied AI/ML Engineer, Rights and Pricing - Apple Services Engineering",
-      "job_id": "200641827-0836"
-    },
     "200641956-0157": {
       "first_seen": 1775163183.8616269,
       "posted": "",
@@ -20429,6 +20417,20 @@
       "title": "Manager, Product Management, Apple Payment Services",
       "job_id": "200683954-0836",
       "url": "https://jobs.apple.com/en-us/details/200683954-0836/manager-product-management-apple-payment-services?team=SFTWR"
+    },
+    "200685169-0836": {
+      "first_seen": 1790121086.0775876,
+      "posted": "2026-09-22",
+      "title": "Spotlight UI Engineer",
+      "job_id": "200685169-0836",
+      "url": "https://jobs.apple.com/en-us/details/200685169-0836/spotlight-ui-engineer?team=SFTWR"
+    },
+    "200685182-0836": {
+      "first_seen": 1790121086.0775936,
+      "posted": "2026-09-22",
+      "title": "Senior Security Software Engineer - Secure Transports",
+      "job_id": "200685182-0836",
+      "url": "https://jobs.apple.com/en-us/details/200685182-0836/senior-security-software-engineer-secure-transports?team=SFTWR"
     }
   }
 }
