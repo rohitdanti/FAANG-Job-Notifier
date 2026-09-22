@@ -4,18 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200642314-3337": {
-      "first_seen": 1775163183.861624,
-      "posted": "",
-      "title": "System Software Engineer",
-      "job_id": "200642314-3337"
-    },
-    "200641786-0836": {
-      "first_seen": 1775163183.861624,
-      "posted": "",
-      "title": "Swift Compiler Backend Engineer",
-      "job_id": "200641786-0836"
-    },
     "200642207-3337": {
       "first_seen": 1775163183.8616252,
       "posted": "",
@@ -20415,6 +20403,20 @@
       "title": "Software Development Engineer in Test - Charging & Inductive Power",
       "job_id": "200684820-3543",
       "url": "https://jobs.apple.com/en-us/details/200684820-3543/software-development-engineer-in-test-charging-inductive-power?team=SFTWR"
+    },
+    "200684530-0836": {
+      "first_seen": 1790097093.9315886,
+      "posted": "2026-09-22",
+      "title": "Sr Software Engineer, Applied AI and Test Automation - Camera Software",
+      "job_id": "200684530-0836",
+      "url": "https://jobs.apple.com/en-us/details/200684530-0836/sr-software-engineer-applied-ai-and-test-automation-camera-software?team=SFTWR"
+    },
+    "200684982-3956": {
+      "first_seen": 1790097093.9315934,
+      "posted": "2026-09-22",
+      "title": "Modem System Test Engineer - Wireless Technologies and Ecosystems",
+      "job_id": "200684982-3956",
+      "url": "https://jobs.apple.com/en-us/details/200684982-3956/modem-system-test-engineer-wireless-technologies-and-ecosystems?team=SFTWR"
     }
   }
 }
