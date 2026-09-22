@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200632714-0836": {
-      "first_seen": 1775163183.861624,
-      "posted": "",
-      "title": "Software Development Engineer-Eval Data Science",
-      "job_id": "200632714-0836"
-    },
     "200641781-3337": {
       "first_seen": 1775163183.861624,
       "posted": "",
@@ -20413,6 +20407,13 @@
       "title": "Engineering Project Manager, Enterprise Technology Services",
       "job_id": "200679079-3956",
       "url": "https://jobs.apple.com/en-us/details/200679079-3956/engineering-project-manager-enterprise-technology-services?team=SFTWR"
+    },
+    "200684964-0836": {
+      "first_seen": 1790035883.9168694,
+      "posted": "2026-09-22",
+      "title": "Data Engineer, Apple Ads",
+      "job_id": "200684964-0836",
+      "url": "https://jobs.apple.com/en-us/details/200684964-0836/data-engineer-apple-ads?team=SFTWR"
     }
   }
 }
