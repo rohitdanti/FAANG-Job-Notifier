@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200629551-3956": {
-      "first_seen": 1775163183.8616278,
-      "posted": "",
-      "title": "Solution Architect, Digital Asset Management, Retail & Marcom Engineering",
-      "job_id": "200629551-3956"
-    },
     "200607240-3543": {
       "first_seen": 1775163183.8616278,
       "posted": "",
@@ -20434,6 +20428,13 @@
       "title": "Engineering Program Manager - Release",
       "job_id": "200669722-3956",
       "url": "https://jobs.apple.com/en-us/details/200669722-3956/engineering-program-manager-release?team=SFTWR"
+    },
+    "200685151-0836": {
+      "first_seen": 1790168508.776973,
+      "posted": "2026-09-23",
+      "title": "Senior Product Operations Manager, Find My",
+      "job_id": "200685151-0836",
+      "url": "https://jobs.apple.com/en-us/details/200685151-0836/senior-product-operations-manager-find-my?team=SFTWR"
     }
   }
 }
