@@ -4,24 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200641692-0836": {
-      "first_seen": 1775163183.86163,
-      "posted": "",
-      "title": "Full Stack Engineer - Maps Data Platform Workflow Team",
-      "job_id": "200641692-0836"
-    },
-    "200635343-0836": {
-      "first_seen": 1775163183.86163,
-      "posted": "",
-      "title": "Embedded Software Engineer - Thermal Management, CoreOS",
-      "job_id": "200635343-0836"
-    },
-    "200641574-1756": {
-      "first_seen": 1775163183.86163,
-      "posted": "",
-      "title": "Interactive Tools + Technology, Partnership Manager - Apple Vision Pro",
-      "job_id": "200641574-1756"
-    },
     "200641574-3401": {
       "first_seen": 1775163183.86163,
       "posted": "",
@@ -20446,6 +20428,27 @@
       "title": "App Review Specialist, Spanish Language",
       "job_id": "200685498-3956",
       "url": "https://jobs.apple.com/en-us/details/200685498-3956/app-review-specialist-spanish-language?team=SFTWR"
+    },
+    "200685531-0157": {
+      "first_seen": 1790206285.8097231,
+      "posted": "2026-09-23",
+      "title": "Sr. Data Engineer, iCloud Insights Engineering",
+      "job_id": "200685531-0157",
+      "url": "https://jobs.apple.com/en-us/details/200685531-0157/sr-data-engineer-icloud-insights-engineering?team=SFTWR"
+    },
+    "200685531-0670": {
+      "first_seen": 1790206285.809728,
+      "posted": "2026-09-23",
+      "title": "Sr. Data Engineer, iCloud Insights Engineering",
+      "job_id": "200685531-0670",
+      "url": "https://jobs.apple.com/en-us/details/200685531-0670/sr-data-engineer-icloud-insights-engineering?team=SFTWR"
+    },
+    "200685531-0836": {
+      "first_seen": 1790206285.8097298,
+      "posted": "2026-09-23",
+      "title": "Sr. Data Engineer, iCloud Insights Engineering",
+      "job_id": "200685531-0836",
+      "url": "https://jobs.apple.com/en-us/details/200685531-0836/sr-data-engineer-icloud-insights-engineering?team=SFTWR"
     }
   }
 }
