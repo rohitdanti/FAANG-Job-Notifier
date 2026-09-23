@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200607240-3543": {
-      "first_seen": 1775163183.8616278,
-      "posted": "",
-      "title": "Sr. iOS Engineer Apple Cloud Product Services",
-      "job_id": "200607240-3543"
-    },
     "200639146-0157": {
       "first_seen": 1775163183.8616278,
       "posted": "",
@@ -20435,6 +20429,13 @@
       "title": "Senior Product Operations Manager, Find My",
       "job_id": "200685151-0836",
       "url": "https://jobs.apple.com/en-us/details/200685151-0836/senior-product-operations-manager-find-my?team=SFTWR"
+    },
+    "200679008-1435": {
+      "first_seen": 1790170492.7438684,
+      "posted": "2026-09-23",
+      "title": "Senior Cloud Engineer (Wallet, Payments and Commerce)",
+      "job_id": "200679008-1435",
+      "url": "https://jobs.apple.com/en-us/details/200679008-1435/senior-cloud-engineer-wallet-payments-and-commerce?team=SFTWR"
     }
   }
 }
