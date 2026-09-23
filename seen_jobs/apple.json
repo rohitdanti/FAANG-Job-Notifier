@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200626160-0157": {
-      "first_seen": 1775163183.86163,
-      "posted": "",
-      "title": "Solution Engineer, Corporate Systems Engineering",
-      "job_id": "200626160-0157"
-    },
     "200641692-0836": {
       "first_seen": 1775163183.86163,
       "posted": "",
@@ -20445,6 +20439,13 @@
       "title": "Senior Software ML Engineer - Watch Software",
       "job_id": "200685444-3337",
       "url": "https://jobs.apple.com/en-us/details/200685444-3337/senior-software-ml-engineer-watch-software?team=SFTWR"
+    },
+    "200685498-3956": {
+      "first_seen": 1790203303.5640204,
+      "posted": "2026-09-23",
+      "title": "App Review Specialist, Spanish Language",
+      "job_id": "200685498-3956",
+      "url": "https://jobs.apple.com/en-us/details/200685498-3956/app-review-specialist-spanish-language?team=SFTWR"
     }
   }
 }
