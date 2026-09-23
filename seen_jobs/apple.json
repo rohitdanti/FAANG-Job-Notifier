@@ -4,18 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200641933-0836": {
-      "first_seen": 1775163183.8616269,
-      "posted": "",
-      "title": "Engineering Program Manager - SWE Systems",
-      "job_id": "200641933-0836"
-    },
-    "200641941-3401": {
-      "first_seen": 1775163183.8616278,
-      "posted": "",
-      "title": "Software Engineer, Observability",
-      "job_id": "200641941-3401"
-    },
     "200629551-3956": {
       "first_seen": 1775163183.8616278,
       "posted": "",
@@ -20432,6 +20420,20 @@
       "title": "Senior Infrastructure SRE",
       "job_id": "200682046-0836",
       "url": "https://jobs.apple.com/en-us/details/200682046-0836/senior-infrastructure-sre?team=SFTWR"
+    },
+    "200669722-0836": {
+      "first_seen": 1790124694.7171853,
+      "posted": "2026-09-23",
+      "title": "Engineering Program Manager - Release",
+      "job_id": "200669722-0836",
+      "url": "https://jobs.apple.com/en-us/details/200669722-0836/engineering-program-manager-release?team=SFTWR"
+    },
+    "200669722-3956": {
+      "first_seen": 1790124694.7171888,
+      "posted": "2026-09-23",
+      "title": "Engineering Program Manager - Release",
+      "job_id": "200669722-3956",
+      "url": "https://jobs.apple.com/en-us/details/200669722-3956/engineering-program-manager-release?team=SFTWR"
     }
   }
 }
