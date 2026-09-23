@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200641956-0157": {
-      "first_seen": 1775163183.8616269,
-      "posted": "",
-      "title": "Software Engineer - Cloud Services Platform (ASE)",
-      "job_id": "200641956-0157"
-    },
     "200641933-0836": {
       "first_seen": 1775163183.8616269,
       "posted": "",
@@ -20431,6 +20425,13 @@
       "title": "Senior Security Software Engineer - Secure Transports",
       "job_id": "200685182-0836",
       "url": "https://jobs.apple.com/en-us/details/200685182-0836/senior-security-software-engineer-secure-transports?team=SFTWR"
+    },
+    "200682046-0836": {
+      "first_seen": 1790124085.562378,
+      "posted": "2026-09-23",
+      "title": "Senior Infrastructure SRE",
+      "job_id": "200682046-0836",
+      "url": "https://jobs.apple.com/en-us/details/200682046-0836/senior-infrastructure-sre?team=SFTWR"
     }
   }
 }
