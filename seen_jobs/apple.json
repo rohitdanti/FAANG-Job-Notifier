@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200641188-0836": {
-      "first_seen": 1775163183.861634,
-      "posted": "",
-      "title": "Estimation Scientist - Location Services Special Projects",
-      "job_id": "200641188-0836"
-    },
     "200640708-3401": {
       "first_seen": 1775163183.861635,
       "posted": "",
@@ -20468,6 +20462,13 @@
       "title": "Localization Producer - Apple Music",
       "job_id": "200685539-0670",
       "url": "https://jobs.apple.com/en-us/details/200685539-0670/localization-producer-apple-music?team=SFTWR"
+    },
+    "200685742-0670": {
+      "first_seen": 1790289698.1111825,
+      "posted": "2026-09-24",
+      "title": "Software Engineer, Music Search",
+      "job_id": "200685742-0670",
+      "url": "https://jobs.apple.com/en-us/details/200685742-0670/software-engineer-music-search?team=SFTWR"
     }
   }
 }
