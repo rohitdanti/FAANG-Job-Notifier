@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200640725-0240": {
-      "first_seen": 1775163183.861632,
-      "posted": "",
-      "title": "Software Engineer (SAP Cloud Platform), IS&T Enterprise Systems",
-      "job_id": "200640725-0240"
-    },
     "200640871-0836": {
       "first_seen": 1775163183.861632,
       "posted": "",
@@ -20455,6 +20449,13 @@
       "title": "HelpLine Technical Support Analyst, IS&T HelpLine",
       "job_id": "200685225-0776",
       "url": "https://jobs.apple.com/en-us/details/200685225-0776/helpline-technical-support-analyst-is-t-helpline?team=SFTWR"
+    },
+    "200671293-3956": {
+      "first_seen": 1790273493.7323039,
+      "posted": "2026-09-24",
+      "title": "Front End Engineer - Retail and Marcom",
+      "job_id": "200671293-3956",
+      "url": "https://jobs.apple.com/en-us/details/200671293-3956/front-end-engineer-retail-and-marcom?team=SFTWR"
     }
   }
 }
