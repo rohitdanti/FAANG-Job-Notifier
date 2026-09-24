@@ -4,18 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200641579-0836": {
-      "first_seen": 1775163183.861631,
-      "posted": "",
-      "title": "Physical Infrastructure - Site Reliability Engineer",
-      "job_id": "200641579-0836"
-    },
-    "200638394-3337": {
-      "first_seen": 1775163183.861631,
-      "posted": "",
-      "title": "Software Engineer, CI/Testing, and Developer Productivity, Apple Services Engineering",
-      "job_id": "200638394-3337"
-    },
     "200635218-0240": {
       "first_seen": 1775163183.861631,
       "posted": "",
@@ -20450,6 +20438,20 @@
       "title": "Swift Compiler Engineering Manager, Languages & Runtimes",
       "job_id": "200651962-0836",
       "url": "https://jobs.apple.com/en-us/details/200651962-0836/swift-compiler-engineering-manager-languages-runtimes?team=SFTWR"
+    },
+    "200685507-3956": {
+      "first_seen": 1790254903.3427792,
+      "posted": "2026-09-24",
+      "title": "App Review Specialist, Turkish Language",
+      "job_id": "200685507-3956",
+      "url": "https://jobs.apple.com/en-us/details/200685507-3956/app-review-specialist-turkish-language?team=SFTWR"
+    },
+    "200684841-3401": {
+      "first_seen": 1790254903.3427837,
+      "posted": "2026-09-24",
+      "title": "Sr. Site Reliability Engineer, Infrastructure Services",
+      "job_id": "200684841-3401",
+      "url": "https://jobs.apple.com/en-us/details/200684841-3401/sr-site-reliability-engineer-infrastructure-services?team=SFTWR"
     }
   }
 }
