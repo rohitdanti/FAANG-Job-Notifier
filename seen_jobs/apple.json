@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200641231-3337": {
-      "first_seen": 1775163183.861634,
-      "posted": "",
-      "title": "Software Engineer - Traffic, JVM Frameworks",
-      "job_id": "200641231-3337"
-    },
     "200641188-0836": {
       "first_seen": 1775163183.861634,
       "posted": "",
@@ -20467,6 +20461,13 @@
       "title": "Data Engineer - Capacity Planning - Apple Data Platform",
       "job_id": "200685421-0836",
       "url": "https://jobs.apple.com/en-us/details/200685421-0836/data-engineer-capacity-planning-apple-data-platform?team=SFTWR"
+    },
+    "200685539-0670": {
+      "first_seen": 1790287297.2841487,
+      "posted": "2026-09-24",
+      "title": "Localization Producer - Apple Music",
+      "job_id": "200685539-0670",
+      "url": "https://jobs.apple.com/en-us/details/200685539-0670/localization-producer-apple-music?team=SFTWR"
     }
   }
 }
