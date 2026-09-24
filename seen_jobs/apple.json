@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200640997-0836": {
-      "first_seen": 1775163183.861632,
-      "posted": "",
-      "title": "Senior Applied ML Researcher - Video Apps",
-      "job_id": "200640997-0836"
-    },
     "200640725-0240": {
       "first_seen": 1775163183.861632,
       "posted": "",
@@ -20454,6 +20448,13 @@
       "title": "Senior Security Engineer",
       "job_id": "200685546-3337",
       "url": "https://jobs.apple.com/en-us/details/200685546-3337/senior-security-engineer?team=SFTWR"
+    },
+    "200685225-0776": {
+      "first_seen": 1790271102.294576,
+      "posted": "2026-09-24",
+      "title": "HelpLine Technical Support Analyst, IS&T HelpLine",
+      "job_id": "200685225-0776",
+      "url": "https://jobs.apple.com/en-us/details/200685225-0776/helpline-technical-support-analyst-is-t-helpline?team=SFTWR"
     }
   }
 }
