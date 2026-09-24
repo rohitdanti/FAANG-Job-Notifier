@@ -4,24 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200639920-0776": {
-      "first_seen": 1775163183.861633,
-      "posted": "",
-      "title": "Engineering Program Manager, Enterprise Technology Services",
-      "job_id": "200639920-0776"
-    },
-    "200640919-0670": {
-      "first_seen": 1775163183.861633,
-      "posted": "",
-      "title": "Senior Manager of AI Enablement & Adoption - Services Operations",
-      "job_id": "200640919-0670"
-    },
-    "200640919-0836": {
-      "first_seen": 1775163183.861633,
-      "posted": "",
-      "title": "Senior Manager of AI Enablement & Adoption - Services Operations",
-      "job_id": "200640919-0836"
-    },
     "200627224-3543": {
       "first_seen": 1775163183.861633,
       "posted": "",
@@ -20460,6 +20442,27 @@
       "title": "Clinical Study Operations Engineering Program Manager - Health",
       "job_id": "200685724-3956",
       "url": "https://jobs.apple.com/en-us/details/200685724-3956/clinical-study-operations-engineering-program-manager-health?team=SFTWR"
+    },
+    "200685582-0240": {
+      "first_seen": 1790279487.831152,
+      "posted": "2026-09-24",
+      "title": "Software Engineer, Reliability Engineering, AiDP",
+      "job_id": "200685582-0240",
+      "url": "https://jobs.apple.com/en-us/details/200685582-0240/software-engineer-reliability-engineering-aidp?team=SFTWR"
+    },
+    "200685582-3956": {
+      "first_seen": 1790279487.8311563,
+      "posted": "2026-09-24",
+      "title": "Software Engineer, Reliability Engineering, AiDP",
+      "job_id": "200685582-3956",
+      "url": "https://jobs.apple.com/en-us/details/200685582-3956/software-engineer-reliability-engineering-aidp?team=SFTWR"
+    },
+    "200685683-0670": {
+      "first_seen": 1790279487.8311582,
+      "posted": "2026-09-24",
+      "title": "Sr Software Engineer, Employee Experience & Productivity",
+      "job_id": "200685683-0670",
+      "url": "https://jobs.apple.com/en-us/details/200685683-0670/sr-software-engineer-employee-experience-productivity?team=SFTWR"
     }
   }
 }
