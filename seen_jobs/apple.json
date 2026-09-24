@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200641235-3337": {
-      "first_seen": 1775163183.861634,
-      "posted": "",
-      "title": "Senior Software Engineer - Cloud Services Engineering",
-      "job_id": "200641235-3337"
-    },
     "200641231-0836": {
       "first_seen": 1775163183.861634,
       "posted": "",
@@ -20465,6 +20459,13 @@
       "title": "3D Game Artist, Platform Architecture",
       "job_id": "200685712-3760",
       "url": "https://jobs.apple.com/en-us/details/200685712-3760/3d-game-artist-platform-architecture?team=SFTWR"
+    },
+    "200684874-3956": {
+      "first_seen": 1790284312.781879,
+      "posted": "2026-09-24",
+      "title": "Apple Neural Engine Performance and Power Engineer",
+      "job_id": "200684874-3956",
+      "url": "https://jobs.apple.com/en-us/details/200684874-3956/apple-neural-engine-performance-and-power-engineer?team=SFTWR"
     }
   }
 }
