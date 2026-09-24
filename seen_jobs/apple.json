@@ -4,24 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200640871-0836": {
-      "first_seen": 1775163183.861632,
-      "posted": "",
-      "title": "Security Reviewer, Secure Design Platform",
-      "job_id": "200640871-0836"
-    },
-    "200641178-0365": {
-      "first_seen": 1775163183.861632,
-      "posted": "",
-      "title": "Sr Software Engineer Time Synchronization, Audio & Media Technologies",
-      "job_id": "200641178-0365"
-    },
-    "200641206-0836": {
-      "first_seen": 1775163183.861632,
-      "posted": "",
-      "title": "Sr. Machine Learning Engineer, Siri Speech",
-      "job_id": "200641206-0836"
-    },
     "200641189-1242": {
       "first_seen": 1775163183.861633,
       "posted": "",
@@ -20456,6 +20438,27 @@
       "title": "Front End Engineer - Retail and Marcom",
       "job_id": "200671293-3956",
       "url": "https://jobs.apple.com/en-us/details/200671293-3956/front-end-engineer-retail-and-marcom?team=SFTWR"
+    },
+    "200685730-0836": {
+      "first_seen": 1790276496.6617138,
+      "posted": "2026-09-24",
+      "title": "Senior Engineering Project Manager - iCloud / Cloud OS / Apple Services Engineering",
+      "job_id": "200685730-0836",
+      "url": "https://jobs.apple.com/en-us/details/200685730-0836/senior-engineering-project-manager-icloud-cloud-os-apple-services-engineering?team=SFTWR"
+    },
+    "200666448-0836": {
+      "first_seen": 1790276496.6617181,
+      "posted": "2026-09-24",
+      "title": "Senior Data Scientist, Strategic Modeling & Simulation",
+      "job_id": "200666448-0836",
+      "url": "https://jobs.apple.com/en-us/details/200666448-0836/senior-data-scientist-strategic-modeling-simulation?team=SFTWR"
+    },
+    "200684823-3401": {
+      "first_seen": 1790276496.6617196,
+      "posted": "2026-09-24",
+      "title": "Senior Software Engineer (SDET), Infrastructure Services",
+      "job_id": "200684823-3401",
+      "url": "https://jobs.apple.com/en-us/details/200684823-3401/senior-software-engineer-sdet-infrastructure-services?team=SFTWR"
     }
   }
 }
