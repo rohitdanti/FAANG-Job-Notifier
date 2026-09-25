@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200634967-3337": {
-      "first_seen": 1775163183.861639,
-      "posted": "",
-      "title": "Staff Machine Learning Engineer, Apple Services Engineering",
-      "job_id": "200634967-3337"
-    },
     "200635364-0836": {
       "first_seen": 1775163183.86164,
       "posted": "",
@@ -20492,6 +20486,13 @@
       "title": "Sr Network Reliability Engineer, IS",
       "job_id": "200684650-3956",
       "url": "https://jobs.apple.com/en-us/details/200684650-3956/sr-network-reliability-engineer-is?team=SFTWR"
+    },
+    "200641231-3337": {
+      "first_seen": 1790375506.8381946,
+      "posted": "2026-09-25",
+      "title": "Software Engineer - Traffic (ASE) - Secure Service Networking",
+      "job_id": "200641231-3337",
+      "url": "https://jobs.apple.com/en-us/details/200641231-3337/software-engineer-traffic-ase-secure-service-networking?team=SFTWR"
     }
   }
 }
