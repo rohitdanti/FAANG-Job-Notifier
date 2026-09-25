@@ -4,24 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200639825-0240": {
-      "first_seen": 1775163183.8616362,
-      "posted": "",
-      "title": "Software Engineer (Java/J2EE & Spring Frameworks), IS&T Enterprise Systems",
-      "job_id": "200639825-0240"
-    },
-    "200640707-0836": {
-      "first_seen": 1775163183.861637,
-      "posted": "",
-      "title": "Software Engineering Program Manager, ISE",
-      "job_id": "200640707-0836"
-    },
-    "200634449-0836": {
-      "first_seen": 1775163183.861637,
-      "posted": "",
-      "title": "Principal Applied Researcher",
-      "job_id": "200634449-0836"
-    },
     "200634449-3577": {
       "first_seen": 1775163183.861637,
       "posted": "",
@@ -20477,6 +20459,27 @@
       "title": "Senior Network Security Engineer, Infrastructure Services",
       "job_id": "200685084-0240",
       "url": "https://jobs.apple.com/en-us/details/200685084-0240/senior-network-security-engineer-infrastructure-services?team=SFTWR"
+    },
+    "200684674-3121": {
+      "first_seen": 1790350304.706717,
+      "posted": "2026-09-25",
+      "title": "Senior Network Planning Engineer, Infrastructure Services",
+      "job_id": "200684674-3121",
+      "url": "https://jobs.apple.com/en-us/details/200684674-3121/senior-network-planning-engineer-infrastructure-services?team=SFTWR"
+    },
+    "200684671-3121": {
+      "first_seen": 1790350304.7067223,
+      "posted": "2026-09-25",
+      "title": "Network Deployment Engineer, Infrastructure Services",
+      "job_id": "200684671-3121",
+      "url": "https://jobs.apple.com/en-us/details/200684671-3121/network-deployment-engineer-infrastructure-services?team=SFTWR"
+    },
+    "200684671-3401": {
+      "first_seen": 1790350304.7067244,
+      "posted": "2026-09-25",
+      "title": "Network Deployment Engineer, Infrastructure Services",
+      "job_id": "200684671-3401",
+      "url": "https://jobs.apple.com/en-us/details/200684671-3401/network-deployment-engineer-infrastructure-services?team=SFTWR"
     }
   }
 }
