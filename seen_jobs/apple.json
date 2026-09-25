@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200638329-0240": {
-      "first_seen": 1775163183.8616362,
-      "posted": "",
-      "title": "SAP Security Engineering (Penetration Tester), IS&T Enterprise Systems",
-      "job_id": "200638329-0240"
-    },
     "200639825-0240": {
       "first_seen": 1775163183.8616362,
       "posted": "",
@@ -20476,6 +20470,13 @@
       "title": "Senior Staff Machine Learning Engineer, ML Platform",
       "job_id": "200685766-2459",
       "url": "https://jobs.apple.com/en-us/details/200685766-2459/senior-staff-machine-learning-engineer-ml-platform?team=SFTWR"
+    },
+    "200685084-0240": {
+      "first_seen": 1790349704.416834,
+      "posted": "2026-09-25",
+      "title": "Senior Network Security Engineer, Infrastructure Services",
+      "job_id": "200685084-0240",
+      "url": "https://jobs.apple.com/en-us/details/200685084-0240/senior-network-security-engineer-infrastructure-services?team=SFTWR"
     }
   }
 }
