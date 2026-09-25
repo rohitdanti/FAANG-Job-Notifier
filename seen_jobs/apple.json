@@ -4,18 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200640140-0157": {
-      "first_seen": 1775163183.861639,
-      "posted": "",
-      "title": "Software Engineer - Strategic Data Solutions",
-      "job_id": "200640140-0157"
-    },
-    "200640120-0836": {
-      "first_seen": 1775163183.861639,
-      "posted": "",
-      "title": "Software Engineer, Big Data - Apple Services Engineering",
-      "job_id": "200640120-0836"
-    },
     "200640568-0836": {
       "first_seen": 1775163183.861639,
       "posted": "",
@@ -20489,6 +20477,20 @@
       "title": "OS Power and Performance - Software Development Engineer in Test",
       "job_id": "200685970-3543",
       "url": "https://jobs.apple.com/en-us/details/200685970-3543/os-power-and-performance-software-development-engineer-in-test?team=SFTWR"
+    },
+    "200643393-0836": {
+      "first_seen": 1790374294.4662254,
+      "posted": "2026-09-25",
+      "title": "Lab Operations Engineering Program Specialist",
+      "job_id": "200643393-0836",
+      "url": "https://jobs.apple.com/en-us/details/200643393-0836/lab-operations-engineering-program-specialist?team=SFTWR"
+    },
+    "200644094-0157": {
+      "first_seen": 1790374294.46623,
+      "posted": "2026-09-25",
+      "title": "Staff Software Engineer, Retail and Marcom Engineering",
+      "job_id": "200644094-0157",
+      "url": "https://jobs.apple.com/en-us/details/200644094-0157/staff-software-engineer-retail-and-marcom-engineering?team=SFTWR"
     }
   }
 }
