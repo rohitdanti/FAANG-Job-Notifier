@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200634449-3577": {
-      "first_seen": 1775163183.861637,
-      "posted": "",
-      "title": "Principal Applied Researcher",
-      "job_id": "200634449-3577"
-    },
     "200633364-3337": {
       "first_seen": 1775163183.861637,
       "posted": "",
@@ -20480,6 +20474,13 @@
       "title": "Network Deployment Engineer, Infrastructure Services",
       "job_id": "200684671-3401",
       "url": "https://jobs.apple.com/en-us/details/200684671-3401/network-deployment-engineer-infrastructure-services?team=SFTWR"
+    },
+    "200685800-0670": {
+      "first_seen": 1790356292.5277436,
+      "posted": "2026-09-25",
+      "title": "Managing Producer \u2013 Content Design for Music & Podcasts (Apple Services: Product, Design & Marketing)",
+      "job_id": "200685800-0670",
+      "url": "https://jobs.apple.com/en-us/details/200685800-0670/managing-producer-content-design-for-music-podcasts-apple-services-product-design-marketing?team=SFTWR"
     }
   }
 }
