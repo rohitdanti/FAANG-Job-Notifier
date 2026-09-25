@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200640568-0836": {
-      "first_seen": 1775163183.861639,
-      "posted": "",
-      "title": "Software Engineer StoreKit, Apple Services Engineering",
-      "job_id": "200640568-0836"
-    },
     "200634967-3337": {
       "first_seen": 1775163183.861639,
       "posted": "",
@@ -20491,6 +20485,13 @@
       "title": "Staff Software Engineer, Retail and Marcom Engineering",
       "job_id": "200644094-0157",
       "url": "https://jobs.apple.com/en-us/details/200644094-0157/staff-software-engineer-retail-and-marcom-engineering?team=SFTWR"
+    },
+    "200684650-3956": {
+      "first_seen": 1790374888.8985977,
+      "posted": "2026-09-25",
+      "title": "Sr Network Reliability Engineer, IS",
+      "job_id": "200684650-3956",
+      "url": "https://jobs.apple.com/en-us/details/200684650-3956/sr-network-reliability-engineer-is?team=SFTWR"
     }
   }
 }
