@@ -4,24 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200640652-3543": {
-      "first_seen": 1775163183.8616378,
-      "posted": "",
-      "title": "Software Quality Engineer - Applied Networking",
-      "job_id": "200640652-3543"
-    },
-    "200631536-3337": {
-      "first_seen": 1775163183.8616378,
-      "posted": "",
-      "title": "Software Engineer App Store Client",
-      "job_id": "200631536-3337"
-    },
-    "200633616-0157": {
-      "first_seen": 1775163183.861639,
-      "posted": "",
-      "title": "Senior Software Engineer, Wallet Identity Server",
-      "job_id": "200633616-0157"
-    },
     "200640140-0157": {
       "first_seen": 1775163183.861639,
       "posted": "",
@@ -20486,6 +20468,27 @@
       "title": "Product Design Producer, Music & Podcasts",
       "job_id": "200685918-0836",
       "url": "https://jobs.apple.com/en-us/details/200685918-0836/product-design-producer-music-podcasts?team=SFTWR"
+    },
+    "200685954-0836": {
+      "first_seen": 1790371892.09645,
+      "posted": "2026-09-25",
+      "title": "Software Engineering Technical Lead, Apple Pay \u2014 Wallet, Payments & Commerce (WPC)",
+      "job_id": "200685954-0836",
+      "url": "https://jobs.apple.com/en-us/details/200685954-0836/software-engineering-technical-lead-apple-pay-wallet-payments-commerce-wpc?team=SFTWR"
+    },
+    "200685555-3543": {
+      "first_seen": 1790371892.0964546,
+      "posted": "2026-09-25",
+      "title": "Senior Software Engineer, Development Engineering Workflows, Core OS",
+      "job_id": "200685555-3543",
+      "url": "https://jobs.apple.com/en-us/details/200685555-3543/senior-software-engineer-development-engineering-workflows-core-os?team=SFTWR"
+    },
+    "200685970-3543": {
+      "first_seen": 1790371892.096457,
+      "posted": "2026-09-25",
+      "title": "OS Power and Performance - Software Development Engineer in Test",
+      "job_id": "200685970-3543",
+      "url": "https://jobs.apple.com/en-us/details/200685970-3543/os-power-and-performance-software-development-engineer-in-test?team=SFTWR"
     }
   }
 }
