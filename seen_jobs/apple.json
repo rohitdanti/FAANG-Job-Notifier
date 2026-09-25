@@ -4,24 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200640551-0836": {
-      "first_seen": 1775163183.861635,
-      "posted": "",
-      "title": "Software Development Engineer in Test - Apple Maps",
-      "job_id": "200640551-0836"
-    },
-    "200616700-3337": {
-      "first_seen": 1775163183.861635,
-      "posted": "",
-      "title": "Applied ML Engineer \u2013 AI/ML Evaluation & Simulation",
-      "job_id": "200616700-3337"
-    },
-    "200640429-0836": {
-      "first_seen": 1775163183.861635,
-      "posted": "",
-      "title": "Sr. iOS Software Engineer, News and Stocks",
-      "job_id": "200640429-0836"
-    },
     "200640381-0836": {
       "first_seen": 1775163183.861635,
       "posted": "",
@@ -20471,6 +20453,27 @@
       "title": "Sr Software Engineering Program Manager - Claris",
       "job_id": "200679240-3956",
       "url": "https://jobs.apple.com/en-us/details/200679240-3956/sr-software-engineering-program-manager-claris?team=SFTWR"
+    },
+    "200685676-0365": {
+      "first_seen": 1790297496.1114848,
+      "posted": "2026-09-25",
+      "title": "Senior Systems Engineer, Watch Software",
+      "job_id": "200685676-0365",
+      "url": "https://jobs.apple.com/en-us/details/200685676-0365/senior-systems-engineer-watch-software?team=SFTWR"
+    },
+    "200685676-0836": {
+      "first_seen": 1790297496.111491,
+      "posted": "2026-09-25",
+      "title": "Senior Systems Engineer, Watch Software",
+      "job_id": "200685676-0836",
+      "url": "https://jobs.apple.com/en-us/details/200685676-0836/senior-systems-engineer-watch-software?team=SFTWR"
+    },
+    "200685676-3543": {
+      "first_seen": 1790297496.1114936,
+      "posted": "2026-09-25",
+      "title": "Senior Systems Engineer, Watch Software",
+      "job_id": "200685676-3543",
+      "url": "https://jobs.apple.com/en-us/details/200685676-3543/senior-systems-engineer-watch-software?team=SFTWR"
     }
   }
 }
