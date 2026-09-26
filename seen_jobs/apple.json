@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200640345-3337": {
-      "first_seen": 1775163183.86164,
-      "posted": "",
-      "title": "App Store Engineering - Senior Full-Stack Software Engineer",
-      "job_id": "200640345-3337"
-    },
     "200637441-0157": {
       "first_seen": 1775163183.86164,
       "posted": "",
@@ -20494,6 +20488,13 @@
       "title": "SDET Manager, Mail & Messages Automated Testing Frameworks",
       "job_id": "200685898-3543",
       "url": "https://jobs.apple.com/en-us/details/200685898-3543/sdet-manager-mail-messages-automated-testing-frameworks?team=SFTWR"
+    },
+    "200647309-0836": {
+      "first_seen": 1790383888.3953493,
+      "posted": "2026-09-26",
+      "title": "Senior ML Engineer, Apple Ray, Apple Data Platform",
+      "job_id": "200647309-0836",
+      "url": "https://jobs.apple.com/en-us/details/200647309-0836/senior-ml-engineer-apple-ray-apple-data-platform?team=SFTWR"
     }
   }
 }
