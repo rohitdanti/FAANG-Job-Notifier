@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200639888-0836": {
-      "first_seen": 1775163183.861641,
-      "posted": "",
-      "title": "Computer Vision and Machine Learning Engineer, Creativity Apps",
-      "job_id": "200639888-0836"
-    },
     "200640029-0836": {
       "first_seen": 1775163183.861641,
       "posted": "",
@@ -20499,6 +20493,13 @@
       "title": "Senior Data Scientist, Experimentation & Causal Inference",
       "job_id": "200666441-0836",
       "url": "https://jobs.apple.com/en-us/details/200666441-0836/senior-data-scientist-experimentation-causal-inference?team=SFTWR"
+    },
+    "200685817-0836": {
+      "first_seen": 1790625096.760584,
+      "posted": "2026-09-28",
+      "title": "Engineering Program Manager - Graphics, Gaming and Machine Learning",
+      "job_id": "200685817-0836",
+      "url": "https://jobs.apple.com/en-us/details/200685817-0836/engineering-program-manager-graphics-gaming-and-machine-learning?team=SFTWR"
     }
   }
 }
