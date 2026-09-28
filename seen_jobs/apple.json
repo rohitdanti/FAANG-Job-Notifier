@@ -4,18 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200637441-0157": {
-      "first_seen": 1775163183.86164,
-      "posted": "",
-      "title": "Software Engineer (SAP Development Support), IS&T Enterprise Systems",
-      "job_id": "200637441-0157"
-    },
-    "200614395-3543": {
-      "first_seen": 1775163183.86164,
-      "posted": "",
-      "title": "Sr. Software Engineer, Apple TV Service",
-      "job_id": "200614395-3543"
-    },
     "200639987-0836": {
       "first_seen": 1775163183.86164,
       "posted": "",
@@ -20495,6 +20483,20 @@
       "title": "Senior ML Engineer, Apple Ray, Apple Data Platform",
       "job_id": "200647309-0836",
       "url": "https://jobs.apple.com/en-us/details/200647309-0836/senior-ml-engineer-apple-ray-apple-data-platform?team=SFTWR"
+    },
+    "200685976-0670": {
+      "first_seen": 1790600505.2787938,
+      "posted": "2026-09-28",
+      "title": "Lead Designer, Design Systems & Structures",
+      "job_id": "200685976-0670",
+      "url": "https://jobs.apple.com/en-us/details/200685976-0670/lead-designer-design-systems-structures?team=SFTWR"
+    },
+    "200685976-2459": {
+      "first_seen": 1790600505.2787979,
+      "posted": "2026-09-28",
+      "title": "Lead Designer, Design Systems & Structures",
+      "job_id": "200685976-2459",
+      "url": "https://jobs.apple.com/en-us/details/200685976-2459/lead-designer-design-systems-structures?team=SFTWR"
     }
   }
 }
