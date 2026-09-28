@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200640029-0836": {
-      "first_seen": 1775163183.861641,
-      "posted": "",
-      "title": "Site Reliability Engineering (SRE) Manager, Private Cloud Compute",
-      "job_id": "200640029-0836"
-    },
     "200640337-2459": {
       "first_seen": 1775163183.861641,
       "posted": "",
@@ -20500,6 +20494,13 @@
       "title": "Engineering Program Manager - Graphics, Gaming and Machine Learning",
       "job_id": "200685817-0836",
       "url": "https://jobs.apple.com/en-us/details/200685817-0836/engineering-program-manager-graphics-gaming-and-machine-learning?team=SFTWR"
+    },
+    "200677442-0670": {
+      "first_seen": 1790628696.8285036,
+      "posted": "2026-09-28",
+      "title": "Product Manager, Employee Experience & Productivity",
+      "job_id": "200677442-0670",
+      "url": "https://jobs.apple.com/en-us/details/200677442-0670/product-manager-employee-experience-productivity?team=SFTWR"
     }
   }
 }
