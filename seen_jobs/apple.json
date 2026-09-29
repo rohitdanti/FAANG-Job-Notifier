@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200638387-3543": {
-      "first_seen": 1775163183.8616471,
-      "posted": "",
-      "title": "Distributed Systems Software Engineer (Golang)",
-      "job_id": "200638387-3543"
-    },
     "200638185-3401": {
       "first_seen": 1775163183.8616471,
       "posted": "",
@@ -20534,6 +20528,13 @@
       "title": "Senior Analytics Engineer, Health Operations (MSO)",
       "job_id": "200686453-0836",
       "url": "https://jobs.apple.com/en-us/details/200686453-0836/senior-analytics-engineer-health-operations-mso?team=SFTWR"
+    },
+    "200686421-3543": {
+      "first_seen": 1790725295.9783072,
+      "posted": "2026-09-29",
+      "title": "Engineering Program Specialist",
+      "job_id": "200686421-3543",
+      "url": "https://jobs.apple.com/en-us/details/200686421-3543/engineering-program-specialist?team=SFTWR"
     }
   }
 }
