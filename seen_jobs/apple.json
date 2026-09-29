@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200638763-3543": {
-      "first_seen": 1775163183.8616471,
-      "posted": "",
-      "title": "Software Developer in Test, Apple Pay",
-      "job_id": "200638763-3543"
-    },
     "200638387-0157": {
       "first_seen": 1775163183.8616471,
       "posted": "",
@@ -20532,6 +20526,13 @@
       "title": "Staff Machine Learning Engineer - Ads Bidding & Pacing",
       "job_id": "200686204-0836",
       "url": "https://jobs.apple.com/en-us/details/200686204-0836/staff-machine-learning-engineer-ads-bidding-pacing?team=SFTWR"
+    },
+    "200685921-0836": {
+      "first_seen": 1790722296.6377695,
+      "posted": "2026-09-29",
+      "title": "Product Design Producer - Apple Maps",
+      "job_id": "200685921-0836",
+      "url": "https://jobs.apple.com/en-us/details/200685921-0836/product-design-producer-apple-maps?team=SFTWR"
     }
   }
 }
