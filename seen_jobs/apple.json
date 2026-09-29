@@ -4,24 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200622498-3337": {
-      "first_seen": 1775163183.8616462,
-      "posted": "",
-      "title": "Compute SRE",
-      "job_id": "200622498-3337"
-    },
-    "200639662-0505": {
-      "first_seen": 1775163183.8616462,
-      "posted": "",
-      "title": "SW Test Development Engineer, Core OS",
-      "job_id": "200639662-0505"
-    },
-    "200628873-3337": {
-      "first_seen": 1775163183.8616462,
-      "posted": "",
-      "title": "Machine Learning Manager, Maps Search",
-      "job_id": "200628873-3337"
-    },
     "200639091-1756": {
       "first_seen": 1775163183.8616462,
       "posted": "",
@@ -20526,6 +20508,27 @@
       "title": "Sr. Technical Program Manager, Wallet Services Analytics",
       "job_id": "200667448-0836",
       "url": "https://jobs.apple.com/en-us/details/200667448-0836/sr-technical-program-manager-wallet-services-analytics?team=SFTWR"
+    },
+    "200668420-1025": {
+      "first_seen": 1790709092.4312496,
+      "posted": "2026-09-29",
+      "title": "Optical Network Engineer, Infrastructure Services",
+      "job_id": "200668420-1025",
+      "url": "https://jobs.apple.com/en-us/details/200668420-1025/optical-network-engineer-infrastructure-services?team=SFTWR"
+    },
+    "200668420": {
+      "first_seen": 1790709092.4312537,
+      "posted": "2026-09-29",
+      "title": "Optical Network Engineer, Infrastructure Services",
+      "job_id": "200668420",
+      "url": "https://jobs.apple.com/en-us/details/200668420/optical-network-engineer-infrastructure-services?team=SFTWR"
+    },
+    "200668420-3401": {
+      "first_seen": 1790709092.4312556,
+      "posted": "2026-09-29",
+      "title": "Optical Network Engineer, Infrastructure Services",
+      "job_id": "200668420-3401",
+      "url": "https://jobs.apple.com/en-us/details/200668420-3401/optical-network-engineer-infrastructure-services?team=SFTWR"
     }
   }
 }
