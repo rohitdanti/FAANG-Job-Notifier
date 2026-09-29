@@ -4,18 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200623744-3543": {
-      "first_seen": 1775163183.861644,
-      "posted": "",
-      "title": "AI Application Engineer",
-      "job_id": "200623744-3543"
-    },
-    "200636203-0836": {
-      "first_seen": 1775163183.861644,
-      "posted": "",
-      "title": "Senior Software Engineer",
-      "job_id": "200636203-0836"
-    },
     "200639941-3401": {
       "first_seen": 1775163183.861644,
       "posted": "",
@@ -20516,6 +20504,20 @@
       "title": "Tools & Automation Engineer, AppleCare",
       "job_id": "200675792-3956",
       "url": "https://jobs.apple.com/en-us/details/200675792-3956/tools-automation-engineer-applecare?team=SFTWR"
+    },
+    "200686304-3337": {
+      "first_seen": 1790686904.313674,
+      "posted": "2026-09-29",
+      "title": "Senior Solution Architect, Traffic Infrastructure ASE",
+      "job_id": "200686304-3337",
+      "url": "https://jobs.apple.com/en-us/details/200686304-3337/senior-solution-architect-traffic-infrastructure-ase?team=SFTWR"
+    },
+    "200686299-0157": {
+      "first_seen": 1790686904.313677,
+      "posted": "2026-09-29",
+      "title": "Software Devlopment Engineer - Kubernetes",
+      "job_id": "200686299-0157",
+      "url": "https://jobs.apple.com/en-us/details/200686299-0157/software-devlopment-engineer-kubernetes?team=SFTWR"
     }
   }
 }
