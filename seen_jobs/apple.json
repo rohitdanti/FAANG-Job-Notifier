@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200639091-1756": {
-      "first_seen": 1775163183.8616462,
-      "posted": "",
-      "title": "Technical Experience Designer - Apple Vision Pro",
-      "job_id": "200639091-1756"
-    },
     "200638819-0836": {
       "first_seen": 1775163183.8616471,
       "posted": "",
@@ -20529,6 +20523,13 @@
       "title": "Optical Network Engineer, Infrastructure Services",
       "job_id": "200668420-3401",
       "url": "https://jobs.apple.com/en-us/details/200668420-3401/optical-network-engineer-infrastructure-services?team=SFTWR"
+    },
+    "200685551-3337": {
+      "first_seen": 1790713911.2390292,
+      "posted": "2026-09-29",
+      "title": "Senior Security Engineer - Security Assurance Scaling",
+      "job_id": "200685551-3337",
+      "url": "https://jobs.apple.com/en-us/details/200685551-3337/senior-security-engineer-security-assurance-scaling?team=SFTWR"
     }
   }
 }
