@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200637455-3543": {
-      "first_seen": 1775163183.86165,
-      "posted": "",
-      "title": "Senior Engineer, Satellite Resource Optimization",
-      "job_id": "200637455-3543"
-    },
     "200637703-2605": {
       "first_seen": 1775163183.86165,
       "posted": "",
@@ -20546,6 +20540,13 @@
       "title": "Sr. Data Engineer - Services Special Projects",
       "job_id": "200685005-0836",
       "url": "https://jobs.apple.com/en-us/details/200685005-0836/sr-data-engineer-services-special-projects?team=SFTWR"
+    },
+    "200680546-3543": {
+      "first_seen": 1790804494.5032496,
+      "posted": "2026-09-30",
+      "title": "Bluetooth Firmware Engineer, Wireless Technologies & Ecosystems",
+      "job_id": "200680546-3543",
+      "url": "https://jobs.apple.com/en-us/details/200680546-3543/bluetooth-firmware-engineer-wireless-technologies-ecosystems?team=SFTWR"
     }
   }
 }
