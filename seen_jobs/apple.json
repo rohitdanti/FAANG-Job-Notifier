@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200618208-0836": {
-      "first_seen": 1775163183.8616488,
-      "posted": "",
-      "title": "Machine Learning Engineer - Crowdsourced Sensing (Sensing & Connectivity)",
-      "job_id": "200618208-0836"
-    },
     "200632715-3337": {
       "first_seen": 1775163183.8616488,
       "posted": "",
@@ -20541,6 +20535,13 @@
       "title": "Software Engineer - Generative Data Platform, Evaluation",
       "job_id": "200686470-3577",
       "url": "https://jobs.apple.com/en-us/details/200686470-3577/software-engineer-generative-data-platform-evaluation?team=SFTWR"
+    },
+    "200678453-3337": {
+      "first_seen": 1790792492.3671575,
+      "posted": "2026-09-30",
+      "title": "Software Engineer, Apple Services Engineering",
+      "job_id": "200678453-3337",
+      "url": "https://jobs.apple.com/en-us/details/200678453-3337/software-engineer-apple-services-engineering?team=SFTWR"
     }
   }
 }
