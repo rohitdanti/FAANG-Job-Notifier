@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200637703-2605": {
-      "first_seen": 1775163183.86165,
-      "posted": "",
-      "title": "Creative Architect - Production Technologies",
-      "job_id": "200637703-2605"
-    },
     "200635920-3956": {
       "first_seen": 1775163183.86165,
       "posted": "",
@@ -20547,6 +20541,13 @@
       "title": "Bluetooth Firmware Engineer, Wireless Technologies & Ecosystems",
       "job_id": "200680546-3543",
       "url": "https://jobs.apple.com/en-us/details/200680546-3543/bluetooth-firmware-engineer-wireless-technologies-ecosystems?team=SFTWR"
+    },
+    "200686602-0836": {
+      "first_seen": 1790805086.6242867,
+      "posted": "2026-09-30",
+      "title": "Senior Software Engineer, Platform Apps & Technologies, Developer Workflows",
+      "job_id": "200686602-0836",
+      "url": "https://jobs.apple.com/en-us/details/200686602-0836/senior-software-engineer-platform-apps-technologies-developer-workflows?team=SFTWR"
     }
   }
 }
