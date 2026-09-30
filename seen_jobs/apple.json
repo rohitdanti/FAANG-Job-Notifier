@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200638426-0836": {
-      "first_seen": 1775163183.8616478,
-      "posted": "",
-      "title": "Network Architect Lead",
-      "job_id": "200638426-0836"
-    },
     "200637043-3543": {
       "first_seen": 1775163183.8616478,
       "posted": "",
@@ -20538,6 +20532,13 @@
       "title": "Critical Facilities Technician, Data Center Operations",
       "job_id": "200686462-2228",
       "url": "https://jobs.apple.com/en-us/details/200686462-2228/critical-facilities-technician-data-center-operations?team=SFTWR"
+    },
+    "200686590-0836": {
+      "first_seen": 1790786497.9402127,
+      "posted": "2026-09-30",
+      "title": "Software Engineer, Siri Runtime Systems and Interaction",
+      "job_id": "200686590-0836",
+      "url": "https://jobs.apple.com/en-us/details/200686590-0836/software-engineer-siri-runtime-systems-and-interaction?team=SFTWR"
     }
   }
 }
