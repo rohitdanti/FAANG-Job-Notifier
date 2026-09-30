@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200637043-3956": {
-      "first_seen": 1775163183.8616488,
-      "posted": "",
-      "title": "iOS Application Developer - Health Software",
-      "job_id": "200637043-3956"
-    },
     "200618208-0836": {
       "first_seen": 1775163183.8616488,
       "posted": "",
@@ -20540,6 +20534,13 @@
       "title": "Machine Learning Systems Engineer, Siri Agent Modeling",
       "job_id": "200620661-0836",
       "url": "https://jobs.apple.com/en-us/details/200620661-0836/machine-learning-systems-engineer-siri-agent-modeling?team=SFTWR"
+    },
+    "200686470-3577": {
+      "first_seen": 1790791308.45637,
+      "posted": "2026-09-30",
+      "title": "Software Engineer - Generative Data Platform, Evaluation",
+      "job_id": "200686470-3577",
+      "url": "https://jobs.apple.com/en-us/details/200686470-3577/software-engineer-generative-data-platform-evaluation?team=SFTWR"
     }
   }
 }
