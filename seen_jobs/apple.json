@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200636125-3337": {
-      "first_seen": 1775163183.8616478,
-      "posted": "",
-      "title": "Engineering Program Manager, Private Cloud Compute - \uf8ff Apple Services Engineering (ASE)",
-      "job_id": "200636125-3337"
-    },
     "200638426-0836": {
       "first_seen": 1775163183.8616478,
       "posted": "",
@@ -20537,6 +20531,13 @@
       "title": "Sr. Engineering Leader, Foundation Data Platform - Wallet, Payments & Commerce",
       "job_id": "200686487-0157",
       "url": "https://jobs.apple.com/en-us/details/200686487-0157/sr-engineering-leader-foundation-data-platform-wallet-payments-commerce?team=SFTWR"
+    },
+    "200686462-2228": {
+      "first_seen": 1790773307.510828,
+      "posted": "2026-09-30",
+      "title": "Critical Facilities Technician, Data Center Operations",
+      "job_id": "200686462-2228",
+      "url": "https://jobs.apple.com/en-us/details/200686462-2228/critical-facilities-technician-data-center-operations?team=SFTWR"
     }
   }
 }
