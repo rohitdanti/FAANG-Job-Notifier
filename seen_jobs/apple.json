@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200635121-0836": {
-      "first_seen": 1775163183.861653,
-      "posted": "",
-      "title": "Senior Engineering Manager, Apple Data Platform",
-      "job_id": "200635121-0836"
-    },
     "200637187-0836": {
       "first_seen": 1775163183.861653,
       "posted": "",
@@ -20563,6 +20557,13 @@
       "title": "Xcode 3rd Party Integrations Engineering Manager",
       "job_id": "200685536-0836",
       "url": "https://jobs.apple.com/en-us/details/200685536-0836/xcode-3rd-party-integrations-engineering-manager?team=SFTWR"
+    },
+    "200686863-3543": {
+      "first_seen": 1790887456.3453948,
+      "posted": "2026-10-01",
+      "title": "Backend Software Engineer (Golang)",
+      "job_id": "200686863-3543",
+      "url": "https://jobs.apple.com/en-us/details/200686863-3543/backend-software-engineer-golang?team=SFTWR"
     }
   }
 }
