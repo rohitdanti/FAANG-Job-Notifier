@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200595304-0836": {
-      "first_seen": 1775163183.861653,
-      "posted": "",
-      "title": "Senior Product Manager - Apple Cloud AI/ML",
-      "job_id": "200595304-0836"
-    },
     "200595304-3337": {
       "first_seen": 1775163183.861653,
       "posted": "",
@@ -20566,6 +20560,13 @@
       "title": "Senior Search Engineer - Services Special Projects",
       "job_id": "200685002-0836",
       "url": "https://jobs.apple.com/en-us/details/200685002-0836/senior-search-engineer-services-special-projects?team=SFTWR"
+    },
+    "200665368-0157": {
+      "first_seen": 1790892091.708958,
+      "posted": "2026-10-01",
+      "title": "Systems Architect, Retail and Marcom Engineering",
+      "job_id": "200665368-0157",
+      "url": "https://jobs.apple.com/en-us/details/200665368-0157/systems-architect-retail-and-marcom-engineering?team=SFTWR"
     }
   }
 }
