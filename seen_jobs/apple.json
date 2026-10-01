@@ -4,18 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200637800-3337": {
-      "first_seen": 1775163183.861651,
-      "posted": "",
-      "title": "Senior Software Engineer, Apple Services Engineering",
-      "job_id": "200637800-3337"
-    },
-    "200636177-3577": {
-      "first_seen": 1775163183.861651,
-      "posted": "",
-      "title": "Applications of ML Engineering Manager",
-      "job_id": "200636177-3577"
-    },
     "200637260-0836": {
       "first_seen": 1775163183.861651,
       "posted": "",
@@ -20553,6 +20541,20 @@
       "title": "Software Development Engineer in Test (SDET), Creativity Apps",
       "job_id": "200685278-3543",
       "url": "https://jobs.apple.com/en-us/details/200685278-3543/software-development-engineer-in-test-sdet-creativity-apps?team=SFTWR"
+    },
+    "200686678-0836": {
+      "first_seen": 1790817102.8473816,
+      "posted": "2026-10-01",
+      "title": "Business Operations Analyst \u2014 AIML",
+      "job_id": "200686678-0836",
+      "url": "https://jobs.apple.com/en-us/details/200686678-0836/business-operations-analyst-aiml?team=SFTWR"
+    },
+    "200686670-0836": {
+      "first_seen": 1790817102.8473873,
+      "posted": "2026-10-01",
+      "title": "Business Operations Program Manager \u2014 Software Engineering",
+      "job_id": "200686670-0836",
+      "url": "https://jobs.apple.com/en-us/details/200686670-0836/business-operations-program-manager-software-engineering?team=SFTWR"
     }
   }
 }
