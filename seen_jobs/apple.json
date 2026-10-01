@@ -4,24 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200595304-3337": {
-      "first_seen": 1775163183.861653,
-      "posted": "",
-      "title": "Senior Product Manager - Apple Cloud AI/ML",
-      "job_id": "200595304-3337"
-    },
-    "200634806-3337": {
-      "first_seen": 1775163183.861654,
-      "posted": "",
-      "title": "Senior Machine Learning Efficiency Engineer - SIML, ISE",
-      "job_id": "200634806-3337"
-    },
-    "200637013-3401": {
-      "first_seen": 1775163183.861654,
-      "posted": "",
-      "title": "Maps Technical Partner Manager",
-      "job_id": "200637013-3401"
-    },
     "200634941-0836": {
       "first_seen": 1775163183.861654,
       "posted": "",
@@ -20567,6 +20549,27 @@
       "title": "Systems Architect, Retail and Marcom Engineering",
       "job_id": "200665368-0157",
       "url": "https://jobs.apple.com/en-us/details/200665368-0157/systems-architect-retail-and-marcom-engineering?team=SFTWR"
+    },
+    "200686879-0836": {
+      "first_seen": 1790894494.445992,
+      "posted": "2026-10-01",
+      "title": "System Software Engineer - Headphone & Accessories, Sensing & Connectivity",
+      "job_id": "200686879-0836",
+      "url": "https://jobs.apple.com/en-us/details/200686879-0836/system-software-engineer-headphone-accessories-sensing-connectivity?team=SFTWR"
+    },
+    "200656819-0157": {
+      "first_seen": 1790894494.445995,
+      "posted": "2026-10-01",
+      "title": "Software Engineer (Framework Solutions), AI & Data Platforms (AiDP)",
+      "job_id": "200656819-0157",
+      "url": "https://jobs.apple.com/en-us/details/200656819-0157/software-engineer-framework-solutions-ai-data-platforms-aidp?team=SFTWR"
+    },
+    "200686859-0836": {
+      "first_seen": 1790894494.4459968,
+      "posted": "2026-10-01",
+      "title": "Senior Software Engineer, Triage Services",
+      "job_id": "200686859-0836",
+      "url": "https://jobs.apple.com/en-us/details/200686859-0836/senior-software-engineer-triage-services?team=SFTWR"
     }
   }
 }
