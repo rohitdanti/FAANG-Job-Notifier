@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200636474-0157": {
-      "first_seen": 1775163183.861652,
-      "posted": "",
-      "title": "Engineering Project Manager, Video Apps",
-      "job_id": "200636474-0157"
-    },
     "200636474-0670": {
       "first_seen": 1775163183.861652,
       "posted": "",
@@ -20558,6 +20552,13 @@
       "title": "Network Engineer - Infrastructure Services, IS&T Early Career",
       "job_id": "200685805-0157",
       "url": "https://jobs.apple.com/en-us/details/200685805-0157/network-engineer-infrastructure-services-is-t-early-career?team=SFTWR"
+    },
+    "200685128-0157": {
+      "first_seen": 1790866290.3851244,
+      "posted": "2026-10-01",
+      "title": "Data Scientist",
+      "job_id": "200685128-0157",
+      "url": "https://jobs.apple.com/en-us/details/200685128-0157/data-scientist?team=SFTWR"
     }
   }
 }
