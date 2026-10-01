@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200636474-3543": {
-      "first_seen": 1775163183.861652,
-      "posted": "",
-      "title": "Engineering Project Manager, Video Apps",
-      "job_id": "200636474-3543"
-    },
     "200637194-0836": {
       "first_seen": 1775163183.861653,
       "posted": "",
@@ -20561,6 +20555,13 @@
       "title": "AI Software Engineer, Apple Cloud AI Platform",
       "job_id": "200686380-3337",
       "url": "https://jobs.apple.com/en-us/details/200686380-3337/ai-software-engineer-apple-cloud-ai-platform?team=SFTWR"
+    },
+    "200613553-3401": {
+      "first_seen": 1790878315.439524,
+      "posted": "2026-10-01",
+      "title": "Senior OS Engineer, Media Playback - Media, Graphics & Compute Technologies",
+      "job_id": "200613553-3401",
+      "url": "https://jobs.apple.com/en-us/details/200613553-3401/senior-os-engineer-media-playback-media-graphics-compute-technologies?team=SFTWR"
     }
   }
 }
