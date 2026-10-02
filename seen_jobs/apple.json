@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200634976-3956": {
-      "first_seen": 1775163183.861655,
-      "posted": "",
-      "title": "Senior Backend Data Platform Engineer, Enterprise Technology Services",
-      "job_id": "200634976-3956"
-    },
     "200635095-3337": {
       "first_seen": 1775163183.861655,
       "posted": "",
@@ -20577,6 +20571,13 @@
       "title": "Machine Learning Scientist - Apple Services Engineering, GenAI & ML Frameworks",
       "job_id": "200686376-2459",
       "url": "https://jobs.apple.com/en-us/details/200686376-2459/machine-learning-scientist-apple-services-engineering-genai-ml-frameworks?team=SFTWR"
+    },
+    "200682418-1242": {
+      "first_seen": 1790964101.2057307,
+      "posted": "2026-10-02",
+      "title": "Sr. Machine Learning Engineer, Speech LLM Evaluation",
+      "job_id": "200682418-1242",
+      "url": "https://jobs.apple.com/en-us/details/200682418-1242/sr-machine-learning-engineer-speech-llm-evaluation?team=SFTWR"
     }
   }
 }
