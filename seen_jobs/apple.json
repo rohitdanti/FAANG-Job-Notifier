@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200636171-3337": {
-      "first_seen": 1775163183.861654,
-      "posted": "",
-      "title": "Sr. Ruby on Rails Engineer, ASE",
-      "job_id": "200636171-3337"
-    },
     "200635389-3956": {
       "first_seen": 1775163183.861654,
       "posted": "",
@@ -20571,6 +20565,13 @@
       "title": "AI Software Engineer, App Intelligence",
       "job_id": "200686874-0836",
       "url": "https://jobs.apple.com/en-us/details/200686874-0836/ai-software-engineer-app-intelligence?team=SFTWR"
+    },
+    "200686850-3337": {
+      "first_seen": 1790946127.4362502,
+      "posted": "2026-10-02",
+      "title": "Sr. Engineering Program Manager, Traffic, Apple Services Engineering",
+      "job_id": "200686850-3337",
+      "url": "https://jobs.apple.com/en-us/details/200686850-3337/sr-engineering-program-manager-traffic-apple-services-engineering?team=SFTWR"
     }
   }
 }
