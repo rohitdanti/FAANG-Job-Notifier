@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200636122-0836": {
-      "first_seen": 1775163183.861655,
-      "posted": "",
-      "title": "Senior Backend Platform Software Engineer - Special Projects",
-      "job_id": "200636122-0836"
-    },
     "200634976-3956": {
       "first_seen": 1775163183.861655,
       "posted": "",
@@ -20576,6 +20570,13 @@
       "title": "Senior Software Engineer - Compute",
       "job_id": "200686940-3337",
       "url": "https://jobs.apple.com/en-us/details/200686940-3337/senior-software-engineer-compute?team=SFTWR"
+    },
+    "200686376-2459": {
+      "first_seen": 1790959890.0919144,
+      "posted": "2026-10-02",
+      "title": "Machine Learning Scientist - Apple Services Engineering, GenAI & ML Frameworks",
+      "job_id": "200686376-2459",
+      "url": "https://jobs.apple.com/en-us/details/200686376-2459/machine-learning-scientist-apple-services-engineering-genai-ml-frameworks?team=SFTWR"
     }
   }
 }
