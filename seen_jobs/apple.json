@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200635389-3956": {
-      "first_seen": 1775163183.861654,
-      "posted": "",
-      "title": "Sr Software Engineer, Apple Cloud Networking",
-      "job_id": "200635389-3956"
-    },
     "200636174-0836": {
       "first_seen": 1775163183.861655,
       "posted": "",
@@ -20572,6 +20566,13 @@
       "title": "Sr. Engineering Program Manager, Traffic, Apple Services Engineering",
       "job_id": "200686850-3337",
       "url": "https://jobs.apple.com/en-us/details/200686850-3337/sr-engineering-program-manager-traffic-apple-services-engineering?team=SFTWR"
+    },
+    "200686967-0836": {
+      "first_seen": 1790950291.7650275,
+      "posted": "2026-10-02",
+      "title": "Senior ML Data Scientist, Apple Pay Analytics",
+      "job_id": "200686967-0836",
+      "url": "https://jobs.apple.com/en-us/details/200686967-0836/senior-ml-data-scientist-apple-pay-analytics?team=SFTWR"
     }
   }
 }
