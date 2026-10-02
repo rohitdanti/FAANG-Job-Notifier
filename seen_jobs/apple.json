@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200636674-3956": {
-      "first_seen": 1775163183.8616571,
-      "posted": "",
-      "title": "Director, Finance Technology Solutions - IS&T",
-      "job_id": "200636674-3956"
-    },
     "200636350-3956": {
       "first_seen": 1775163183.8616571,
       "posted": "",
@@ -20584,6 +20578,13 @@
       "title": "Senior Software Engineer",
       "job_id": "200686995-0836",
       "url": "https://jobs.apple.com/en-us/details/200686995-0836/senior-software-engineer?team=SFTWR"
+    },
+    "200687072-0836": {
+      "first_seen": 1790973701.2328162,
+      "posted": "2026-10-02",
+      "title": "Senior Systems Engineer, Watch Software",
+      "job_id": "200687072-0836",
+      "url": "https://jobs.apple.com/en-us/details/200687072-0836/senior-systems-engineer-watch-software?team=SFTWR"
     }
   }
 }
