@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200636347-3956": {
-      "first_seen": 1775163183.861658,
-      "posted": "",
-      "title": "Multimodal LLMs Research Engineer",
-      "job_id": "200636347-3956"
-    },
     "200635150-3337": {
       "first_seen": 1775163183.861658,
       "posted": "",
@@ -20591,6 +20585,13 @@
       "title": "Manager, Security Engineering Program Manager, Risk & Vulnerability Management, Apple Services Engineering",
       "job_id": "200679027-3337",
       "url": "https://jobs.apple.com/en-us/details/200679027-3337/manager-security-engineering-program-manager-risk-vulnerability-management-apple-services-engineering?team=SFTWR"
+    },
+    "200686184-3337": {
+      "first_seen": 1790983288.8789034,
+      "posted": "2026-10-02",
+      "title": "Engineering Program Manager, Architecture & Performance, Apple Services Engineering",
+      "job_id": "200686184-3337",
+      "url": "https://jobs.apple.com/en-us/details/200686184-3337/engineering-program-manager-architecture-performance-apple-services-engineering?team=SFTWR"
     }
   }
 }
