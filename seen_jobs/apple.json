@@ -4,18 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200636738-0240": {
-      "first_seen": 1775163183.861656,
-      "posted": "",
-      "title": "Site Reliability Engineer, AiDP Production Engineering",
-      "job_id": "200636738-0240"
-    },
-    "200635035-3337": {
-      "first_seen": 1775163183.8616571,
-      "posted": "",
-      "title": "Linux Kernel Engineer",
-      "job_id": "200635035-3337"
-    },
     "200636674-3956": {
       "first_seen": 1775163183.8616571,
       "posted": "",
@@ -20582,6 +20570,20 @@
       "title": "Senior Leader, Product Management for Pricing Systems",
       "job_id": "200686648-0836",
       "url": "https://jobs.apple.com/en-us/details/200686648-0836/senior-leader-product-management-for-pricing-systems?team=SFTWR"
+    },
+    "200687049-3543": {
+      "first_seen": 1790970721.5530908,
+      "posted": "2026-10-02",
+      "title": "Software Engineer, Applied ML Connected Experiences, Sensing & Connectivity",
+      "job_id": "200687049-3543",
+      "url": "https://jobs.apple.com/en-us/details/200687049-3543/software-engineer-applied-ml-connected-experiences-sensing-connectivity?team=SFTWR"
+    },
+    "200686995-0836": {
+      "first_seen": 1790970721.553097,
+      "posted": "2026-10-02",
+      "title": "Senior Software Engineer",
+      "job_id": "200686995-0836",
+      "url": "https://jobs.apple.com/en-us/details/200686995-0836/senior-software-engineer?team=SFTWR"
     }
   }
 }
