@@ -4,18 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200636328-0836": {
-      "first_seen": 1775163183.8616571,
-      "posted": "",
-      "title": "Engineering Project Manager, Fitness+ and Health, Apple Services Engineering",
-      "job_id": "200636328-0836"
-    },
-    "200636755-2621": {
-      "first_seen": 1775163183.8616571,
-      "posted": "",
-      "title": "Product Manager - Sales Tooling & Video Ads Systems",
-      "job_id": "200636755-2621"
-    },
     "200636744-0836": {
       "first_seen": 1775163183.861658,
       "posted": "",
@@ -20586,6 +20574,20 @@
       "title": "Product Manager, Employee Experience & Productivity",
       "job_id": "200678000-0670",
       "url": "https://jobs.apple.com/en-us/details/200678000-0670/product-manager-employee-experience-productivity?team=SFTWR"
+    },
+    "200687074-3543": {
+      "first_seen": 1790974895.0369263,
+      "posted": "2026-10-02",
+      "title": "Software Engineer, Satellite Operations",
+      "job_id": "200687074-3543",
+      "url": "https://jobs.apple.com/en-us/details/200687074-3543/software-engineer-satellite-operations?team=SFTWR"
+    },
+    "200687074-3749": {
+      "first_seen": 1790974895.0369306,
+      "posted": "2026-10-02",
+      "title": "Software Engineer, Satellite Operations",
+      "job_id": "200687074-3749",
+      "url": "https://jobs.apple.com/en-us/details/200687074-3749/software-engineer-satellite-operations?team=SFTWR"
     }
   }
 }
