@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200636350-3956": {
-      "first_seen": 1775163183.8616571,
-      "posted": "",
-      "title": "3D Generative AI - Computer Vision Researcher/Engineer",
-      "job_id": "200636350-3956"
-    },
     "200636328-0836": {
       "first_seen": 1775163183.8616571,
       "posted": "",
@@ -20585,6 +20579,13 @@
       "title": "Senior Systems Engineer, Watch Software",
       "job_id": "200687072-0836",
       "url": "https://jobs.apple.com/en-us/details/200687072-0836/senior-systems-engineer-watch-software?team=SFTWR"
+    },
+    "200678000-0670": {
+      "first_seen": 1790974289.861174,
+      "posted": "2026-10-02",
+      "title": "Product Manager, Employee Experience & Productivity",
+      "job_id": "200678000-0670",
+      "url": "https://jobs.apple.com/en-us/details/200678000-0670/product-manager-employee-experience-productivity?team=SFTWR"
     }
   }
 }
