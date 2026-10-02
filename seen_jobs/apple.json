@@ -4,18 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200636744-0836": {
-      "first_seen": 1775163183.861658,
-      "posted": "",
-      "title": "Software Engineer, Apple Services Engineering, iCloud Platform",
-      "job_id": "200636744-0836"
-    },
-    "200636744-3337": {
-      "first_seen": 1775163183.861658,
-      "posted": "",
-      "title": "Software Engineer, Apple Services Engineering, iCloud Platform",
-      "job_id": "200636744-3337"
-    },
     "200636727-3401": {
       "first_seen": 1775163183.861658,
       "posted": "",
@@ -20588,6 +20576,20 @@
       "title": "Software Engineer, Satellite Operations",
       "job_id": "200687074-3749",
       "url": "https://jobs.apple.com/en-us/details/200687074-3749/software-engineer-satellite-operations?team=SFTWR"
+    },
+    "200687073-3337": {
+      "first_seen": 1790977300.4422386,
+      "posted": "2026-10-02",
+      "title": "Senior Machine Learning Engineer, Apple Cloud AI",
+      "job_id": "200687073-3337",
+      "url": "https://jobs.apple.com/en-us/details/200687073-3337/senior-machine-learning-engineer-apple-cloud-ai?team=SFTWR"
+    },
+    "200687061-0836": {
+      "first_seen": 1790977300.4422433,
+      "posted": "2026-10-02",
+      "title": "Software Engineer - Data Platform",
+      "job_id": "200687061-0836",
+      "url": "https://jobs.apple.com/en-us/details/200687061-0836/software-engineer-data-platform?team=SFTWR"
     }
   }
 }
