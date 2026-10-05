@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200636236-3543": {
-      "first_seen": 1775163183.861662,
-      "posted": "",
-      "title": "HomeKit Software Engineer, Wireless Technologies & Ecosystems",
-      "job_id": "200636236-3543"
-    },
     "200635628-3956": {
       "first_seen": 1775163183.861662,
       "posted": "",
@@ -20611,6 +20605,13 @@
       "title": "On-Device ML Infrastructure Engineer (CoreML Runtime), Graphics, Games and Machine Learning",
       "job_id": "200687246-0836",
       "url": "https://jobs.apple.com/en-us/details/200687246-0836/on-device-ml-infrastructure-engineer-coreml-runtime-graphics-games-and-machine-learning?team=SFTWR"
+    },
+    "200687348-0836": {
+      "first_seen": 1791238892.949885,
+      "posted": "2026-10-05",
+      "title": "Product Design Producer, Apple Services",
+      "job_id": "200687348-0836",
+      "url": "https://jobs.apple.com/en-us/details/200687348-0836/product-design-producer-apple-services?team=SFTWR"
     }
   }
 }
