@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200633465-0157": {
-      "first_seen": 1775163183.861662,
-      "posted": "",
-      "title": "DevOps Engineer, GSE Engineering Ops",
-      "job_id": "200633465-0157"
-    },
     "200631684-3337": {
       "first_seen": 1775163183.8616629,
       "posted": "",
@@ -20613,6 +20607,13 @@
       "title": "Product Design Producer, Find My",
       "job_id": "200687345-0836",
       "url": "https://jobs.apple.com/en-us/details/200687345-0836/product-design-producer-find-my?team=SFTWR"
+    },
+    "200687353-0836": {
+      "first_seen": 1791241294.7767375,
+      "posted": "2026-10-05",
+      "title": "Software Engineer, Apple Intelligence Model Platform",
+      "job_id": "200687353-0836",
+      "url": "https://jobs.apple.com/en-us/details/200687353-0836/software-engineer-apple-intelligence-model-platform?team=SFTWR"
     }
   }
 }
