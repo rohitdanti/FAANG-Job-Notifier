@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200635628-3956": {
-      "first_seen": 1775163183.861662,
-      "posted": "",
-      "title": "System Validation Software Engineer",
-      "job_id": "200635628-3956"
-    },
     "200633465-0157": {
       "first_seen": 1775163183.861662,
       "posted": "",
@@ -20612,6 +20606,13 @@
       "title": "Product Design Producer, Apple Services",
       "job_id": "200687348-0836",
       "url": "https://jobs.apple.com/en-us/details/200687348-0836/product-design-producer-apple-services?team=SFTWR"
+    },
+    "200687345-0836": {
+      "first_seen": 1791239501.76271,
+      "posted": "2026-10-05",
+      "title": "Product Design Producer, Find My",
+      "job_id": "200687345-0836",
+      "url": "https://jobs.apple.com/en-us/details/200687345-0836/product-design-producer-find-my?team=SFTWR"
     }
   }
 }
