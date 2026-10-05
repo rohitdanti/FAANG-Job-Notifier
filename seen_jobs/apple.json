@@ -4,42 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200636563-3401": {
-      "first_seen": 1775163183.8616588,
-      "posted": "",
-      "title": "Senior Software Engineer, Calendar Experience",
-      "job_id": "200636563-3401"
-    },
-    "200636105-0157": {
-      "first_seen": 1775163183.8616588,
-      "posted": "",
-      "title": "Release Engineer, Retail & Marcom Engineering",
-      "job_id": "200636105-0157"
-    },
-    "200636086-0836": {
-      "first_seen": 1775163183.8616588,
-      "posted": "",
-      "title": "Engineering Program Manager, Analytics Data Engineering, Commerce Subscriptions",
-      "job_id": "200636086-0836"
-    },
-    "200616697-3337": {
-      "first_seen": 1775163183.86166,
-      "posted": "",
-      "title": "Senior/Staff Applied ML Engineer \u2013 AI/ML Evaluation & Simulation",
-      "job_id": "200616697-3337"
-    },
-    "200636469-3337": {
-      "first_seen": 1775163183.86166,
-      "posted": "",
-      "title": "Machine Learning Platform Engineer, AI Evaluation Platform (All levels)",
-      "job_id": "200636469-3337"
-    },
-    "200635272-3337": {
-      "first_seen": 1775163183.86166,
-      "posted": "",
-      "title": "Data Engineer",
-      "job_id": "200635272-3337"
-    },
     "200636107-3543": {
       "first_seen": 1775163183.86166,
       "posted": "",
@@ -20595,6 +20559,48 @@
       "title": "Traffic and Secure Services Network SRE Engineer",
       "job_id": "200686351-3337",
       "url": "https://jobs.apple.com/en-us/details/200686351-3337/traffic-and-secure-services-network-sre-engineer?team=SFTWR"
+    },
+    "200679684-0157": {
+      "first_seen": 1791222104.983855,
+      "posted": "2026-10-05",
+      "title": "iOS Engineer: Cloud Media and Collaboration",
+      "job_id": "200679684-0157",
+      "url": "https://jobs.apple.com/en-us/details/200679684-0157/ios-engineer-cloud-media-and-collaboration?team=SFTWR"
+    },
+    "200679684-1435": {
+      "first_seen": 1791222104.9838605,
+      "posted": "2026-10-05",
+      "title": "iOS Engineer: Cloud Media and Collaboration",
+      "job_id": "200679684-1435",
+      "url": "https://jobs.apple.com/en-us/details/200679684-1435/ios-engineer-cloud-media-and-collaboration?team=SFTWR"
+    },
+    "200679684-0836": {
+      "first_seen": 1791222104.983862,
+      "posted": "2026-10-05",
+      "title": "iOS Engineer: Cloud Media and Collaboration",
+      "job_id": "200679684-0836",
+      "url": "https://jobs.apple.com/en-us/details/200679684-0836/ios-engineer-cloud-media-and-collaboration?team=SFTWR"
+    },
+    "200679684-2926": {
+      "first_seen": 1791222104.9838662,
+      "posted": "2026-10-05",
+      "title": "iOS Engineer: Cloud Media and Collaboration",
+      "job_id": "200679684-2926",
+      "url": "https://jobs.apple.com/en-us/details/200679684-2926/ios-engineer-cloud-media-and-collaboration?team=SFTWR"
+    },
+    "200679684-3543": {
+      "first_seen": 1791222104.9838703,
+      "posted": "2026-10-05",
+      "title": "iOS Engineer: Cloud Media and Collaboration",
+      "job_id": "200679684-3543",
+      "url": "https://jobs.apple.com/en-us/details/200679684-3543/ios-engineer-cloud-media-and-collaboration?team=SFTWR"
+    },
+    "200686852-0836": {
+      "first_seen": 1791222104.9838712,
+      "posted": "2026-10-05",
+      "title": "Software Engineer, Wireless Technologies & Ecosystems",
+      "job_id": "200686852-0836",
+      "url": "https://jobs.apple.com/en-us/details/200686852-0836/software-engineer-wireless-technologies-ecosystems?team=SFTWR"
     }
   }
 }
