@@ -4,18 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200636130-0836": {
-      "first_seen": 1775163183.861658,
-      "posted": "",
-      "title": "Senior Software Engineer, iOS Frameworks \u2013 Apple Maps Navigation",
-      "job_id": "200636130-0836"
-    },
-    "200636683-3337": {
-      "first_seen": 1775163183.8616588,
-      "posted": "",
-      "title": "Navigation Framework Software Development in Test (SDET) \u2013 Apple Maps",
-      "job_id": "200636683-3337"
-    },
     "200636563-3401": {
       "first_seen": 1775163183.8616588,
       "posted": "",
@@ -20593,6 +20581,20 @@
       "title": "Core Audio Software Engineer, Audio & Media Technologies",
       "job_id": "200686866-0836",
       "url": "https://jobs.apple.com/en-us/details/200686866-0836/core-audio-software-engineer-audio-media-technologies?team=SFTWR"
+    },
+    "200684990-3956": {
+      "first_seen": 1791205304.9466884,
+      "posted": "2026-10-05",
+      "title": "Front End Web Accessibility Engineer, Retail Engineering",
+      "job_id": "200684990-3956",
+      "url": "https://jobs.apple.com/en-us/details/200684990-3956/front-end-web-accessibility-engineer-retail-engineering?team=SFTWR"
+    },
+    "200686351-3337": {
+      "first_seen": 1791205304.9466937,
+      "posted": "2026-10-05",
+      "title": "Traffic and Secure Services Network SRE Engineer",
+      "job_id": "200686351-3337",
+      "url": "https://jobs.apple.com/en-us/details/200686351-3337/traffic-and-secure-services-network-sre-engineer?team=SFTWR"
     }
   }
 }
