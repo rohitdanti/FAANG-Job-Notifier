@@ -4,24 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200636370-0836": {
-      "first_seen": 1775163183.861661,
-      "posted": "",
-      "title": "DevOps Engineer - Info Apps",
-      "job_id": "200636370-0836"
-    },
-    "200632675-3337": {
-      "first_seen": 1775163183.861661,
-      "posted": "",
-      "title": "ML Engineering Manager - App Store Search",
-      "job_id": "200632675-3337"
-    },
-    "200632389-0836": {
-      "first_seen": 1775163183.861661,
-      "posted": "",
-      "title": "Senior Software Engineer, Apple Services Engineering (ASE)",
-      "job_id": "200632389-0836"
-    },
     "200632389-3337": {
       "first_seen": 1775163183.861661,
       "posted": "",
@@ -20603,6 +20585,27 @@
       "title": "Core OS Software Engineer - USB4/Thunderbolt",
       "job_id": "200687151-0836",
       "url": "https://jobs.apple.com/en-us/details/200687151-0836/core-os-software-engineer-usb4-thunderbolt?team=SFTWR"
+    },
+    "200687219-0836": {
+      "first_seen": 1791229919.0645115,
+      "posted": "2026-10-05",
+      "title": "Wi-Fi Software Engineering Manager, Wireless Technologies & Ecosystems",
+      "job_id": "200687219-0836",
+      "url": "https://jobs.apple.com/en-us/details/200687219-0836/wi-fi-software-engineering-manager-wireless-technologies-ecosystems?team=SFTWR"
+    },
+    "200686912-3543": {
+      "first_seen": 1791229919.064516,
+      "posted": "2026-10-05",
+      "title": "Software Development Engineer in Test - Platform System Validation",
+      "job_id": "200686912-3543",
+      "url": "https://jobs.apple.com/en-us/details/200686912-3543/software-development-engineer-in-test-platform-system-validation?team=SFTWR"
+    },
+    "200687310-3543": {
+      "first_seen": 1791229919.064518,
+      "posted": "2026-10-05",
+      "title": "Software Engineer - System Scheduling Performance",
+      "job_id": "200687310-3543",
+      "url": "https://jobs.apple.com/en-us/details/200687310-3543/software-engineer-system-scheduling-performance?team=SFTWR"
     }
   }
 }
