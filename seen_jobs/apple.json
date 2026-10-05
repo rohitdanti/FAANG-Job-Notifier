@@ -4,24 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200632389-3337": {
-      "first_seen": 1775163183.861661,
-      "posted": "",
-      "title": "Senior Software Engineer, Apple Services Engineering (ASE)",
-      "job_id": "200632389-3337"
-    },
-    "200636207-3337": {
-      "first_seen": 1775163183.861661,
-      "posted": "",
-      "title": "LLM Machine Learning Research Engineer",
-      "job_id": "200636207-3337"
-    },
-    "200636310-3543": {
-      "first_seen": 1775163183.861662,
-      "posted": "",
-      "title": "Site Reliability Engineer (SRE)",
-      "job_id": "200636310-3543"
-    },
     "200632957-0836": {
       "first_seen": 1775163183.861662,
       "posted": "",
@@ -20606,6 +20588,27 @@
       "title": "Software Engineer - System Scheduling Performance",
       "job_id": "200687310-3543",
       "url": "https://jobs.apple.com/en-us/details/200687310-3543/software-engineer-system-scheduling-performance?team=SFTWR"
+    },
+    "200680267-3543": {
+      "first_seen": 1791237095.1907942,
+      "posted": "2026-10-05",
+      "title": "Bluetooth Firmware Engineer, Wireless Technologies & Ecosystems",
+      "job_id": "200680267-3543",
+      "url": "https://jobs.apple.com/en-us/details/200680267-3543/bluetooth-firmware-engineer-wireless-technologies-ecosystems?team=SFTWR"
+    },
+    "200686923-0836": {
+      "first_seen": 1791237095.1908205,
+      "posted": "2026-10-05",
+      "title": "Engineering Manager, Creative Apps",
+      "job_id": "200686923-0836",
+      "url": "https://jobs.apple.com/en-us/details/200686923-0836/engineering-manager-creative-apps?team=SFTWR"
+    },
+    "200686923-3673": {
+      "first_seen": 1791237095.190824,
+      "posted": "2026-10-05",
+      "title": "Engineering Manager, Creative Apps",
+      "job_id": "200686923-3673",
+      "url": "https://jobs.apple.com/en-us/details/200686923-3673/engineering-manager-creative-apps?team=SFTWR"
     }
   }
 }
