@@ -4,18 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200631684-3337": {
-      "first_seen": 1775163183.8616629,
-      "posted": "",
-      "title": "AIML - Applied ML Engineer, Data Generation & Verification",
-      "job_id": "200631684-3337"
-    },
-    "200636127-3543": {
-      "first_seen": 1775163183.8616629,
-      "posted": "",
-      "title": "Senior iOS Software Engineer \u2014 CloudKit",
-      "job_id": "200636127-3543"
-    },
     "200636006-3543": {
       "first_seen": 1775163183.8616629,
       "posted": "",
@@ -20614,6 +20602,20 @@
       "title": "Software Engineer, Apple Intelligence Model Platform",
       "job_id": "200687353-0836",
       "url": "https://jobs.apple.com/en-us/details/200687353-0836/software-engineer-apple-intelligence-model-platform?team=SFTWR"
+    },
+    "200686465-0836": {
+      "first_seen": 1791244895.7768853,
+      "posted": "2026-10-06",
+      "title": "Software Development Engineer",
+      "job_id": "200686465-0836",
+      "url": "https://jobs.apple.com/en-us/details/200686465-0836/software-development-engineer?team=SFTWR"
+    },
+    "200687359-0836": {
+      "first_seen": 1791244895.7768893,
+      "posted": "2026-10-06",
+      "title": "UI Frameworks Engineer, Swift Platform Experience",
+      "job_id": "200687359-0836",
+      "url": "https://jobs.apple.com/en-us/details/200687359-0836/ui-frameworks-engineer-swift-platform-experience?team=SFTWR"
     }
   }
 }
