@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200635912-0836": {
-      "first_seen": 1775163183.861664,
-      "posted": "",
-      "title": "Cocoa UI Software Engineer",
-      "job_id": "200635912-0836"
-    },
     "200635874-0836": {
       "first_seen": 1775163183.861664,
       "posted": "",
@@ -20620,6 +20614,13 @@
       "title": "Retail Network Engineer, Infrastructure Services",
       "job_id": "200687215-3401",
       "url": "https://jobs.apple.com/en-us/details/200687215-3401/retail-network-engineer-infrastructure-services?team=SFTWR"
+    },
+    "200686215-3401": {
+      "first_seen": 1791304892.6052427,
+      "posted": "2026-10-06",
+      "title": "Senior Software Engineer (iOS & macOS Native), Finance Engineering",
+      "job_id": "200686215-3401",
+      "url": "https://jobs.apple.com/en-us/details/200686215-3401/senior-software-engineer-ios-macos-native-finance-engineering?team=SFTWR"
     }
   }
 }
