@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200635733-3337": {
-      "first_seen": 1775163183.8616672,
-      "posted": "",
-      "title": "Software Engineer, Apple Services Engineering, iCloud Platform",
-      "job_id": "200635733-3337"
-    },
     "200635652-0836": {
       "first_seen": 1775163183.8616672,
       "posted": "",
@@ -20635,6 +20629,13 @@
       "title": "AI Software Engineer, App Intelligence",
       "job_id": "200687573-0836",
       "url": "https://jobs.apple.com/en-us/details/200687573-0836/ai-software-engineer-app-intelligence?team=SFTWR"
+    },
+    "200685980-5819": {
+      "first_seen": 1791327088.0098112,
+      "posted": "2026-10-06",
+      "title": "Senior Software Engineer, Apple Services Engineering - Music Data Engineering",
+      "job_id": "200685980-5819",
+      "url": "https://jobs.apple.com/en-us/details/200685980-5819/senior-software-engineer-apple-services-engineering-music-data-engineering?team=SFTWR"
     }
   }
 }
