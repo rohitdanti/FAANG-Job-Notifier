@@ -4,18 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200635863-0365": {
-      "first_seen": 1775163183.861665,
-      "posted": "",
-      "title": "iOS Systems Developer, Vision Products Group",
-      "job_id": "200635863-0365"
-    },
-    "200635863-2605": {
-      "first_seen": 1775163183.861665,
-      "posted": "",
-      "title": "iOS Systems Developer, Vision Products Group",
-      "job_id": "200635863-2605"
-    },
     "200635446-0836": {
       "first_seen": 1775163183.861665,
       "posted": "",
@@ -20626,6 +20614,20 @@
       "title": "Senior Software Engineer, watchOS Widgets & Live Activities - Watch Software",
       "job_id": "200686189-0836",
       "url": "https://jobs.apple.com/en-us/details/200686189-0836/senior-software-engineer-watchos-widgets-live-activities-watch-software?team=SFTWR"
+    },
+    "200687514-0836": {
+      "first_seen": 1791312100.1145608,
+      "posted": "2026-10-06",
+      "title": "Distinguished Engineer, AI Infrastructure",
+      "job_id": "200687514-0836",
+      "url": "https://jobs.apple.com/en-us/details/200687514-0836/distinguished-engineer-ai-infrastructure?team=SFTWR"
+    },
+    "200687514-3337": {
+      "first_seen": 1791312100.1145654,
+      "posted": "2026-10-06",
+      "title": "Distinguished Engineer, AI Infrastructure",
+      "job_id": "200687514-3337",
+      "url": "https://jobs.apple.com/en-us/details/200687514-3337/distinguished-engineer-ai-infrastructure?team=SFTWR"
     }
   }
 }
