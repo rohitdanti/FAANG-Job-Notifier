@@ -4,18 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200635896-3401": {
-      "first_seen": 1775163183.8616629,
-      "posted": "",
-      "title": "Sr Product Manager, Employee Experience & Productivity",
-      "job_id": "200635896-3401"
-    },
-    "200635429-0157": {
-      "first_seen": 1775163183.8616629,
-      "posted": "",
-      "title": "Software Engineer (Solutions Architect), IS&T Enterprise Systems",
-      "job_id": "200635429-0157"
-    },
     "200635108-0836": {
       "first_seen": 1775163183.861664,
       "posted": "",
@@ -20617,6 +20605,20 @@
       "title": "Senior Software Engineer, Wireless Technologies & Ecosystems",
       "job_id": "200687362-3543",
       "url": "https://jobs.apple.com/en-us/details/200687362-3543/senior-software-engineer-wireless-technologies-ecosystems?team=SFTWR"
+    },
+    "200686684-0240": {
+      "first_seen": 1791291698.391682,
+      "posted": "2026-10-06",
+      "title": "Wireless Network Reliability Engineer, Infrastructure Services",
+      "job_id": "200686684-0240",
+      "url": "https://jobs.apple.com/en-us/details/200686684-0240/wireless-network-reliability-engineer-infrastructure-services?team=SFTWR"
+    },
+    "200686684-3121": {
+      "first_seen": 1791291698.3916867,
+      "posted": "2026-10-06",
+      "title": "Wireless Network Reliability Engineer, Infrastructure Services",
+      "job_id": "200686684-3121",
+      "url": "https://jobs.apple.com/en-us/details/200686684-3121/wireless-network-reliability-engineer-infrastructure-services?team=SFTWR"
     }
   }
 }
