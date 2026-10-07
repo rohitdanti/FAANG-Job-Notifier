@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200635642-0836": {
-      "first_seen": 1775163183.8616672,
-      "posted": "",
-      "title": "Senior Cloud Engineer \u2013 Special Projects",
-      "job_id": "200635642-0836"
-    },
     "200635005-3337": {
       "first_seen": 1775163183.8616672,
       "posted": "",
@@ -20637,6 +20631,13 @@
       "title": "Software Engineer, Observability",
       "job_id": "200686823-0836",
       "url": "https://jobs.apple.com/en-us/details/200686823-0836/software-engineer-observability?team=SFTWR"
+    },
+    "200687375-0836": {
+      "first_seen": 1791378106.495298,
+      "posted": "2026-10-07",
+      "title": "Software Engineer, Siri User Experiences",
+      "job_id": "200687375-0836",
+      "url": "https://jobs.apple.com/en-us/details/200687375-0836/software-engineer-siri-user-experiences?team=SFTWR"
     }
   }
 }
