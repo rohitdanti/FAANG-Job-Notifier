@@ -4,48 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200635115-2459": {
-      "first_seen": 1775163183.8616698,
-      "posted": "",
-      "title": "Senior / Staff Backend Software Engineer, Partner Engineering",
-      "job_id": "200635115-2459"
-    },
-    "200635115-3337": {
-      "first_seen": 1775163183.8616698,
-      "posted": "",
-      "title": "Senior / Staff Backend Software Engineer, Partner Engineering",
-      "job_id": "200635115-3337"
-    },
-    "200634861-0836": {
-      "first_seen": 1775163183.8616698,
-      "posted": "",
-      "title": "Software Engineer - Workout & Fitness, Watch Software",
-      "job_id": "200634861-0836"
-    },
-    "200634861-3543": {
-      "first_seen": 1775163183.8616698,
-      "posted": "",
-      "title": "Software Engineer - Workout & Fitness, Watch Software",
-      "job_id": "200634861-3543"
-    },
-    "200635109-0836": {
-      "first_seen": 1775163183.8616698,
-      "posted": "",
-      "title": "Senior Compute SRE",
-      "job_id": "200635109-0836"
-    },
-    "200635130-0836": {
-      "first_seen": 1775163183.861671,
-      "posted": "",
-      "title": "Sr. Software Engineer, Big Data - Apple Services Engineering",
-      "job_id": "200635130-0836"
-    },
-    "200631911-3337": {
-      "first_seen": 1775163183.861671,
-      "posted": "",
-      "title": "AIML - Backend Engineer, Evaluation",
-      "job_id": "200631911-3337"
-    },
     "200635025-0836": {
       "first_seen": 1775163183.861671,
       "posted": "",
@@ -20654,6 +20612,55 @@
       "title": "Cellular Software Architect/Developer - Wireless Technologies & Ecosystems",
       "job_id": "200687581-3956",
       "url": "https://jobs.apple.com/en-us/details/200687581-3956/cellular-software-architect-developer-wireless-technologies-ecosystems?team=SFTWR"
+    },
+    "200687790-0836": {
+      "first_seen": 1791409113.3668625,
+      "posted": "2026-10-07",
+      "title": "Screening & Integration Engineer, Watch Software, Sensing & Connectivity",
+      "job_id": "200687790-0836",
+      "url": "https://jobs.apple.com/en-us/details/200687790-0836/screening-integration-engineer-watch-software-sensing-connectivity?team=SFTWR"
+    },
+    "200687777-0365": {
+      "first_seen": 1791409113.366868,
+      "posted": "2026-10-07",
+      "title": "Senior Systems Engineer, Watch Software",
+      "job_id": "200687777-0365",
+      "url": "https://jobs.apple.com/en-us/details/200687777-0365/senior-systems-engineer-watch-software?team=SFTWR"
+    },
+    "200687777-0836": {
+      "first_seen": 1791409113.3668702,
+      "posted": "2026-10-07",
+      "title": "Senior Systems Engineer, Watch Software",
+      "job_id": "200687777-0836",
+      "url": "https://jobs.apple.com/en-us/details/200687777-0836/senior-systems-engineer-watch-software?team=SFTWR"
+    },
+    "200687777-3543": {
+      "first_seen": 1791409113.3668718,
+      "posted": "2026-10-07",
+      "title": "Senior Systems Engineer, Watch Software",
+      "job_id": "200687777-3543",
+      "url": "https://jobs.apple.com/en-us/details/200687777-3543/senior-systems-engineer-watch-software?team=SFTWR"
+    },
+    "200687773-3956": {
+      "first_seen": 1791409113.3668737,
+      "posted": "2026-10-07",
+      "title": "Software Engineer, Wireless Technologies & Ecosystems",
+      "job_id": "200687773-3956",
+      "url": "https://jobs.apple.com/en-us/details/200687773-3956/software-engineer-wireless-technologies-ecosystems?team=SFTWR"
+    },
+    "200686902-0836": {
+      "first_seen": 1791409113.3668754,
+      "posted": "2026-10-07",
+      "title": "Engineering Manager, Siri App (iOS and macOS)",
+      "job_id": "200686902-0836",
+      "url": "https://jobs.apple.com/en-us/details/200686902-0836/engineering-manager-siri-app-ios-and-macos?team=SFTWR"
+    },
+    "200686902-3337": {
+      "first_seen": 1791409113.3668766,
+      "posted": "2026-10-07",
+      "title": "Engineering Manager, Siri App (iOS and macOS)",
+      "job_id": "200686902-3337",
+      "url": "https://jobs.apple.com/en-us/details/200686902-3337/engineering-manager-siri-app-ios-and-macos?team=SFTWR"
     }
   }
 }
