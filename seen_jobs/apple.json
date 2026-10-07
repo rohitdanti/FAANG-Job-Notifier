@@ -4,18 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200635420-0836": {
-      "first_seen": 1775163183.861669,
-      "posted": "",
-      "title": "Software Engineer, Siri Attention and Invocation",
-      "job_id": "200635420-0836"
-    },
-    "200635420-3337": {
-      "first_seen": 1775163183.861669,
-      "posted": "",
-      "title": "Software Engineer, Siri Attention and Invocation",
-      "job_id": "200635420-3337"
-    },
     "200605845-0836": {
       "first_seen": 1775163183.861669,
       "posted": "",
@@ -20647,6 +20635,20 @@
       "title": "Backend System Engineer, Insights & Release Technologies",
       "job_id": "200687651-0836",
       "url": "https://jobs.apple.com/en-us/details/200687651-0836/backend-system-engineer-insights-release-technologies?team=SFTWR"
+    },
+    "200687255-0836": {
+      "first_seen": 1791403896.2052076,
+      "posted": "2026-10-07",
+      "title": "Senior Software Engineer, Ads",
+      "job_id": "200687255-0836",
+      "url": "https://jobs.apple.com/en-us/details/200687255-0836/senior-software-engineer-ads?team=SFTWR"
+    },
+    "200687526-0836": {
+      "first_seen": 1791403896.2052119,
+      "posted": "2026-10-07",
+      "title": "Product Manager, AI/ML - Apple Ads, Marketplace",
+      "job_id": "200687526-0836",
+      "url": "https://jobs.apple.com/en-us/details/200687526-0836/product-manager-ai-ml-apple-ads-marketplace?team=SFTWR"
     }
   }
 }
