@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200635682-0836": {
-      "first_seen": 1775163183.861668,
-      "posted": "",
-      "title": "Core Graphics and Image I/O Engineering Manager",
-      "job_id": "200635682-0836"
-    },
     "200635695-0836": {
       "first_seen": 1775163183.861668,
       "posted": "",
@@ -20643,6 +20637,13 @@
       "title": "Sr. Tools & Automation Engineer",
       "job_id": "200687628-0836",
       "url": "https://jobs.apple.com/en-us/details/200687628-0836/sr-tools-automation-engineer?team=SFTWR"
+    },
+    "200686808-3956": {
+      "first_seen": 1791390693.3701317,
+      "posted": "2026-10-07",
+      "title": "Software Application Support Engineer, Retail & Marcom Engineering (R&ME)",
+      "job_id": "200686808-3956",
+      "url": "https://jobs.apple.com/en-us/details/200686808-3956/software-application-support-engineer-retail-marcom-engineering-r-me?team=SFTWR"
     }
   }
 }
