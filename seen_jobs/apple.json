@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200635652-0836": {
-      "first_seen": 1775163183.8616672,
-      "posted": "",
-      "title": "Senior Software Engineer, AI Tools \u2013 Special Projects",
-      "job_id": "200635652-0836"
-    },
     "200635642-0836": {
       "first_seen": 1775163183.8616672,
       "posted": "",
@@ -20636,6 +20630,13 @@
       "title": "Senior Software Engineer, Apple Services Engineering - Music Data Engineering",
       "job_id": "200685980-5819",
       "url": "https://jobs.apple.com/en-us/details/200685980-5819/senior-software-engineer-apple-services-engineering-music-data-engineering?team=SFTWR"
+    },
+    "200686823-0836": {
+      "first_seen": 1791331287.27884,
+      "posted": "2026-10-07",
+      "title": "Software Engineer, Observability",
+      "job_id": "200686823-0836",
+      "url": "https://jobs.apple.com/en-us/details/200686823-0836/software-engineer-observability?team=SFTWR"
     }
   }
 }
