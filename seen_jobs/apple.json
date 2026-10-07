@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200635695-0836": {
-      "first_seen": 1775163183.861668,
-      "posted": "",
-      "title": "Sr. Tools and Automation Engineer, Siri Speech",
-      "job_id": "200635695-0836"
-    },
     "200635677-0836": {
       "first_seen": 1775163183.861668,
       "posted": "",
@@ -20644,6 +20638,13 @@
       "title": "Software Application Support Engineer, Retail & Marcom Engineering (R&ME)",
       "job_id": "200686808-3956",
       "url": "https://jobs.apple.com/en-us/details/200686808-3956/software-application-support-engineer-retail-marcom-engineering-r-me?team=SFTWR"
+    },
+    "200686820-0157": {
+      "first_seen": 1791393113.6474159,
+      "posted": "2026-10-07",
+      "title": "Senior Software Support Engineer, Retail & Marcom Engineering (R&ME)",
+      "job_id": "200686820-0157",
+      "url": "https://jobs.apple.com/en-us/details/200686820-0157/senior-software-support-engineer-retail-marcom-engineering-r-me?team=SFTWR"
     }
   }
 }
