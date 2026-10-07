@@ -4,30 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200605845-0836": {
-      "first_seen": 1775163183.861669,
-      "posted": "",
-      "title": "Senior Staff ML Architect",
-      "job_id": "200605845-0836"
-    },
-    "200635408-0836": {
-      "first_seen": 1775163183.861669,
-      "posted": "",
-      "title": "Software Triage Engineer, Siri Runtime Systems and Interaction",
-      "job_id": "200635408-0836"
-    },
-    "200635408-3337": {
-      "first_seen": 1775163183.861669,
-      "posted": "",
-      "title": "Software Triage Engineer, Siri Runtime Systems and Interaction",
-      "job_id": "200635408-3337"
-    },
-    "200633365-3337": {
-      "first_seen": 1775163183.861669,
-      "posted": "",
-      "title": "Data Analytics Engineer - Apple Services Engineering",
-      "job_id": "200633365-3337"
-    },
     "200635115-0836": {
       "first_seen": 1775163183.8616698,
       "posted": "",
@@ -20649,6 +20625,34 @@
       "title": "Product Manager, AI/ML - Apple Ads, Marketplace",
       "job_id": "200687526-0836",
       "url": "https://jobs.apple.com/en-us/details/200687526-0836/product-manager-ai-ml-apple-ads-marketplace?team=SFTWR"
+    },
+    "200687715-3337": {
+      "first_seen": 1791404507.9409556,
+      "posted": "2026-10-07",
+      "title": "Senior Software Engineer, ASE Data Platform",
+      "job_id": "200687715-3337",
+      "url": "https://jobs.apple.com/en-us/details/200687715-3337/senior-software-engineer-ase-data-platform?team=SFTWR"
+    },
+    "200687780-3337": {
+      "first_seen": 1791404507.9409595,
+      "posted": "2026-10-07",
+      "title": "Software Tools and Automation Engineer - Apple Services Engineering",
+      "job_id": "200687780-3337",
+      "url": "https://jobs.apple.com/en-us/details/200687780-3337/software-tools-and-automation-engineer-apple-services-engineering?team=SFTWR"
+    },
+    "200687774-0157": {
+      "first_seen": 1791404507.9409614,
+      "posted": "2026-10-07",
+      "title": "Manager, Apple Pay Partner Operations",
+      "job_id": "200687774-0157",
+      "url": "https://jobs.apple.com/en-us/details/200687774-0157/manager-apple-pay-partner-operations?team=SFTWR"
+    },
+    "200687774-1435": {
+      "first_seen": 1791404507.9409623,
+      "posted": "2026-10-07",
+      "title": "Manager, Apple Pay Partner Operations",
+      "job_id": "200687774-1435",
+      "url": "https://jobs.apple.com/en-us/details/200687774-1435/manager-apple-pay-partner-operations?team=SFTWR"
     }
   }
 }
