@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200634620-0836": {
-      "first_seen": 1775163183.861672,
-      "posted": "",
-      "title": "Technical Training Instructor, Software University",
-      "job_id": "200634620-0836"
-    },
     "200634642-3543": {
       "first_seen": 1775163183.8616729,
       "posted": "",
@@ -20668,6 +20662,13 @@
       "title": "Sr. Software Engineer (Data Solutions), IS&T Ai & Data Platforms",
       "job_id": "200687367-3956",
       "url": "https://jobs.apple.com/en-us/details/200687367-3956/sr-software-engineer-data-solutions-is-t-ai-data-platforms?team=SFTWR"
+    },
+    "200687887-3337": {
+      "first_seen": 1791470486.9791048,
+      "posted": "2026-10-08",
+      "title": "Security Site Reliability Engineer - Apple Service Engineering",
+      "job_id": "200687887-3337",
+      "url": "https://jobs.apple.com/en-us/details/200687887-3337/security-site-reliability-engineer-apple-service-engineering?team=SFTWR"
     }
   }
 }
