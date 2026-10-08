@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200633546-0836": {
-      "first_seen": 1775163183.86168,
-      "posted": "",
-      "title": "Sr. Software Engineer for Location and Spatial Awareness , Sensing & Connectivity",
-      "job_id": "200633546-0836"
-    },
     "200633459-3760": {
       "first_seen": 1775163183.861681,
       "posted": "",
@@ -20682,6 +20676,13 @@
       "title": "Senior Backend Engineer, Apple News",
       "job_id": "200688024-0836",
       "url": "https://jobs.apple.com/en-us/details/200688024-0836/senior-backend-engineer-apple-news?team=SFTWR"
+    },
+    "200688056-0836": {
+      "first_seen": 1791497491.9437263,
+      "posted": "2026-10-08",
+      "title": "Applied AI Engineer, Agent Harness",
+      "job_id": "200688056-0836",
+      "url": "https://jobs.apple.com/en-us/details/200688056-0836/applied-ai-engineer-agent-harness?team=SFTWR"
     }
   }
 }
