@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200631693-0836": {
-      "first_seen": 1775163183.861675,
-      "posted": "",
-      "title": "Software Engineer, Core Services - Apple Services Engineering",
-      "job_id": "200631693-0836"
-    },
     "200633546-0836": {
       "first_seen": 1775163183.86168,
       "posted": "",
@@ -20681,6 +20675,13 @@
       "title": "Senior Network Engineer",
       "job_id": "200687486-3401",
       "url": "https://jobs.apple.com/en-us/details/200687486-3401/senior-network-engineer?team=SFTWR"
+    },
+    "200688024-0836": {
+      "first_seen": 1791496310.313898,
+      "posted": "2026-10-08",
+      "title": "Senior Backend Engineer, Apple News",
+      "job_id": "200688024-0836",
+      "url": "https://jobs.apple.com/en-us/details/200688024-0836/senior-backend-engineer-apple-news?team=SFTWR"
     }
   }
 }
