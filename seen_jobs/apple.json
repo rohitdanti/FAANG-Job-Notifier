@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200633459-3760": {
-      "first_seen": 1775163183.861681,
-      "posted": "",
-      "title": "Senior Lab Engineer - Device Services Infrastructure",
-      "job_id": "200633459-3760"
-    },
     "200633418-3401": {
       "first_seen": 1775163183.861681,
       "posted": "",
@@ -20683,6 +20677,13 @@
       "title": "Applied AI Engineer, Agent Harness",
       "job_id": "200688056-0836",
       "url": "https://jobs.apple.com/en-us/details/200688056-0836/applied-ai-engineer-agent-harness?team=SFTWR"
+    },
+    "200672906-0157": {
+      "first_seen": 1791498691.1186056,
+      "posted": "2026-10-08",
+      "title": "Embedded Software Engineer",
+      "job_id": "200672906-0157",
+      "url": "https://jobs.apple.com/en-us/details/200672906-0157/embedded-software-engineer?team=SFTWR"
     }
   }
 }
