@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200634642-3543": {
-      "first_seen": 1775163183.8616729,
-      "posted": "",
-      "title": "Software Engineer, Applied Networking Security",
-      "job_id": "200634642-3543"
-    },
     "200634673-3543": {
       "first_seen": 1775163183.8616729,
       "posted": "",
@@ -20669,6 +20663,13 @@
       "title": "Security Site Reliability Engineer - Apple Service Engineering",
       "job_id": "200687887-3337",
       "url": "https://jobs.apple.com/en-us/details/200687887-3337/security-site-reliability-engineer-apple-service-engineering?team=SFTWR"
+    },
+    "200687840-0836": {
+      "first_seen": 1791478286.1043108,
+      "posted": "2026-10-08",
+      "title": "Software Performance Engineer for Memory, CoreOS",
+      "job_id": "200687840-0836",
+      "url": "https://jobs.apple.com/en-us/details/200687840-0836/software-performance-engineer-for-memory-coreos?team=SFTWR"
     }
   }
 }
