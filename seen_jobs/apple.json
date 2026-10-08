@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200634911-3337": {
-      "first_seen": 1775163183.861672,
-      "posted": "",
-      "title": "Senior Software Engineer, Apple Services Engineering - Kubernetes",
-      "job_id": "200634911-3337"
-    },
     "200634889-3337": {
       "first_seen": 1775163183.861672,
       "posted": "",
@@ -20665,6 +20659,13 @@
       "title": "Product Manager, Employee Experience & Productivity",
       "job_id": "200677450-0670",
       "url": "https://jobs.apple.com/en-us/details/200677450-0670/product-manager-employee-experience-productivity?team=SFTWR"
+    },
+    "200687852-0953": {
+      "first_seen": 1791424892.0204763,
+      "posted": "2026-10-08",
+      "title": "CDN Capacity & Infrastructure Manager, Infrastructure Services",
+      "job_id": "200687852-0953",
+      "url": "https://jobs.apple.com/en-us/details/200687852-0953/cdn-capacity-infrastructure-manager-infrastructure-services?team=SFTWR"
     }
   }
 }
