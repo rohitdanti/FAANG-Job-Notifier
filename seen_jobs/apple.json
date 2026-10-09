@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200631643-0836": {
-      "first_seen": 1775163183.861683,
-      "posted": "",
-      "title": "AIML - Sr. Software Development Engineer, Evaluation",
-      "job_id": "200631643-0836"
-    },
     "200619826-0836": {
       "first_seen": 1775163183.861683,
       "posted": "",
@@ -20695,6 +20689,13 @@
       "title": "Senior ML Researcher: Multimodal LLM Post-Training",
       "job_id": "200688031-3337",
       "url": "https://jobs.apple.com/en-us/details/200688031-3337/senior-ml-researcher-multimodal-llm-post-training?team=SFTWR"
+    },
+    "200688065-0836": {
+      "first_seen": 1791566497.1012857,
+      "posted": "2026-10-09",
+      "title": "Software Developer Engineer in Test Manager, Creativity Apps",
+      "job_id": "200688065-0836",
+      "url": "https://jobs.apple.com/en-us/details/200688065-0836/software-developer-engineer-in-test-manager-creativity-apps?team=SFTWR"
     }
   }
 }
