@@ -4,66 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200619826-0836": {
-      "first_seen": 1775163183.861683,
-      "posted": "",
-      "title": "Software Engineer - Backend Systems",
-      "job_id": "200619826-0836"
-    },
-    "200632069-0836": {
-      "first_seen": 1775163183.861683,
-      "posted": "",
-      "title": "Technical Data Product Lead",
-      "job_id": "200632069-0836"
-    },
-    "200631524-3543": {
-      "first_seen": 1775163183.861683,
-      "posted": "",
-      "title": "HomeKit Software Engineer, Wireless Technologies & Ecosystems",
-      "job_id": "200631524-3543"
-    },
-    "200623016-0836": {
-      "first_seen": 1775163183.861684,
-      "posted": "",
-      "title": "Tools & Automation Backend Quality Engineer \u2013 App Store Analytics",
-      "job_id": "200623016-0836"
-    },
-    "200632380-0157": {
-      "first_seen": 1775163183.861684,
-      "posted": "",
-      "title": "Sr. Data Engineer, iCloud",
-      "job_id": "200632380-0157"
-    },
-    "200632380-3337": {
-      "first_seen": 1775163183.861684,
-      "posted": "",
-      "title": "Sr. Data Engineer, iCloud",
-      "job_id": "200632380-3337"
-    },
-    "200632363-3337": {
-      "first_seen": 1775163183.861684,
-      "posted": "",
-      "title": "Software Engineer - Analytics and Data Privacy",
-      "job_id": "200632363-3337"
-    },
-    "200632216-0836": {
-      "first_seen": 1775163183.861684,
-      "posted": "",
-      "title": "Senior Software Engineer, Xcode",
-      "job_id": "200632216-0836"
-    },
-    "200632341-3543": {
-      "first_seen": 1775163183.861684,
-      "posted": "",
-      "title": "Software Engineer - Tools & Automation",
-      "job_id": "200632341-3543"
-    },
-    "200632324-0836": {
-      "first_seen": 1775163183.861685,
-      "posted": "",
-      "title": "JavaScriptCore Security Engineer",
-      "job_id": "200632324-0836"
-    },
     "200632302-3337": {
       "first_seen": 1775163183.861685,
       "posted": "",
@@ -20696,6 +20636,76 @@
       "title": "Software Developer Engineer in Test Manager, Creativity Apps",
       "job_id": "200688065-0836",
       "url": "https://jobs.apple.com/en-us/details/200688065-0836/software-developer-engineer-in-test-manager-creativity-apps?team=SFTWR"
+    },
+    "200687601-0256": {
+      "first_seen": 1791567686.1008825,
+      "posted": "2026-10-09",
+      "title": "ISE, System Experience - Senior Software Engineer, macOS System Experience",
+      "job_id": "200687601-0256",
+      "url": "https://jobs.apple.com/en-us/details/200687601-0256/ise-system-experience-senior-software-engineer-macos-system-experience?team=SFTWR"
+    },
+    "200687601-0297": {
+      "first_seen": 1791567686.1008885,
+      "posted": "2026-10-09",
+      "title": "ISE, System Experience - Senior Software Engineer, macOS System Experience",
+      "job_id": "200687601-0297",
+      "url": "https://jobs.apple.com/en-us/details/200687601-0297/ise-system-experience-senior-software-engineer-macos-system-experience?team=SFTWR"
+    },
+    "200687601-0224": {
+      "first_seen": 1791567686.1008909,
+      "posted": "2026-10-09",
+      "title": "ISE, System Experience - Senior Software Engineer, macOS System Experience",
+      "job_id": "200687601-0224",
+      "url": "https://jobs.apple.com/en-us/details/200687601-0224/ise-system-experience-senior-software-engineer-macos-system-experience?team=SFTWR"
+    },
+    "200687601-0313": {
+      "first_seen": 1791567686.1008923,
+      "posted": "2026-10-09",
+      "title": "ISE, System Experience - Senior Software Engineer, macOS System Experience",
+      "job_id": "200687601-0313",
+      "url": "https://jobs.apple.com/en-us/details/200687601-0313/ise-system-experience-senior-software-engineer-macos-system-experience?team=SFTWR"
+    },
+    "200687601-0052": {
+      "first_seen": 1791567686.1008942,
+      "posted": "2026-10-09",
+      "title": "ISE, System Experience - Senior Software Engineer, macOS System Experience",
+      "job_id": "200687601-0052",
+      "url": "https://jobs.apple.com/en-us/details/200687601-0052/ise-system-experience-senior-software-engineer-macos-system-experience?team=SFTWR"
+    },
+    "200687601-0585": {
+      "first_seen": 1791567686.1008956,
+      "posted": "2026-10-09",
+      "title": "ISE, System Experience - Senior Software Engineer, macOS System Experience",
+      "job_id": "200687601-0585",
+      "url": "https://jobs.apple.com/en-us/details/200687601-0585/ise-system-experience-senior-software-engineer-macos-system-experience?team=SFTWR"
+    },
+    "200687601-0371": {
+      "first_seen": 1791567686.100897,
+      "posted": "2026-10-09",
+      "title": "ISE, System Experience - Senior Software Engineer, macOS System Experience",
+      "job_id": "200687601-0371",
+      "url": "https://jobs.apple.com/en-us/details/200687601-0371/ise-system-experience-senior-software-engineer-macos-system-experience?team=SFTWR"
+    },
+    "200687601-5476": {
+      "first_seen": 1791567686.100898,
+      "posted": "2026-10-09",
+      "title": "ISE, System Experience - Senior Software Engineer, macOS System Experience",
+      "job_id": "200687601-5476",
+      "url": "https://jobs.apple.com/en-us/details/200687601-5476/ise-system-experience-senior-software-engineer-macos-system-experience?team=SFTWR"
+    },
+    "200687601-1202": {
+      "first_seen": 1791567686.100899,
+      "posted": "2026-10-09",
+      "title": "ISE, System Experience - Senior Software Engineer, macOS System Experience",
+      "job_id": "200687601-1202",
+      "url": "https://jobs.apple.com/en-us/details/200687601-1202/ise-system-experience-senior-software-engineer-macos-system-experience?team=SFTWR"
+    },
+    "200687601-1927": {
+      "first_seen": 1791567686.1009004,
+      "posted": "2026-10-09",
+      "title": "ISE, System Experience - Senior Software Engineer, macOS System Experience",
+      "job_id": "200687601-1927",
+      "url": "https://jobs.apple.com/en-us/details/200687601-1927/ise-system-experience-senior-software-engineer-macos-system-experience?team=SFTWR"
     }
   }
 }
