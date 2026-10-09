@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200631853-0157": {
-      "first_seen": 1775163183.861687,
-      "posted": "",
-      "title": "Service Reliability Engineer, G&A Solutions Engineering",
-      "job_id": "200631853-0157"
-    },
     "200631874-0836": {
       "first_seen": 1775163183.8616881,
       "posted": "",
@@ -20722,6 +20716,13 @@
       "title": "Senior Data Engineer, Data Products",
       "job_id": "200688248-0836",
       "url": "https://jobs.apple.com/en-us/details/200688248-0836/senior-data-engineer-data-products?team=SFTWR"
+    },
+    "200687534-3956": {
+      "first_seen": 1791582101.6946468,
+      "posted": "2026-10-09",
+      "title": "Sr. Software Engineer (Java Middleware), eBusiness",
+      "job_id": "200687534-3956",
+      "url": "https://jobs.apple.com/en-us/details/200687534-3956/sr-software-engineer-java-middleware-ebusiness?team=SFTWR"
     }
   }
 }
