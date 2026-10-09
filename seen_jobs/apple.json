@@ -4,24 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200631618-0836": {
-      "first_seen": 1775163183.861682,
-      "posted": "",
-      "title": "Manager of Engineering Project Managers, Core Audio",
-      "job_id": "200631618-0836"
-    },
-    "200632649-0157": {
-      "first_seen": 1775163183.861682,
-      "posted": "",
-      "title": "SoC Security Engineer - Platform Architecture",
-      "job_id": "200632649-0157"
-    },
-    "200632649-0836": {
-      "first_seen": 1775163183.861683,
-      "posted": "",
-      "title": "SoC Security Engineer - Platform Architecture",
-      "job_id": "200632649-0836"
-    },
     "200631643-0836": {
       "first_seen": 1775163183.861683,
       "posted": "",
@@ -20692,6 +20674,27 @@
       "title": "Sr Application Engineer \u2014 IT Inventory Platform, IS&T",
       "job_id": "200687484-3956",
       "url": "https://jobs.apple.com/en-us/details/200687484-3956/sr-application-engineer-it-inventory-platform-is-t?team=SFTWR"
+    },
+    "200688031-0836": {
+      "first_seen": 1791562894.966857,
+      "posted": "2026-10-09",
+      "title": "Senior ML Researcher: Multimodal LLM Post-Training",
+      "job_id": "200688031-0836",
+      "url": "https://jobs.apple.com/en-us/details/200688031-0836/senior-ml-researcher-multimodal-llm-post-training?team=SFTWR"
+    },
+    "200688031-3543": {
+      "first_seen": 1791562894.966862,
+      "posted": "2026-10-09",
+      "title": "Senior ML Researcher: Multimodal LLM Post-Training",
+      "job_id": "200688031-3543",
+      "url": "https://jobs.apple.com/en-us/details/200688031-3543/senior-ml-researcher-multimodal-llm-post-training?team=SFTWR"
+    },
+    "200688031-3337": {
+      "first_seen": 1791562894.9668648,
+      "posted": "2026-10-09",
+      "title": "Senior ML Researcher: Multimodal LLM Post-Training",
+      "job_id": "200688031-3337",
+      "url": "https://jobs.apple.com/en-us/details/200688031-3337/senior-ml-researcher-multimodal-llm-post-training?team=SFTWR"
     }
   }
 }
