@@ -4,66 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200632188-0836": {
-      "first_seen": 1775163183.861685,
-      "posted": "",
-      "title": "Sr Engineering Program Manager, Health AIML",
-      "job_id": "200632188-0836"
-    },
-    "200632114-0157": {
-      "first_seen": 1775163183.861685,
-      "posted": "",
-      "title": "Game Engineer, Platform Architecture",
-      "job_id": "200632114-0157"
-    },
-    "200632114-3543": {
-      "first_seen": 1775163183.861685,
-      "posted": "",
-      "title": "Game Engineer, Platform Architecture",
-      "job_id": "200632114-3543"
-    },
-    "200632114-3760": {
-      "first_seen": 1775163183.861685,
-      "posted": "",
-      "title": "Game Engineer, Platform Architecture",
-      "job_id": "200632114-3760"
-    },
-    "200631959-0836": {
-      "first_seen": 1775163183.861686,
-      "posted": "",
-      "title": "AI Software and Security Engineer",
-      "job_id": "200631959-0836"
-    },
-    "200631705-0836": {
-      "first_seen": 1775163183.861686,
-      "posted": "",
-      "title": "Sr. ML Optimization Engineer, iCloud",
-      "job_id": "200631705-0836"
-    },
-    "200631705-3543": {
-      "first_seen": 1775163183.861686,
-      "posted": "",
-      "title": "Sr. ML Optimization Engineer, iCloud",
-      "job_id": "200631705-3543"
-    },
-    "200631705-3577": {
-      "first_seen": 1775163183.861686,
-      "posted": "",
-      "title": "Sr. ML Optimization Engineer, iCloud",
-      "job_id": "200631705-3577"
-    },
-    "200631705-3337": {
-      "first_seen": 1775163183.861686,
-      "posted": "",
-      "title": "Sr. ML Optimization Engineer, iCloud",
-      "job_id": "200631705-3337"
-    },
-    "200631946-0836": {
-      "first_seen": 1775163183.861686,
-      "posted": "",
-      "title": "Data Engineer - Camera Intelligence",
-      "job_id": "200631946-0836"
-    },
     "200629943-0157": {
       "first_seen": 1775163183.861687,
       "posted": "",
@@ -20708,6 +20648,76 @@
       "title": "Staff Software Engineer, Apple Ads",
       "job_id": "200687998-0157",
       "url": "https://jobs.apple.com/en-us/details/200687998-0157/staff-software-engineer-apple-ads?team=SFTWR"
+    },
+    "200678203-1435": {
+      "first_seen": 1791570690.2375257,
+      "posted": "2026-10-09",
+      "title": "Software Engineer - Creator Studio",
+      "job_id": "200678203-1435",
+      "url": "https://jobs.apple.com/en-us/details/200678203-1435/software-engineer-creator-studio?team=SFTWR"
+    },
+    "200678203-0836": {
+      "first_seen": 1791570690.2375317,
+      "posted": "2026-10-09",
+      "title": "Software Engineer - Creator Studio",
+      "job_id": "200678203-0836",
+      "url": "https://jobs.apple.com/en-us/details/200678203-0836/software-engineer-creator-studio?team=SFTWR"
+    },
+    "200678203-2926": {
+      "first_seen": 1791570690.237534,
+      "posted": "2026-10-09",
+      "title": "Software Engineer - Creator Studio",
+      "job_id": "200678203-2926",
+      "url": "https://jobs.apple.com/en-us/details/200678203-2926/software-engineer-creator-studio?team=SFTWR"
+    },
+    "200678203-3543": {
+      "first_seen": 1791570690.2375357,
+      "posted": "2026-10-09",
+      "title": "Software Engineer - Creator Studio",
+      "job_id": "200678203-3543",
+      "url": "https://jobs.apple.com/en-us/details/200678203-3543/software-engineer-creator-studio?team=SFTWR"
+    },
+    "200678203-3337": {
+      "first_seen": 1791570690.2375379,
+      "posted": "2026-10-09",
+      "title": "Software Engineer - Creator Studio",
+      "job_id": "200678203-3337",
+      "url": "https://jobs.apple.com/en-us/details/200678203-3337/software-engineer-creator-studio?team=SFTWR"
+    },
+    "200678205-1435": {
+      "first_seen": 1791570690.2375395,
+      "posted": "2026-10-09",
+      "title": "Software Engineer - Creator Studio",
+      "job_id": "200678205-1435",
+      "url": "https://jobs.apple.com/en-us/details/200678205-1435/software-engineer-creator-studio?team=SFTWR"
+    },
+    "200678205-0836": {
+      "first_seen": 1791570690.237541,
+      "posted": "2026-10-09",
+      "title": "Software Engineer - Creator Studio",
+      "job_id": "200678205-0836",
+      "url": "https://jobs.apple.com/en-us/details/200678205-0836/software-engineer-creator-studio?team=SFTWR"
+    },
+    "200678205-2926": {
+      "first_seen": 1791570690.237542,
+      "posted": "2026-10-09",
+      "title": "Software Engineer - Creator Studio",
+      "job_id": "200678205-2926",
+      "url": "https://jobs.apple.com/en-us/details/200678205-2926/software-engineer-creator-studio?team=SFTWR"
+    },
+    "200678205-3543": {
+      "first_seen": 1791570690.2375433,
+      "posted": "2026-10-09",
+      "title": "Software Engineer - Creator Studio",
+      "job_id": "200678205-3543",
+      "url": "https://jobs.apple.com/en-us/details/200678205-3543/software-engineer-creator-studio?team=SFTWR"
+    },
+    "200678205-3337": {
+      "first_seen": 1791570690.2375448,
+      "posted": "2026-10-09",
+      "title": "Software Engineer - Creator Studio",
+      "job_id": "200678205-3337",
+      "url": "https://jobs.apple.com/en-us/details/200678205-3337/software-engineer-creator-studio?team=SFTWR"
     }
   }
 }
