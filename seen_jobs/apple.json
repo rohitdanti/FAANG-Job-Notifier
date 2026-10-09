@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200632164-0836": {
-      "first_seen": 1775163183.861685,
-      "posted": "",
-      "title": "Sharing Experiences and Frameworks Engineer",
-      "job_id": "200632164-0836"
-    },
     "200632188-0836": {
       "first_seen": 1775163183.861685,
       "posted": "",
@@ -20707,6 +20701,13 @@
       "title": "Data Scientist, Audio Telemetry Intelligence",
       "job_id": "200687836-0836",
       "url": "https://jobs.apple.com/en-us/details/200687836-0836/data-scientist-audio-telemetry-intelligence?team=SFTWR"
+    },
+    "200687998-0157": {
+      "first_seen": 1791570092.5194561,
+      "posted": "2026-10-09",
+      "title": "Staff Software Engineer, Apple Ads",
+      "job_id": "200687998-0157",
+      "url": "https://jobs.apple.com/en-us/details/200687998-0157/staff-software-engineer-apple-ads?team=SFTWR"
     }
   }
 }
