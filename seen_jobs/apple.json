@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200631905-3337": {
-      "first_seen": 1775163183.861687,
-      "posted": "",
-      "title": "Software Engineer, OS and System Services",
-      "job_id": "200631905-3337"
-    },
     "200631880-3956": {
       "first_seen": 1775163183.861687,
       "posted": "",
@@ -20720,6 +20714,13 @@
       "title": "Software Engineering Manager - Apple Security Identity",
       "job_id": "200688175-3337",
       "url": "https://jobs.apple.com/en-us/details/200688175-3337/software-engineering-manager-apple-security-identity?team=SFTWR"
+    },
+    "200687765-3337": {
+      "first_seen": 1791576693.335907,
+      "posted": "2026-10-09",
+      "title": "Machine Learning Engineer, Apple Services Engineering",
+      "job_id": "200687765-3337",
+      "url": "https://jobs.apple.com/en-us/details/200687765-3337/machine-learning-engineer-apple-services-engineering?team=SFTWR"
     }
   }
 }
