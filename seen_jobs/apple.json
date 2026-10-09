@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200631880-3956": {
-      "first_seen": 1775163183.861687,
-      "posted": "",
-      "title": "Software Engineer - Data",
-      "job_id": "200631880-3956"
-    },
     "200631853-0157": {
       "first_seen": 1775163183.861687,
       "posted": "",
@@ -20721,6 +20715,13 @@
       "title": "Machine Learning Engineer, Apple Services Engineering",
       "job_id": "200687765-3337",
       "url": "https://jobs.apple.com/en-us/details/200687765-3337/machine-learning-engineer-apple-services-engineering?team=SFTWR"
+    },
+    "200688248-0836": {
+      "first_seen": 1791580293.065269,
+      "posted": "2026-10-09",
+      "title": "Senior Data Engineer, Data Products",
+      "job_id": "200688248-0836",
+      "url": "https://jobs.apple.com/en-us/details/200688248-0836/senior-data-engineer-data-products?team=SFTWR"
     }
   }
 }
