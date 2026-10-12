@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200630806-0157": {
-      "first_seen": 1775163183.86169,
-      "posted": "",
-      "title": "SoC Security Architect - Platform Architecture",
-      "job_id": "200630806-0157"
-    },
     "200630806-0836": {
       "first_seen": 1775163183.86169,
       "posted": "",
@@ -20737,6 +20731,13 @@
       "title": "Engineering Program Manager (PMO), eBusiness Services",
       "job_id": "200687638-3956",
       "url": "https://jobs.apple.com/en-us/details/200687638-3956/engineering-program-manager-pmo-ebusiness-services?team=SFTWR"
+    },
+    "200687639-0157": {
+      "first_seen": 1791840110.7277205,
+      "posted": "2026-10-12",
+      "title": "Sr. Software Engineer (Site Reliability), eBusiness Services",
+      "job_id": "200687639-0157",
+      "url": "https://jobs.apple.com/en-us/details/200687639-0157/sr-software-engineer-site-reliability-ebusiness-services?team=SFTWR"
     }
   }
 }
