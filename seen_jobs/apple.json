@@ -4,18 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200624368-3543": {
-      "first_seen": 1775163183.861691,
-      "posted": "",
-      "title": "AI Application Engineer",
-      "job_id": "200624368-3543"
-    },
-    "200630953-0836": {
-      "first_seen": 1775163183.861691,
-      "posted": "",
-      "title": "OS Performance Tools Engineer - Memory Diagnostics, CoreOS",
-      "job_id": "200630953-0836"
-    },
     "200630953-3543": {
       "first_seen": 1775163183.861691,
       "posted": "",
@@ -20740,6 +20728,20 @@
       "title": "Senior Capacity Engineer",
       "job_id": "200688560-3577",
       "url": "https://jobs.apple.com/en-us/details/200688560-3577/senior-capacity-engineer?team=SFTWR"
+    },
+    "200688589-0836": {
+      "first_seen": 1791841296.9562273,
+      "posted": "2026-10-12",
+      "title": "Power & Performance Engineer, Audio & Media Technologies",
+      "job_id": "200688589-0836",
+      "url": "https://jobs.apple.com/en-us/details/200688589-0836/power-performance-engineer-audio-media-technologies?team=SFTWR"
+    },
+    "200688603-0505": {
+      "first_seen": 1791841296.9562323,
+      "posted": "2026-10-12",
+      "title": "System Software Engineer - Debug Technologies",
+      "job_id": "200688603-0505",
+      "url": "https://jobs.apple.com/en-us/details/200688603-0505/system-software-engineer-debug-technologies?team=SFTWR"
     }
   }
 }
