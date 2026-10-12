@@ -4,18 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200629540-3401": {
-      "first_seen": 1775163183.861691,
-      "posted": "",
-      "title": "Sr. Audio Software Engineer, Vision Products Group",
-      "job_id": "200629540-3401"
-    },
-    "200629540-0365": {
-      "first_seen": 1775163183.861692,
-      "posted": "",
-      "title": "Sr. Audio Software Engineer, Vision Products Group",
-      "job_id": "200629540-0365"
-    },
     "200629540-3337": {
       "first_seen": 1775163183.861692,
       "posted": "",
@@ -20746,6 +20734,20 @@
       "title": "OS Software Engineer, Evaluation",
       "job_id": "200688625-0836",
       "url": "https://jobs.apple.com/en-us/details/200688625-0836/os-software-engineer-evaluation?team=SFTWR"
+    },
+    "200687942-3401": {
+      "first_seen": 1791847300.987645,
+      "posted": "2026-10-12",
+      "title": "Software Engineer (Full Stack), AiDP Solutions - Sales",
+      "job_id": "200687942-3401",
+      "url": "https://jobs.apple.com/en-us/details/200687942-3401/software-engineer-full-stack-aidp-solutions-sales?team=SFTWR"
+    },
+    "200687935-3401": {
+      "first_seen": 1791847300.9876513,
+      "posted": "2026-10-12",
+      "title": "Software Engineer (Framework Solutions), AI & Data Platforms (AiDP)",
+      "job_id": "200687935-3401",
+      "url": "https://jobs.apple.com/en-us/details/200687935-3401/software-engineer-framework-solutions-ai-data-platforms-aidp?team=SFTWR"
     }
   }
 }
