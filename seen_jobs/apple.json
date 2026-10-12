@@ -4,18 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200630175-0836": {
-      "first_seen": 1775163183.8616881,
-      "posted": "",
-      "title": "Senior Robotics Algorithm Engineer",
-      "job_id": "200630175-0836"
-    },
-    "200631653-3401": {
-      "first_seen": 1775163183.8616881,
-      "posted": "",
-      "title": "iOS/macOS Developer",
-      "job_id": "200631653-3401"
-    },
     "200631322-0365": {
       "first_seen": 1775163183.8616881,
       "posted": "",
@@ -20726,6 +20714,20 @@
       "title": "Wi-Fi Certification Quality Engineer, Wireless Technologies & Ecosystems",
       "job_id": "200688169-0836",
       "url": "https://jobs.apple.com/en-us/details/200688169-0836/wi-fi-certification-quality-engineer-wireless-technologies-ecosystems?team=SFTWR"
+    },
+    "200645577-0836": {
+      "first_seen": 1791822691.7880046,
+      "posted": "2026-10-12",
+      "title": "Sr. Software Engineer, Enterprise Technology Services",
+      "job_id": "200645577-0836",
+      "url": "https://jobs.apple.com/en-us/details/200645577-0836/sr-software-engineer-enterprise-technology-services?team=SFTWR"
+    },
+    "200645577-3956": {
+      "first_seen": 1791822691.7880113,
+      "posted": "2026-10-12",
+      "title": "Sr. Software Engineer, Enterprise Technology Services",
+      "job_id": "200645577-3956",
+      "url": "https://jobs.apple.com/en-us/details/200645577-3956/sr-software-engineer-enterprise-technology-services?team=SFTWR"
     }
   }
 }
