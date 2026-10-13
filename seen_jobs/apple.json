@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200630749-0836": {
-      "first_seen": 1775163183.861692,
-      "posted": "",
-      "title": "Staff Software Engineer (Applied AI)",
-      "job_id": "200630749-0836"
-    },
     "200630852-3577": {
       "first_seen": 1775163183.861692,
       "posted": "",
@@ -20749,6 +20743,13 @@
       "title": "Software Development Engineer in Test - Kernel Quality Engineering, Core OS",
       "job_id": "200688785-0836",
       "url": "https://jobs.apple.com/en-us/details/200688785-0836/software-development-engineer-in-test-kernel-quality-engineering-core-os?team=SFTWR"
+    },
+    "200674415-3337": {
+      "first_seen": 1791918683.8433166,
+      "posted": "2026-10-13",
+      "title": "Sr. Engineering Program Manager, Scaled Assurance, Apple Services Engineering",
+      "job_id": "200674415-3337",
+      "url": "https://jobs.apple.com/en-us/details/200674415-3337/sr-engineering-program-manager-scaled-assurance-apple-services-engineering?team=SFTWR"
     }
   }
 }
