@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200611668-2459": {
-      "first_seen": 1775163183.861693,
-      "posted": "",
-      "title": "Senior Software Engineer (Technical Architect) - Wallet Platforms",
-      "job_id": "200611668-2459"
-    },
     "200618103-0836": {
       "first_seen": 1775163183.8616939,
       "posted": "",
@@ -20757,6 +20751,13 @@
       "title": "Software Engineer Manager, Apple Streaming Platform and Solutions",
       "job_id": "200688634-3337",
       "url": "https://jobs.apple.com/en-us/details/200688634-3337/software-engineer-manager-apple-streaming-platform-and-solutions?team=SFTWR"
+    },
+    "200688627-3337": {
+      "first_seen": 1791931289.3951445,
+      "posted": "2026-10-13",
+      "title": "Engineer Manager - Traffic (ASE)",
+      "job_id": "200688627-3337",
+      "url": "https://jobs.apple.com/en-us/details/200688627-3337/engineer-manager-traffic-ase?team=SFTWR"
     }
   }
 }
