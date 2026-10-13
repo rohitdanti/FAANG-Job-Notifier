@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200630852-3337": {
-      "first_seen": 1775163183.861692,
-      "posted": "",
-      "title": "Software Engineer- ASE Enterprise",
-      "job_id": "200630852-3337"
-    },
     "200622800-0836": {
       "first_seen": 1775163183.861693,
       "posted": "",
@@ -20751,6 +20745,13 @@
       "title": "Technical Product Manager, Partner Reporting Solutions",
       "job_id": "200679754-0836",
       "url": "https://jobs.apple.com/en-us/details/200679754-0836/technical-product-manager-partner-reporting-solutions?team=SFTWR"
+    },
+    "200688838-0157": {
+      "first_seen": 1791921700.3975239,
+      "posted": "2026-10-13",
+      "title": "Build Security Engineer",
+      "job_id": "200688838-0157",
+      "url": "https://jobs.apple.com/en-us/details/200688838-0157/build-security-engineer?team=SFTWR"
     }
   }
 }
