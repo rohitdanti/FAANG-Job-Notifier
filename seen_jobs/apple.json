@@ -4,30 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200607565-3337": {
-      "first_seen": 1775163183.861696,
-      "posted": "",
-      "title": "Sr. Machine Learning Engineer - LLMs, Agent Systems, and Simulation Tooling, Siri Core Modeling",
-      "job_id": "200607565-3337"
-    },
-    "200628550-3956": {
-      "first_seen": 1775163183.861696,
-      "posted": "",
-      "title": "Claris - Backend AI Engineer In Test",
-      "job_id": "200628550-3956"
-    },
-    "200629662-3956": {
-      "first_seen": 1775163183.861697,
-      "posted": "",
-      "title": "Machine Learning Compiler Engineer",
-      "job_id": "200629662-3956"
-    },
-    "200629659-3956": {
-      "first_seen": 1775163183.861697,
-      "posted": "",
-      "title": "Machine Learning Compiler Engineer",
-      "job_id": "200629659-3956"
-    },
     "200602358-0836": {
       "first_seen": 1775163183.861697,
       "posted": "",
@@ -20771,6 +20747,34 @@
       "title": "Sr iOS Software Engineer, Creativity Apps",
       "job_id": "200678772-3673",
       "url": "https://jobs.apple.com/en-us/details/200678772-3673/sr-ios-software-engineer-creativity-apps?team=SFTWR"
+    },
+    "200689325-3337": {
+      "first_seen": 1792018899.293673,
+      "posted": "2026-10-14",
+      "title": "Software Engineer, Apple Services Engineering, iCloud Platform",
+      "job_id": "200689325-3337",
+      "url": "https://jobs.apple.com/en-us/details/200689325-3337/software-engineer-apple-services-engineering-icloud-platform?team=SFTWR"
+    },
+    "200689308-3337": {
+      "first_seen": 1792018899.2936788,
+      "posted": "2026-10-14",
+      "title": "Senior Software Engineer, Apple Services Engineering, iCloud Platform",
+      "job_id": "200689308-3337",
+      "url": "https://jobs.apple.com/en-us/details/200689308-3337/senior-software-engineer-apple-services-engineering-icloud-platform?team=SFTWR"
+    },
+    "200689259-3337": {
+      "first_seen": 1792018899.2936811,
+      "posted": "2026-10-14",
+      "title": "iOS Software Engineer, Shortcuts Actions - Proactive",
+      "job_id": "200689259-3337",
+      "url": "https://jobs.apple.com/en-us/details/200689259-3337/ios-software-engineer-shortcuts-actions-proactive?team=SFTWR"
+    },
+    "200689271-3337": {
+      "first_seen": 1792018899.2936826,
+      "posted": "2026-10-14",
+      "title": "Tech Lead Manager, iOS Shortcuts Actions - Proactive",
+      "job_id": "200689271-3337",
+      "url": "https://jobs.apple.com/en-us/details/200689271-3337/tech-lead-manager-ios-shortcuts-actions-proactive?team=SFTWR"
     }
   }
 }
