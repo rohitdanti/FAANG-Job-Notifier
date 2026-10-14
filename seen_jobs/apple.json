@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200630486-0836": {
-      "first_seen": 1775163183.861695,
-      "posted": "",
-      "title": "Quality Engineering Manager, Performance & Automation \u2013 Creativity Apps",
-      "job_id": "200630486-0836"
-    },
     "200625491-0836": {
       "first_seen": 1775163183.861695,
       "posted": "",
@@ -20762,6 +20756,13 @@
       "title": "Software Engineer",
       "job_id": "200688902-2459",
       "url": "https://jobs.apple.com/en-us/details/200688902-2459/software-engineer?team=SFTWR"
+    },
+    "200689061-0836": {
+      "first_seen": 1791995511.7378707,
+      "posted": "2026-10-14",
+      "title": "Machine Learning Engineer - Intelligent Quality Systems",
+      "job_id": "200689061-0836",
+      "url": "https://jobs.apple.com/en-us/details/200689061-0836/machine-learning-engineer-intelligent-quality-systems?team=SFTWR"
     }
   }
 }
