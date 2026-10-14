@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200630503-0157": {
-      "first_seen": 1775163183.8616939,
-      "posted": "",
-      "title": "Software Performance Engineer, Wallet Payments & Commerce",
-      "job_id": "200630503-0157"
-    },
     "200630486-0836": {
       "first_seen": 1775163183.861695,
       "posted": "",
@@ -20761,6 +20755,13 @@
       "title": "Security Platform Automation Engineer",
       "job_id": "200685550-3337",
       "url": "https://jobs.apple.com/en-us/details/200685550-3337/security-platform-automation-engineer?team=SFTWR"
+    },
+    "200688902-2459": {
+      "first_seen": 1791985897.5550103,
+      "posted": "2026-10-14",
+      "title": "Software Engineer",
+      "job_id": "200688902-2459",
+      "url": "https://jobs.apple.com/en-us/details/200688902-2459/software-engineer?team=SFTWR"
     }
   }
 }
