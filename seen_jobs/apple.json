@@ -4,24 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200602358-0836": {
-      "first_seen": 1775163183.861697,
-      "posted": "",
-      "title": "Software Engineer, System Experience",
-      "job_id": "200602358-0836"
-    },
-    "200624578-3401": {
-      "first_seen": 1775163183.861697,
-      "posted": "",
-      "title": "Senior Machine Learning Engineer - System Experience Personalization",
-      "job_id": "200624578-3401"
-    },
-    "200592178-0836": {
-      "first_seen": 1775163183.861697,
-      "posted": "",
-      "title": "Staff iOS & macOS Software Engineer, Screen Time",
-      "job_id": "200592178-0836"
-    },
     "200592183-0836": {
       "first_seen": 1775163183.861697,
       "posted": "",
@@ -20775,6 +20757,27 @@
       "title": "Tech Lead Manager, iOS Shortcuts Actions - Proactive",
       "job_id": "200689271-3337",
       "url": "https://jobs.apple.com/en-us/details/200689271-3337/tech-lead-manager-ios-shortcuts-actions-proactive?team=SFTWR"
+    },
+    "200689243-3337": {
+      "first_seen": 1792020690.1756258,
+      "posted": "2026-10-14",
+      "title": "Traffic and Secure Services Network SRE Manager",
+      "job_id": "200689243-3337",
+      "url": "https://jobs.apple.com/en-us/details/200689243-3337/traffic-and-secure-services-network-sre-manager?team=SFTWR"
+    },
+    "200689303-3337": {
+      "first_seen": 1792020690.1756303,
+      "posted": "2026-10-14",
+      "title": "Senior Software Engineer, Apple Services Engineering",
+      "job_id": "200689303-3337",
+      "url": "https://jobs.apple.com/en-us/details/200689303-3337/senior-software-engineer-apple-services-engineering?team=SFTWR"
+    },
+    "200689298-3337": {
+      "first_seen": 1792020690.1756322,
+      "posted": "2026-10-14",
+      "title": "Software Engineer, Apple Services Engineering",
+      "job_id": "200689298-3337",
+      "url": "https://jobs.apple.com/en-us/details/200689298-3337/software-engineer-apple-services-engineering?team=SFTWR"
     }
   }
 }
