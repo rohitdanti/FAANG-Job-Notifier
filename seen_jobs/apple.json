@@ -4,36 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200629993-0836": {
-      "first_seen": 1775163183.861695,
-      "posted": "",
-      "title": "Technical Data Product/Project Lead",
-      "job_id": "200629993-0836"
-    },
-    "200612170-0836": {
-      "first_seen": 1775163183.861696,
-      "posted": "",
-      "title": "Engineering Program Manager, Siri User Experience",
-      "job_id": "200612170-0836"
-    },
-    "200612170-3337": {
-      "first_seen": 1775163183.861696,
-      "posted": "",
-      "title": "Engineering Program Manager, Siri User Experience",
-      "job_id": "200612170-3337"
-    },
-    "200629957-0836": {
-      "first_seen": 1775163183.861696,
-      "posted": "",
-      "title": "Clinical Specialist, Cardiology",
-      "job_id": "200629957-0836"
-    },
-    "200617225-3956": {
-      "first_seen": 1775163183.861696,
-      "posted": "",
-      "title": "Sr. Machine Learning Engineer \u2013 LLMs, Agent Systems, and Simulation Tooling, Siri Core Modeling",
-      "job_id": "200617225-3956"
-    },
     "200607565-3337": {
       "first_seen": 1775163183.861696,
       "posted": "",
@@ -20766,6 +20736,41 @@
       "title": "iOS Telephony Software Engineer, Wireless Technologies & Ecosystems",
       "job_id": "200687778-0836",
       "url": "https://jobs.apple.com/en-us/details/200687778-0836/ios-telephony-software-engineer-wireless-technologies-ecosystems?team=SFTWR"
+    },
+    "200678772-1435": {
+      "first_seen": 1792018288.1336029,
+      "posted": "2026-10-14",
+      "title": "Sr iOS Software Engineer, Creativity Apps",
+      "job_id": "200678772-1435",
+      "url": "https://jobs.apple.com/en-us/details/200678772-1435/sr-ios-software-engineer-creativity-apps?team=SFTWR"
+    },
+    "200678772-0836": {
+      "first_seen": 1792018288.1336074,
+      "posted": "2026-10-14",
+      "title": "Sr iOS Software Engineer, Creativity Apps",
+      "job_id": "200678772-0836",
+      "url": "https://jobs.apple.com/en-us/details/200678772-0836/sr-ios-software-engineer-creativity-apps?team=SFTWR"
+    },
+    "200678772-3543": {
+      "first_seen": 1792018288.1336093,
+      "posted": "2026-10-14",
+      "title": "Sr iOS Software Engineer, Creativity Apps",
+      "job_id": "200678772-3543",
+      "url": "https://jobs.apple.com/en-us/details/200678772-3543/sr-ios-software-engineer-creativity-apps?team=SFTWR"
+    },
+    "200678772-3337": {
+      "first_seen": 1792018288.1336102,
+      "posted": "2026-10-14",
+      "title": "Sr iOS Software Engineer, Creativity Apps",
+      "job_id": "200678772-3337",
+      "url": "https://jobs.apple.com/en-us/details/200678772-3337/sr-ios-software-engineer-creativity-apps?team=SFTWR"
+    },
+    "200678772-3673": {
+      "first_seen": 1792018288.1336112,
+      "posted": "2026-10-14",
+      "title": "Sr iOS Software Engineer, Creativity Apps",
+      "job_id": "200678772-3673",
+      "url": "https://jobs.apple.com/en-us/details/200678772-3673/sr-ios-software-engineer-creativity-apps?team=SFTWR"
     }
   }
 }
