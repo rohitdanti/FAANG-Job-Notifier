@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200629882-3543": {
-      "first_seen": 1775163183.861695,
-      "posted": "",
-      "title": "Perception Systems Software Engineer, Audio & Media Technologies",
-      "job_id": "200629882-3543"
-    },
     "200629993-0836": {
       "first_seen": 1775163183.861695,
       "posted": "",
@@ -20765,6 +20759,13 @@
       "title": "Software Engineer - Systems Performance, CoreOS",
       "job_id": "200687817-3543",
       "url": "https://jobs.apple.com/en-us/details/200687817-3543/software-engineer-systems-performance-coreos?team=SFTWR"
+    },
+    "200687778-0836": {
+      "first_seen": 1792011704.373578,
+      "posted": "2026-10-14",
+      "title": "iOS Telephony Software Engineer, Wireless Technologies & Ecosystems",
+      "job_id": "200687778-0836",
+      "url": "https://jobs.apple.com/en-us/details/200687778-0836/ios-telephony-software-engineer-wireless-technologies-ecosystems?team=SFTWR"
     }
   }
 }
