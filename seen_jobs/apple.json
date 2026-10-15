@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200628230-0836": {
-      "first_seen": 1775163183.861701,
-      "posted": "",
-      "title": "Senior Software Engineer, Watch Software",
-      "job_id": "200628230-0836"
-    },
     "200628840-3543": {
       "first_seen": 1775163183.861701,
       "posted": "",
@@ -20796,6 +20790,13 @@
       "title": "Product Lead, Platform & Monetization, Apple Maps",
       "job_id": "200689514-0836",
       "url": "https://jobs.apple.com/en-us/details/200689514-0836/product-lead-platform-monetization-apple-maps?team=SFTWR"
+    },
+    "200688532-0836": {
+      "first_seen": 1792099898.7501113,
+      "posted": "2026-10-15",
+      "title": "Program Manager, Design Tools & Enablement - Product, Design & Marketing Operations",
+      "job_id": "200688532-0836",
+      "url": "https://jobs.apple.com/en-us/details/200688532-0836/program-manager-design-tools-enablement-%C2%A0-product-design-marketing-operations?team=SFTWR"
     }
   }
 }
