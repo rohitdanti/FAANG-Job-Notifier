@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200628522-0836": {
-      "first_seen": 1775163183.8617,
-      "posted": "",
-      "title": "AIML \u2013 Sr. Machine Learning Engineer, Evaluation",
-      "job_id": "200628522-0836"
-    },
     "200629079-0157": {
       "first_seen": 1775163183.8617,
       "posted": "",
@@ -20791,6 +20785,13 @@
       "title": "Backend Engineer, QoS Apple Services Engineering",
       "job_id": "200689191-3543",
       "url": "https://jobs.apple.com/en-us/details/200689191-3543/backend-engineer-qos-apple-services-engineering?team=SFTWR"
+    },
+    "200687729-0836": {
+      "first_seen": 1792096305.8306053,
+      "posted": "2026-10-15",
+      "title": "Machine Learning Engineer, Creative Intelligence Systems",
+      "job_id": "200687729-0836",
+      "url": "https://jobs.apple.com/en-us/details/200687729-0836/machine-learning-engineer-creative-intelligence-systems?team=SFTWR"
     }
   }
 }
