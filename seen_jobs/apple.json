@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200628908-0836": {
-      "first_seen": 1775163183.861699,
-      "posted": "",
-      "title": "Instrumentation System Design Engineer",
-      "job_id": "200628908-0836"
-    },
     "200629055-0157": {
       "first_seen": 1775163183.861699,
       "posted": "",
@@ -20786,6 +20780,13 @@
       "title": "Senior Project Manager (SAP SD/SM), IS&T Enterprise Systems",
       "job_id": "200689203-0240",
       "url": "https://jobs.apple.com/en-us/details/200689203-0240/senior-project-manager-sap-sd-sm-is-t-enterprise-systems?team=SFTWR"
+    },
+    "200689239-0836": {
+      "first_seen": 1792082495.8307655,
+      "posted": "2026-10-15",
+      "title": "ML Data & Eval Engineer, Siri Agent Modeling",
+      "job_id": "200689239-0836",
+      "url": "https://jobs.apple.com/en-us/details/200689239-0836/ml-data-eval-engineer-siri-agent-modeling?team=SFTWR"
     }
   }
 }
