@@ -4,18 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200629055-0157": {
-      "first_seen": 1775163183.861699,
-      "posted": "",
-      "title": "Senior Backend Software Engineer (Golang)",
-      "job_id": "200629055-0157"
-    },
-    "200629055-3543": {
-      "first_seen": 1775163183.861699,
-      "posted": "",
-      "title": "Senior Backend Software Engineer (Golang)",
-      "job_id": "200629055-3543"
-    },
     "200608424-3337": {
       "first_seen": 1775163183.861699,
       "posted": "",
@@ -20787,6 +20775,20 @@
       "title": "ML Data & Eval Engineer, Siri Agent Modeling",
       "job_id": "200689239-0836",
       "url": "https://jobs.apple.com/en-us/details/200689239-0836/ml-data-eval-engineer-siri-agent-modeling?team=SFTWR"
+    },
+    "200689338-0836": {
+      "first_seen": 1792086688.4277246,
+      "posted": "2026-10-15",
+      "title": "Software QA Engineer, Fitness+ Team",
+      "job_id": "200689338-0836",
+      "url": "https://jobs.apple.com/en-us/details/200689338-0836/software-qa-engineer-fitness-team?team=SFTWR"
+    },
+    "200689252-3577": {
+      "first_seen": 1792086688.427729,
+      "posted": "2026-10-15",
+      "title": "UX and UI Software Engineer \u2014 Observability",
+      "job_id": "200689252-3577",
+      "url": "https://jobs.apple.com/en-us/details/200689252-3577/ux-and-ui-software-engineer-observability?team=SFTWR"
     }
   }
 }
