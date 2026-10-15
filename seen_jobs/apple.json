@@ -4,18 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200609475-0836": {
-      "first_seen": 1775163183.8617,
-      "posted": "",
-      "title": "Director of Security Engineering",
-      "job_id": "200609475-0836"
-    },
-    "200628089-3543": {
-      "first_seen": 1775163183.861701,
-      "posted": "",
-      "title": "iOS Application Developer - Health Software",
-      "job_id": "200628089-3543"
-    },
     "200628230-0836": {
       "first_seen": 1775163183.861701,
       "posted": "",
@@ -20794,6 +20782,20 @@
       "title": "Software Engineer, Applied ML Connected Experiences, Sensing & Connectivity",
       "job_id": "200595175-3543",
       "url": "https://jobs.apple.com/en-us/details/200595175-3543/software-engineer-applied-ml-connected-experiences-sensing-connectivity?team=SFTWR"
+    },
+    "200673176-0836": {
+      "first_seen": 1792098096.8006792,
+      "posted": "2026-10-15",
+      "title": "Senior Software Engineer, Partner Onboarding - Apple Services Engineering",
+      "job_id": "200673176-0836",
+      "url": "https://jobs.apple.com/en-us/details/200673176-0836/senior-software-engineer-partner-onboarding-apple-services-engineering?team=SFTWR"
+    },
+    "200689514-0836": {
+      "first_seen": 1792098096.8006861,
+      "posted": "2026-10-15",
+      "title": "Product Lead, Platform & Monetization, Apple Maps",
+      "job_id": "200689514-0836",
+      "url": "https://jobs.apple.com/en-us/details/200689514-0836/product-lead-platform-monetization-apple-maps?team=SFTWR"
     }
   }
 }
