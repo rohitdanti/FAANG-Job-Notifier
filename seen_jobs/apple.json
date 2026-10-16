@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200628096-0836": {
-      "first_seen": 1775163183.861701,
-      "posted": "",
-      "title": "AIML - Sr Engineering Program Manager, Search Quality and Infrastructure",
-      "job_id": "200628096-0836"
-    },
     "200628096-3337": {
       "first_seen": 1775163183.861702,
       "posted": "",
@@ -20799,6 +20793,13 @@
       "title": "Project Manager - G&A Solutions Engineering (GSE) PMO, IS&T",
       "job_id": "200687627-3956",
       "url": "https://jobs.apple.com/en-us/details/200687627-3956/project-manager-g-a-solutions-engineering-gse-pmo-is-t?team=SFTWR"
+    },
+    "200653827-3337": {
+      "first_seen": 1792115486.6467316,
+      "posted": "2026-10-16",
+      "title": "Senior ML Infrastructure Engineer, Proactive",
+      "job_id": "200653827-3337",
+      "url": "https://jobs.apple.com/en-us/details/200653827-3337/senior-ml-infrastructure-engineer-proactive?team=SFTWR"
     }
   }
 }
