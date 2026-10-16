@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200624766-0836": {
-      "first_seen": 1775163183.861702,
-      "posted": "",
-      "title": "Core Audio System Software Engineer, Audio & Media Technologies",
-      "job_id": "200624766-0836"
-    },
     "200628190-1242": {
       "first_seen": 1775163183.861703,
       "posted": "",
@@ -20803,6 +20797,13 @@
       "title": "Machine Learning Engineer, System Experience - Proactive",
       "job_id": "200689638-3337",
       "url": "https://jobs.apple.com/en-us/details/200689638-3337/machine-learning-engineer-system-experience-proactive?team=SFTWR"
+    },
+    "200688357-3401": {
+      "first_seen": 1792156892.2671819,
+      "posted": "2026-10-16",
+      "title": "Senior Engineering Project Manager (SAP S/4 Solution Architect), IS&T Enterprise Systems",
+      "job_id": "200688357-3401",
+      "url": "https://jobs.apple.com/en-us/details/200688357-3401/senior-engineering-project-manager-sap-s-4-solution-architect-is-t-enterprise-systems?team=SFTWR"
     }
   }
 }
