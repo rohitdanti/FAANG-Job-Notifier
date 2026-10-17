@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200625561-0836": {
-      "first_seen": 1775163183.8617039,
-      "posted": "",
-      "title": "Software Engineering Manager, Apple Ads",
-      "job_id": "200625561-0836"
-    },
     "200627736-0836": {
       "first_seen": 1775163183.8617039,
       "posted": "",
@@ -20814,6 +20808,13 @@
       "title": "Software Engineer, Internal Tools - Media, Graphics & Compute Tech",
       "job_id": "200689896",
       "url": "https://jobs.apple.com/en-us/details/200689896/software-engineer-internal-tools-media-graphics-compute-tech?team=SFTWR"
+    },
+    "200689992-0836": {
+      "first_seen": 1792198291.0178554,
+      "posted": "2026-10-17",
+      "title": "Core Bring Up Engineer, Core OS",
+      "job_id": "200689992-0836",
+      "url": "https://jobs.apple.com/en-us/details/200689992-0836/core-bring-up-engineer-core-os?team=SFTWR"
     }
   }
 }
