@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200622462-0157": {
-      "first_seen": 1775163183.861706,
-      "posted": "",
-      "title": "Software Engineering Manager",
-      "job_id": "200622462-0157"
-    },
     "200624838-0836": {
       "first_seen": 1775163183.861706,
       "posted": "",
@@ -20823,6 +20817,13 @@
       "title": "Senior / Staff ML Engineer, Apple Data Platform",
       "job_id": "200689995-0836",
       "url": "https://jobs.apple.com/en-us/details/200689995-0836/senior-staff-ml-engineer-apple-data-platform?team=SFTWR"
+    },
+    "200670737-0836": {
+      "first_seen": 1792437093.9047399,
+      "posted": "2026-10-19",
+      "title": "Senior Machine Learning Engineer - Ads Relevance & Quality",
+      "job_id": "200670737-0836",
+      "url": "https://jobs.apple.com/en-us/details/200670737-0836/senior-machine-learning-engineer-ads-relevance-quality?team=SFTWR"
     }
   }
 }
