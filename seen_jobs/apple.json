@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200626863-0836": {
-      "first_seen": 1775163183.861706,
-      "posted": "",
-      "title": "Sr SWE Camera - Engineering Program Manager",
-      "job_id": "200626863-0836"
-    },
     "200624969-3956": {
       "first_seen": 1775163183.861706,
       "posted": "",
@@ -20825,6 +20819,13 @@
       "title": "Senior / Staff ML Engineer, Apple Data Platform",
       "job_id": "200689995-3337",
       "url": "https://jobs.apple.com/en-us/details/200689995-3337/senior-staff-ml-engineer-apple-data-platform?team=SFTWR"
+    },
+    "200689958-0670": {
+      "first_seen": 1792438293.4358003,
+      "posted": "2026-10-19",
+      "title": "IS&T Services Broadcast Engineer, Employee Experience & Productivity",
+      "job_id": "200689958-0670",
+      "url": "https://jobs.apple.com/en-us/details/200689958-0670/is-t-services-broadcast-engineer-employee-experience-productivity?team=SFTWR"
     }
   }
 }
