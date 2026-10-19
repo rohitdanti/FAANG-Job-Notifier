@@ -4,30 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200627461-3543": {
-      "first_seen": 1775163183.861705,
-      "posted": "",
-      "title": "Wireless Communications Software Engineer",
-      "job_id": "200627461-3543"
-    },
-    "200627435-0836": {
-      "first_seen": 1775163183.861706,
-      "posted": "",
-      "title": "ML Research Engineer, Apple Services Engineering, Search",
-      "job_id": "200627435-0836"
-    },
-    "200627435-3337": {
-      "first_seen": 1775163183.861706,
-      "posted": "",
-      "title": "ML Research Engineer, Apple Services Engineering, Search",
-      "job_id": "200627435-3337"
-    },
-    "200626771-0836": {
-      "first_seen": 1775163183.861706,
-      "posted": "",
-      "title": "Apple Services Engineering - Web Engineer",
-      "job_id": "200626771-0836"
-    },
     "200622462-0157": {
       "first_seen": 1775163183.861706,
       "posted": "",
@@ -20819,6 +20795,34 @@
       "title": "Senior GenAI Engineer, Apple Cloud AI",
       "job_id": "200690010-0836",
       "url": "https://jobs.apple.com/en-us/details/200690010-0836/senior-genai-engineer-apple-cloud-ai?team=SFTWR"
+    },
+    "200689792-3337": {
+      "first_seen": 1792434101.8558955,
+      "posted": "2026-10-19",
+      "title": "Senior/Staff Software Engineer, Apple Services Engineering",
+      "job_id": "200689792-3337",
+      "url": "https://jobs.apple.com/en-us/details/200689792-3337/senior-staff-software-engineer-apple-services-engineering?team=SFTWR"
+    },
+    "200689875-3577": {
+      "first_seen": 1792434101.8559012,
+      "posted": "2026-10-19",
+      "title": "UX and UI Software Engineer \u2014 Observability",
+      "job_id": "200689875-3577",
+      "url": "https://jobs.apple.com/en-us/details/200689875-3577/ux-and-ui-software-engineer-observability?team=SFTWR"
+    },
+    "200689948-3577": {
+      "first_seen": 1792434101.855903,
+      "posted": "2026-10-19",
+      "title": "ASE Compute - Lead SRE Software Engineer",
+      "job_id": "200689948-3577",
+      "url": "https://jobs.apple.com/en-us/details/200689948-3577/ase-compute-lead-sre-software-engineer?team=SFTWR"
+    },
+    "200689995-0836": {
+      "first_seen": 1792434101.8559046,
+      "posted": "2026-10-19",
+      "title": "Senior / Staff ML Engineer, Apple Data Platform",
+      "job_id": "200689995-0836",
+      "url": "https://jobs.apple.com/en-us/details/200689995-0836/senior-staff-ml-engineer-apple-data-platform?team=SFTWR"
     }
   }
 }
