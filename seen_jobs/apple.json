@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200624062-3543": {
-      "first_seen": 1775163183.861709,
-      "posted": "",
-      "title": "Operations Automation Engineer, Watch Software",
-      "job_id": "200624062-3543"
-    },
     "200622550-0836": {
       "first_seen": 1775163183.861709,
       "posted": "",
@@ -20839,6 +20833,13 @@
       "title": "Storage Systems Engineer, Software Delivery & Technologies",
       "job_id": "200690350-0836",
       "url": "https://jobs.apple.com/en-us/details/200690350-0836/storage-systems-engineer-software-delivery-technologies?team=SFTWR"
+    },
+    "200690299-3543": {
+      "first_seen": 1792515701.0567465,
+      "posted": "2026-10-20",
+      "title": "WiFi Software Systems Analysis Engineer, Wireless Technologies & Ecosystems",
+      "job_id": "200690299-3543",
+      "url": "https://jobs.apple.com/en-us/details/200690299-3543/wifi-software-systems-analysis-engineer-wireless-technologies-ecosystems?team=SFTWR"
     }
   }
 }
