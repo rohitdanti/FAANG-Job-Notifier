@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200622550-0836": {
-      "first_seen": 1775163183.861709,
-      "posted": "",
-      "title": "Staff Site Reliability Engineer - Apple Ads",
-      "job_id": "200622550-0836"
-    },
     "200624079-3543": {
       "first_seen": 1775163183.861709,
       "posted": "",
@@ -20840,6 +20834,13 @@
       "title": "WiFi Software Systems Analysis Engineer, Wireless Technologies & Ecosystems",
       "job_id": "200690299-3543",
       "url": "https://jobs.apple.com/en-us/details/200690299-3543/wifi-software-systems-analysis-engineer-wireless-technologies-ecosystems?team=SFTWR"
+    },
+    "200689607-3956": {
+      "first_seen": 1792520490.058083,
+      "posted": "2026-10-20",
+      "title": "DevOps Engineer, Retail and Marcom Engineering",
+      "job_id": "200689607-3956",
+      "url": "https://jobs.apple.com/en-us/details/200689607-3956/devops-engineer-retail-and-marcom-engineering?team=SFTWR"
     }
   }
 }
