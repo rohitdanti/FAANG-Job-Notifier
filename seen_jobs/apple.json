@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200626477-3760": {
-      "first_seen": 1775163183.861709,
-      "posted": "",
-      "title": "AIML - Machine Learning Engineer (MLOps), Evaluation",
-      "job_id": "200626477-3760"
-    },
     "200626429-0836": {
       "first_seen": 1775163183.861709,
       "posted": "",
@@ -20843,6 +20837,13 @@
       "title": "Senior Distributed Systems Engineer - Services Special Projects",
       "job_id": "200685008-0836",
       "url": "https://jobs.apple.com/en-us/details/200685008-0836/senior-distributed-systems-engineer-services-special-projects?team=SFTWR"
+    },
+    "200688124-0836": {
+      "first_seen": 1792526494.0769465,
+      "posted": "2026-10-20",
+      "title": "Program Manager, Find My",
+      "job_id": "200688124-0836",
+      "url": "https://jobs.apple.com/en-us/details/200688124-0836/program-manager-find-my?team=SFTWR"
     }
   }
 }
