@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200624062-0836": {
-      "first_seen": 1775163183.861709,
-      "posted": "",
-      "title": "Operations Automation Engineer, Watch Software",
-      "job_id": "200624062-0836"
-    },
     "200624062-3543": {
       "first_seen": 1775163183.861709,
       "posted": "",
@@ -20838,6 +20832,13 @@
       "title": "Kubernetes Security Engineer",
       "job_id": "200688257-0157",
       "url": "https://jobs.apple.com/en-us/details/200688257-0157/kubernetes-security-engineer?team=SFTWR"
+    },
+    "200690350-0836": {
+      "first_seen": 1792513291.9044914,
+      "posted": "2026-10-20",
+      "title": "Storage Systems Engineer, Software Delivery & Technologies",
+      "job_id": "200690350-0836",
+      "url": "https://jobs.apple.com/en-us/details/200690350-0836/storage-systems-engineer-software-delivery-technologies?team=SFTWR"
     }
   }
 }
