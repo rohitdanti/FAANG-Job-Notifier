@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200626429-0836": {
-      "first_seen": 1775163183.861709,
-      "posted": "",
-      "title": "Photos Backend Systems Engineer",
-      "job_id": "200626429-0836"
-    },
     "200626429-3543": {
       "first_seen": 1775163183.86171,
       "posted": "",
@@ -20844,6 +20838,13 @@
       "title": "Program Manager, Find My",
       "job_id": "200688124-0836",
       "url": "https://jobs.apple.com/en-us/details/200688124-0836/program-manager-find-my?team=SFTWR"
+    },
+    "200689242-0836": {
+      "first_seen": 1792537903.8529952,
+      "posted": "2026-10-20",
+      "title": "Privacy Data Collection & Reporting Engineering Manager",
+      "job_id": "200689242-0836",
+      "url": "https://jobs.apple.com/en-us/details/200689242-0836/privacy-data-collection-reporting-engineering-manager?team=SFTWR"
     }
   }
 }
