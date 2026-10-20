@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200624209-3543": {
-      "first_seen": 1775163183.861709,
-      "posted": "",
-      "title": "Senior Software Engineer - Fitness, Watch Software",
-      "job_id": "200624209-3543"
-    },
     "200626477-3760": {
       "first_seen": 1775163183.861709,
       "posted": "",
@@ -20842,6 +20836,13 @@
       "title": "Engineering Project Manager, Employee Experience & Productivity",
       "job_id": "200690313-0670",
       "url": "https://jobs.apple.com/en-us/details/200690313-0670/engineering-project-manager-employee-experience-productivity?team=SFTWR"
+    },
+    "200685008-0836": {
+      "first_seen": 1792524698.492978,
+      "posted": "2026-10-20",
+      "title": "Senior Distributed Systems Engineer - Services Special Projects",
+      "job_id": "200685008-0836",
+      "url": "https://jobs.apple.com/en-us/details/200685008-0836/senior-distributed-systems-engineer-services-special-projects?team=SFTWR"
     }
   }
 }
