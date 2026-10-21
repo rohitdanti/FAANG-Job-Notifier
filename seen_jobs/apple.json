@@ -4,18 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200625039-0157": {
-      "first_seen": 1775163183.861713,
-      "posted": "",
-      "title": "Software Engineer (UI), Supply Chain Integration",
-      "job_id": "200625039-0157"
-    },
-    "200625064-3543": {
-      "first_seen": 1775163183.861713,
-      "posted": "",
-      "title": "iOS Software Engineer, Health Research",
-      "job_id": "200625064-3543"
-    },
     "200625064-3956": {
       "first_seen": 1775163183.861713,
       "posted": "",
@@ -20864,6 +20852,20 @@
       "title": "Senior Site Reliability Engineer - Apple Services Engineering / iCloud",
       "job_id": "200690221-3337",
       "url": "https://jobs.apple.com/en-us/details/200690221-3337/senior-site-reliability-engineer-apple-services-engineering-icloud?team=SFTWR"
+    },
+    "200690683-0157": {
+      "first_seen": 1792612292.3158257,
+      "posted": "2026-10-21",
+      "title": "Software Engineering (AI/ML), Retail and Marcom Engineering",
+      "job_id": "200690683-0157",
+      "url": "https://jobs.apple.com/en-us/details/200690683-0157/software-engineering-ai-ml-retail-and-marcom-engineering?team=SFTWR"
+    },
+    "200690683-3956": {
+      "first_seen": 1792612292.3158345,
+      "posted": "2026-10-21",
+      "title": "Software Engineering (AI/ML), Retail and Marcom Engineering",
+      "job_id": "200690683-3956",
+      "url": "https://jobs.apple.com/en-us/details/200690683-3956/software-engineering-ai-ml-retail-and-marcom-engineering?team=SFTWR"
     }
   }
 }
