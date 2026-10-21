@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200626058-3337": {
-      "first_seen": 1775163183.861711,
-      "posted": "",
-      "title": "Multi-Cloud Solutions Architect",
-      "job_id": "200626058-3337"
-    },
     "200619935-3956": {
       "first_seen": 1775163183.861711,
       "posted": "",
@@ -20853,6 +20847,13 @@
       "title": "Senior Security Software Engineer EDR",
       "job_id": "200690235-3337",
       "url": "https://jobs.apple.com/en-us/details/200690235-3337/senior-security-software-engineer-edr?team=SFTWR"
+    },
+    "200690605-1902": {
+      "first_seen": 1792592490.7117732,
+      "posted": "2026-10-21",
+      "title": "Remote Site Services Data Center Manager, Infrastructure Services",
+      "job_id": "200690605-1902",
+      "url": "https://jobs.apple.com/en-us/details/200690605-1902/remote-site-services-data-center-manager-infrastructure-services?team=SFTWR"
     }
   }
 }
