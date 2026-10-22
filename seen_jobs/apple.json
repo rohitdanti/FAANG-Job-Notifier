@@ -4,18 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200624020-3956": {
-      "first_seen": 1775163183.861717,
-      "posted": "",
-      "title": "Software Application Support Engineer, Retail Engineering",
-      "job_id": "200624020-3956"
-    },
-    "200622604-2459": {
-      "first_seen": 1775163183.861717,
-      "posted": "",
-      "title": "Data Engineering Manager - Apple Ads",
-      "job_id": "200622604-2459"
-    },
     "200623337-0836": {
       "first_seen": 1775163183.861717,
       "posted": "",
@@ -20889,6 +20877,20 @@
       "title": "Software Engineer, Find My",
       "job_id": "200691025-0836",
       "url": "https://jobs.apple.com/en-us/details/200691025-0836/software-engineer-find-my?team=SFTWR"
+    },
+    "200690910-0836": {
+      "first_seen": 1792699897.1147676,
+      "posted": "2026-10-22",
+      "title": "Senior Firmware Engineer",
+      "job_id": "200690910-0836",
+      "url": "https://jobs.apple.com/en-us/details/200690910-0836/senior-firmware-engineer?team=SFTWR"
+    },
+    "200690868-0836": {
+      "first_seen": 1792699897.1147733,
+      "posted": "2026-10-22",
+      "title": "CoRL (Conference on Robotic Learning) Event 2026",
+      "job_id": "200690868-0836",
+      "url": "https://jobs.apple.com/en-us/details/200690868-0836/corl-conference-on-robotic-learning-event-2026?team=SFTWR"
     }
   }
 }
