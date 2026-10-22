@@ -4,18 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200624113-0836": {
-      "first_seen": 1775163183.861717,
-      "posted": "",
-      "title": "Media Services Quality Engineering Manager",
-      "job_id": "200624113-0836"
-    },
-    "200624020-0157": {
-      "first_seen": 1775163183.861717,
-      "posted": "",
-      "title": "Software Application Support Engineer, Retail Engineering",
-      "job_id": "200624020-0157"
-    },
     "200624020-3956": {
       "first_seen": 1775163183.861717,
       "posted": "",
@@ -20887,6 +20875,20 @@
       "title": "Software Engineer, Safari Extensions",
       "job_id": "200676418-3543",
       "url": "https://jobs.apple.com/en-us/details/200676418-3543/software-engineer-safari-extensions?team=SFTWR"
+    },
+    "200642910-0836": {
+      "first_seen": 1792697496.8256495,
+      "posted": "2026-10-22",
+      "title": "Engineering Program Manager, SWE Factory",
+      "job_id": "200642910-0836",
+      "url": "https://jobs.apple.com/en-us/details/200642910-0836/engineering-program-manager-swe-factory?team=SFTWR"
+    },
+    "200691025-0836": {
+      "first_seen": 1792697496.8256555,
+      "posted": "2026-10-22",
+      "title": "Software Engineer, Find My",
+      "job_id": "200691025-0836",
+      "url": "https://jobs.apple.com/en-us/details/200691025-0836/software-engineer-find-my?team=SFTWR"
     }
   }
 }
