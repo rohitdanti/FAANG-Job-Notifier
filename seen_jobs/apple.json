@@ -4,18 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200624454-3337": {
-      "first_seen": 1775163183.861716,
-      "posted": "",
-      "title": "LLM Machine Learning Research Engineer, Model Optimization & Algorithms Development",
-      "job_id": "200624454-3337"
-    },
-    "200624416-3337": {
-      "first_seen": 1775163183.861716,
-      "posted": "",
-      "title": "Traffic Engineering Manager, Apple Services Engineering",
-      "job_id": "200624416-3337"
-    },
     "200624275-0836": {
       "first_seen": 1775163183.861716,
       "posted": "",
@@ -20883,6 +20871,20 @@
       "title": "Application Platform Architect, Application Platform Integrity",
       "job_id": "200690997-0836",
       "url": "https://jobs.apple.com/en-us/details/200690997-0836/application-platform-architect-application-platform-integrity?team=SFTWR"
+    },
+    "200691013-0836": {
+      "first_seen": 1792693893.9187753,
+      "posted": "2026-10-22",
+      "title": "Engineering Manager, Model & Algorithm Evaluation & Quality, Sensing & Connectivity",
+      "job_id": "200691013-0836",
+      "url": "https://jobs.apple.com/en-us/details/200691013-0836/engineering-manager-model-algorithm-evaluation-quality-sensing-connectivity?team=SFTWR"
+    },
+    "200690759-3956": {
+      "first_seen": 1792693893.9187796,
+      "posted": "2026-10-22",
+      "title": "Cellular Performance Engineer",
+      "job_id": "200690759-3956",
+      "url": "https://jobs.apple.com/en-us/details/200690759-3956/cellular-performance-engineer?team=SFTWR"
     }
   }
 }
