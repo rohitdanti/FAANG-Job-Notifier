@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200619972-3956": {
-      "first_seen": 1775163183.861716,
-      "posted": "",
-      "title": "Senior Frontend Engineer, Annotation Tools",
-      "job_id": "200619972-3956"
-    },
     "200624454-3337": {
       "first_seen": 1775163183.861716,
       "posted": "",
@@ -20882,6 +20876,13 @@
       "title": "Senior Software Engineer - Finance Engineering",
       "job_id": "200690013-3401",
       "url": "https://jobs.apple.com/en-us/details/200690013-3401/senior-software-engineer-finance-engineering?team=SFTWR"
+    },
+    "200690997-0836": {
+      "first_seen": 1792692694.788341,
+      "posted": "2026-10-22",
+      "title": "Application Platform Architect, Application Platform Integrity",
+      "job_id": "200690997-0836",
+      "url": "https://jobs.apple.com/en-us/details/200690997-0836/application-platform-architect-application-platform-integrity?team=SFTWR"
     }
   }
 }
