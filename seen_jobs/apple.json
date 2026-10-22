@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200624275-0836": {
-      "first_seen": 1775163183.861716,
-      "posted": "",
-      "title": "Embedded Software Engineer, Audio & Media Technologies",
-      "job_id": "200624275-0836"
-    },
     "200624359-3543": {
       "first_seen": 1775163183.861716,
       "posted": "",
@@ -20885,6 +20879,13 @@
       "title": "Cellular Performance Engineer",
       "job_id": "200690759-3956",
       "url": "https://jobs.apple.com/en-us/details/200690759-3956/cellular-performance-engineer?team=SFTWR"
+    },
+    "200690876-3577": {
+      "first_seen": 1792694490.6380029,
+      "posted": "2026-10-22",
+      "title": "Principle Product Manager, Search Platform",
+      "job_id": "200690876-3577",
+      "url": "https://jobs.apple.com/en-us/details/200690876-3577/principle-product-manager-search-platform?team=SFTWR"
     }
   }
 }
