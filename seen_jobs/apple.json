@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200620195-3956": {
-      "first_seen": 1775163183.8617191,
-      "posted": "",
-      "title": "Sr. Software Engineer, Information Systems & Technology",
-      "job_id": "200620195-3956"
-    },
     "200620184-0836": {
       "first_seen": 1775163183.8617191,
       "posted": "",
@@ -20898,6 +20892,13 @@
       "title": "Senior Data Scientist, Apple Ads",
       "job_id": "200691124-2459",
       "url": "https://jobs.apple.com/en-us/details/200691124-2459/senior-data-scientist-apple-ads?team=SFTWR"
+    },
+    "200690587-0836": {
+      "first_seen": 1792770692.6972487,
+      "posted": "2026-10-23",
+      "title": "40 Hours",
+      "job_id": "200690587-0836",
+      "url": "https://jobs.apple.com/en-us/details/200690587-0836/location-software-engineer?team=SFTWR"
     }
   }
 }
