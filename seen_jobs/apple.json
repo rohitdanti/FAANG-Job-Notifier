@@ -4,30 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200622883-0836": {
-      "first_seen": 1775163183.861718,
-      "posted": "",
-      "title": "Machine Learning Engineer, Photos",
-      "job_id": "200622883-0836"
-    },
-    "200623352-0836": {
-      "first_seen": 1775163183.861718,
-      "posted": "",
-      "title": "Software Engineer - Applied Machine Learning & Localization",
-      "job_id": "200623352-0836"
-    },
-    "200620199-0157": {
-      "first_seen": 1775163183.861718,
-      "posted": "",
-      "title": "Sr. Software Engineer, Information Systems & Technology",
-      "job_id": "200620199-0157"
-    },
-    "200620195-0836": {
-      "first_seen": 1775163183.8617191,
-      "posted": "",
-      "title": "Sr. Software Engineer, Information Systems & Technology",
-      "job_id": "200620195-0836"
-    },
     "200620195-3956": {
       "first_seen": 1775163183.8617191,
       "posted": "",
@@ -20894,6 +20870,34 @@
       "title": "Manager, Engineering Program Manager, Intelligent System Experience",
       "job_id": "200690864-0836",
       "url": "https://jobs.apple.com/en-us/details/200690864-0836/manager-engineering-program-manager-intelligent-system-experience?team=SFTWR"
+    },
+    "200690883-3401": {
+      "first_seen": 1792719686.2812176,
+      "posted": "2026-10-23",
+      "title": "Senior Software Engineer - Tools, Intelligent Automation & Developer Platforms",
+      "job_id": "200690883-3401",
+      "url": "https://jobs.apple.com/en-us/details/200690883-3401/senior-software-engineer-tools-intelligent-automation-developer-platforms?team=SFTWR"
+    },
+    "200691124-0157": {
+      "first_seen": 1792719686.281222,
+      "posted": "2026-10-23",
+      "title": "Senior Data Scientist, Apple Ads",
+      "job_id": "200691124-0157",
+      "url": "https://jobs.apple.com/en-us/details/200691124-0157/senior-data-scientist-apple-ads?team=SFTWR"
+    },
+    "200691124-0836": {
+      "first_seen": 1792719686.281224,
+      "posted": "2026-10-23",
+      "title": "Senior Data Scientist, Apple Ads",
+      "job_id": "200691124-0836",
+      "url": "https://jobs.apple.com/en-us/details/200691124-0836/senior-data-scientist-apple-ads?team=SFTWR"
+    },
+    "200691124-2459": {
+      "first_seen": 1792719686.2812252,
+      "posted": "2026-10-23",
+      "title": "Senior Data Scientist, Apple Ads",
+      "job_id": "200691124-2459",
+      "url": "https://jobs.apple.com/en-us/details/200691124-2459/senior-data-scientist-apple-ads?team=SFTWR"
     }
   }
 }
