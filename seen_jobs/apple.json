@@ -4,18 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200622482-3337": {
-      "first_seen": 1775163183.861721,
-      "posted": "",
-      "title": "Senior Software Engineer, Apple Services Engineering",
-      "job_id": "200622482-3337"
-    },
-    "200622404-0836": {
-      "first_seen": 1775163183.8617222,
-      "posted": "",
-      "title": "AIML - Sr Engineering Program Manager, ML Lineage & Lifecycle Platform",
-      "job_id": "200622404-0836"
-    },
     "200622404-3337": {
       "first_seen": 1775163183.8617222,
       "posted": "",
@@ -20913,6 +20901,20 @@
       "title": "Software Engineer - Generative UI, Input Experience",
       "job_id": "200689588-0836",
       "url": "https://jobs.apple.com/en-us/details/200689588-0836/software-engineer-generative-ui-input-experience?team=SFTWR"
+    },
+    "200691391-0836": {
+      "first_seen": 1792795291.923908,
+      "posted": "2026-10-23",
+      "title": "Software Engineer, Evaluation",
+      "job_id": "200691391-0836",
+      "url": "https://jobs.apple.com/en-us/details/200691391-0836/software-engineer-evaluation?team=SFTWR"
+    },
+    "200691243-3543": {
+      "first_seen": 1792795291.9239135,
+      "posted": "2026-10-23",
+      "title": "Embedded Networking Engineer",
+      "job_id": "200691243-3543",
+      "url": "https://jobs.apple.com/en-us/details/200691243-3543/embedded-networking-engineer?team=SFTWR"
     }
   }
 }
