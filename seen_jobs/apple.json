@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200623558-0157": {
-      "first_seen": 1775163183.861718,
-      "posted": "",
-      "title": "Lead Big Data Engineer - Wallet, Payments & Commerce",
-      "job_id": "200623558-0157"
-    },
     "200622883-0836": {
       "first_seen": 1775163183.861718,
       "posted": "",
@@ -20893,6 +20887,13 @@
       "title": "Services Technology Lead, Program Strategy & Operations - Employee Experience & Productivity",
       "job_id": "200690847-0670",
       "url": "https://jobs.apple.com/en-us/details/200690847-0670/services-technology-lead-program-strategy-operations-employee-experience-productivity?team=SFTWR"
+    },
+    "200690864-0836": {
+      "first_seen": 1792716697.05142,
+      "posted": "2026-10-23",
+      "title": "Manager, Engineering Program Manager, Intelligent System Experience",
+      "job_id": "200690864-0836",
+      "url": "https://jobs.apple.com/en-us/details/200690864-0836/manager-engineering-program-manager-intelligent-system-experience?team=SFTWR"
     }
   }
 }
