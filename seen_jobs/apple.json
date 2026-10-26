@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200621002-0836": {
-      "first_seen": 1775163183.8617249,
-      "posted": "",
-      "title": "ML Data Program Manager",
-      "job_id": "200621002-0836"
-    },
     "200600683-0836": {
       "first_seen": 1775163183.8617249,
       "posted": "",
@@ -20931,6 +20925,13 @@
       "title": "Software Engineer, System Services & Daemons, Core OS",
       "job_id": "200690212-0505",
       "url": "https://jobs.apple.com/en-us/details/200690212-0505/software-engineer-system-services-daemons-core-os?team=SFTWR"
+    },
+    "200691352-0670": {
+      "first_seen": 1793032300.2275398,
+      "posted": "2026-10-26",
+      "title": "Manager, ASE Efficiency",
+      "job_id": "200691352-0670",
+      "url": "https://jobs.apple.com/en-us/details/200691352-0670/manager-ase-efficiency?team=SFTWR"
     }
   }
 }
