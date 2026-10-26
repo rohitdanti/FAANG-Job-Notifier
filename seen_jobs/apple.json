@@ -4,36 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200621693-3543": {
-      "first_seen": 1775163183.861723,
-      "posted": "",
-      "title": "Build & Integration Configuration Tools Engineer",
-      "job_id": "200621693-3543"
-    },
-    "200621787-3337": {
-      "first_seen": 1775163183.861723,
-      "posted": "",
-      "title": "Senior Software Engineer, Apple Services Engineering",
-      "job_id": "200621787-3337"
-    },
-    "200621777-3577": {
-      "first_seen": 1775163183.861723,
-      "posted": "",
-      "title": "Software Engineer, Apple Services Engineering",
-      "job_id": "200621777-3577"
-    },
-    "200621777-3337": {
-      "first_seen": 1775163183.861723,
-      "posted": "",
-      "title": "Software Engineer, Apple Services Engineering",
-      "job_id": "200621777-3337"
-    },
-    "200621756-0157": {
-      "first_seen": 1775163183.861724,
-      "posted": "",
-      "title": "Software Engineer - AiDP Reliability Engineering, IS&T, Early Career Opportunities",
-      "job_id": "200621756-0157"
-    },
     "200574765-0776": {
       "first_seen": 1775163183.861724,
       "posted": "",
@@ -20920,6 +20890,41 @@
       "title": "Security Site Reliability Engineer - Apple Service Engineering",
       "job_id": "200690706-3337",
       "url": "https://jobs.apple.com/en-us/details/200690706-3337/security-site-reliability-engineer-apple-service-engineering?team=SFTWR"
+    },
+    "200690976-3401": {
+      "first_seen": 1793019697.2827048,
+      "posted": "2026-10-26",
+      "title": "Senior Network Engineer, Infrastructure Services",
+      "job_id": "200690976-3401",
+      "url": "https://jobs.apple.com/en-us/details/200690976-3401/senior-network-engineer-infrastructure-services?team=SFTWR"
+    },
+    "200691415-0836": {
+      "first_seen": 1793019697.2827106,
+      "posted": "2026-10-26",
+      "title": "Sr. Computer Vision and Machine Learning Engineer, Creativity Apps",
+      "job_id": "200691415-0836",
+      "url": "https://jobs.apple.com/en-us/details/200691415-0836/sr-computer-vision-and-machine-learning-engineer-creativity-apps?team=SFTWR"
+    },
+    "200691415-3337": {
+      "first_seen": 1793019697.282713,
+      "posted": "2026-10-26",
+      "title": "Sr. Computer Vision and Machine Learning Engineer, Creativity Apps",
+      "job_id": "200691415-3337",
+      "url": "https://jobs.apple.com/en-us/details/200691415-3337/sr-computer-vision-and-machine-learning-engineer-creativity-apps?team=SFTWR"
+    },
+    "200691353-5635": {
+      "first_seen": 1793019697.2827146,
+      "posted": "2026-10-26",
+      "title": "Data Center Technician, Data Center Operations",
+      "job_id": "200691353-5635",
+      "url": "https://jobs.apple.com/en-us/details/200691353-5635/data-center-technician-data-center-operations?team=SFTWR"
+    },
+    "200690910-3749": {
+      "first_seen": 1793019697.282736,
+      "posted": "2026-10-26",
+      "title": "Senior Firmware Engineer",
+      "job_id": "200690910-3749",
+      "url": "https://jobs.apple.com/en-us/details/200690910-3749/senior-firmware-engineer?team=SFTWR"
     }
   }
 }
