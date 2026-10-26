@@ -4,42 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200600683-0836": {
-      "first_seen": 1775163183.8617249,
-      "posted": "",
-      "title": "Software Development Manager",
-      "job_id": "200600683-0836"
-    },
-    "200620427-0836": {
-      "first_seen": 1775163183.861726,
-      "posted": "",
-      "title": "Apple Games App Engineer",
-      "job_id": "200620427-0836"
-    },
-    "200620419-0836": {
-      "first_seen": 1775163183.861726,
-      "posted": "",
-      "title": "Senior Site Reliability Engineer (SRE), Data - Apple Ads",
-      "job_id": "200620419-0836"
-    },
-    "200620137-3956": {
-      "first_seen": 1775163183.861726,
-      "posted": "",
-      "title": "Sr Software Engineer, Apple Cloud Networking",
-      "job_id": "200620137-3956"
-    },
-    "200618963-0836": {
-      "first_seen": 1775163183.861726,
-      "posted": "",
-      "title": "Software Engineering Manager - Analytics Platform",
-      "job_id": "200618963-0836"
-    },
-    "200619728-0836": {
-      "first_seen": 1775163183.861726,
-      "posted": "",
-      "title": "iOS Software Engineer (MSO)",
-      "job_id": "200619728-0836"
-    },
     "200619272-3543": {
       "first_seen": 1775163183.861726,
       "posted": "",
@@ -20932,6 +20896,48 @@
       "title": "Manager, ASE Efficiency",
       "job_id": "200691352-0670",
       "url": "https://jobs.apple.com/en-us/details/200691352-0670/manager-ase-efficiency?team=SFTWR"
+    },
+    "200691360-0836": {
+      "first_seen": 1793051140.1560667,
+      "posted": "2026-10-26",
+      "title": "Senior Machine Learning Engineer - ML Platform",
+      "job_id": "200691360-0836",
+      "url": "https://jobs.apple.com/en-us/details/200691360-0836/senior-machine-learning-engineer-ml-platform?team=SFTWR"
+    },
+    "200691360-2459": {
+      "first_seen": 1793051140.1560733,
+      "posted": "2026-10-26",
+      "title": "Senior Machine Learning Engineer - ML Platform",
+      "job_id": "200691360-2459",
+      "url": "https://jobs.apple.com/en-us/details/200691360-2459/senior-machine-learning-engineer-ml-platform?team=SFTWR"
+    },
+    "200691639-0157": {
+      "first_seen": 1793051140.1560757,
+      "posted": "2026-10-26",
+      "title": "Applied AI Engineer, Apple Ads",
+      "job_id": "200691639-0157",
+      "url": "https://jobs.apple.com/en-us/details/200691639-0157/applied-ai-engineer-apple-ads?team=SFTWR"
+    },
+    "200691639-0836": {
+      "first_seen": 1793051140.1560779,
+      "posted": "2026-10-26",
+      "title": "Applied AI Engineer, Apple Ads",
+      "job_id": "200691639-0836",
+      "url": "https://jobs.apple.com/en-us/details/200691639-0836/applied-ai-engineer-apple-ads?team=SFTWR"
+    },
+    "200690698-3956": {
+      "first_seen": 1793051140.1560795,
+      "posted": "2026-10-26",
+      "title": "AI/ML Architect, Retail and Marcom Engineering",
+      "job_id": "200690698-3956",
+      "url": "https://jobs.apple.com/en-us/details/200690698-3956/ai-ml-architect-retail-and-marcom-engineering?team=SFTWR"
+    },
+    "200691675": {
+      "first_seen": 1793051140.1560812,
+      "posted": "2026-10-26",
+      "title": "Cellular Protocol Development Engineer",
+      "job_id": "200691675",
+      "url": "https://jobs.apple.com/en-us/details/200691675/cellular-protocol-development-engineer?team=SFTWR"
     }
   }
 }
