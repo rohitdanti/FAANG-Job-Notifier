@@ -4,18 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200574765-0776": {
-      "first_seen": 1775163183.861724,
-      "posted": "",
-      "title": "Senior Software Engineer - Business Technology Solutions",
-      "job_id": "200574765-0776"
-    },
-    "200621571-3543": {
-      "first_seen": 1775163183.861724,
-      "posted": "",
-      "title": "Software Engineer in Test, Device Management, Core OS",
-      "job_id": "200621571-3543"
-    },
     "200621001-3401": {
       "first_seen": 1775163183.8617249,
       "posted": "",
@@ -20925,6 +20913,20 @@
       "title": "Senior Firmware Engineer",
       "job_id": "200690910-3749",
       "url": "https://jobs.apple.com/en-us/details/200690910-3749/senior-firmware-engineer?team=SFTWR"
+    },
+    "200691428-3337": {
+      "first_seen": 1793029294.365012,
+      "posted": "2026-10-26",
+      "title": "Senior Security Engineer",
+      "job_id": "200691428-3337",
+      "url": "https://jobs.apple.com/en-us/details/200691428-3337/senior-security-engineer?team=SFTWR"
+    },
+    "200691076-0836": {
+      "first_seen": 1793029294.3650177,
+      "posted": "2026-10-26",
+      "title": "Sr Software Engineer",
+      "job_id": "200691076-0836",
+      "url": "https://jobs.apple.com/en-us/details/200691076-0836/sr-software-engineer?team=SFTWR"
     }
   }
 }
