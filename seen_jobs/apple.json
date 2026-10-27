@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200617955-0836": {
-      "first_seen": 1775163183.861728,
-      "posted": "",
-      "title": "Quality Engineering Program Manager, Apple Services Engineering",
-      "job_id": "200617955-0836"
-    },
     "200617955-3337": {
       "first_seen": 1775163183.861728,
       "posted": "",
@@ -20946,6 +20940,13 @@
       "title": "Senior Software Engineer (Ads Platform) - Experimentation",
       "job_id": "200691618-0836",
       "url": "https://jobs.apple.com/en-us/details/200691618-0836/senior-software-engineer-ads-platform-experimentation?team=SFTWR"
+    },
+    "200691420-0836": {
+      "first_seen": 1793116311.6236565,
+      "posted": "2026-10-27",
+      "title": "Sr Engineering Program Manager, Apple Intelligence Evaluations",
+      "job_id": "200691420-0836",
+      "url": "https://jobs.apple.com/en-us/details/200691420-0836/sr-engineering-program-manager-apple-intelligence-evaluations?team=SFTWR"
     }
   }
 }
