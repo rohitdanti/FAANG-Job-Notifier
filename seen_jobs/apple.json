@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200616181-3337": {
-      "first_seen": 1775163183.86173,
-      "posted": "",
-      "title": "Security Site Reliability Engineer - Apple Service Engineering",
-      "job_id": "200616181-3337"
-    },
     "200615257-0240": {
       "first_seen": 1775163183.86173,
       "posted": "",
@@ -20960,6 +20954,13 @@
       "title": "Senior Software Engineer, Applied ML - Watch Software",
       "job_id": "200691400-3337",
       "url": "https://jobs.apple.com/en-us/details/200691400-3337/senior-software-engineer-applied-ml-watch-software?team=SFTWR"
+    },
+    "200692096-3956": {
+      "first_seen": 1793139107.81314,
+      "posted": "2026-10-27",
+      "title": "iOS Application Developer - Health Software",
+      "job_id": "200692096-3956",
+      "url": "https://jobs.apple.com/en-us/details/200692096-3956/ios-application-developer-health-software?team=SFTWR"
     }
   }
 }
