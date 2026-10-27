@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200616918-3543": {
-      "first_seen": 1775163183.861727,
-      "posted": "",
-      "title": "Senior Software QA Engineer",
-      "job_id": "200616918-3543"
-    },
     "200616918-3956": {
       "first_seen": 1775163183.861727,
       "posted": "",
@@ -20942,6 +20936,13 @@
       "title": "GPU Drivers & Metal Test Engineer - Media, Graphics, Games, Compute, & Machine Learning Technologies",
       "job_id": "200691445-0836",
       "url": "https://jobs.apple.com/en-us/details/200691445-0836/gpu-drivers-metal-test-engineer-media-graphics-games-compute-machine-learning-technologies?team=SFTWR"
+    },
+    "200625186-0836": {
+      "first_seen": 1793061707.7772295,
+      "posted": "2026-10-27",
+      "title": "Senior Software Engineer",
+      "job_id": "200625186-0836",
+      "url": "https://jobs.apple.com/en-us/details/200625186-0836/senior-software-engineer?team=SFTWR"
     }
   }
 }
