@@ -4,18 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200616912-2459": {
-      "first_seen": 1775163183.861729,
-      "posted": "",
-      "title": "Product Manager, Apple Ads Experimentation",
-      "job_id": "200616912-2459"
-    },
-    "200616978-0836": {
-      "first_seen": 1775163183.861729,
-      "posted": "",
-      "title": "Manager, Software Engineering, Tools",
-      "job_id": "200616978-0836"
-    },
     "200616782-3337": {
       "first_seen": 1775163183.861729,
       "posted": "",
@@ -20953,6 +20941,20 @@
       "title": "Engineering Program Manager, Siri Evaluation",
       "job_id": "200690988-0836",
       "url": "https://jobs.apple.com/en-us/details/200690988-0836/engineering-program-manager-siri-evaluation?team=SFTWR"
+    },
+    "200691999-3956": {
+      "first_seen": 1793125315.2767048,
+      "posted": "2026-10-27",
+      "title": "Engineering Program Manager, AppleCare",
+      "job_id": "200691999-3956",
+      "url": "https://jobs.apple.com/en-us/details/200691999-3956/engineering-program-manager-applecare?team=SFTWR"
+    },
+    "200691337-0157": {
+      "first_seen": 1793125315.27671,
+      "posted": "2026-10-27",
+      "title": "Sr. Software Engineer - Business Process Reengineering (BPR) and Sales Engineering",
+      "job_id": "200691337-0157",
+      "url": "https://jobs.apple.com/en-us/details/200691337-0157/sr-software-engineer-business-process-reengineering-bpr-and-sales-engineering?team=SFTWR"
     }
   }
 }
