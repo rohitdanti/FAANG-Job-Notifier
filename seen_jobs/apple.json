@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200616817-0157": {
-      "first_seen": 1775163183.861728,
-      "posted": "",
-      "title": "Senior Software Engineering Manager, Enterprise Technology Services",
-      "job_id": "200616817-0157"
-    },
     "200617955-0836": {
       "first_seen": 1775163183.861728,
       "posted": "",
@@ -20945,6 +20939,13 @@
       "title": "Sr. Software Engineer, Information Systems & Technology",
       "job_id": "200620195-3956",
       "url": "https://jobs.apple.com/en-us/details/200620195-3956/sr-software-engineer-information-systems-technology?team=SFTWR"
+    },
+    "200691618-0836": {
+      "first_seen": 1793112095.932186,
+      "posted": "2026-10-27",
+      "title": "Senior Software Engineer (Ads Platform) - Experimentation",
+      "job_id": "200691618-0836",
+      "url": "https://jobs.apple.com/en-us/details/200691618-0836/senior-software-engineer-ads-platform-experimentation?team=SFTWR"
     }
   }
 }
