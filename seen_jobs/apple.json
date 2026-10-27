@@ -4,18 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200616918-3956": {
-      "first_seen": 1775163183.861727,
-      "posted": "",
-      "title": "Senior Software QA Engineer",
-      "job_id": "200616918-3956"
-    },
-    "200614882-0240": {
-      "first_seen": 1775163183.861728,
-      "posted": "",
-      "title": "Engineering Project Manager (SAP LE/MM), IS&T Enterprise Systems",
-      "job_id": "200614882-0240"
-    },
     "200616817-0157": {
       "first_seen": 1775163183.861728,
       "posted": "",
@@ -20943,6 +20931,20 @@
       "title": "Senior Software Engineer",
       "job_id": "200625186-0836",
       "url": "https://jobs.apple.com/en-us/details/200625186-0836/senior-software-engineer?team=SFTWR"
+    },
+    "200620195-0836": {
+      "first_seen": 1793106106.648465,
+      "posted": "2026-10-27",
+      "title": "Sr. Software Engineer, Information Systems & Technology",
+      "job_id": "200620195-0836",
+      "url": "https://jobs.apple.com/en-us/details/200620195-0836/sr-software-engineer-information-systems-technology?team=SFTWR"
+    },
+    "200620195-3956": {
+      "first_seen": 1793106106.6484692,
+      "posted": "2026-10-27",
+      "title": "Sr. Software Engineer, Information Systems & Technology",
+      "job_id": "200620195-3956",
+      "url": "https://jobs.apple.com/en-us/details/200620195-3956/sr-software-engineer-information-systems-technology?team=SFTWR"
     }
   }
 }
