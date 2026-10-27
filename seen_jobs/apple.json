@@ -4,18 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200617532-0836": {
-      "first_seen": 1775163183.861729,
-      "posted": "",
-      "title": "Senior Machine Learning Systems Engineer",
-      "job_id": "200617532-0836"
-    },
-    "200616912-0836": {
-      "first_seen": 1775163183.861729,
-      "posted": "",
-      "title": "Product Manager, Apple Ads Experimentation",
-      "job_id": "200616912-0836"
-    },
     "200616912-2459": {
       "first_seen": 1775163183.861729,
       "posted": "",
@@ -20951,6 +20939,20 @@
       "title": "Sr Site Reliability Engineer, Retail and Marcom Engineering",
       "job_id": "200691108-0157",
       "url": "https://jobs.apple.com/en-us/details/200691108-0157/sr-site-reliability-engineer-retail-and-marcom-engineering?team=SFTWR"
+    },
+    "200687965-0157": {
+      "first_seen": 1793123496.0516539,
+      "posted": "2026-10-27",
+      "title": "Software Development Engineer in Test - Retail & Marcom",
+      "job_id": "200687965-0157",
+      "url": "https://jobs.apple.com/en-us/details/200687965-0157/software-development-engineer-in-test-retail-marcom?team=SFTWR"
+    },
+    "200690988-0836": {
+      "first_seen": 1793123496.0516589,
+      "posted": "2026-10-27",
+      "title": "Engineering Program Manager, Siri Evaluation",
+      "job_id": "200690988-0836",
+      "url": "https://jobs.apple.com/en-us/details/200690988-0836/engineering-program-manager-siri-evaluation?team=SFTWR"
     }
   }
 }
