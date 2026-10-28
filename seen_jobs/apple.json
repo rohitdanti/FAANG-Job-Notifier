@@ -4,18 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200615065-0157": {
-      "first_seen": 1775163183.861731,
-      "posted": "",
-      "title": "Software Engineer (Full Stack), Supply Chain Integration",
-      "job_id": "200615065-0157"
-    },
-    "200613725-0836": {
-      "first_seen": 1775163183.861731,
-      "posted": "",
-      "title": "iOS Engineer - Apple TV",
-      "job_id": "200613725-0836"
-    },
     "200605279-0836": {
       "first_seen": 1775163183.861731,
       "posted": "",
@@ -20964,6 +20952,20 @@
       "title": "iOS Software Engineer",
       "job_id": "200692106-0836",
       "url": "https://jobs.apple.com/en-us/details/200692106-0836/ios-software-engineer?team=SFTWR"
+    },
+    "200689536-0836": {
+      "first_seen": 1793204496.517769,
+      "posted": "2026-10-28",
+      "title": "Senior Engineering Program Manager, Lead , Service Special Projects",
+      "job_id": "200689536-0836",
+      "url": "https://jobs.apple.com/en-us/details/200689536-0836/senior-engineering-program-manager-lead-service-special-projects?team=SFTWR"
+    },
+    "200692214-0836": {
+      "first_seen": 1793204496.517777,
+      "posted": "2026-10-28",
+      "title": "Senior Manager, Business Operations & Planning \u2014 AI Organization",
+      "job_id": "200692214-0836",
+      "url": "https://jobs.apple.com/en-us/details/200692214-0836/senior-manager-business-operations-planning-ai-organization?team=SFTWR"
     }
   }
 }
