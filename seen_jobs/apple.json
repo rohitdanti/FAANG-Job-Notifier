@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200609471-0836": {
-      "first_seen": 1775163183.8617332,
-      "posted": "",
-      "title": "Director of Software Engineering - Security",
-      "job_id": "200609471-0836"
-    },
     "200565756-0836": {
       "first_seen": 1775163183.8617332,
       "posted": "",
@@ -20975,6 +20969,13 @@
       "title": "Sr. Site Reliability Engineer, Enterprise Technology Services",
       "job_id": "200692271-0157",
       "url": "https://jobs.apple.com/en-us/details/200692271-0157/sr-site-reliability-engineer-enterprise-technology-services?team=SFTWR"
+    },
+    "200691173-0836": {
+      "first_seen": 1793223093.1086428,
+      "posted": "2026-10-28",
+      "title": "Machine Learning Engineer, Computer Vision",
+      "job_id": "200691173-0836",
+      "url": "https://jobs.apple.com/en-us/details/200691173-0836/machine-learning-engineer-computer-vision?team=SFTWR"
     }
   }
 }
