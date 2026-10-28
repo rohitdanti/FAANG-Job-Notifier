@@ -4,18 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200609241-3337": {
-      "first_seen": 1775163183.861734,
-      "posted": "",
-      "title": "ASE Observability SRE",
-      "job_id": "200609241-3337"
-    },
-    "200609109-0836": {
-      "first_seen": 1775163183.861734,
-      "posted": "",
-      "title": "Core Audio Software Engineer, Audio & Media Technologies",
-      "job_id": "200609109-0836"
-    },
     "200607759-0836": {
       "first_seen": 1775163183.861734,
       "posted": "",
@@ -20978,6 +20966,20 @@
       "title": "Engineering Program Manager, Services Data Science & Analytics",
       "job_id": "200692334-0836",
       "url": "https://jobs.apple.com/en-us/details/200692334-0836/engineering-program-manager-services-data-science-analytics?team=SFTWR"
+    },
+    "200692290-0836": {
+      "first_seen": 1793225508.3793893,
+      "posted": "2026-10-28",
+      "title": "Software Development Engineer in Test (SDET), Creative Apps",
+      "job_id": "200692290-0836",
+      "url": "https://jobs.apple.com/en-us/details/200692290-0836/software-development-engineer-in-test-sdet-creative-apps?team=SFTWR"
+    },
+    "200692290-3543": {
+      "first_seen": 1793225508.3793945,
+      "posted": "2026-10-28",
+      "title": "Software Development Engineer in Test (SDET), Creative Apps",
+      "job_id": "200692290-3543",
+      "url": "https://jobs.apple.com/en-us/details/200692290-3543/software-development-engineer-in-test-sdet-creative-apps?team=SFTWR"
     }
   }
 }
