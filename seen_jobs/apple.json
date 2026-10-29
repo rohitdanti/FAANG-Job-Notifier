@@ -4,18 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200581811-0836": {
-      "first_seen": 1775163183.8617358,
-      "posted": "",
-      "title": "Wireless Bluetooth QA Engineer",
-      "job_id": "200581811-0836"
-    },
-    "200576911-3543": {
-      "first_seen": 1775163183.8617358,
-      "posted": "",
-      "title": "Wireless Software Developer",
-      "job_id": "200576911-3543"
-    },
     "200577136-0836": {
       "first_seen": 1775163183.861737,
       "posted": "",
@@ -20992,6 +20980,20 @@
       "title": "Software Engineer (Framework Solutions), AI & Data Platforms (AiDP)",
       "job_id": "200660661-0157",
       "url": "https://jobs.apple.com/en-us/details/200660661-0157/software-engineer-framework-solutions-ai-data-platforms-aidp?team=SFTWR"
+    },
+    "200690998-0157": {
+      "first_seen": 1793297489.131036,
+      "posted": "2026-10-29",
+      "title": "DevOps Engineer - Retail Engineering Apps & Services",
+      "job_id": "200690998-0157",
+      "url": "https://jobs.apple.com/en-us/details/200690998-0157/devops-engineer-retail-engineering-apps-services?team=SFTWR"
+    },
+    "200688584-3543": {
+      "first_seen": 1793297489.1310406,
+      "posted": "2026-10-29",
+      "title": "Wi-Fi / Bluetooth Software System Performance Engineer, Wireless Technologies & Ecosystems",
+      "job_id": "200688584-3543",
+      "url": "https://jobs.apple.com/en-us/details/200688584-3543/wi-fi-bluetooth-software-system-performance-engineer-wireless-technologies-ecosystems?team=SFTWR"
     }
   }
 }
