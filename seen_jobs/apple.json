@@ -4,13 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200654539-3956": {
-      "first_seen": 1775174604.427437,
-      "posted": "2026-04-03",
-      "title": "Software Engineering Program Manager (EPM) - Apple Vision Pro",
-      "job_id": "200654539-3956",
-      "url": "https://jobs.apple.com/en-us/details/200654539-3956/software-engineering-program-manager-epm-apple-vision-pro?team=SFTWR"
-    },
     "200649158-0670": {
       "first_seen": 1775181087.300446,
       "posted": "2026-04-03",
@@ -21003,6 +20996,13 @@
       "title": "Machine Learning Engineer, Sales Engineering",
       "job_id": "200691752-0157",
       "url": "https://jobs.apple.com/en-us/details/200691752-0157/machine-learning-engineer-sales-engineering?team=SFTWR"
+    },
+    "200692119-0836": {
+      "first_seen": 1793317866.7141702,
+      "posted": "2026-10-29",
+      "title": "Software Developer in Test - Core I/O",
+      "job_id": "200692119-0836",
+      "url": "https://jobs.apple.com/en-us/details/200692119-0836/software-developer-in-test-core-i-o?team=SFTWR"
     }
   }
 }
