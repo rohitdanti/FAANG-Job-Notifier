@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200598123-0836": {
-      "first_seen": 1775163183.8617349,
-      "posted": "",
-      "title": "Developer Publications Engineering Project Manager",
-      "job_id": "200598123-0836"
-    },
     "200585469-0836": {
       "first_seen": 1775163183.8617358,
       "posted": "",
@@ -20986,6 +20980,13 @@
       "title": "Software Development Engineer-Health",
       "job_id": "200692377-3956",
       "url": "https://jobs.apple.com/en-us/details/200692377-3956/software-development-engineer-health?team=SFTWR"
+    },
+    "200691851-3337": {
+      "first_seen": 1793278916.1743386,
+      "posted": "2026-10-29",
+      "title": "Human Factors Research Engineer, AIML Data Operations",
+      "job_id": "200691851-3337",
+      "url": "https://jobs.apple.com/en-us/details/200691851-3337/human-factors-research-engineer-aiml-data-operations?team=SFTWR"
     }
   }
 }
