@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200442381-3337": {
-      "first_seen": 1775163183.861738,
-      "posted": "",
-      "title": "Senior Software Engineer in Test, Distributed Systems - ACS",
-      "job_id": "200442381-3337"
-    },
     "200440680-3337": {
       "first_seen": 1775163183.861738,
       "posted": "",
@@ -20999,6 +20993,13 @@
       "title": "SRE Manager, Apple Services Engineering",
       "job_id": "200692368-3337",
       "url": "https://jobs.apple.com/en-us/details/200692368-3337/sre-manager-apple-services-engineering?team=SFTWR"
+    },
+    "200692524-0157": {
+      "first_seen": 1793310693.9012194,
+      "posted": "2026-10-29",
+      "title": "Sr Security Operations (SecOps) Engineer",
+      "job_id": "200692524-0157",
+      "url": "https://jobs.apple.com/en-us/details/200692524-0157/sr-security-operations-secops-engineer?team=SFTWR"
     }
   }
 }
