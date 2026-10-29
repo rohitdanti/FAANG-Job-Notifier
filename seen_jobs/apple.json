@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200654823-3956": {
-      "first_seen": 1775167079.8328195,
-      "posted": "",
-      "title": "Site Reliability Engineer, Enterprise Technology Services",
-      "job_id": "200654823-3956"
-    },
     "200654539-3956": {
       "first_seen": 1775174604.427437,
       "posted": "2026-04-03",
@@ -21002,6 +20996,13 @@
       "title": "Senior Database Systems Engineer",
       "job_id": "200692556-0836",
       "url": "https://jobs.apple.com/en-us/details/200692556-0836/senior-database-systems-engineer?team=SFTWR"
+    },
+    "200691752-0157": {
+      "first_seen": 1793316695.910006,
+      "posted": "2026-10-29",
+      "title": "Machine Learning Engineer, Sales Engineering",
+      "job_id": "200691752-0157",
+      "url": "https://jobs.apple.com/en-us/details/200691752-0157/machine-learning-engineer-sales-engineering?team=SFTWR"
     }
   }
 }
