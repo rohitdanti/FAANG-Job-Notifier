@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200592695-3760": {
-      "first_seen": 1775163183.8617358,
-      "posted": "",
-      "title": "Special Projects - Research Scientist/Engineer (Robotics)",
-      "job_id": "200592695-3760"
-    },
     "200592135-0836": {
       "first_seen": 1775163183.8617358,
       "posted": "",
@@ -20988,6 +20982,13 @@
       "title": "Performance & Capacity Engineer, Infrastructure Services",
       "job_id": "200692278-3401",
       "url": "https://jobs.apple.com/en-us/details/200692278-3401/performance-capacity-engineer-infrastructure-services?team=SFTWR"
+    },
+    "200692473-3401": {
+      "first_seen": 1793292689.0710576,
+      "posted": "2026-10-29",
+      "title": "AI Software Engineer, App Intelligence",
+      "job_id": "200692473-3401",
+      "url": "https://jobs.apple.com/en-us/details/200692473-3401/ai-software-engineer-app-intelligence?team=SFTWR"
     }
   }
 }
