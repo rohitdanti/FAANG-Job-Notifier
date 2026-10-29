@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200585469-0836": {
-      "first_seen": 1775163183.8617358,
-      "posted": "",
-      "title": "Engineering Program Manager - Test Technologies",
-      "job_id": "200585469-0836"
-    },
     "200592695-3760": {
       "first_seen": 1775163183.8617358,
       "posted": "",
@@ -20987,6 +20981,13 @@
       "title": "Human Factors Research Engineer, AIML Data Operations",
       "job_id": "200691851-3337",
       "url": "https://jobs.apple.com/en-us/details/200691851-3337/human-factors-research-engineer-aiml-data-operations?team=SFTWR"
+    },
+    "200692278-3401": {
+      "first_seen": 1793290892.4274871,
+      "posted": "2026-10-29",
+      "title": "Performance & Capacity Engineer, Infrastructure Services",
+      "job_id": "200692278-3401",
+      "url": "https://jobs.apple.com/en-us/details/200692278-3401/performance-capacity-engineer-infrastructure-services?team=SFTWR"
     }
   }
 }
