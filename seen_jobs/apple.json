@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200440680-3337": {
-      "first_seen": 1775163183.861738,
-      "posted": "",
-      "title": "Senior Linux System Engineer - ACS",
-      "job_id": "200440680-3337"
-    },
     "200353151-0836": {
       "first_seen": 1775163183.861738,
       "posted": "",
@@ -21000,6 +20994,13 @@
       "title": "Sr Security Operations (SecOps) Engineer",
       "job_id": "200692524-0157",
       "url": "https://jobs.apple.com/en-us/details/200692524-0157/sr-security-operations-secops-engineer?team=SFTWR"
+    },
+    "200692126-0836": {
+      "first_seen": 1793312485.1216588,
+      "posted": "2026-10-29",
+      "title": "Software Engineering Manager - Keyboard UI, Input Experience",
+      "job_id": "200692126-0836",
+      "url": "https://jobs.apple.com/en-us/details/200692126-0836/software-engineering-manager-keyboard-ui-input-experience?team=SFTWR"
     }
   }
 }
