@@ -4,12 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200353151-0836": {
-      "first_seen": 1775163183.861738,
-      "posted": "",
-      "title": "Speech Scientist / Engineer (Interspeech 2022)",
-      "job_id": "200353151-0836"
-    },
     "200654823-3956": {
       "first_seen": 1775167079.8328195,
       "posted": "",
@@ -21001,6 +20995,13 @@
       "title": "Software Engineering Manager - Keyboard UI, Input Experience",
       "job_id": "200692126-0836",
       "url": "https://jobs.apple.com/en-us/details/200692126-0836/software-engineering-manager-keyboard-ui-input-experience?team=SFTWR"
+    },
+    "200692556-0836": {
+      "first_seen": 1793316098.0894775,
+      "posted": "2026-10-29",
+      "title": "Senior Database Systems Engineer",
+      "job_id": "200692556-0836",
+      "url": "https://jobs.apple.com/en-us/details/200692556-0836/senior-database-systems-engineer?team=SFTWR"
     }
   }
 }
