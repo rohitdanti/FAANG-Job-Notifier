@@ -4,13 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200655674-0836": {
-      "first_seen": 1775181697.2443297,
-      "posted": "2026-04-03",
-      "title": "Machine Learning Engineer (MLOps), Evaluation",
-      "job_id": "200655674-0836",
-      "url": "https://jobs.apple.com/en-us/details/200655674-0836/machine-learning-engineer-mlops-evaluation?team=SFTWR"
-    },
     "200655003-0670": {
       "first_seen": 1775221296.058381,
       "posted": "2026-04-03",
@@ -21003,6 +20996,13 @@
       "title": "Senior AI/ML Engineer, Media Understanding",
       "job_id": "200669693-0836",
       "url": "https://jobs.apple.com/en-us/details/200669693-0836/senior-ai-ml-engineer-media-understanding?team=SFTWR"
+    },
+    "200692518-0157": {
+      "first_seen": 1793376687.655235,
+      "posted": "2026-10-30",
+      "title": "Apple Data Platform SRE - Engineering Manager",
+      "job_id": "200692518-0157",
+      "url": "https://jobs.apple.com/en-us/details/200692518-0157/apple-data-platform-sre-engineering-manager?team=SFTWR"
     }
   }
 }
