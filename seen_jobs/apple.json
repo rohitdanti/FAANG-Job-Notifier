@@ -4,13 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200640109-3956": {
-      "first_seen": 1775238685.2253735,
-      "posted": "2026-04-03",
-      "title": "Quality Engineer - Heath Software",
-      "job_id": "200640109-3956",
-      "url": "https://jobs.apple.com/en-us/details/200640109-3956/quality-engineer-heath-software?team=SFTWR"
-    },
     "200655755-0836": {
       "first_seen": 1775241090.0637403,
       "posted": "2026-04-03",
@@ -21003,6 +20996,13 @@
       "title": "Sr. Software Engineer for Location and Spatial Awareness - Daemon / Framework engineer, Sensing & Connectivity",
       "job_id": "200692583-0836",
       "url": "https://jobs.apple.com/en-us/details/200692583-0836/sr-software-engineer-for-location-and-spatial-awareness-daemon-framework-engineer-sensing-connectivity?team=SFTWR"
+    },
+    "200692644-3337": {
+      "first_seen": 1793401887.3288767,
+      "posted": "2026-10-30",
+      "title": "Machine Learning Research Engineer",
+      "job_id": "200692644-3337",
+      "url": "https://jobs.apple.com/en-us/details/200692644-3337/machine-learning-research-engineer?team=SFTWR"
     }
   }
 }
