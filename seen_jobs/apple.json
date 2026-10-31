@@ -4,13 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200655755-0836": {
-      "first_seen": 1775241090.0637403,
-      "posted": "2026-04-03",
-      "title": "Tools & Automation Engineer, Wireless Technologies & Ecosystems",
-      "job_id": "200655755-0836",
-      "url": "https://jobs.apple.com/en-us/details/200655755-0836/tools-automation-engineer-wireless-technologies-ecosystems?team=SFTWR"
-    },
     "200654442-0836": {
       "first_seen": 1775248289.5792933,
       "posted": "2026-04-03",
@@ -21003,6 +20996,13 @@
       "title": "Machine Learning Research Engineer",
       "job_id": "200692644-3337",
       "url": "https://jobs.apple.com/en-us/details/200692644-3337/machine-learning-research-engineer?team=SFTWR"
+    },
+    "200662761-3543": {
+      "first_seen": 1793404896.2338622,
+      "posted": "2026-10-31",
+      "title": "iOS Engineer - Wallet",
+      "job_id": "200662761-3543",
+      "url": "https://jobs.apple.com/en-us/details/200662761-3543/ios-engineer-wallet?team=SFTWR"
     }
   }
 }
