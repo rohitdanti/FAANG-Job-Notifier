@@ -4,27 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200655539-0836": {
-      "first_seen": 1775250092.6204157,
-      "posted": "2026-04-03",
-      "title": "SwiftUI Previews Engineer",
-      "job_id": "200655539-0836",
-      "url": "https://jobs.apple.com/en-us/details/200655539-0836/swiftui-previews-engineer?team=SFTWR"
-    },
-    "200655381-3543": {
-      "first_seen": 1775250693.999228,
-      "posted": "2026-04-03",
-      "title": "Software Engineer - Intelligent Engineering Workflows",
-      "job_id": "200655381-3543",
-      "url": "https://jobs.apple.com/en-us/details/200655381-3543/software-engineer-intelligent-engineering-workflows?team=SFTWR"
-    },
-    "200634772-0836": {
-      "first_seen": 1775251893.1348715,
-      "posted": "2026-04-03",
-      "title": "Senior Manager, Product \u2013 Commerce & Messaging Frameworks",
-      "job_id": "200634772-0836",
-      "url": "https://jobs.apple.com/en-us/details/200634772-0836/senior-manager-product-commerce-messaging-frameworks?team=SFTWR"
-    },
     "200655812-3956": {
       "first_seen": 1775252492.6209605,
       "posted": "2026-04-03",
@@ -21003,6 +20982,27 @@
       "title": "Software Engineer, watchOS Apps & Experiences",
       "job_id": "200692103-0836",
       "url": "https://jobs.apple.com/en-us/details/200692103-0836/software-engineer-watchos-apps-experiences?team=SFTWR"
+    },
+    "200692731-3543": {
+      "first_seen": 1793639502.4420958,
+      "posted": "2026-11-02",
+      "title": "Senior Software Development Engineer - Device Telemetry Accuracy",
+      "job_id": "200692731-3543",
+      "url": "https://jobs.apple.com/en-us/details/200692731-3543/senior-software-development-engineer-device-telemetry-accuracy?team=SFTWR"
+    },
+    "200692741-3543": {
+      "first_seen": 1793639502.442101,
+      "posted": "2026-11-02",
+      "title": "Senior Software Engineer - Distributed Systems",
+      "job_id": "200692741-3543",
+      "url": "https://jobs.apple.com/en-us/details/200692741-3543/senior-software-engineer-distributed-systems?team=SFTWR"
+    },
+    "200692362-0836": {
+      "first_seen": 1793639502.4421034,
+      "posted": "2026-11-02",
+      "title": "Business & Financial Operations Analyst - AIML",
+      "job_id": "200692362-0836",
+      "url": "https://jobs.apple.com/en-us/details/200692362-0836/business-financial-operations-analyst-aiml?team=SFTWR"
     }
   }
 }
