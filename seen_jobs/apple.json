@@ -4,13 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200607632-0670": {
-      "first_seen": 1775253686.063765,
-      "posted": "2026-04-03",
-      "title": "Senior Marketing Data Scientist, Media Subscriptions",
-      "job_id": "200607632-0670",
-      "url": "https://jobs.apple.com/en-us/details/200607632-0670/senior-marketing-data-scientist-media-subscriptions?team=SFTWR"
-    },
     "200655609-3401": {
       "first_seen": 1775254884.2588313,
       "posted": "2026-04-03",
@@ -21003,6 +20996,13 @@
       "title": "Cellular Power Optimization Software Engineer, Wireless Technologies & Ecosystems",
       "job_id": "200692907-3543",
       "url": "https://jobs.apple.com/en-us/details/200692907-3543/cellular-power-optimization-software-engineer-wireless-technologies-ecosystems?team=SFTWR"
+    },
+    "200692906-0836": {
+      "first_seen": 1793651491.6864197,
+      "posted": "2026-11-02",
+      "title": "Software Engineer - iOS Engineer - SpringBoard Multitasking - System Experience",
+      "job_id": "200692906-0836",
+      "url": "https://jobs.apple.com/en-us/details/200692906-0836/software-engineer-ios-engineer-springboard-multitasking-system-experience?team=SFTWR"
     }
   }
 }
