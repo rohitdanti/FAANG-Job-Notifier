@@ -4,20 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200655830-0157": {
-      "first_seen": 1775254884.2588356,
-      "posted": "2026-04-03",
-      "title": "Embedded Software Engineer",
-      "job_id": "200655830-0157",
-      "url": "https://jobs.apple.com/en-us/details/200655830-0157/embedded-software-engineer?team=SFTWR"
-    },
-    "200655784-0836": {
-      "first_seen": 1775257884.6874661,
-      "posted": "2026-04-03",
-      "title": "Character Animator- Generative AI Experiences Software",
-      "job_id": "200655784-0836",
-      "url": "https://jobs.apple.com/en-us/details/200655784-0836/character-animator-generative-ai-experiences-software?team=SFTWR"
-    },
     "200655686-3749": {
       "first_seen": 1775259084.8879714,
       "posted": "2026-04-03",
@@ -21003,6 +20989,20 @@
       "title": "Senior iOS App Development Engineer - Services Special Project",
       "job_id": "200692954-0836",
       "url": "https://jobs.apple.com/en-us/details/200692954-0836/senior-ios-app-development-engineer-services-special-project?team=SFTWR"
+    },
+    "200692964-0836": {
+      "first_seen": 1793653896.18735,
+      "posted": "2026-11-02",
+      "title": "Network Business Development & Partnership Manager - Wallet, Payments, and Commerce",
+      "job_id": "200692964-0836",
+      "url": "https://jobs.apple.com/en-us/details/200692964-0836/network-business-development-partnership-manager-wallet-payments-and-commerce?team=SFTWR"
+    },
+    "200692964-2459": {
+      "first_seen": 1793653896.187356,
+      "posted": "2026-11-02",
+      "title": "Network Business Development & Partnership Manager - Wallet, Payments, and Commerce",
+      "job_id": "200692964-2459",
+      "url": "https://jobs.apple.com/en-us/details/200692964-2459/network-business-development-partnership-manager-wallet-payments-and-commerce?team=SFTWR"
     }
   }
 }
