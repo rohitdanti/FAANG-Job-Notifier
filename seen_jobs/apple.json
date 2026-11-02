@@ -4,13 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200655825-0157": {
-      "first_seen": 1775248289.5793004,
-      "posted": "2026-04-03",
-      "title": "Sr. Software Engineer - Front End - iCloud",
-      "job_id": "200655825-0157",
-      "url": "https://jobs.apple.com/en-us/details/200655825-0157/sr-software-engineer-front-end-icloud?team=SFTWR"
-    },
     "200655539-0836": {
       "first_seen": 1775250092.6204157,
       "posted": "2026-04-03",
@@ -21003,6 +20996,13 @@
       "title": "Security Domain Expert, Perimeter and Network Security, Enterprise Technology Services",
       "job_id": "200692766-3956",
       "url": "https://jobs.apple.com/en-us/details/200692766-3956/security-domain-expert-perimeter-and-network-security-enterprise-technology-services?team=SFTWR"
+    },
+    "200692103-0836": {
+      "first_seen": 1793637691.5642393,
+      "posted": "2026-11-02",
+      "title": "Software Engineer, watchOS Apps & Experiences",
+      "job_id": "200692103-0836",
+      "url": "https://jobs.apple.com/en-us/details/200692103-0836/software-engineer-watchos-apps-experiences?team=SFTWR"
     }
   }
 }
