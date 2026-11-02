@@ -4,13 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200655753-3956": {
-      "first_seen": 1775266289.1471748,
-      "posted": "2026-04-04",
-      "title": "Software Engineer (Python) - Supply Chain Integration",
-      "job_id": "200655753-3956",
-      "url": "https://jobs.apple.com/en-us/details/200655753-3956/software-engineer-python-supply-chain-integration?team=SFTWR"
-    },
     "200655840-3956": {
       "first_seen": 1775266289.1471803,
       "posted": "2026-04-04",
@@ -21003,6 +20996,13 @@
       "title": "Regulatory Program Manager, Health",
       "job_id": "200693008-0836",
       "url": "https://jobs.apple.com/en-us/details/200693008-0836/regulatory-program-manager-health?team=SFTWR"
+    },
+    "200692562-0836": {
+      "first_seen": 1793659891.4082365,
+      "posted": "2026-11-02",
+      "title": "Security Software Engineering Manager, SEAR",
+      "job_id": "200692562-0836",
+      "url": "https://jobs.apple.com/en-us/details/200692562-0836/security-software-engineering-manager-sear?team=SFTWR"
     }
   }
 }
