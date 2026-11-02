@@ -4,13 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200655686-3749": {
-      "first_seen": 1775259084.8879714,
-      "posted": "2026-04-03",
-      "title": "Hardware System Power Engineer - Apple Vision Pro",
-      "job_id": "200655686-3749",
-      "url": "https://jobs.apple.com/en-us/details/200655686-3749/hardware-system-power-engineer-apple-vision-pro?team=SFTWR"
-    },
     "200655757-0836": {
       "first_seen": 1775259084.887976,
       "posted": "2026-04-03",
@@ -21003,6 +20996,13 @@
       "title": "Network Business Development & Partnership Manager - Wallet, Payments, and Commerce",
       "job_id": "200692964-2459",
       "url": "https://jobs.apple.com/en-us/details/200692964-2459/network-business-development-partnership-manager-wallet-payments-and-commerce?team=SFTWR"
+    },
+    "200692522-0836": {
+      "first_seen": 1793656295.0189884,
+      "posted": "2026-11-02",
+      "title": "Senior Software Engineer \u2014 Service Observability & Detection",
+      "job_id": "200692522-0836",
+      "url": "https://jobs.apple.com/en-us/details/200692522-0836/senior-software-engineer-service-observability-detection?team=SFTWR"
     }
   }
 }
