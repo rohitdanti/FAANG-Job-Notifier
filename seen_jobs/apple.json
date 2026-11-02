@@ -4,20 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200655892-3337": {
-      "first_seen": 1775263285.4043775,
-      "posted": "2026-04-04",
-      "title": "Machine Learning Engineer \u2014 On-device Control and Optimization, Core OS",
-      "job_id": "200655892-3337",
-      "url": "https://jobs.apple.com/en-us/details/200655892-3337/machine-learning-engineer-on-device-control-and-optimization-core-os?team=SFTWR"
-    },
-    "200655866-3543": {
-      "first_seen": 1775264492.8283963,
-      "posted": "2026-04-04",
-      "title": "SW User Experience Automation QE",
-      "job_id": "200655866-3543",
-      "url": "https://jobs.apple.com/en-us/details/200655866-3543/sw-user-experience-automation-qe?team=SFTWR"
-    },
     "200655873-3543": {
       "first_seen": 1775264492.8284006,
       "posted": "2026-04-04",
@@ -21003,6 +20989,20 @@
       "title": "Manager, ASE Efficiency",
       "job_id": "200691352-3543",
       "url": "https://jobs.apple.com/en-us/details/200691352-3543/manager-ase-efficiency?team=SFTWR"
+    },
+    "200692953-3337": {
+      "first_seen": 1793658685.7360787,
+      "posted": "2026-11-02",
+      "title": "Engineering Manager, Bazel & Remote Build Execution",
+      "job_id": "200692953-3337",
+      "url": "https://jobs.apple.com/en-us/details/200692953-3337/engineering-manager-bazel-remote-build-execution?team=SFTWR"
+    },
+    "200692999-0836": {
+      "first_seen": 1793658685.7360828,
+      "posted": "2026-11-02",
+      "title": "Senior Software Engineer, Apple Services Engineering",
+      "job_id": "200692999-0836",
+      "url": "https://jobs.apple.com/en-us/details/200692999-0836/senior-software-engineer-apple-services-engineering?team=SFTWR"
     }
   }
 }
