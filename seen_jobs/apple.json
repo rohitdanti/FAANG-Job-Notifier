@@ -4,13 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200655840-3956": {
-      "first_seen": 1775266289.1471803,
-      "posted": "2026-04-04",
-      "title": "Infrastructure Planning Manager",
-      "job_id": "200655840-3956",
-      "url": "https://jobs.apple.com/en-us/details/200655840-3956/infrastructure-planning-manager?team=SFTWR"
-    },
     "200655872-3956": {
       "first_seen": 1775266289.1471832,
       "posted": "2026-04-04",
@@ -21003,6 +20996,13 @@
       "title": "Security Software Engineering Manager, SEAR",
       "job_id": "200692562-0836",
       "url": "https://jobs.apple.com/en-us/details/200692562-0836/security-software-engineering-manager-sear?team=SFTWR"
+    },
+    "200692952-0836": {
+      "first_seen": 1793665288.8972785,
+      "posted": "2026-11-03",
+      "title": "Computational Support for Machine Learning and Transformers, Core OS",
+      "job_id": "200692952-0836",
+      "url": "https://jobs.apple.com/en-us/details/200692952-0836/computational-support-for-machine-learning-and-transformers-core-os?team=SFTWR"
     }
   }
 }
