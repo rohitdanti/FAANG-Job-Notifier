@@ -4,13 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200648325-0776": {
-      "first_seen": 1775514088.5625763,
-      "posted": "2026-04-06",
-      "title": "Software Engineer, Infrastructure Services",
-      "job_id": "200648325-0776",
-      "url": "https://jobs.apple.com/en-us/details/200648325-0776/software-engineer-infrastructure-services?team=SFTWR"
-    },
     "200648325-3956": {
       "first_seen": 1775514088.562579,
       "posted": "2026-04-06",
@@ -21003,6 +20996,13 @@
       "title": "Java Server Engineer - ASE Products",
       "job_id": "200687380-0836",
       "url": "https://jobs.apple.com/en-us/details/200687380-0836/java-server-engineer-ase-products?team=SFTWR"
+    },
+    "200690613-3337": {
+      "first_seen": 1793736109.5918267,
+      "posted": "2026-11-03",
+      "title": "Security Platform Automation Engineer",
+      "job_id": "200690613-3337",
+      "url": "https://jobs.apple.com/en-us/details/200690613-3337/security-platform-automation-engineer?team=SFTWR"
     }
   }
 }
