@@ -4,13 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200656023-0836": {
-      "first_seen": 1775494287.584161,
-      "posted": "2026-04-06",
-      "title": "Senior Product Manager, Commerce Data Foundations Platform",
-      "job_id": "200656023-0836",
-      "url": "https://jobs.apple.com/en-us/details/200656023-0836/senior-product-manager-commerce-data-foundations-platform?team=SFTWR"
-    },
     "200655853-0836": {
       "first_seen": 1775496094.933218,
       "posted": "2026-04-06",
@@ -21003,6 +20996,13 @@
       "title": "Frontend Engineer (AI Experiences), Retail and Marcom Engineering",
       "job_id": "200692940-0157",
       "url": "https://jobs.apple.com/en-us/details/200692940-0157/frontend-engineer-ai-experiences-retail-and-marcom-engineering?team=SFTWR"
+    },
+    "200693064-0836": {
+      "first_seen": 1793719914.6226985,
+      "posted": "2026-11-03",
+      "title": "Machine Learning Engineer, Siri Speech",
+      "job_id": "200693064-0836",
+      "url": "https://jobs.apple.com/en-us/details/200693064-0836/machine-learning-engineer-siri-speech?team=SFTWR"
     }
   }
 }
