@@ -4,13 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200655118-0836": {
-      "first_seen": 1775518900.4922824,
-      "posted": "2026-04-06",
-      "title": "Software Engineering Program Manager, Core OS Performance",
-      "job_id": "200655118-0836",
-      "url": "https://jobs.apple.com/en-us/details/200655118-0836/software-engineering-program-manager-core-os-performance?team=SFTWR"
-    },
     "200655920-0836": {
       "first_seen": 1775520113.0899217,
       "posted": "2026-04-07",
@@ -21003,6 +20996,13 @@
       "title": "AI Software Engineer, App Intelligence",
       "job_id": "200693199-0836",
       "url": "https://jobs.apple.com/en-us/details/200693199-0836/ai-software-engineer-app-intelligence?team=SFTWR"
+    },
+    "200692891-0157": {
+      "first_seen": 1793749897.2002358,
+      "posted": "2026-11-03",
+      "title": "Sr. Platform Software Engineer, AI & Data Platforms (AiDP)",
+      "job_id": "200692891-0157",
+      "url": "https://jobs.apple.com/en-us/details/200692891-0157/sr-platform-software-engineer-ai-data-platforms-aidp?team=SFTWR"
     }
   }
 }
