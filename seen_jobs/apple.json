@@ -4,13 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200655853-0836": {
-      "first_seen": 1775496094.933218,
-      "posted": "2026-04-06",
-      "title": "Data Science Manager - System Analytics & Intelligence",
-      "job_id": "200655853-0836",
-      "url": "https://jobs.apple.com/en-us/details/200655853-0836/data-science-manager-system-analytics-intelligence?team=SFTWR"
-    },
     "200655634-0157": {
       "first_seen": 1775497887.3487651,
       "posted": "2026-04-06",
@@ -21003,6 +20996,13 @@
       "title": "Machine Learning Engineer, Siri Speech",
       "job_id": "200693064-0836",
       "url": "https://jobs.apple.com/en-us/details/200693064-0836/machine-learning-engineer-siri-speech?team=SFTWR"
+    },
+    "200693087-3337": {
+      "first_seen": 1793720513.3396542,
+      "posted": "2026-11-03",
+      "title": "Software Engineer - Visual Intelligence",
+      "job_id": "200693087-3337",
+      "url": "https://jobs.apple.com/en-us/details/200693087-3337/software-engineer-visual-intelligence?team=SFTWR"
     }
   }
 }
