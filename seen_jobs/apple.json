@@ -4,13 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200656105-0836": {
-      "first_seen": 1775581293.0490947,
-      "posted": "2026-04-07",
-      "title": "Machine Learning Software Engineer for Location and Spatial Awareness , Sensing & Connectivity",
-      "job_id": "200656105-0836",
-      "url": "https://jobs.apple.com/en-us/details/200656105-0836/machine-learning-software-engineer-for-location-and-spatial-awareness-sensing-connectivity?team=SFTWR"
-    },
     "200655596-3543": {
       "first_seen": 1775582489.1962028,
       "posted": "2026-04-07",
@@ -21003,6 +20996,13 @@
       "title": "Engineering Manager, Siri AI Runtime Platform",
       "job_id": "200693414-0836",
       "url": "https://jobs.apple.com/en-us/details/200693414-0836/engineering-manager-siri-ai-runtime-platform?team=SFTWR"
+    },
+    "200693427-0157": {
+      "first_seen": 1793812289.6406577,
+      "posted": "2026-11-04",
+      "title": "Forward Deployed Software Engineer - Platforms Engineering, Enterprise Technology Services",
+      "job_id": "200693427-0157",
+      "url": "https://jobs.apple.com/en-us/details/200693427-0157/forward-deployed-software-engineer-platforms-engineering-enterprise-technology-services?team=SFTWR"
     }
   }
 }
