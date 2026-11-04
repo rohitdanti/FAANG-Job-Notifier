@@ -4,13 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200654967-3956": {
-      "first_seen": 1775526091.131391,
-      "posted": "2026-04-07",
-      "title": "Salesforce Technical Architect, Sales Engineering",
-      "job_id": "200654967-3956",
-      "url": "https://jobs.apple.com/en-us/details/200654967-3956/salesforce-technical-architect-sales-engineering?team=SFTWR"
-    },
     "200656318-0836": {
       "first_seen": 1775581293.0490866,
       "posted": "2026-04-07",
@@ -21003,6 +20996,13 @@
       "title": "Software Engineering Systems",
       "job_id": "200693309-0836",
       "url": "https://jobs.apple.com/en-us/details/200693309-0836/software-engineering-systems?team=SFTWR"
+    },
+    "200693322-0670": {
+      "first_seen": 1793754702.855069,
+      "posted": "2026-11-04",
+      "title": "Creator Studio Asset Manager",
+      "job_id": "200693322-0670",
+      "url": "https://jobs.apple.com/en-us/details/200693322-0670/creator-studio-asset-manager?team=SFTWR"
     }
   }
 }
