@@ -4,13 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200655596-3543": {
-      "first_seen": 1775582489.1962028,
-      "posted": "2026-04-07",
-      "title": "Technical Partner Engineer - Apple Home, Wireless Technologies & Ecosystems",
-      "job_id": "200655596-3543",
-      "url": "https://jobs.apple.com/en-us/details/200655596-3543/technical-partner-engineer-apple-home-wireless-technologies-ecosystems?team=SFTWR"
-    },
     "200656120-3543": {
       "first_seen": 1775582489.1962068,
       "posted": "2026-04-07",
@@ -21003,6 +20996,13 @@
       "title": "Forward Deployed Software Engineer - Platforms Engineering, Enterprise Technology Services",
       "job_id": "200693427-0157",
       "url": "https://jobs.apple.com/en-us/details/200693427-0157/forward-deployed-software-engineer-platforms-engineering-enterprise-technology-services?team=SFTWR"
+    },
+    "200693352-0836": {
+      "first_seen": 1793812894.4623315,
+      "posted": "2026-11-04",
+      "title": "Software Development Engineer in Test (SDET), Web + Server \u2014 Find My",
+      "job_id": "200693352-0836",
+      "url": "https://jobs.apple.com/en-us/details/200693352-0836/software-development-engineer-in-test-sdet-web-server-find-my?team=SFTWR"
     }
   }
 }
