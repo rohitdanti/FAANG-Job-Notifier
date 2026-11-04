@@ -4,13 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200655920-3337": {
-      "first_seen": 1775520113.0899253,
-      "posted": "2026-04-07",
-      "title": "AIML - Sr Engineering Program Manager, Foundation Models",
-      "job_id": "200655920-3337",
-      "url": "https://jobs.apple.com/en-us/details/200655920-3337/aiml-sr-engineering-program-manager-foundation-models?team=SFTWR"
-    },
     "200656112-0836": {
       "first_seen": 1775521898.185088,
       "posted": "2026-04-07",
@@ -21003,6 +20996,13 @@
       "title": "Senior Software Engineer (Backend), Retail & Marcom Engineering",
       "job_id": "200692665-3956",
       "url": "https://jobs.apple.com/en-us/details/200692665-3956/senior-software-engineer-backend-retail-marcom-engineering?team=SFTWR"
+    },
+    "200693310-3337": {
+      "first_seen": 1793752884.983986,
+      "posted": "2026-11-04",
+      "title": "Software Engineer in Natural Language Processing (NLP) and Machine Learning (ML)",
+      "job_id": "200693310-3337",
+      "url": "https://jobs.apple.com/en-us/details/200693310-3337/software-engineer-in-natural-language-processing-nlp-and-machine-learning-ml?team=SFTWR"
     }
   }
 }
