@@ -4,13 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200646358-3543": {
-      "first_seen": 1775610090.131978,
-      "posted": "2026-04-08",
-      "title": "Sr. Software Engineer, Creativity Apps",
-      "job_id": "200646358-3543",
-      "url": "https://jobs.apple.com/en-us/details/200646358-3543/sr-software-engineer-creativity-apps?team=SFTWR"
-    },
     "200646358-3673": {
       "first_seen": 1775610090.1319792,
       "posted": "2026-04-08",
@@ -21003,6 +20996,13 @@
       "title": "Network Business Development & Partnership Manager - Wallet, Payments, and Commerce",
       "job_id": "200693510-2459",
       "url": "https://jobs.apple.com/en-us/details/200693510-2459/network-business-development-partnership-manager-wallet-payments-and-commerce?team=SFTWR"
+    },
+    "200692542": {
+      "first_seen": 1793827896.2711406,
+      "posted": "2026-11-04",
+      "title": "Software Automation Engineer, Test Platforms - Media, Graphics & Compute Tech",
+      "job_id": "200692542",
+      "url": "https://jobs.apple.com/en-us/details/200692542/software-automation-engineer-test-platforms-media-graphics-compute-tech?team=SFTWR"
     }
   }
 }
