@@ -4,13 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200656120-3543": {
-      "first_seen": 1775582489.1962068,
-      "posted": "2026-04-07",
-      "title": "Cellular Layer1 Control Software Development Engineer",
-      "job_id": "200656120-3543",
-      "url": "https://jobs.apple.com/en-us/details/200656120-3543/cellular-layer1-control-software-development-engineer?team=SFTWR"
-    },
     "200636183-3577": {
       "first_seen": 1775593292.5801759,
       "posted": "2026-04-07",
@@ -21003,6 +20996,13 @@
       "title": "Software Development Engineer in Test (SDET), Web + Server \u2014 Find My",
       "job_id": "200693352-0836",
       "url": "https://jobs.apple.com/en-us/details/200693352-0836/software-development-engineer-in-test-sdet-web-server-find-my?team=SFTWR"
+    },
+    "200693101-0836": {
+      "first_seen": 1793817099.7678316,
+      "posted": "2026-11-04",
+      "title": "Manager, Engineering Project Management - SD&T Feature EPM",
+      "job_id": "200693101-0836",
+      "url": "https://jobs.apple.com/en-us/details/200693101-0836/manager-engineering-project-management-sd-t-feature-epm?team=SFTWR"
     }
   }
 }
