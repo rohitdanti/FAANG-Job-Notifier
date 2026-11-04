@@ -4,27 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200654008-0836": {
-      "first_seen": 1775596880.7577665,
-      "posted": "2026-04-07",
-      "title": "Cloud Infrastructure Engineer, Audio Software Integration",
-      "job_id": "200654008-0836",
-      "url": "https://jobs.apple.com/en-us/details/200654008-0836/cloud-infrastructure-engineer-audio-software-integration?team=SFTWR"
-    },
-    "200655893-3543": {
-      "first_seen": 1775598690.5495644,
-      "posted": "2026-04-07",
-      "title": "Tools & Automation Engineer",
-      "job_id": "200655893-3543",
-      "url": "https://jobs.apple.com/en-us/details/200655893-3543/tools-automation-engineer?team=SFTWR"
-    },
-    "200654970-3337": {
-      "first_seen": 1775601100.3639376,
-      "posted": "2026-04-07",
-      "title": "Sr. Software Engineer, App Store Engineering",
-      "job_id": "200654970-3337",
-      "url": "https://jobs.apple.com/en-us/details/200654970-3337/sr-software-engineer-app-store-engineering?team=SFTWR"
-    },
     "200646358-0670": {
       "first_seen": 1775610090.1319716,
       "posted": "2026-04-08",
@@ -21003,6 +20982,27 @@
       "title": "Sr Engineering Manager, Finance Data Engineering & AI Enablement",
       "job_id": "200693419-3956",
       "url": "https://jobs.apple.com/en-us/details/200693419-3956/sr-engineering-manager-finance-data-engineering-ai-enablement?team=SFTWR"
+    },
+    "200693489-0836": {
+      "first_seen": 1793823091.358485,
+      "posted": "2026-11-04",
+      "title": "Hardware/Software Modeling and Validation Engineer",
+      "job_id": "200693489-0836",
+      "url": "https://jobs.apple.com/en-us/details/200693489-0836/hardware-software-modeling-and-validation-engineer?team=SFTWR"
+    },
+    "200693470-0836": {
+      "first_seen": 1793823091.3584943,
+      "posted": "2026-11-04",
+      "title": "Hardware/Software Modeling and Validation Engineer",
+      "job_id": "200693470-0836",
+      "url": "https://jobs.apple.com/en-us/details/200693470-0836/hardware-software-modeling-and-validation-engineer?team=SFTWR"
+    },
+    "200693191-0836": {
+      "first_seen": 1793823091.3584964,
+      "posted": "2026-11-04",
+      "title": "Embedded SOC Drivers Engineer",
+      "job_id": "200693191-0836",
+      "url": "https://jobs.apple.com/en-us/details/200693191-0836/embedded-soc-drivers-engineer?team=SFTWR"
     }
   }
 }
