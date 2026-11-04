@@ -4,20 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200618403-3337": {
-      "first_seen": 1775666498.0577517,
-      "posted": "2026-04-08",
-      "title": "Site Reliability Engineer - Apple Services Engineering (ASE) / iCloud",
-      "job_id": "200618403-3337",
-      "url": "https://jobs.apple.com/en-us/details/200618403-3337/site-reliability-engineer-apple-services-engineering-ase-icloud?team=SFTWR"
-    },
-    "200656676-3543": {
-      "first_seen": 1775668892.7630813,
-      "posted": "2026-04-08",
-      "title": "Cellular Software Performance Engineer, Wireless Technologies & Ecosystems",
-      "job_id": "200656676-3543",
-      "url": "https://jobs.apple.com/en-us/details/200656676-3543/cellular-software-performance-engineer-wireless-technologies-ecosystems?team=SFTWR"
-    },
     "200651802-0157": {
       "first_seen": 1775670103.7486033,
       "posted": "2026-04-08",
@@ -21003,6 +20989,20 @@
       "title": "Software Engineer, Triage Services",
       "job_id": "200693271-0836",
       "url": "https://jobs.apple.com/en-us/details/200693271-0836/software-engineer-triage-services?team=SFTWR"
+    },
+    "200693302-2605": {
+      "first_seen": 1793836289.0468338,
+      "posted": "2026-11-04",
+      "title": "Senior Software Engineer - Apple Vision Pro",
+      "job_id": "200693302-2605",
+      "url": "https://jobs.apple.com/en-us/details/200693302-2605/senior-software-engineer-apple-vision-pro?team=SFTWR"
+    },
+    "200693509-3956": {
+      "first_seen": 1793836289.046839,
+      "posted": "2026-11-04",
+      "title": "RealityKit Spatial UI Rendering Engineer",
+      "job_id": "200693509-3956",
+      "url": "https://jobs.apple.com/en-us/details/200693509-3956/realitykit-spatial-ui-rendering-engineer?team=SFTWR"
     }
   }
 }
