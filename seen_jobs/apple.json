@@ -4,13 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200653272-3337": {
-      "first_seen": 1775664698.1480415,
-      "posted": "2026-04-08",
-      "title": "Software Engineer",
-      "job_id": "200653272-3337",
-      "url": "https://jobs.apple.com/en-us/details/200653272-3337/software-engineer?team=SFTWR"
-    },
     "200618403-3337": {
       "first_seen": 1775666498.0577517,
       "posted": "2026-04-08",
@@ -21003,6 +20996,13 @@
       "title": "Cellular Software Enablement Engineer, Wireless Technologies & Ecosystems",
       "job_id": "200693290-3956",
       "url": "https://jobs.apple.com/en-us/details/200693290-3956/cellular-software-enablement-engineer-wireless-technologies-ecosystems?team=SFTWR"
+    },
+    "200693271-0836": {
+      "first_seen": 1793833297.852129,
+      "posted": "2026-11-04",
+      "title": "Software Engineer, Triage Services",
+      "job_id": "200693271-0836",
+      "url": "https://jobs.apple.com/en-us/details/200693271-0836/software-engineer-triage-services?team=SFTWR"
     }
   }
 }
