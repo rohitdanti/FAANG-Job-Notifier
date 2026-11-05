@@ -4,27 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200656667-1756": {
-      "first_seen": 1775670103.7486093,
-      "posted": "2026-04-08",
-      "title": "Acoustics DSP Engineer",
-      "job_id": "200656667-1756",
-      "url": "https://jobs.apple.com/en-us/details/200656667-1756/acoustics-dsp-engineer?team=SFTWR"
-    },
-    "200641948-0365": {
-      "first_seen": 1775674904.5130475,
-      "posted": "2026-04-08",
-      "title": "AR/VR Software Development Engineer, Vision Products Software",
-      "job_id": "200641948-0365",
-      "url": "https://jobs.apple.com/en-us/details/200641948-0365/ar-vr-software-development-engineer-vision-products-software?team=SFTWR"
-    },
-    "200656675-3337": {
-      "first_seen": 1775676098.2994554,
-      "posted": "2026-04-08",
-      "title": "Sr. Software Engineering Manager, Pricing-Subscriptions & Infrastructure",
-      "job_id": "200656675-3337",
-      "url": "https://jobs.apple.com/en-us/details/200656675-3337/sr-software-engineering-manager-pricing-subscriptions-infrastructure?team=SFTWR"
-    },
     "200656666-3337": {
       "first_seen": 1775676098.2994597,
       "posted": "2026-04-08",
@@ -21003,6 +20982,27 @@
       "title": "Senior Security Engineer",
       "job_id": "200691424-3337",
       "url": "https://jobs.apple.com/en-us/details/200691424-3337/senior-security-engineer?team=SFTWR"
+    },
+    "200693304-6172": {
+      "first_seen": 1793883707.1310012,
+      "posted": "2026-11-05",
+      "title": "Data Center Technician, Data Center Operations",
+      "job_id": "200693304-6172",
+      "url": "https://jobs.apple.com/en-us/details/200693304-6172/data-center-technician-data-center-operations?team=SFTWR"
+    },
+    "200689142-0157": {
+      "first_seen": 1793883707.1310062,
+      "posted": "2026-11-05",
+      "title": "Manager, Digital Product Operations",
+      "job_id": "200689142-0157",
+      "url": "https://jobs.apple.com/en-us/details/200689142-0157/manager-digital-product-operations?team=SFTWR"
+    },
+    "200689142-3956": {
+      "first_seen": 1793883707.131008,
+      "posted": "2026-11-05",
+      "title": "Manager, Digital Product Operations",
+      "job_id": "200689142-3956",
+      "url": "https://jobs.apple.com/en-us/details/200689142-3956/manager-digital-product-operations?team=SFTWR"
     }
   }
 }
