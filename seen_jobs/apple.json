@@ -4,20 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200656666-3337": {
-      "first_seen": 1775676098.2994597,
-      "posted": "2026-04-08",
-      "title": "SW Development Engineer - Front End Frameworks",
-      "job_id": "200656666-3337",
-      "url": "https://jobs.apple.com/en-us/details/200656666-3337/sw-development-engineer-front-end-frameworks?team=SFTWR"
-    },
-    "200656371-3337": {
-      "first_seen": 1775676689.5044093,
-      "posted": "2026-04-08",
-      "title": "Software Quality Automation Engineer - Apple Services Engineering",
-      "job_id": "200656371-3337",
-      "url": "https://jobs.apple.com/en-us/details/200656371-3337/software-quality-automation-engineer-apple-services-engineering?team=SFTWR"
-    },
     "200656699-0157": {
       "first_seen": 1775679089.1114793,
       "posted": "2026-04-08",
@@ -21003,6 +20989,20 @@
       "title": "Manager, Digital Product Operations",
       "job_id": "200689142-3956",
       "url": "https://jobs.apple.com/en-us/details/200689142-3956/manager-digital-product-operations?team=SFTWR"
+    },
+    "200692937-3956": {
+      "first_seen": 1793893316.8681178,
+      "posted": "2026-11-05",
+      "title": "Sr Frontend Engineer (AI Experiences), Retail and Marcom Engineering",
+      "job_id": "200692937-3956",
+      "url": "https://jobs.apple.com/en-us/details/200692937-3956/sr-frontend-engineer-ai-experiences-retail-and-marcom-engineering?team=SFTWR"
+    },
+    "200692924-3956": {
+      "first_seen": 1793893316.8681228,
+      "posted": "2026-11-05",
+      "title": "Frontend Architect (AI Experiences), Retail and Marcom Engineering",
+      "job_id": "200692924-3956",
+      "url": "https://jobs.apple.com/en-us/details/200692924-3956/frontend-architect-ai-experiences-retail-and-marcom-engineering?team=SFTWR"
     }
   }
 }
