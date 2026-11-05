@@ -4,13 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200655198-0157": {
-      "first_seen": 1775685088.491495,
-      "posted": "2026-04-08",
-      "title": "Senior Software Engineer, Cloud Platforms",
-      "job_id": "200655198-0157",
-      "url": "https://jobs.apple.com/en-us/details/200655198-0157/senior-software-engineer-cloud-platforms?team=SFTWR"
-    },
     "200656129-0836": {
       "first_seen": 1775685690.223048,
       "posted": "2026-04-08",
@@ -21003,6 +20996,13 @@
       "title": "Cryptography Engineer, SEAR",
       "job_id": "200693548-0836",
       "url": "https://jobs.apple.com/en-us/details/200693548-0836/cryptography-engineer-sear?team=SFTWR"
+    },
+    "200693628-0836": {
+      "first_seen": 1793904139.4632747,
+      "posted": "2026-11-05",
+      "title": "Senior Software Engineer - Compute",
+      "job_id": "200693628-0836",
+      "url": "https://jobs.apple.com/en-us/details/200693628-0836/senior-software-engineer-compute?team=SFTWR"
     }
   }
 }
