@@ -4,13 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200656751-3401": {
-      "first_seen": 1775685088.49149,
-      "posted": "2026-04-08",
-      "title": "Phone/FaceTime Experience Software Engineer",
-      "job_id": "200656751-3401",
-      "url": "https://jobs.apple.com/en-us/details/200656751-3401/phone-facetime-experience-software-engineer?team=SFTWR"
-    },
     "200655198-0157": {
       "first_seen": 1775685088.491495,
       "posted": "2026-04-08",
@@ -21003,6 +20996,13 @@
       "title": "Manager, Engineering Program Manager, Engineering Frameworks",
       "job_id": "200669038-0836",
       "url": "https://jobs.apple.com/en-us/details/200669038-0836/manager-engineering-program-manager-engineering-frameworks?team=SFTWR"
+    },
+    "200693548-0836": {
+      "first_seen": 1793899289.6820815,
+      "posted": "2026-11-05",
+      "title": "Cryptography Engineer, SEAR",
+      "job_id": "200693548-0836",
+      "url": "https://jobs.apple.com/en-us/details/200693548-0836/cryptography-engineer-sear?team=SFTWR"
     }
   }
 }
