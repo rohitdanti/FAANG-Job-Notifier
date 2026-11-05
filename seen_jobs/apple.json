@@ -4,13 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200639936-0836": {
-      "first_seen": 1775692288.073794,
-      "posted": "2026-04-08",
-      "title": "CI Systems Engineer - AI Failure Analysis",
-      "job_id": "200639936-0836",
-      "url": "https://jobs.apple.com/en-us/details/200639936-0836/ci-systems-engineer-ai-failure-analysis?team=SFTWR"
-    },
     "200656063-3956": {
       "first_seen": 1775693488.378906,
       "posted": "2026-04-09",
@@ -21003,6 +20996,13 @@
       "title": "MultiRadio Coex Software QA Engineer, Wireless Technologies & Ecosystems",
       "job_id": "200693606-0836",
       "url": "https://jobs.apple.com/en-us/details/200693606-0836/multiradio-coex-software-qa-engineer-wireless-technologies-ecosystems?team=SFTWR"
+    },
+    "200666022-0157": {
+      "first_seen": 1793907692.7397456,
+      "posted": "2026-11-05",
+      "title": "Sr. Software Engineer, Customer Systems",
+      "job_id": "200666022-0157",
+      "url": "https://jobs.apple.com/en-us/details/200666022-0157/sr-software-engineer-customer-systems?team=SFTWR"
     }
   }
 }
