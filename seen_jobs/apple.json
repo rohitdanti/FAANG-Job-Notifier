@@ -4,20 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200656788-0836": {
-      "first_seen": 1775746424.101365,
-      "posted": "2026-04-09",
-      "title": "Engineering Program Manager, Siri",
-      "job_id": "200656788-0836",
-      "url": "https://jobs.apple.com/en-us/details/200656788-0836/engineering-program-manager-siri?team=SFTWR"
-    },
-    "200656765-0836": {
-      "first_seen": 1775746424.10137,
-      "posted": "2026-04-09",
-      "title": "Software OS Developer Engineer",
-      "job_id": "200656765-0836",
-      "url": "https://jobs.apple.com/en-us/details/200656765-0836/software-os-developer-engineer?team=SFTWR"
-    },
     "200645394-0836": {
       "first_seen": 1775751089.7765656,
       "posted": "2026-04-09",
@@ -21003,6 +20989,20 @@
       "title": "Software & Tools Engineering Project Manager",
       "job_id": "200693434-3749",
       "url": "https://jobs.apple.com/en-us/details/200693434-3749/software-tools-engineering-project-manager?team=SFTWR"
+    },
+    "200669232-0836": {
+      "first_seen": 1793983889.706328,
+      "posted": "2026-11-06",
+      "title": "Sr Software Engineer, Retail & Marcom Engineering",
+      "job_id": "200669232-0836",
+      "url": "https://jobs.apple.com/en-us/details/200669232-0836/sr-software-engineer-retail-marcom-engineering?team=SFTWR"
+    },
+    "200669232-3956": {
+      "first_seen": 1793983889.7063322,
+      "posted": "2026-11-06",
+      "title": "Sr Software Engineer, Retail & Marcom Engineering",
+      "job_id": "200669232-3956",
+      "url": "https://jobs.apple.com/en-us/details/200669232-3956/sr-software-engineer-retail-marcom-engineering?team=SFTWR"
     }
   }
 }
