@@ -4,20 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200656390-0836": {
-      "first_seen": 1775755297.179574,
-      "posted": "2026-04-09",
-      "title": "Senior Engineering Manager, Apple Data Platform",
-      "job_id": "200656390-0836",
-      "url": "https://jobs.apple.com/en-us/details/200656390-0836/senior-engineering-manager-apple-data-platform?team=SFTWR"
-    },
-    "200656392-3337": {
-      "first_seen": 1775755297.1795754,
-      "posted": "2026-04-09",
-      "title": "ML Researcher",
-      "job_id": "200656392-3337",
-      "url": "https://jobs.apple.com/en-us/details/200656392-3337/ml-researcher?team=SFTWR"
-    },
     "200650958-0836": {
       "first_seen": 1775757688.871519,
       "posted": "2026-04-09",
@@ -21003,6 +20989,20 @@
       "title": "Fitness Sensing AI/ML Lead - Sensing & Connectivity",
       "job_id": "200693938-0836",
       "url": "https://jobs.apple.com/en-us/details/200693938-0836/fitness-sensing-ai-ml-lead-sensing-connectivity?team=SFTWR"
+    },
+    "200693795-3956": {
+      "first_seen": 1794005495.7518327,
+      "posted": "2026-11-06",
+      "title": "Principal Platform Engineer - People Systems",
+      "job_id": "200693795-3956",
+      "url": "https://jobs.apple.com/en-us/details/200693795-3956/principal-platform-engineer-people-systems?team=SFTWR"
+    },
+    "200667346-0836": {
+      "first_seen": 1794005495.7518423,
+      "posted": "2026-11-06",
+      "title": "Machine Learning Engineer, AI/ML Model Quality",
+      "job_id": "200667346-0836",
+      "url": "https://jobs.apple.com/en-us/details/200667346-0836/machine-learning-engineer-ai-ml-model-quality?team=SFTWR"
     }
   }
 }
