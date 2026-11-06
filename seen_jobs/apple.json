@@ -4,13 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200656755-0836": {
-      "first_seen": 1775755297.179572,
-      "posted": "2026-04-09",
-      "title": "Senior Software Engineer, Apple Services Engineering - Commerce",
-      "job_id": "200656755-0836",
-      "url": "https://jobs.apple.com/en-us/details/200656755-0836/senior-software-engineer-apple-services-engineering-commerce?team=SFTWR"
-    },
     "200656390-0836": {
       "first_seen": 1775755297.179574,
       "posted": "2026-04-09",
@@ -21003,6 +20996,13 @@
       "title": "Senior Human-Centered AI Researcher, Personal Intelligence & Experiences",
       "job_id": "200693798-0836",
       "url": "https://jobs.apple.com/en-us/details/200693798-0836/senior-human-centered-ai-researcher-personal-intelligence-experiences?team=SFTWR"
+    },
+    "200693938-0836": {
+      "first_seen": 1794004888.2408779,
+      "posted": "2026-11-06",
+      "title": "Fitness Sensing AI/ML Lead - Sensing & Connectivity",
+      "job_id": "200693938-0836",
+      "url": "https://jobs.apple.com/en-us/details/200693938-0836/fitness-sensing-ai-ml-lead-sensing-connectivity?team=SFTWR"
     }
   }
 }
