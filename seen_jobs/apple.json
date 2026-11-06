@@ -4,20 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200656381-3337": {
-      "first_seen": 1775751697.374432,
-      "posted": "2026-04-09",
-      "title": "Server-Side Software Engineer \u2013 ASE Enterprise",
-      "job_id": "200656381-3337",
-      "url": "https://jobs.apple.com/en-us/details/200656381-3337/server-side-software-engineer-ase-enterprise?team=SFTWR"
-    },
-    "200656749-0157": {
-      "first_seen": 1775752897.2576473,
-      "posted": "2026-04-09",
-      "title": "Backend Software Engineer (Golang)",
-      "job_id": "200656749-0157",
-      "url": "https://jobs.apple.com/en-us/details/200656749-0157/backend-software-engineer-golang?team=SFTWR"
-    },
     "200656749-3543": {
       "first_seen": 1775752897.257652,
       "posted": "2026-04-09",
@@ -21003,6 +20989,20 @@
       "title": "Cellular Performance Engineer",
       "job_id": "200692004-3956",
       "url": "https://jobs.apple.com/en-us/details/200692004-3956/cellular-performance-engineer?team=SFTWR"
+    },
+    "200693803-3401": {
+      "first_seen": 1793994106.4002469,
+      "posted": "2026-11-06",
+      "title": "Modem System Test Engineer - Wireless Technologies and Ecosystems |",
+      "job_id": "200693803-3401",
+      "url": "https://jobs.apple.com/en-us/details/200693803-3401/modem-system-test-engineer-wireless-technologies-and-ecosystems?team=SFTWR"
+    },
+    "200693806-0836": {
+      "first_seen": 1793994106.4002512,
+      "posted": "2026-11-06",
+      "title": "Product Display Driver Engineer, Graphics, Games, and ML",
+      "job_id": "200693806-0836",
+      "url": "https://jobs.apple.com/en-us/details/200693806-0836/product-display-driver-engineer-graphics-games-and-ml?team=SFTWR"
     }
   }
 }
