@@ -4,13 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200652761-0670": {
-      "first_seen": 1775772697.0641925,
-      "posted": "2026-04-09",
-      "title": "Senior Content Curator, Apple Creator Studio (Product, Design & Marketing)",
-      "job_id": "200652761-0670",
-      "url": "https://jobs.apple.com/en-us/details/200652761-0670/senior-content-curator-apple-creator-studio-product-design-marketing?team=SFTWR"
-    },
     "200655982-3956": {
       "first_seen": 1775774486.3599164,
       "posted": "2026-04-09",
@@ -21003,6 +20996,13 @@
       "title": "Security Researcher \u2013 Red Team",
       "job_id": "200693801-0836",
       "url": "https://jobs.apple.com/en-us/details/200693801-0836/security-researcher-red-team?team=SFTWR"
+    },
+    "200693977-0836": {
+      "first_seen": 1794016895.6352382,
+      "posted": "2026-11-07",
+      "title": "Senior Software Developer in Test - Embedded Sensors QE, Core OS",
+      "job_id": "200693977-0836",
+      "url": "https://jobs.apple.com/en-us/details/200693977-0836/senior-software-developer-in-test-embedded-sensors-qe-core-os?team=SFTWR"
     }
   }
 }
