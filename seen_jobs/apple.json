@@ -4,13 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200657006-3337": {
-      "first_seen": 1775836894.1952844,
-      "posted": "2026-04-10",
-      "title": "Database Systems SRE, ASE Cassandra SRE",
-      "job_id": "200657006-3337",
-      "url": "https://jobs.apple.com/en-us/details/200657006-3337/database-systems-sre-ase-cassandra-sre?team=SFTWR"
-    },
     "200657201-3543": {
       "first_seen": 1775837490.8542504,
       "posted": "2026-04-10",
@@ -21003,6 +20996,13 @@
       "title": "Software Engineer, Deployment Platform MultiCloud",
       "job_id": "200694167-3337",
       "url": "https://jobs.apple.com/en-us/details/200694167-3337/software-engineer-deployment-platform-multicloud?team=SFTWR"
+    },
+    "200693073-0836": {
+      "first_seen": 1794265297.4678128,
+      "posted": "2026-11-09",
+      "title": "Engineering Program Manager, System Experience",
+      "job_id": "200693073-0836",
+      "url": "https://jobs.apple.com/en-us/details/200693073-0836/engineering-program-manager-system-experience?team=SFTWR"
     }
   }
 }
