@@ -4,13 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200645031-0670": {
-      "first_seen": 1775834492.8537862,
-      "posted": "2026-04-10",
-      "title": "Data Quality Analyst",
-      "job_id": "200645031-0670",
-      "url": "https://jobs.apple.com/en-us/details/200645031-0670/data-quality-analyst?team=SFTWR"
-    },
     "200645031-3543": {
       "first_seen": 1775834492.8537903,
       "posted": "2026-04-10",
@@ -21003,6 +20996,13 @@
       "title": "System Architect \u2013 Product Lifecycle Management (PLM)",
       "job_id": "200693955-0157",
       "url": "https://jobs.apple.com/en-us/details/200693955-0157/system-architect-product-lifecycle-management-plm?team=SFTWR"
+    },
+    "200694134-3956": {
+      "first_seen": 1794256304.0452037,
+      "posted": "2026-11-09",
+      "title": "Health Research Data Engineer",
+      "job_id": "200694134-3956",
+      "url": "https://jobs.apple.com/en-us/details/200694134-3956/health-research-data-engineer?team=SFTWR"
     }
   }
 }
