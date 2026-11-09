@@ -4,13 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200656992-3337": {
-      "first_seen": 1775775093.9701371,
-      "posted": "2026-04-09",
-      "title": "Sr Program Manager, Commerce Program Management - Partners, Apple Services Engineering",
-      "job_id": "200656992-3337",
-      "url": "https://jobs.apple.com/en-us/details/200656992-3337/sr-program-manager-commerce-program-management-partners-apple-services-engineering?team=SFTWR"
-    },
     "200656089-0836": {
       "first_seen": 1775788302.2107213,
       "posted": "2026-04-10",
@@ -21003,6 +20996,13 @@
       "title": "Senior Systems Engineer, Watch Software",
       "job_id": "200690865-3543",
       "url": "https://jobs.apple.com/en-us/details/200690865-3543/senior-systems-engineer-watch-software?team=SFTWR"
+    },
+    "200692689-3956": {
+      "first_seen": 1794238302.680289,
+      "posted": "2026-11-09",
+      "title": "Tools & Automation Engineer \u2014 Early Career",
+      "job_id": "200692689-3956",
+      "url": "https://jobs.apple.com/en-us/details/200692689-3956/tools-automation-engineer-early-career?team=SFTWR"
     }
   }
 }
