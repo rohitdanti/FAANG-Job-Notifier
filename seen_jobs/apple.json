@@ -4,20 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200645031-3337": {
-      "first_seen": 1775834492.853792,
-      "posted": "2026-04-10",
-      "title": "Data Quality Analyst",
-      "job_id": "200645031-3337",
-      "url": "https://jobs.apple.com/en-us/details/200645031-3337/data-quality-analyst?team=SFTWR"
-    },
-    "200656002-3956": {
-      "first_seen": 1775836288.1887434,
-      "posted": "2026-04-10",
-      "title": "Software Engineer (UX Design), AI & Data Platforms (AiDP)",
-      "job_id": "200656002-3956",
-      "url": "https://jobs.apple.com/en-us/details/200656002-3956/software-engineer-ux-design-ai-data-platforms-aidp?team=SFTWR"
-    },
     "200657006-3337": {
       "first_seen": 1775836894.1952844,
       "posted": "2026-04-10",
@@ -21003,6 +20989,20 @@
       "title": "40 Hours",
       "job_id": "200692268-3543",
       "url": "https://jobs.apple.com/en-us/details/200692268-3543/location-software-engineer?team=SFTWR"
+    },
+    "200694167-3543": {
+      "first_seen": 1794264088.017217,
+      "posted": "2026-11-09",
+      "title": "Software Engineer, Deployment Platform MultiCloud",
+      "job_id": "200694167-3543",
+      "url": "https://jobs.apple.com/en-us/details/200694167-3543/software-engineer-deployment-platform-multicloud?team=SFTWR"
+    },
+    "200694167-3337": {
+      "first_seen": 1794264088.0172217,
+      "posted": "2026-11-09",
+      "title": "Software Engineer, Deployment Platform MultiCloud",
+      "job_id": "200694167-3337",
+      "url": "https://jobs.apple.com/en-us/details/200694167-3337/software-engineer-deployment-platform-multicloud?team=SFTWR"
     }
   }
 }
