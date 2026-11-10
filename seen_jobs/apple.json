@@ -4,13 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200651765-0670": {
-      "first_seen": 1775849496.3730521,
-      "posted": "2026-04-10",
-      "title": "Software Integrity Engineer, Video Apps",
-      "job_id": "200651765-0670",
-      "url": "https://jobs.apple.com/en-us/details/200651765-0670/software-integrity-engineer-video-apps?team=SFTWR"
-    },
     "200651765-0836": {
       "first_seen": 1775849496.3730564,
       "posted": "2026-04-10",
@@ -21003,6 +20996,13 @@
       "title": "AI Software Engineer - Calendar Intelligence",
       "job_id": "200694215-0836",
       "url": "https://jobs.apple.com/en-us/details/200694215-0836/ai-software-engineer-calendar-intelligence?team=SFTWR"
+    },
+    "200694128-0836": {
+      "first_seen": 1794275133.0782876,
+      "posted": "2026-11-10",
+      "title": "Computer Vision Engineer",
+      "job_id": "200694128-0836",
+      "url": "https://jobs.apple.com/en-us/details/200694128-0836/computer-vision-engineer?team=SFTWR"
     }
   }
 }
