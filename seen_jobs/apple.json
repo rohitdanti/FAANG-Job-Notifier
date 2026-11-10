@@ -4,27 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200657297-3725": {
-      "first_seen": 1775871692.4496312,
-      "posted": "2026-04-11",
-      "title": "iOS Home Application Engineer, Wireless Technologies & Ecosystems",
-      "job_id": "200657297-3725",
-      "url": "https://jobs.apple.com/en-us/details/200657297-3725/ios-home-application-engineer-wireless-technologies-ecosystems?team=SFTWR"
-    },
-    "200656136-3337": {
-      "first_seen": 1775872888.2785628,
-      "posted": "2026-04-11",
-      "title": "Machine Learning Engineer, Apple Services Engineering",
-      "job_id": "200656136-3337",
-      "url": "https://jobs.apple.com/en-us/details/200656136-3337/machine-learning-engineer-apple-services-engineering?team=SFTWR"
-    },
-    "200657451-0836": {
-      "first_seen": 1776027153.3888328,
-      "posted": "2026-04-12",
-      "title": "Software Engineer, Trusted Execution (Security Systems)",
-      "job_id": "200657451-0836",
-      "url": "https://jobs.apple.com/en-us/details/200657451-0836/software-engineer-trusted-execution-security-systems?team=SFTWR"
-    },
     "200618200-2621": {
       "first_seen": 1776085308.6925888,
       "posted": "2026-04-13",
@@ -21003,6 +20982,27 @@
       "title": "IOS SOFTWARE MANAGER - SpringBoard Home Screen",
       "job_id": "200694384-0836",
       "url": "https://jobs.apple.com/en-us/details/200694384-0836/ios-software-manager-springboard-home-screen?team=SFTWR"
+    },
+    "200694400-0157": {
+      "first_seen": 1794349290.3559773,
+      "posted": "2026-11-10",
+      "title": "Sr. Software Engineer, Enterprise Technology Services (Forge)",
+      "job_id": "200694400-0157",
+      "url": "https://jobs.apple.com/en-us/details/200694400-0157/sr-software-engineer-enterprise-technology-services-forge?team=SFTWR"
+    },
+    "200694131-7141": {
+      "first_seen": 1794349290.355981,
+      "posted": "2026-11-10",
+      "title": "Software Development Engineer in Test - Camera API",
+      "job_id": "200694131-7141",
+      "url": "https://jobs.apple.com/en-us/details/200694131-7141/software-development-engineer-in-test-camera-api?team=SFTWR"
+    },
+    "200694131-3401": {
+      "first_seen": 1794349290.355983,
+      "posted": "2026-11-10",
+      "title": "Software Development Engineer in Test - Camera API",
+      "job_id": "200694131-3401",
+      "url": "https://jobs.apple.com/en-us/details/200694131-3401/software-development-engineer-in-test-camera-api?team=SFTWR"
     }
   }
 }
