@@ -4,13 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200657310-0836": {
-      "first_seen": 1775851296.4545999,
-      "posted": "2026-04-10",
-      "title": "Maps Operations Program Lead",
-      "job_id": "200657310-0836",
-      "url": "https://jobs.apple.com/en-us/details/200657310-0836/maps-operations-program-lead?team=SFTWR"
-    },
     "200657312-3760": {
       "first_seen": 1775851296.4546044,
       "posted": "2026-04-10",
@@ -21003,6 +20996,13 @@
       "title": "UI Frameworks Engineer, Swift Platform Experience",
       "job_id": "200694101-0836",
       "url": "https://jobs.apple.com/en-us/details/200694101-0836/ui-frameworks-engineer-swift-platform-experience?team=SFTWR"
+    },
+    "200693966-0836": {
+      "first_seen": 1794329508.991982,
+      "posted": "2026-11-10",
+      "title": "Fitness Sensing AI/ML Lead - Sensing & Connectivity",
+      "job_id": "200693966-0836",
+      "url": "https://jobs.apple.com/en-us/details/200693966-0836/fitness-sensing-ai-ml-lead-sensing-connectivity?team=SFTWR"
     }
   }
 }
