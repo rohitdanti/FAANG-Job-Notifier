@@ -4,13 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200657312-3760": {
-      "first_seen": 1775851296.4546044,
-      "posted": "2026-04-10",
-      "title": "3D Game Artist - Platform Architecture",
-      "job_id": "200657312-3760",
-      "url": "https://jobs.apple.com/en-us/details/200657312-3760/3d-game-artist-platform-architecture?team=SFTWR"
-    },
     "200656391-3543": {
       "first_seen": 1775851296.454606,
       "posted": "2026-04-10",
@@ -21003,6 +20996,13 @@
       "title": "Fitness Sensing AI/ML Lead - Sensing & Connectivity",
       "job_id": "200693966-0836",
       "url": "https://jobs.apple.com/en-us/details/200693966-0836/fitness-sensing-ai-ml-lead-sensing-connectivity?team=SFTWR"
+    },
+    "200694290-0836": {
+      "first_seen": 1794331901.573416,
+      "posted": "2026-11-10",
+      "title": "Senior Manager, Enterprise Products & Platforms",
+      "job_id": "200694290-0836",
+      "url": "https://jobs.apple.com/en-us/details/200694290-0836/senior-manager-enterprise-products-platforms?team=SFTWR"
     }
   }
 }
