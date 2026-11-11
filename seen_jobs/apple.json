@@ -4,20 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200643136-3543": {
-      "first_seen": 1776114095.6208746,
-      "posted": "2026-04-13",
-      "title": "WebKit Test Integrity Engineer",
-      "job_id": "200643136-3543",
-      "url": "https://jobs.apple.com/en-us/details/200643136-3543/webkit-test-integrity-engineer?team=SFTWR"
-    },
-    "200656961-3956": {
-      "first_seen": 1776115888.14093,
-      "posted": "2026-04-13",
-      "title": "Cellular Software Performance Engineer, Wireless Technologies & Ecosystems",
-      "job_id": "200656961-3956",
-      "url": "https://jobs.apple.com/en-us/details/200656961-3956/cellular-software-performance-engineer-wireless-technologies-ecosystems?team=SFTWR"
-    },
     "200657558-0836": {
       "first_seen": 1776119489.0544631,
       "posted": "2026-04-13",
@@ -21003,6 +20989,20 @@
       "title": "Senior Software Engineer, Ads",
       "job_id": "200668600-0836",
       "url": "https://jobs.apple.com/en-us/details/200668600-0836/senior-software-engineer-ads?team=SFTWR"
+    },
+    "200694577-0157": {
+      "first_seen": 1794425488.997931,
+      "posted": "2026-11-11",
+      "title": "Senior Software Engineer, Apple Ads",
+      "job_id": "200694577-0157",
+      "url": "https://jobs.apple.com/en-us/details/200694577-0157/senior-software-engineer-apple-ads?team=SFTWR"
+    },
+    "200694577-0836": {
+      "first_seen": 1794425488.9979348,
+      "posted": "2026-11-11",
+      "title": "Senior Software Engineer, Apple Ads",
+      "job_id": "200694577-0836",
+      "url": "https://jobs.apple.com/en-us/details/200694577-0836/senior-software-engineer-apple-ads?team=SFTWR"
     }
   }
 }
