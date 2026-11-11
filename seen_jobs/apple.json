@@ -4,13 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200601272-0836": {
-      "first_seen": 1776125492.304872,
-      "posted": "2026-04-14",
-      "title": "QA Engineer",
-      "job_id": "200601272-0836",
-      "url": "https://jobs.apple.com/en-us/details/200601272-0836/qa-engineer?team=SFTWR"
-    },
     "200625860-3543": {
       "first_seen": 1776133892.4682848,
       "posted": "2026-04-14",
@@ -21003,6 +20996,13 @@
       "title": "Senior Software Engineer, Apple Card & Savings",
       "job_id": "200694649-2459",
       "url": "https://jobs.apple.com/en-us/details/200694649-2459/senior-software-engineer-apple-card-savings?team=SFTWR"
+    },
+    "200694651-2459": {
+      "first_seen": 1794441090.1906898,
+      "posted": "2026-11-11",
+      "title": "Software Engineering Technical Lead, Apple Card & Savings",
+      "job_id": "200694651-2459",
+      "url": "https://jobs.apple.com/en-us/details/200694651-2459/software-engineering-technical-lead-apple-card-savings?team=SFTWR"
     }
   }
 }
