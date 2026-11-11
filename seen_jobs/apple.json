@@ -4,13 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200651225-3337": {
-      "first_seen": 1776105690.328418,
-      "posted": "2026-04-13",
-      "title": "Engineering Program Manager, AI and Data Platform, Apple Services Engineering",
-      "job_id": "200651225-3337",
-      "url": "https://jobs.apple.com/en-us/details/200651225-3337/engineering-program-manager-ai-and-data-platform-apple-services-engineering?team=SFTWR"
-    },
     "200657564-0836": {
       "first_seen": 1776108689.7578342,
       "posted": "2026-04-13",
@@ -21003,6 +20996,13 @@
       "title": "System Software Developer",
       "job_id": "200694530-0836",
       "url": "https://jobs.apple.com/en-us/details/200694530-0836/system-software-developer?team=SFTWR"
+    },
+    "200674782-3401": {
+      "first_seen": 1794421904.9269936,
+      "posted": "2026-11-11",
+      "title": "Sr Software Engineer, Infrastructure Services",
+      "job_id": "200674782-3401",
+      "url": "https://jobs.apple.com/en-us/details/200674782-3401/sr-software-engineer-infrastructure-services?team=SFTWR"
     }
   }
 }
