@@ -4,20 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200657551-3543": {
-      "first_seen": 1776103308.138658,
-      "posted": "2026-04-13",
-      "title": "Game Engineer, Platform Architecture",
-      "job_id": "200657551-3543",
-      "url": "https://jobs.apple.com/en-us/details/200657551-3543/game-engineer-platform-architecture?team=SFTWR"
-    },
-    "200657551-3760": {
-      "first_seen": 1776103308.138661,
-      "posted": "2026-04-13",
-      "title": "Game Engineer, Platform Architecture",
-      "job_id": "200657551-3760",
-      "url": "https://jobs.apple.com/en-us/details/200657551-3760/game-engineer-platform-architecture?team=SFTWR"
-    },
     "200657310-0157": {
       "first_seen": 1776104503.972418,
       "posted": "2026-04-13",
@@ -21003,6 +20989,20 @@
       "title": "Software Engineer (Platform Software Engineer), G&A Solutions Engineering (GSE)",
       "job_id": "200693547-0240",
       "url": "https://jobs.apple.com/en-us/details/200693547-0240/software-engineer-platform-software-engineer-g-a-solutions-engineering-gse?team=SFTWR"
+    },
+    "200693576-3956": {
+      "first_seen": 1794402097.2123857,
+      "posted": "2026-11-11",
+      "title": "Senior Software Engineer (Platform Engineer), G&A Solutions Engineering (GSE)",
+      "job_id": "200693576-3956",
+      "url": "https://jobs.apple.com/en-us/details/200693576-3956/senior-software-engineer-platform-engineer-g-a-solutions-engineering-gse?team=SFTWR"
+    },
+    "200694406-0836": {
+      "first_seen": 1794402097.2123907,
+      "posted": "2026-11-11",
+      "title": "AV Project Manager, SWE Employee Experience",
+      "job_id": "200694406-0836",
+      "url": "https://jobs.apple.com/en-us/details/200694406-0836/av-project-manager-swe-employee-experience?team=SFTWR"
     }
   }
 }
