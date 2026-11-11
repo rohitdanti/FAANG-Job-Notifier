@@ -4,20 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200657310-0157": {
-      "first_seen": 1776104503.972418,
-      "posted": "2026-04-13",
-      "title": "Maps Operations Program Lead",
-      "job_id": "200657310-0157",
-      "url": "https://jobs.apple.com/en-us/details/200657310-0157/maps-operations-program-lead?team=SFTWR"
-    },
-    "200657310-3337": {
-      "first_seen": 1776104503.9724238,
-      "posted": "2026-04-13",
-      "title": "Maps Operations Program Lead",
-      "job_id": "200657310-3337",
-      "url": "https://jobs.apple.com/en-us/details/200657310-3337/maps-operations-program-lead?team=SFTWR"
-    },
     "200657556-0836": {
       "first_seen": 1776104503.9724264,
       "posted": "2026-04-13",
@@ -21003,6 +20989,20 @@
       "title": "AV Project Manager, SWE Employee Experience",
       "job_id": "200694406-0836",
       "url": "https://jobs.apple.com/en-us/details/200694406-0836/av-project-manager-swe-employee-experience?team=SFTWR"
+    },
+    "200687791-3337": {
+      "first_seen": 1794418906.8980832,
+      "posted": "2026-11-11",
+      "title": "Compute Runtime Software Engineer",
+      "job_id": "200687791-3337",
+      "url": "https://jobs.apple.com/en-us/details/200687791-3337/compute-runtime-software-engineer?team=SFTWR"
+    },
+    "200694095-0836": {
+      "first_seen": 1794418906.898089,
+      "posted": "2026-11-11",
+      "title": "Senior Software Engineer, Apple Ads",
+      "job_id": "200694095-0836",
+      "url": "https://jobs.apple.com/en-us/details/200694095-0836/senior-software-engineer-apple-ads?team=SFTWR"
     }
   }
 }
