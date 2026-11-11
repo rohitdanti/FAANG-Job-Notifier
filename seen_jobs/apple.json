@@ -4,13 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200657556-0836": {
-      "first_seen": 1776104503.9724264,
-      "posted": "2026-04-13",
-      "title": "Bluetooth Software Engineer, Wireless Technologies & Ecosystems",
-      "job_id": "200657556-0836",
-      "url": "https://jobs.apple.com/en-us/details/200657556-0836/bluetooth-software-engineer-wireless-technologies-ecosystems?team=SFTWR"
-    },
     "200651225-3337": {
       "first_seen": 1776105690.328418,
       "posted": "2026-04-13",
@@ -21003,6 +20996,13 @@
       "title": "Senior Software Engineer, Apple Ads",
       "job_id": "200694095-0836",
       "url": "https://jobs.apple.com/en-us/details/200694095-0836/senior-software-engineer-apple-ads?team=SFTWR"
+    },
+    "200694530-0836": {
+      "first_seen": 1794420105.93748,
+      "posted": "2026-11-11",
+      "title": "System Software Developer",
+      "job_id": "200694530-0836",
+      "url": "https://jobs.apple.com/en-us/details/200694530-0836/system-software-developer?team=SFTWR"
     }
   }
 }
