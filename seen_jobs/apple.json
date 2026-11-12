@@ -4,13 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200646219-3401": {
-      "first_seen": 1776171700.3332276,
-      "posted": "2026-04-14",
-      "title": "Engineering Program Manager, AppleCare",
-      "job_id": "200646219-3401",
-      "url": "https://jobs.apple.com/en-us/details/200646219-3401/engineering-program-manager-applecare?team=SFTWR"
-    },
     "200655124-3337": {
       "first_seen": 1776171700.3332334,
       "posted": "2026-04-14",
@@ -21003,6 +20996,13 @@
       "title": "ML Research Engineer, HOUr - ISE",
       "job_id": "200691165-0836",
       "url": "https://jobs.apple.com/en-us/details/200691165-0836/ml-research-engineer-hour-ise?team=SFTWR"
+    },
+    "200685551-0836": {
+      "first_seen": 1794517894.5259426,
+      "posted": "2026-11-12",
+      "title": "Senior Security Engineer - Security Assurance Scaling",
+      "job_id": "200685551-0836",
+      "url": "https://jobs.apple.com/en-us/details/200685551-0836/senior-security-engineer-security-assurance-scaling?team=SFTWR"
     }
   }
 }
