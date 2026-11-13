@@ -4,27 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200657286-1124": {
-      "first_seen": 1776195116.0500903,
-      "posted": "2026-04-14",
-      "title": "Electrical Engineer, Data Center Operations",
-      "job_id": "200657286-1124",
-      "url": "https://jobs.apple.com/en-us/details/200657286-1124/electrical-engineer-data-center-operations?team=SFTWR"
-    },
-    "200657721-0836": {
-      "first_seen": 1776198695.7014906,
-      "posted": "2026-04-14",
-      "title": "Senior Software Developer in Test - Embedded Sensors QE, Core OS",
-      "job_id": "200657721-0836",
-      "url": "https://jobs.apple.com/en-us/details/200657721-0836/senior-software-developer-in-test-embedded-sensors-qe-core-os?team=SFTWR"
-    },
-    "200653198-0836": {
-      "first_seen": 1776201691.455018,
-      "posted": "2026-04-14",
-      "title": "Software Engineer - Embedded Debug Tools, Core OS",
-      "job_id": "200653198-0836",
-      "url": "https://jobs.apple.com/en-us/details/200653198-0836/software-engineer-embedded-debug-tools-core-os?team=SFTWR"
-    },
     "200656985-0836": {
       "first_seen": 1776204089.7604358,
       "posted": "2026-04-14",
@@ -21003,6 +20982,27 @@
       "title": "Software Engineer, Infrastructure Applications",
       "job_id": "200693202-3956",
       "url": "https://jobs.apple.com/en-us/details/200693202-3956/software-engineer-infrastructure-applications?team=SFTWR"
+    },
+    "200694916-0836": {
+      "first_seen": 1794588702.5235863,
+      "posted": "2026-11-13",
+      "title": "Engineering Program Manager, Siri AI Performance & Reliability",
+      "job_id": "200694916-0836",
+      "url": "https://jobs.apple.com/en-us/details/200694916-0836/engineering-program-manager-siri-ai-performance-reliability?team=SFTWR"
+    },
+    "200694916-3956": {
+      "first_seen": 1794588702.5235908,
+      "posted": "2026-11-13",
+      "title": "Engineering Program Manager, Siri AI Performance & Reliability",
+      "job_id": "200694916-3956",
+      "url": "https://jobs.apple.com/en-us/details/200694916-3956/engineering-program-manager-siri-ai-performance-reliability?team=SFTWR"
+    },
+    "200694917-0836": {
+      "first_seen": 1794588702.5235927,
+      "posted": "2026-11-13",
+      "title": "Engineering Program Manager, Siri Evaluation",
+      "job_id": "200694917-0836",
+      "url": "https://jobs.apple.com/en-us/details/200694917-0836/engineering-program-manager-siri-evaluation?team=SFTWR"
     }
   }
 }
