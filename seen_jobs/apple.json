@@ -4,20 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200653191-3337": {
-      "first_seen": 1776207689.9404163,
-      "posted": "2026-04-14",
-      "title": "Sr. Full-Stack Engineer, App Store",
-      "job_id": "200653191-3337",
-      "url": "https://jobs.apple.com/en-us/details/200653191-3337/sr-full-stack-engineer-app-store?team=SFTWR"
-    },
-    "200657985-0836": {
-      "first_seen": 1776208294.0683997,
-      "posted": "2026-04-14",
-      "title": "Engineering Program Manager, Software Program Tools",
-      "job_id": "200657985-0836",
-      "url": "https://jobs.apple.com/en-us/details/200657985-0836/engineering-program-manager-software-program-tools?team=SFTWR"
-    },
     "200622831-0836": {
       "first_seen": 1776258109.782732,
       "posted": "2026-04-15",
@@ -21003,6 +20989,20 @@
       "title": "Generative AI Applied Scientist - Services Special Projects",
       "job_id": "200694831-0836",
       "url": "https://jobs.apple.com/en-us/details/200694831-0836/generative-ai-applied-scientist-services-special-projects?team=SFTWR"
+    },
+    "200694844-3337": {
+      "first_seen": 1794593535.0295386,
+      "posted": "2026-11-13",
+      "title": "Senior / Staff ML Engineer, Training Services, Apple Cloud AI",
+      "job_id": "200694844-3337",
+      "url": "https://jobs.apple.com/en-us/details/200694844-3337/senior-staff-ml-engineer-training-services-apple-cloud-ai?team=SFTWR"
+    },
+    "200694569-0836": {
+      "first_seen": 1794593535.0295436,
+      "posted": "2026-11-13",
+      "title": "Sr. Software Engineer - Distributed Storage",
+      "job_id": "200694569-0836",
+      "url": "https://jobs.apple.com/en-us/details/200694569-0836/sr-software-engineer-distributed-storage?team=SFTWR"
     }
   }
 }
