@@ -4,20 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200622831-0836": {
-      "first_seen": 1776258109.782732,
-      "posted": "2026-04-15",
-      "title": "Infrastructure Software Engineer",
-      "job_id": "200622831-0836",
-      "url": "https://jobs.apple.com/en-us/details/200622831-0836/infrastructure-software-engineer?team=SFTWR"
-    },
-    "200656402-0157": {
-      "first_seen": 1776268290.5974333,
-      "posted": "2026-04-15",
-      "title": "Engineering Project Manager (SAP), IS&T Enterprise Systems",
-      "job_id": "200656402-0157",
-      "url": "https://jobs.apple.com/en-us/details/200656402-0157/engineering-project-manager-sap-is-t-enterprise-systems?team=SFTWR"
-    },
     "200646258-0157": {
       "first_seen": 1776268892.1175628,
       "posted": "2026-04-15",
@@ -21003,6 +20989,20 @@
       "title": "Sr. Software Engineer - Distributed Storage",
       "job_id": "200694569-0836",
       "url": "https://jobs.apple.com/en-us/details/200694569-0836/sr-software-engineer-distributed-storage?team=SFTWR"
+    },
+    "200694991-1025": {
+      "first_seen": 1794602523.9080653,
+      "posted": "2026-11-13",
+      "title": "Network Circuit Provisioning Manager, Infrastructure Services",
+      "job_id": "200694991-1025",
+      "url": "https://jobs.apple.com/en-us/details/200694991-1025/network-circuit-provisioning-manager-infrastructure-services?team=SFTWR"
+    },
+    "200694977-0836": {
+      "first_seen": 1794602523.908073,
+      "posted": "2026-11-13",
+      "title": "Embedded Systems Engineer",
+      "job_id": "200694977-0836",
+      "url": "https://jobs.apple.com/en-us/details/200694977-0836/embedded-systems-engineer?team=SFTWR"
     }
   }
 }
