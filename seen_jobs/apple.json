@@ -4,13 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200657731-0157": {
-      "first_seen": 1776271291.426465,
-      "posted": "2026-04-15",
-      "title": "Software Engineer (Enablon), G&A Solutions Engineering (GSE)",
-      "job_id": "200657731-0157",
-      "url": "https://jobs.apple.com/en-us/details/200657731-0157/software-engineer-enablon-g-a-solutions-engineering-gse?team=SFTWR"
-    },
     "200657877-0836": {
       "first_seen": 1776271291.4264674,
       "posted": "2026-04-15",
@@ -21003,6 +20996,13 @@
       "title": "Sr Software Engineer, Infrastructure Services",
       "job_id": "200694981-3401",
       "url": "https://jobs.apple.com/en-us/details/200694981-3401/sr-software-engineer-infrastructure-services?team=SFTWR"
+    },
+    "200694936-3956": {
+      "first_seen": 1794610287.3243413,
+      "posted": "2026-11-13",
+      "title": "AR/VR Applications Engineer - visionOS Spatial Media, Vision Products Software",
+      "job_id": "200694936-3956",
+      "url": "https://jobs.apple.com/en-us/details/200694936-3956/ar-vr-applications-engineer-visionos-spatial-media-vision-products-software?team=SFTWR"
     }
   }
 }
