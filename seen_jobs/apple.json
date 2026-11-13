@@ -4,20 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200655798-0157": {
-      "first_seen": 1776271938.5898952,
-      "posted": "2026-04-15",
-      "title": "Americas Business Process Re-Engineering Data Engineer",
-      "job_id": "200655798-0157",
-      "url": "https://jobs.apple.com/en-us/details/200655798-0157/americas-business-process-re-engineering-data-engineer?team=SFTWR"
-    },
-    "200657016-0157": {
-      "first_seen": 1776271938.5898998,
-      "posted": "2026-04-15",
-      "title": "Software Application Support Engineer, Retail Engineering Ops & Support (GSE)",
-      "job_id": "200657016-0157",
-      "url": "https://jobs.apple.com/en-us/details/200657016-0157/software-application-support-engineer-retail-engineering-ops-support-gse?team=SFTWR"
-    },
     "200655355-0157": {
       "first_seen": 1776276091.046395,
       "posted": "2026-04-15",
@@ -21003,6 +20989,20 @@
       "title": "Senior Software Power Systems Engineer",
       "job_id": "200694630-3543",
       "url": "https://jobs.apple.com/en-us/details/200694630-3543/senior-software-power-systems-engineer?team=SFTWR"
+    },
+    "200694527-0836": {
+      "first_seen": 1794612120.156649,
+      "posted": "2026-11-13",
+      "title": "Sr. Software Engineer, Distributed Systems - Platform Apps & Technologies",
+      "job_id": "200694527-0836",
+      "url": "https://jobs.apple.com/en-us/details/200694527-0836/sr-software-engineer-distributed-systems-platform-apps-technologies?team=SFTWR"
+    },
+    "200694125-0836": {
+      "first_seen": 1794612120.1566532,
+      "posted": "2026-11-13",
+      "title": "Core Audio Software Engineer",
+      "job_id": "200694125-0836",
+      "url": "https://jobs.apple.com/en-us/details/200694125-0836/core-audio-software-engineer?team=SFTWR"
     }
   }
 }
