@@ -4,27 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200657307-3956": {
-      "first_seen": 1776186697.0737836,
-      "posted": "2026-04-14",
-      "title": "Software Development Engineer, Vision Products Group",
-      "job_id": "200657307-3956",
-      "url": "https://jobs.apple.com/en-us/details/200657307-3956/software-development-engineer-vision-products-group?team=SFTWR"
-    },
-    "200657818-3337": {
-      "first_seen": 1776190288.316863,
-      "posted": "2026-04-14",
-      "title": "Engineering Program Manager, Cloud Compute, Apple Services Engineering",
-      "job_id": "200657818-3337",
-      "url": "https://jobs.apple.com/en-us/details/200657818-3337/engineering-program-manager-cloud-compute-apple-services-engineering?team=SFTWR"
-    },
-    "200657880-0836": {
-      "first_seen": 1776192691.5363784,
-      "posted": "2026-04-14",
-      "title": "Applied ML, Software Engineer - Sensing & Connectivity",
-      "job_id": "200657880-0836",
-      "url": "https://jobs.apple.com/en-us/details/200657880-0836/applied-ml-software-engineer-sensing-connectivity?team=SFTWR"
-    },
     "200657880-3543": {
       "first_seen": 1776192691.5363853,
       "posted": "2026-04-14",
@@ -21003,6 +20982,27 @@
       "title": "UI Software Engineer - Apple TV",
       "job_id": "200694832-3543",
       "url": "https://jobs.apple.com/en-us/details/200694832-3543/ui-software-engineer-apple-tv?team=SFTWR"
+    },
+    "200694842-0836": {
+      "first_seen": 1794574912.9623878,
+      "posted": "2026-11-13",
+      "title": "Software Engineer, Apple Ads",
+      "job_id": "200694842-0836",
+      "url": "https://jobs.apple.com/en-us/details/200694842-0836/software-engineer-apple-ads?team=SFTWR"
+    },
+    "200694852-0836": {
+      "first_seen": 1794574912.962394,
+      "posted": "2026-11-13",
+      "title": "Machine Learning Engineer",
+      "job_id": "200694852-0836",
+      "url": "https://jobs.apple.com/en-us/details/200694852-0836/machine-learning-engineer?team=SFTWR"
+    },
+    "200693291-0836": {
+      "first_seen": 1794574912.9623964,
+      "posted": "2026-11-13",
+      "title": "Software Development Engineer, Test Tooling",
+      "job_id": "200693291-0836",
+      "url": "https://jobs.apple.com/en-us/details/200693291-0836/software-development-engineer-test-tooling?team=SFTWR"
     }
   }
 }
