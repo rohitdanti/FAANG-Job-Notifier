@@ -4,20 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200652965-0670": {
-      "first_seen": 1776300090.7440424,
-      "posted": "2026-04-16",
-      "title": "Technical Project Manager, Hardware Deployment, Employee Experience & Productivity",
-      "job_id": "200652965-0670",
-      "url": "https://jobs.apple.com/en-us/details/200652965-0670/technical-project-manager-hardware-deployment-employee-experience-productivity?team=SFTWR"
-    },
-    "200658196-0836": {
-      "first_seen": 1776304284.7787457,
-      "posted": "2026-04-16",
-      "title": "Site Reliability Engineer \u2014 Human Engineering",
-      "job_id": "200658196-0836",
-      "url": "https://jobs.apple.com/en-us/details/200658196-0836/site-reliability-engineer-human-engineering?team=SFTWR"
-    },
     "200604200-0836": {
       "first_seen": 1776355893.4006026,
       "posted": "2026-04-16",
@@ -21003,6 +20989,20 @@
       "title": "Software Engineer, Freeform Application",
       "job_id": "200693159-3673",
       "url": "https://jobs.apple.com/en-us/details/200693159-3673/software-engineer-freeform-application?team=SFTWR"
+    },
+    "200693162-0836": {
+      "first_seen": 1794853956.6406717,
+      "posted": "2026-11-16",
+      "title": "Application Software Engineer, Productivity Apps",
+      "job_id": "200693162-0836",
+      "url": "https://jobs.apple.com/en-us/details/200693162-0836/application-software-engineer-productivity-apps?team=SFTWR"
+    },
+    "200693162-2926": {
+      "first_seen": 1794853956.6406758,
+      "posted": "2026-11-16",
+      "title": "Application Software Engineer, Productivity Apps",
+      "job_id": "200693162-2926",
+      "url": "https://jobs.apple.com/en-us/details/200693162-2926/application-software-engineer-productivity-apps?team=SFTWR"
     }
   }
 }
