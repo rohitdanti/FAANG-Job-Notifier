@@ -4,20 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200658440-3543": {
-      "first_seen": 1776378094.9876275,
-      "posted": "2026-04-16",
-      "title": "Clinical Analyst",
-      "job_id": "200658440-3543",
-      "url": "https://jobs.apple.com/en-us/details/200658440-3543/clinical-analyst?team=SFTWR"
-    },
-    "200658440-3337": {
-      "first_seen": 1776378094.9876285,
-      "posted": "2026-04-16",
-      "title": "Clinical Analyst",
-      "job_id": "200658440-3337",
-      "url": "https://jobs.apple.com/en-us/details/200658440-3337/clinical-analyst?team=SFTWR"
-    },
     "200658047-0157": {
       "first_seen": 1776379285.708677,
       "posted": "2026-04-16",
@@ -21003,6 +20989,20 @@
       "title": "Sr. Swift Standard Libraries Engineer",
       "job_id": "200695246-0836",
       "url": "https://jobs.apple.com/en-us/details/200695246-0836/sr-swift-standard-libraries-engineer?team=SFTWR"
+    },
+    "200694951-3577": {
+      "first_seen": 1794868941.0264246,
+      "posted": "2026-11-16",
+      "title": "AR/VR Software Engineer, Spatial Experiences - Vision Products Software",
+      "job_id": "200694951-3577",
+      "url": "https://jobs.apple.com/en-us/details/200694951-3577/ar-vr-software-engineer-spatial-experiences-vision-products-software?team=SFTWR"
+    },
+    "200694951-3956": {
+      "first_seen": 1794868941.0264287,
+      "posted": "2026-11-16",
+      "title": "AR/VR Software Engineer, Spatial Experiences - Vision Products Software",
+      "job_id": "200694951-3956",
+      "url": "https://jobs.apple.com/en-us/details/200694951-3956/ar-vr-software-engineer-spatial-experiences-vision-products-software?team=SFTWR"
     }
   }
 }
