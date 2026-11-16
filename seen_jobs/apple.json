@@ -4,34 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200658200-3337": {
-      "first_seen": 1776287496.8952947,
-      "posted": "2026-04-15",
-      "title": "Software Development Engineer in Test (SDET), Video Apps",
-      "job_id": "200658200-3337",
-      "url": "https://jobs.apple.com/en-us/details/200658200-3337/software-development-engineer-in-test-sdet-video-apps?team=SFTWR"
-    },
-    "200657244-0836": {
-      "first_seen": 1776292286.6715012,
-      "posted": "2026-04-15",
-      "title": "Screening & Integration Engineer, Watch Software",
-      "job_id": "200657244-0836",
-      "url": "https://jobs.apple.com/en-us/details/200657244-0836/screening-integration-engineer-watch-software?team=SFTWR"
-    },
-    "200657244-3543": {
-      "first_seen": 1776292286.6715052,
-      "posted": "2026-04-15",
-      "title": "Screening & Integration Engineer, Watch Software",
-      "job_id": "200657244-3543",
-      "url": "https://jobs.apple.com/en-us/details/200657244-3543/screening-integration-engineer-watch-software?team=SFTWR"
-    },
-    "200585184-0157": {
-      "first_seen": 1776297088.177396,
-      "posted": "2026-04-15",
-      "title": "Software Engineer (GenAI Evaluations), AI & Data Platforms (AiDP)",
-      "job_id": "200585184-0157",
-      "url": "https://jobs.apple.com/en-us/details/200585184-0157/software-engineer-genai-evaluations-ai-data-platforms-aidp?team=SFTWR"
-    },
     "200657848-0157": {
       "first_seen": 1776297691.560349,
       "posted": "2026-04-16",
@@ -21003,6 +20975,34 @@
       "title": "Systems Software Engineer, Platform Architecture",
       "job_id": "200695051-1242",
       "url": "https://jobs.apple.com/en-us/details/200695051-1242/systems-software-engineer-platform-architecture?team=SFTWR"
+    },
+    "200694950-0157": {
+      "first_seen": 1794834147.211512,
+      "posted": "2026-11-16",
+      "title": "System Integration Lead",
+      "job_id": "200694950-0157",
+      "url": "https://jobs.apple.com/en-us/details/200694950-0157/system-integration-lead?team=SFTWR"
+    },
+    "200694950-0836": {
+      "first_seen": 1794834147.2115152,
+      "posted": "2026-11-16",
+      "title": "System Integration Lead",
+      "job_id": "200694950-0836",
+      "url": "https://jobs.apple.com/en-us/details/200694950-0836/system-integration-lead?team=SFTWR"
+    },
+    "200695047-0836": {
+      "first_seen": 1794834147.2115166,
+      "posted": "2026-11-16",
+      "title": "Staff / Principal ML Infrastructure Engineer",
+      "job_id": "200695047-0836",
+      "url": "https://jobs.apple.com/en-us/details/200695047-0836/staff-principal-ml-infrastructure-engineer?team=SFTWR"
+    },
+    "200694964-3337": {
+      "first_seen": 1794834147.2115238,
+      "posted": "2026-11-16",
+      "title": "AIML - Sr. LLM Inference Quality Engineer",
+      "job_id": "200694964-3337",
+      "url": "https://jobs.apple.com/en-us/details/200694964-3337/aiml-sr-llm-inference-quality-engineer?team=SFTWR"
     }
   }
 }
