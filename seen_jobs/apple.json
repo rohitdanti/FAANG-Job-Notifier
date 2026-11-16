@@ -4,27 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200658047-0157": {
-      "first_seen": 1776379285.708677,
-      "posted": "2026-04-16",
-      "title": "PMO Operations Manager, SAP Landscape Modernization",
-      "job_id": "200658047-0157",
-      "url": "https://jobs.apple.com/en-us/details/200658047-0157/pmo-operations-manager-sap-landscape-modernization?team=SFTWR"
-    },
-    "200658047-3956": {
-      "first_seen": 1776379285.708681,
-      "posted": "2026-04-16",
-      "title": "PMO Operations Manager, SAP Landscape Modernization",
-      "job_id": "200658047-3956",
-      "url": "https://jobs.apple.com/en-us/details/200658047-3956/pmo-operations-manager-sap-landscape-modernization?team=SFTWR"
-    },
-    "200654462-0836": {
-      "first_seen": 1776380667.3518353,
-      "posted": "2026-04-16",
-      "title": "Software Engineer- iOS Engineer - SpringBoard Multitasking - System Experience",
-      "job_id": "200654462-0836",
-      "url": "https://jobs.apple.com/en-us/details/200654462-0836/software-engineer-ios-engineer-springboard-multitasking-system-experience?team=SFTWR"
-    },
     "200658419-0836": {
       "first_seen": 1776381707.3766093,
       "posted": "2026-04-16",
@@ -21003,6 +20982,27 @@
       "title": "AR/VR Software Engineer, Spatial Experiences - Vision Products Software",
       "job_id": "200694951-3956",
       "url": "https://jobs.apple.com/en-us/details/200694951-3956/ar-vr-software-engineer-spatial-experiences-vision-products-software?team=SFTWR"
+    },
+    "200695197-0240": {
+      "first_seen": 1794870101.3701587,
+      "posted": "2026-11-16",
+      "title": "Retail Network Engineer, Infrastructure Services",
+      "job_id": "200695197-0240",
+      "url": "https://jobs.apple.com/en-us/details/200695197-0240/retail-network-engineer-infrastructure-services?team=SFTWR"
+    },
+    "200695044-0157": {
+      "first_seen": 1794870101.3701627,
+      "posted": "2026-11-16",
+      "title": "Sr. Software Engineer (Framework Solutions), AI & Data Platforms (AiDP)",
+      "job_id": "200695044-0157",
+      "url": "https://jobs.apple.com/en-us/details/200695044-0157/sr-software-engineer-framework-solutions-ai-data-platforms-aidp?team=SFTWR"
+    },
+    "200695044-3956": {
+      "first_seen": 1794870101.3701642,
+      "posted": "2026-11-16",
+      "title": "Sr. Software Engineer (Framework Solutions), AI & Data Platforms (AiDP)",
+      "job_id": "200695044-3956",
+      "url": "https://jobs.apple.com/en-us/details/200695044-3956/sr-software-engineer-framework-solutions-ai-data-platforms-aidp?team=SFTWR"
     }
   }
 }
