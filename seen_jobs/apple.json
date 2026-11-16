@@ -4,13 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200658427-0836": {
-      "first_seen": 1776367289.0197873,
-      "posted": "2026-04-16",
-      "title": "AI/ML - Senior OS Software Engineer, Evaluation",
-      "job_id": "200658427-0836",
-      "url": "https://jobs.apple.com/en-us/details/200658427-0836/ai-ml-senior-os-software-engineer-evaluation?team=SFTWR"
-    },
     "200658428-3337": {
       "first_seen": 1776369100.5587895,
       "posted": "2026-04-16",
@@ -21003,6 +20996,13 @@
       "title": "iOS Software Engineer - Video Applications",
       "job_id": "200695213-3673",
       "url": "https://jobs.apple.com/en-us/details/200695213-3673/ios-software-engineer-video-applications?team=SFTWR"
+    },
+    "200695284-3337": {
+      "first_seen": 1794861761.2760787,
+      "posted": "2026-11-16",
+      "title": "AI Measurement Scientist, AI Evaluation Platform",
+      "job_id": "200695284-3337",
+      "url": "https://jobs.apple.com/en-us/details/200695284-3337/ai-measurement-scientist-ai-evaluation-platform?team=SFTWR"
     }
   }
 }
