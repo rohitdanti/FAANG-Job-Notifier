@@ -4,27 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200657848-0157": {
-      "first_seen": 1776297691.560349,
-      "posted": "2026-04-16",
-      "title": "ML Data Operations Lead, Wallet, Payment & Commerce",
-      "job_id": "200657848-0157",
-      "url": "https://jobs.apple.com/en-us/details/200657848-0157/ml-data-operations-lead-wallet-payment-commerce?team=SFTWR"
-    },
-    "200657889-0670": {
-      "first_seen": 1776297691.560354,
-      "posted": "2026-04-16",
-      "title": "App Store Marketing Data Scientist",
-      "job_id": "200657889-0670",
-      "url": "https://jobs.apple.com/en-us/details/200657889-0670/app-store-marketing-data-scientist?team=SFTWR"
-    },
-    "200652952-0670": {
-      "first_seen": 1776300090.7440376,
-      "posted": "2026-04-16",
-      "title": "Production Support Engineer, Employee Experience & Productivity",
-      "job_id": "200652952-0670",
-      "url": "https://jobs.apple.com/en-us/details/200652952-0670/production-support-engineer-employee-experience-productivity?team=SFTWR"
-    },
     "200652965-0670": {
       "first_seen": 1776300090.7440424,
       "posted": "2026-04-16",
@@ -21003,6 +20982,27 @@
       "title": "AIML - Sr. LLM Inference Quality Engineer",
       "job_id": "200694964-3337",
       "url": "https://jobs.apple.com/en-us/details/200694964-3337/aiml-sr-llm-inference-quality-engineer?team=SFTWR"
+    },
+    "200695206-0836": {
+      "first_seen": 1794852748.8114088,
+      "posted": "2026-11-16",
+      "title": "Software Development Engineer",
+      "job_id": "200695206-0836",
+      "url": "https://jobs.apple.com/en-us/details/200695206-0836/software-development-engineer?team=SFTWR"
+    },
+    "200693159-2926": {
+      "first_seen": 1794852748.8114128,
+      "posted": "2026-11-16",
+      "title": "Software Engineer, Freeform Application",
+      "job_id": "200693159-2926",
+      "url": "https://jobs.apple.com/en-us/details/200693159-2926/software-engineer-freeform-application?team=SFTWR"
+    },
+    "200693159-3673": {
+      "first_seen": 1794852748.811414,
+      "posted": "2026-11-16",
+      "title": "Software Engineer, Freeform Application",
+      "job_id": "200693159-3673",
+      "url": "https://jobs.apple.com/en-us/details/200693159-3673/software-engineer-freeform-application?team=SFTWR"
     }
   }
 }
