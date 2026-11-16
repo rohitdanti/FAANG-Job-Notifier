@@ -4,20 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200604200-0836": {
-      "first_seen": 1776355893.4006026,
-      "posted": "2026-04-16",
-      "title": "Senior Software Engineer, Apple Ads",
-      "job_id": "200604200-0836",
-      "url": "https://jobs.apple.com/en-us/details/200604200-0836/senior-software-engineer-apple-ads?team=SFTWR"
-    },
-    "200630865-0157": {
-      "first_seen": 1776363089.4992619,
-      "posted": "2026-04-16",
-      "title": "Software Engineer, Apple Ads",
-      "job_id": "200630865-0157",
-      "url": "https://jobs.apple.com/en-us/details/200630865-0157/software-engineer-apple-ads?team=SFTWR"
-    },
     "200630865-0836": {
       "first_seen": 1776363089.4992673,
       "posted": "2026-04-16",
@@ -21003,6 +20989,20 @@
       "title": "Application Software Engineer, Productivity Apps",
       "job_id": "200693162-2926",
       "url": "https://jobs.apple.com/en-us/details/200693162-2926/application-software-engineer-productivity-apps?team=SFTWR"
+    },
+    "200694970-3337": {
+      "first_seen": 1794855708.8859124,
+      "posted": "2026-11-16",
+      "title": "Software Engineering Manager, AIML \u2014 LLM Inference Quality",
+      "job_id": "200694970-3337",
+      "url": "https://jobs.apple.com/en-us/details/200694970-3337/software-engineering-manager-aiml-llm-inference-quality?team=SFTWR"
+    },
+    "200695247-3337": {
+      "first_seen": 1794855708.8859167,
+      "posted": "2026-11-16",
+      "title": "Senior Software Engineer: CloudOS Build Quality and Release",
+      "job_id": "200695247-3337",
+      "url": "https://jobs.apple.com/en-us/details/200695247-3337/senior-software-engineer-cloudos-build-quality-and-release?team=SFTWR"
     }
   }
 }
