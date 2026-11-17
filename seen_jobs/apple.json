@@ -4,13 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200621474-3337": {
-      "first_seen": 1776707493.0618956,
-      "posted": "2026-04-20",
-      "title": "Sr Software Developer / Site Reliability Engineer - ASE iCloud Content",
-      "job_id": "200621474-3337",
-      "url": "https://jobs.apple.com/en-us/details/200621474-3337/sr-software-developer-site-reliability-engineer-ase-icloud-content?team=SFTWR"
-    },
     "200658937-3337": {
       "first_seen": 1776720694.070798,
       "posted": "2026-04-20",
@@ -21003,6 +20996,13 @@
       "title": "Senior Engineering Manager - Apple Cloud Storage Infrastructure",
       "job_id": "200691271-3337",
       "url": "https://jobs.apple.com/en-us/details/200691271-3337/senior-engineering-manager-apple-cloud-storage-infrastructure?team=SFTWR"
+    },
+    "200692052-0836": {
+      "first_seen": 1794956128.9832537,
+      "posted": "2026-11-17",
+      "title": "International Principal Regulatory Associate",
+      "job_id": "200692052-0836",
+      "url": "https://jobs.apple.com/en-us/details/200692052-0836/international-principal-regulatory-associate?team=SFTWR"
     }
   }
 }
