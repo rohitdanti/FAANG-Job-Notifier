@@ -4,13 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200651673-0836": {
-      "first_seen": 1776469288.5346372,
-      "posted": "2026-04-17",
-      "title": "Software Engineer - Distributed Systems, Compute Platform",
-      "job_id": "200651673-0836",
-      "url": "https://jobs.apple.com/en-us/details/200651673-0836/software-engineer-distributed-systems-compute-platform?team=SFTWR"
-    },
     "200642870-0836": {
       "first_seen": 1776469288.5346448,
       "posted": "2026-04-17",
@@ -21003,6 +20996,13 @@
       "title": "Site Reliability Engineer \u2014 Info Apps",
       "job_id": "200695296-3543",
       "url": "https://jobs.apple.com/en-us/details/200695296-3543/site-reliability-engineer-info-apps?team=SFTWR"
+    },
+    "200695484-0836": {
+      "first_seen": 1794953498.0025132,
+      "posted": "2026-11-17",
+      "title": "Software Development Engineer - Location Technologies, Sensing & Connectivity",
+      "job_id": "200695484-0836",
+      "url": "https://jobs.apple.com/en-us/details/200695484-0836/software-development-engineer-location-technologies-sensing-connectivity?team=SFTWR"
     }
   }
 }
