@@ -4,13 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200657934-0836": {
-      "first_seen": 1776454891.6077392,
-      "posted": "2026-04-17",
-      "title": "Data Scientist - Synthetic Data and ML Evaluations - Special Projects",
-      "job_id": "200657934-0836",
-      "url": "https://jobs.apple.com/en-us/details/200657934-0836/data-scientist-synthetic-data-and-ml-evaluations-special-projects?team=SFTWR"
-    },
     "200655585-0157": {
       "first_seen": 1776454891.6077476,
       "posted": "2026-04-17",
@@ -21003,6 +20996,13 @@
       "title": "Quality Engineer - Health Software",
       "job_id": "200695466-3956",
       "url": "https://jobs.apple.com/en-us/details/200695466-3956/quality-engineer-health-software?team=SFTWR"
+    },
+    "200695462-3337": {
+      "first_seen": 1794943904.9745948,
+      "posted": "2026-11-17",
+      "title": "Software Development Engineer, Vision Products Software",
+      "job_id": "200695462-3337",
+      "url": "https://jobs.apple.com/en-us/details/200695462-3337/software-development-engineer-vision-products-software?team=SFTWR"
     }
   }
 }
