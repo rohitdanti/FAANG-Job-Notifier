@@ -4,13 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200658522-0836": {
-      "first_seen": 1776462698.4702098,
-      "posted": "2026-04-17",
-      "title": "Senior Software Engineer - Compute",
-      "job_id": "200658522-0836",
-      "url": "https://jobs.apple.com/en-us/details/200658522-0836/senior-software-engineer-compute?team=SFTWR"
-    },
     "200658219-3337": {
       "first_seen": 1776463296.6507475,
       "posted": "2026-04-17",
@@ -21003,6 +20996,13 @@
       "title": "Senior Data Engineer - Business & Education",
       "job_id": "200695530-3337",
       "url": "https://jobs.apple.com/en-us/details/200695530-3337/senior-data-engineer-business-education?team=SFTWR"
+    },
+    "200695488-0836": {
+      "first_seen": 1794951719.528696,
+      "posted": "2026-11-17",
+      "title": "Senior Engineering Manager, Agentic AI - Proactive",
+      "job_id": "200695488-0836",
+      "url": "https://jobs.apple.com/en-us/details/200695488-0836/senior-engineering-manager-agentic-ai-proactive?team=SFTWR"
     }
   }
 }
