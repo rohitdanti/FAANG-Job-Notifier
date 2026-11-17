@@ -4,20 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200658574-0836": {
-      "first_seen": 1776446485.7706425,
-      "posted": "2026-04-17",
-      "title": "Core Bring Up Engineer, Core OS",
-      "job_id": "200658574-0836",
-      "url": "https://jobs.apple.com/en-us/details/200658574-0836/core-bring-up-engineer-core-os?team=SFTWR"
-    },
-    "200657706-0157": {
-      "first_seen": 1776449488.6377184,
-      "posted": "2026-04-17",
-      "title": "Senior Frontend Software Engineer, Platform Engineering, Services Data Science & Analytics",
-      "job_id": "200657706-0157",
-      "url": "https://jobs.apple.com/en-us/details/200657706-0157/senior-frontend-software-engineer-platform-engineering-services-data-science-analytics?team=SFTWR"
-    },
     "200629526-3956": {
       "first_seen": 1776449488.637723,
       "posted": "2026-04-17",
@@ -21003,6 +20989,20 @@
       "title": "Senior Software Engineer",
       "job_id": "200656816-0157",
       "url": "https://jobs.apple.com/en-us/details/200656816-0157/senior-software-engineer?team=SFTWR"
+    },
+    "200672384-0836": {
+      "first_seen": 1794940975.0908954,
+      "posted": "2026-11-17",
+      "title": "Staff Software Engineer, Retail & Marcom Engineering",
+      "job_id": "200672384-0836",
+      "url": "https://jobs.apple.com/en-us/details/200672384-0836/staff-software-engineer-retail-marcom-engineering?team=SFTWR"
+    },
+    "200672384-3956": {
+      "first_seen": 1794940975.0909007,
+      "posted": "2026-11-17",
+      "title": "Staff Software Engineer, Retail & Marcom Engineering",
+      "job_id": "200672384-3956",
+      "url": "https://jobs.apple.com/en-us/details/200672384-3956/staff-software-engineer-retail-marcom-engineering?team=SFTWR"
     }
   }
 }
