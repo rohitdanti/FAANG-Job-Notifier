@@ -4,20 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200658504-0836": {
-      "first_seen": 1776430896.542294,
-      "posted": "2026-04-17",
-      "title": "AIML Privacy-Engineering Rotation",
-      "job_id": "200658504-0836",
-      "url": "https://jobs.apple.com/en-us/details/200658504-0836/aiml-privacy-engineering-rotation?team=SFTWR"
-    },
-    "200658504-3337": {
-      "first_seen": 1776430896.5422978,
-      "posted": "2026-04-17",
-      "title": "AIML Privacy-Engineering Rotation",
-      "job_id": "200658504-3337",
-      "url": "https://jobs.apple.com/en-us/details/200658504-3337/aiml-privacy-engineering-rotation?team=SFTWR"
-    },
     "200657699-0836": {
       "first_seen": 1776430896.5422995,
       "posted": "2026-04-17",
@@ -21003,6 +20989,20 @@
       "title": "Software Engineer, Application Developer Experience",
       "job_id": "200695237-3337",
       "url": "https://jobs.apple.com/en-us/details/200695237-3337/software-engineer-application-developer-experience?team=SFTWR"
+    },
+    "200695285-3956": {
+      "first_seen": 1794877885.970426,
+      "posted": "2026-11-17",
+      "title": "Senior Software Engineer, Vision Products Software",
+      "job_id": "200695285-3956",
+      "url": "https://jobs.apple.com/en-us/details/200695285-3956/senior-software-engineer-vision-products-software?team=SFTWR"
+    },
+    "200693792-0836": {
+      "first_seen": 1794877885.9704313,
+      "posted": "2026-11-17",
+      "title": "Xcode Source Editor Engineer",
+      "job_id": "200693792-0836",
+      "url": "https://jobs.apple.com/en-us/details/200693792-0836/xcode-source-editor-engineer?team=SFTWR"
     }
   }
 }
