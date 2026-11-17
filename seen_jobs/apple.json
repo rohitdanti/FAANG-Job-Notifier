@@ -4,13 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200658446-5635": {
-      "first_seen": 1776387114.5163546,
-      "posted": "2026-04-17",
-      "title": "Engineering Program Manager, Data Center Operations",
-      "job_id": "200658446-5635",
-      "url": "https://jobs.apple.com/en-us/details/200658446-5635/engineering-program-manager-data-center-operations?team=SFTWR"
-    },
     "200658504-0836": {
       "first_seen": 1776430896.542294,
       "posted": "2026-04-17",
@@ -21003,6 +20996,13 @@
       "title": "Optical Network Engineer, Infrastructure Services",
       "job_id": "200695000-3956",
       "url": "https://jobs.apple.com/en-us/details/200695000-3956/optical-network-engineer-infrastructure-services?team=SFTWR"
+    },
+    "200695237-3337": {
+      "first_seen": 1794874307.284596,
+      "posted": "2026-11-17",
+      "title": "Software Engineer, Application Developer Experience",
+      "job_id": "200695237-3337",
+      "url": "https://jobs.apple.com/en-us/details/200695237-3337/software-engineer-application-developer-experience?team=SFTWR"
     }
   }
 }
