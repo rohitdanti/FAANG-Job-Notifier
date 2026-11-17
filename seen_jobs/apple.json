@@ -4,20 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200654982-3337": {
-      "first_seen": 1776459697.5099509,
-      "posted": "2026-04-17",
-      "title": "Sr. Software Engineer, App Processing",
-      "job_id": "200654982-3337",
-      "url": "https://jobs.apple.com/en-us/details/200654982-3337/sr-software-engineer-app-processing?team=SFTWR"
-    },
-    "200658596-0836": {
-      "first_seen": 1776461489.2402759,
-      "posted": "2026-04-17",
-      "title": "On-Device ML Infrastructure Engineer (CoreML Runtime), Graphics, Games & ML",
-      "job_id": "200658596-0836",
-      "url": "https://jobs.apple.com/en-us/details/200658596-0836/on-device-ml-infrastructure-engineer-coreml-runtime-graphics-games-ml?team=SFTWR"
-    },
     "200658522-0836": {
       "first_seen": 1776462698.4702098,
       "posted": "2026-04-17",
@@ -21003,6 +20989,20 @@
       "title": "Network Engineer, Infrastructure Services",
       "job_id": "200695356-3401",
       "url": "https://jobs.apple.com/en-us/details/200695356-3401/network-engineer-infrastructure-services?team=SFTWR"
+    },
+    "200695530-0836": {
+      "first_seen": 1794951133.8993313,
+      "posted": "2026-11-17",
+      "title": "Senior Data Engineer - Business & Education",
+      "job_id": "200695530-0836",
+      "url": "https://jobs.apple.com/en-us/details/200695530-0836/senior-data-engineer-business-education?team=SFTWR"
+    },
+    "200695530-3337": {
+      "first_seen": 1794951133.8993351,
+      "posted": "2026-11-17",
+      "title": "Senior Data Engineer - Business & Education",
+      "job_id": "200695530-3337",
+      "url": "https://jobs.apple.com/en-us/details/200695530-3337/senior-data-engineer-business-education?team=SFTWR"
     }
   }
 }
