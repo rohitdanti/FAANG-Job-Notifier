@@ -4,13 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200657795-0157": {
-      "first_seen": 1776721286.3545372,
-      "posted": "2026-04-20",
-      "title": "Software Development Engineer - Apps, Enterprise Technology Services",
-      "job_id": "200657795-0157",
-      "url": "https://jobs.apple.com/en-us/details/200657795-0157/software-development-engineer-apps-enterprise-technology-services?team=SFTWR"
-    },
     "200658879-0157": {
       "first_seen": 1776724888.0873802,
       "posted": "2026-04-20",
@@ -21003,6 +20996,13 @@
       "title": "Content Developer- Retail & Marcom Engineering",
       "job_id": "200694660-3956",
       "url": "https://jobs.apple.com/en-us/details/200694660-3956/content-developer-retail-marcom-engineering?team=SFTWR"
+    },
+    "200695556-0836": {
+      "first_seen": 1794958908.9237707,
+      "posted": "2026-11-17",
+      "title": "Senior Machine Learning Engineer, Conversational AI - Services Special Projects",
+      "job_id": "200695556-0836",
+      "url": "https://jobs.apple.com/en-us/details/200695556-0836/senior-machine-learning-engineer-conversational-ai-services-special-projects?team=SFTWR"
     }
   }
 }
