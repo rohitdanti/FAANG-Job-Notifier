@@ -4,48 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200656953-0836": {
-      "first_seen": 1776729688.9467683,
-      "posted": "2026-04-21",
-      "title": "Xcode Source Editor Engineer",
-      "job_id": "200656953-0836",
-      "url": "https://jobs.apple.com/en-us/details/200656953-0836/xcode-source-editor-engineer?team=SFTWR"
-    },
-    "200658892-0157": {
-      "first_seen": 1776730290.2672799,
-      "posted": "2026-04-21",
-      "title": "Software Device Driver Engineer - Core I/O, Core OS",
-      "job_id": "200658892-0157",
-      "url": "https://jobs.apple.com/en-us/details/200658892-0157/software-device-driver-engineer-core-i-o-core-os?team=SFTWR"
-    },
-    "200659015-0836": {
-      "first_seen": 1776730901.3287232,
-      "posted": "2026-04-21",
-      "title": "Engineering Project Manager - Health",
-      "job_id": "200659015-0836",
-      "url": "https://jobs.apple.com/en-us/details/200659015-0836/engineering-project-manager-health?team=SFTWR"
-    },
-    "200658487-0157": {
-      "first_seen": 1776732097.3971682,
-      "posted": "2026-04-21",
-      "title": "Software & Tools Engineering Project Manager",
-      "job_id": "200658487-0157",
-      "url": "https://jobs.apple.com/en-us/details/200658487-0157/software-tools-engineering-project-manager?team=SFTWR"
-    },
-    "200658730-1902": {
-      "first_seen": 1776776496.078697,
-      "posted": "2026-04-21",
-      "title": "Critical Facilities Technician, Data Center Operations",
-      "job_id": "200658730-1902",
-      "url": "https://jobs.apple.com/en-us/details/200658730-1902/critical-facilities-technician-data-center-operations?team=SFTWR"
-    },
-    "200659002-6172": {
-      "first_seen": 1776776496.0787008,
-      "posted": "2026-04-21",
-      "title": "Data Center Technician, Data Center Operations",
-      "job_id": "200659002-6172",
-      "url": "https://jobs.apple.com/en-us/details/200659002-6172/data-center-technician-data-center-operations?team=SFTWR"
-    },
     "200658911-1025": {
       "first_seen": 1776790290.7433956,
       "posted": "2026-04-21",
@@ -21003,6 +20961,48 @@
       "title": "Swift Software Engineer, Productivity Apps",
       "job_id": "200694166-3673",
       "url": "https://jobs.apple.com/en-us/details/200694166-3673/swift-software-engineer-productivity-apps?team=SFTWR"
+    },
+    "200695239-0365": {
+      "first_seen": 1794969113.8798094,
+      "posted": "2026-11-18",
+      "title": "Software Engineer - Frameworks - Video Applications",
+      "job_id": "200695239-0365",
+      "url": "https://jobs.apple.com/en-us/details/200695239-0365/software-engineer-frameworks-video-applications?team=SFTWR"
+    },
+    "200695239-0670": {
+      "first_seen": 1794969113.879814,
+      "posted": "2026-11-18",
+      "title": "Software Engineer - Frameworks - Video Applications",
+      "job_id": "200695239-0670",
+      "url": "https://jobs.apple.com/en-us/details/200695239-0670/software-engineer-frameworks-video-applications?team=SFTWR"
+    },
+    "200695239-0836": {
+      "first_seen": 1794969113.8798158,
+      "posted": "2026-11-18",
+      "title": "Software Engineer - Frameworks - Video Applications",
+      "job_id": "200695239-0836",
+      "url": "https://jobs.apple.com/en-us/details/200695239-0836/software-engineer-frameworks-video-applications?team=SFTWR"
+    },
+    "200695239-3543": {
+      "first_seen": 1794969113.8798175,
+      "posted": "2026-11-18",
+      "title": "Software Engineer - Frameworks - Video Applications",
+      "job_id": "200695239-3543",
+      "url": "https://jobs.apple.com/en-us/details/200695239-3543/software-engineer-frameworks-video-applications?team=SFTWR"
+    },
+    "200695239-3337": {
+      "first_seen": 1794969113.879819,
+      "posted": "2026-11-18",
+      "title": "Software Engineer - Frameworks - Video Applications",
+      "job_id": "200695239-3337",
+      "url": "https://jobs.apple.com/en-us/details/200695239-3337/software-engineer-frameworks-video-applications?team=SFTWR"
+    },
+    "200695239-3673": {
+      "first_seen": 1794969113.8798203,
+      "posted": "2026-11-18",
+      "title": "Software Engineer - Frameworks - Video Applications",
+      "job_id": "200695239-3673",
+      "url": "https://jobs.apple.com/en-us/details/200695239-3673/software-engineer-frameworks-video-applications?team=SFTWR"
     }
   }
 }
