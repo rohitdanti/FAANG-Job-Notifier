@@ -4,20 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200659215-3577": {
-      "first_seen": 1776813687.6453748,
-      "posted": "2026-04-21",
-      "title": "UI Engineer, App Store",
-      "job_id": "200659215-3577",
-      "url": "https://jobs.apple.com/en-us/details/200659215-3577/ui-engineer-app-store?team=SFTWR"
-    },
-    "200659248-0157": {
-      "first_seen": 1776813687.64538,
-      "posted": "2026-04-21",
-      "title": "Software Engineer - SOC Power Management, Core OS",
-      "job_id": "200659248-0157",
-      "url": "https://jobs.apple.com/en-us/details/200659248-0157/software-engineer-soc-power-management-core-os?team=SFTWR"
-    },
     "200659214-0836": {
       "first_seen": 1776814289.4442632,
       "posted": "2026-04-21",
@@ -21003,6 +20989,20 @@
       "title": "AIML - Senior Privacy & Regulatory Compliance Engineer, Evaluation",
       "job_id": "200695812-0836",
       "url": "https://jobs.apple.com/en-us/details/200695812-0836/aiml-senior-privacy-regulatory-compliance-engineer-evaluation?team=SFTWR"
+    },
+    "200695454-0157": {
+      "first_seen": 1795045892.858738,
+      "posted": "2026-11-18",
+      "title": "Project Manager, Automation, Apple Store Online User Acceptance Testing (UAT)",
+      "job_id": "200695454-0157",
+      "url": "https://jobs.apple.com/en-us/details/200695454-0157/project-manager-automation-apple-store-online-user-acceptance-testing-uat?team=SFTWR"
+    },
+    "200695564-0365": {
+      "first_seen": 1795045892.858742,
+      "posted": "2026-11-18",
+      "title": "Audio Software Engineer, Vision Products Software",
+      "job_id": "200695564-0365",
+      "url": "https://jobs.apple.com/en-us/details/200695564-0365/audio-software-engineer-vision-products-software?team=SFTWR"
     }
   }
 }
