@@ -4,34 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200658911-1025": {
-      "first_seen": 1776790290.7433956,
-      "posted": "2026-04-21",
-      "title": "Optical Network Engineer",
-      "job_id": "200658911-1025",
-      "url": "https://jobs.apple.com/en-us/details/200658911-1025/optical-network-engineer?team=SFTWR"
-    },
-    "200658911": {
-      "first_seen": 1776790290.7434015,
-      "posted": "2026-04-21",
-      "title": "Optical Network Engineer",
-      "job_id": "200658911",
-      "url": "https://jobs.apple.com/en-us/details/200658911/optical-network-engineer?team=SFTWR"
-    },
-    "200658911-3401": {
-      "first_seen": 1776790290.7434034,
-      "posted": "2026-04-21",
-      "title": "Optical Network Engineer",
-      "job_id": "200658911-3401",
-      "url": "https://jobs.apple.com/en-us/details/200658911-3401/optical-network-engineer?team=SFTWR"
-    },
-    "200658914-1025": {
-      "first_seen": 1776790290.7434049,
-      "posted": "2026-04-21",
-      "title": "Senior Network Software Engineer",
-      "job_id": "200658914-1025",
-      "url": "https://jobs.apple.com/en-us/details/200658914-1025/senior-network-software-engineer?team=SFTWR"
-    },
     "200658914": {
       "first_seen": 1776790290.7434063,
       "posted": "2026-04-21",
@@ -21003,6 +20975,34 @@
       "title": "Software Engineer - Frameworks - Video Applications",
       "job_id": "200695239-3673",
       "url": "https://jobs.apple.com/en-us/details/200695239-3673/software-engineer-frameworks-video-applications?team=SFTWR"
+    },
+    "200694659-0836": {
+      "first_seen": 1795006902.2241628,
+      "posted": "2026-11-18",
+      "title": "Engineering Program Manager, Media Efficiency, Apple Services Engineering",
+      "job_id": "200694659-0836",
+      "url": "https://jobs.apple.com/en-us/details/200694659-0836/engineering-program-manager-media-efficiency-apple-services-engineering?team=SFTWR"
+    },
+    "200694659-3337": {
+      "first_seen": 1795006902.2241669,
+      "posted": "2026-11-18",
+      "title": "Engineering Program Manager, Media Efficiency, Apple Services Engineering",
+      "job_id": "200694659-3337",
+      "url": "https://jobs.apple.com/en-us/details/200694659-3337/engineering-program-manager-media-efficiency-apple-services-engineering?team=SFTWR"
+    },
+    "200694196-0365": {
+      "first_seen": 1795006902.2241688,
+      "posted": "2026-11-18",
+      "title": "Senior Software Engineer, Vision Products Software",
+      "job_id": "200694196-0365",
+      "url": "https://jobs.apple.com/en-us/details/200694196-0365/senior-software-engineer-vision-products-software?team=SFTWR"
+    },
+    "200685118-0240": {
+      "first_seen": 1795006902.2241797,
+      "posted": "2026-11-18",
+      "title": "Senior Software Engineer, Capacity Planning",
+      "job_id": "200685118-0240",
+      "url": "https://jobs.apple.com/en-us/details/200685118-0240/senior-software-engineer-capacity-planning?team=SFTWR"
     }
   }
 }
