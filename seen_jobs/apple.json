@@ -4,13 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200633181-3337": {
-      "first_seen": 1776790899.8708963,
-      "posted": "2026-04-21",
-      "title": "Staff Software Engineer",
-      "job_id": "200633181-3337",
-      "url": "https://jobs.apple.com/en-us/details/200633181-3337/staff-software-engineer?team=SFTWR"
-    },
     "200646727-1435": {
       "first_seen": 1776791490.2023177,
       "posted": "2026-04-21",
@@ -21003,6 +20996,13 @@
       "title": "Software Engineer, Satellite Operations",
       "job_id": "200695636-3749",
       "url": "https://jobs.apple.com/en-us/details/200695636-3749/software-engineer-satellite-operations?team=SFTWR"
+    },
+    "200695064-3956": {
+      "first_seen": 1795019514.5222285,
+      "posted": "2026-11-18",
+      "title": "Software Engineer (HANA), AI & Data Platforms (AiDP)",
+      "job_id": "200695064-3956",
+      "url": "https://jobs.apple.com/en-us/details/200695064-3956/software-engineer-hana-ai-data-platforms-aidp?team=SFTWR"
     }
   }
 }
