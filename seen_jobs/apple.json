@@ -4,13 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200653930-3543": {
-      "first_seen": 1776807093.2156868,
-      "posted": "2026-04-21",
-      "title": "AirPlay Third-Party Engineering Manager",
-      "job_id": "200653930-3543",
-      "url": "https://jobs.apple.com/en-us/details/200653930-3543/airplay-third-party-engineering-manager?team=SFTWR"
-    },
     "200635027-2459": {
       "first_seen": 1776807093.215692,
       "posted": "2026-04-21",
@@ -21003,6 +20996,13 @@
       "title": "Engineering Manager, Private Cloud Compute Inference Routing",
       "job_id": "200695783-3337",
       "url": "https://jobs.apple.com/en-us/details/200695783-3337/engineering-manager-private-cloud-compute-inference-routing?team=SFTWR"
+    },
+    "200674464-0836": {
+      "first_seen": 1795036298.0191185,
+      "posted": "2026-11-18",
+      "title": "Software Engineer, App Store Frameworks",
+      "job_id": "200674464-0836",
+      "url": "https://jobs.apple.com/en-us/details/200674464-0836/software-engineer-app-store-frameworks?team=SFTWR"
     }
   }
 }
