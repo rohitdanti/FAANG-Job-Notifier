@@ -4,13 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200656998-0836": {
-      "first_seen": 1776813086.487993,
-      "posted": "2026-04-21",
-      "title": "Product Designer - Find My Team",
-      "job_id": "200656998-0836",
-      "url": "https://jobs.apple.com/en-us/details/200656998-0836/product-designer-find-my-team?team=SFTWR"
-    },
     "200659215-3577": {
       "first_seen": 1776813687.6453748,
       "posted": "2026-04-21",
@@ -21003,6 +20996,13 @@
       "title": "Senior Machine Learning Engineer, Multimodal Intelligence for Apple Pencil",
       "job_id": "200695608-0836",
       "url": "https://jobs.apple.com/en-us/details/200695608-0836/senior-machine-learning-engineer-multimodal-intelligence-for-apple-pencil?team=SFTWR"
+    },
+    "200695812-0836": {
+      "first_seen": 1795044690.295343,
+      "posted": "2026-11-18",
+      "title": "AIML - Senior Privacy & Regulatory Compliance Engineer, Evaluation",
+      "job_id": "200695812-0836",
+      "url": "https://jobs.apple.com/en-us/details/200695812-0836/aiml-senior-privacy-regulatory-compliance-engineer-evaluation?team=SFTWR"
     }
   }
 }
