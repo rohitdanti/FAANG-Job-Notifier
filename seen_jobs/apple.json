@@ -4,20 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200658914": {
-      "first_seen": 1776790290.7434063,
-      "posted": "2026-04-21",
-      "title": "Senior Network Software Engineer",
-      "job_id": "200658914",
-      "url": "https://jobs.apple.com/en-us/details/200658914/senior-network-software-engineer?team=SFTWR"
-    },
-    "200658914-3401": {
-      "first_seen": 1776790290.7434072,
-      "posted": "2026-04-21",
-      "title": "Senior Network Software Engineer",
-      "job_id": "200658914-3401",
-      "url": "https://jobs.apple.com/en-us/details/200658914-3401/senior-network-software-engineer?team=SFTWR"
-    },
     "200633181-3337": {
       "first_seen": 1776790899.8708963,
       "posted": "2026-04-21",
@@ -21003,6 +20989,20 @@
       "title": "Senior Software Engineer, Capacity Planning",
       "job_id": "200685118-0240",
       "url": "https://jobs.apple.com/en-us/details/200685118-0240/senior-software-engineer-capacity-planning?team=SFTWR"
+    },
+    "200695636-3543": {
+      "first_seen": 1795010144.099589,
+      "posted": "2026-11-18",
+      "title": "Software Engineer, Satellite Operations",
+      "job_id": "200695636-3543",
+      "url": "https://jobs.apple.com/en-us/details/200695636-3543/software-engineer-satellite-operations?team=SFTWR"
+    },
+    "200695636-3749": {
+      "first_seen": 1795010144.0995946,
+      "posted": "2026-11-18",
+      "title": "Software Engineer, Satellite Operations",
+      "job_id": "200695636-3749",
+      "url": "https://jobs.apple.com/en-us/details/200695636-3749/software-engineer-satellite-operations?team=SFTWR"
     }
   }
 }
