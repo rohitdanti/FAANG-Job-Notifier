@@ -4,27 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200658688-0836": {
-      "first_seen": 1776726686.9871635,
-      "posted": "2026-04-20",
-      "title": "Senior Software Engineer \u2014 Video Applications (FX Plug API\u2019s)",
-      "job_id": "200658688-0836",
-      "url": "https://jobs.apple.com/en-us/details/200658688-0836/senior-software-engineer-video-applications-fx-plug-api-s?team=SFTWR"
-    },
-    "200658688-3543": {
-      "first_seen": 1776726686.9871657,
-      "posted": "2026-04-20",
-      "title": "Senior Software Engineer \u2014 Video Applications (FX Plug API\u2019s)",
-      "job_id": "200658688-3543",
-      "url": "https://jobs.apple.com/en-us/details/200658688-3543/senior-software-engineer-video-applications-fx-plug-api-s?team=SFTWR"
-    },
-    "200658688-3337": {
-      "first_seen": 1776726686.9871666,
-      "posted": "2026-04-20",
-      "title": "Senior Software Engineer \u2014 Video Applications (FX Plug API\u2019s)",
-      "job_id": "200658688-3337",
-      "url": "https://jobs.apple.com/en-us/details/200658688-3337/senior-software-engineer-video-applications-fx-plug-api-s?team=SFTWR"
-    },
     "200656953-0836": {
       "first_seen": 1776729688.9467683,
       "posted": "2026-04-21",
@@ -21003,6 +20982,27 @@
       "title": "Software Developement Manager, Apple Services Engineering",
       "job_id": "200695567-3337",
       "url": "https://jobs.apple.com/en-us/details/200695567-3337/software-developement-manager-apple-services-engineering?team=SFTWR"
+    },
+    "200694166-0836": {
+      "first_seen": 1794966097.7884507,
+      "posted": "2026-11-18",
+      "title": "Swift Software Engineer, Productivity Apps",
+      "job_id": "200694166-0836",
+      "url": "https://jobs.apple.com/en-us/details/200694166-0836/swift-software-engineer-productivity-apps?team=SFTWR"
+    },
+    "200694166-2926": {
+      "first_seen": 1794966097.7884555,
+      "posted": "2026-11-18",
+      "title": "Swift Software Engineer, Productivity Apps",
+      "job_id": "200694166-2926",
+      "url": "https://jobs.apple.com/en-us/details/200694166-2926/swift-software-engineer-productivity-apps?team=SFTWR"
+    },
+    "200694166-3673": {
+      "first_seen": 1794966097.7884572,
+      "posted": "2026-11-18",
+      "title": "Swift Software Engineer, Productivity Apps",
+      "job_id": "200694166-3673",
+      "url": "https://jobs.apple.com/en-us/details/200694166-3673/swift-software-engineer-productivity-apps?team=SFTWR"
     }
   }
 }
