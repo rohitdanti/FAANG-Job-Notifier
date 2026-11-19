@@ -4,13 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200657984-3337": {
-      "first_seen": 1776819690.197384,
-      "posted": "2026-04-22",
-      "title": "ML Engineer - Evaluation Analysis, Metric and Data Strategy",
-      "job_id": "200657984-3337",
-      "url": "https://jobs.apple.com/en-us/details/200657984-3337/ml-engineer-evaluation-analysis-metric-and-data-strategy?team=SFTWR"
-    },
     "200658896-3956": {
       "first_seen": 1776822688.4509406,
       "posted": "2026-04-22",
@@ -21003,6 +20996,13 @@
       "title": "Software Engineer- Spatial Media and Graphics, Vision Products Software",
       "job_id": "200695991-3956",
       "url": "https://jobs.apple.com/en-us/details/200695991-3956/software-engineer-spatial-media-and-graphics-vision-products-software?team=SFTWR"
+    },
+    "200696084-3543": {
+      "first_seen": 1795131915.3151157,
+      "posted": "2026-11-19",
+      "title": "Senior Software Engineer, Development Engineering Workflows, Core OS",
+      "job_id": "200696084-3543",
+      "url": "https://jobs.apple.com/en-us/details/200696084-3543/senior-software-engineer-development-engineering-workflows-core-os?team=SFTWR"
     }
   }
 }
