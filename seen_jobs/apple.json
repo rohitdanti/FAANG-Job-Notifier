@@ -4,13 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200659128-3337": {
-      "first_seen": 1776819086.1410348,
-      "posted": "2026-04-22",
-      "title": "Applied AI Scientist",
-      "job_id": "200659128-3337",
-      "url": "https://jobs.apple.com/en-us/details/200659128-3337/applied-ai-scientist?team=SFTWR"
-    },
     "200657970-0670": {
       "first_seen": 1776819690.1973705,
       "posted": "2026-04-22",
@@ -21003,6 +20996,13 @@
       "title": "Software Engineer, Enterprise Technology Services (IdMS)",
       "job_id": "200695814-0157",
       "url": "https://jobs.apple.com/en-us/details/200695814-0157/software-engineer-enterprise-technology-services-idms?team=SFTWR"
+    },
+    "200694762-3401": {
+      "first_seen": 1795103872.618772,
+      "posted": "2026-11-19",
+      "title": "Senior Site Reliability Engineer, Infrastructure Services",
+      "job_id": "200694762-3401",
+      "url": "https://jobs.apple.com/en-us/details/200694762-3401/senior-site-reliability-engineer-infrastructure-services?team=SFTWR"
     }
   }
 }
