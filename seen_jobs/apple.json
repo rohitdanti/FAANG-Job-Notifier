@@ -4,13 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200659214-0836": {
-      "first_seen": 1776814289.4442632,
-      "posted": "2026-04-21",
-      "title": "Siri, Eval Architect Engineer",
-      "job_id": "200659214-0836",
-      "url": "https://jobs.apple.com/en-us/details/200659214-0836/siri-eval-architect-engineer?team=SFTWR"
-    },
     "200659263-0157": {
       "first_seen": 1776817887.6461477,
       "posted": "2026-04-22",
@@ -21003,6 +20996,13 @@
       "title": "Audio Software Engineer, Vision Products Software",
       "job_id": "200695564-0365",
       "url": "https://jobs.apple.com/en-us/details/200695564-0365/audio-software-engineer-vision-products-software?team=SFTWR"
+    },
+    "200695543-0836": {
+      "first_seen": 1795046496.9932082,
+      "posted": "2026-11-19",
+      "title": "Lab Operations Engineering Program Specialist",
+      "job_id": "200695543-0836",
+      "url": "https://jobs.apple.com/en-us/details/200695543-0836/lab-operations-engineering-program-specialist?team=SFTWR"
     }
   }
 }
