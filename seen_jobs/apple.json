@@ -4,20 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200657970-0670": {
-      "first_seen": 1776819690.1973705,
-      "posted": "2026-04-22",
-      "title": "ML Engineer - Automated Evaluation and Adversarial Design",
-      "job_id": "200657970-0670",
-      "url": "https://jobs.apple.com/en-us/details/200657970-0670/ml-engineer-automated-evaluation-and-adversarial-design?team=SFTWR"
-    },
-    "200657970-0836": {
-      "first_seen": 1776819690.1973753,
-      "posted": "2026-04-22",
-      "title": "ML Engineer - Automated Evaluation and Adversarial Design",
-      "job_id": "200657970-0836",
-      "url": "https://jobs.apple.com/en-us/details/200657970-0836/ml-engineer-automated-evaluation-and-adversarial-design?team=SFTWR"
-    },
     "200657970-3543": {
       "first_seen": 1776819690.1973774,
       "posted": "2026-04-22",
@@ -21003,6 +20989,20 @@
       "title": "Senior Site Reliability Engineer, Infrastructure Services",
       "job_id": "200694762-3401",
       "url": "https://jobs.apple.com/en-us/details/200694762-3401/senior-site-reliability-engineer-infrastructure-services?team=SFTWR"
+    },
+    "200695937-3543": {
+      "first_seen": 1795115773.3807292,
+      "posted": "2026-11-19",
+      "title": "Backend Software Engineer - Developer Publications",
+      "job_id": "200695937-3543",
+      "url": "https://jobs.apple.com/en-us/details/200695937-3543/backend-software-engineer-developer-publications?team=SFTWR"
+    },
+    "200695936-3543": {
+      "first_seen": 1795115773.3807352,
+      "posted": "2026-11-19",
+      "title": "Full Stack Software Engineer - Developer Publications",
+      "job_id": "200695936-3543",
+      "url": "https://jobs.apple.com/en-us/details/200695936-3543/full-stack-software-engineer-developer-publications?team=SFTWR"
     }
   }
 }
