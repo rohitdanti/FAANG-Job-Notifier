@@ -4,13 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200653969-3337": {
-      "first_seen": 1776876692.6327167,
-      "posted": "2026-04-22",
-      "title": "Engineering Program Manager, Games, Apple Services Engineering",
-      "job_id": "200653969-3337",
-      "url": "https://jobs.apple.com/en-us/details/200653969-3337/engineering-program-manager-games-apple-services-engineering?team=SFTWR"
-    },
     "200656688-0365": {
       "first_seen": 1776877894.8232949,
       "posted": "2026-04-22",
@@ -21003,6 +20996,13 @@
       "title": "Senior Software Engineer, Payments",
       "job_id": "200696111-0836",
       "url": "https://jobs.apple.com/en-us/details/200696111-0836/senior-software-engineer-payments?team=SFTWR"
+    },
+    "200696090-0836": {
+      "first_seen": 1795191759.7403507,
+      "posted": "2026-11-20",
+      "title": "Senior Engineering Manager, Data & AI Platform Security",
+      "job_id": "200696090-0836",
+      "url": "https://jobs.apple.com/en-us/details/200696090-0836/senior-engineering-manager-data-ai-platform-security?team=SFTWR"
     }
   }
 }
