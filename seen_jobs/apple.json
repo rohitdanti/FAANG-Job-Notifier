@@ -4,20 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200656688-3543": {
-      "first_seen": 1776877894.8233166,
-      "posted": "2026-04-22",
-      "title": "Senior Systems Engineer, Watch Software",
-      "job_id": "200656688-3543",
-      "url": "https://jobs.apple.com/en-us/details/200656688-3543/senior-systems-engineer-watch-software?team=SFTWR"
-    },
-    "200658012-0836": {
-      "first_seen": 1776880289.8399856,
-      "posted": "2026-04-22",
-      "title": "Senior Machine Learning Engineer, Video Quality Systems",
-      "job_id": "200658012-0836",
-      "url": "https://jobs.apple.com/en-us/details/200658012-0836/senior-machine-learning-engineer-video-quality-systems?team=SFTWR"
-    },
     "200658433-0157": {
       "first_seen": 1776882142.1242154,
       "posted": "2026-04-22",
@@ -21003,6 +20989,20 @@
       "title": "Sr Software Engineer - LLM Evaluation and Test Infrastructure",
       "job_id": "200695921-0836",
       "url": "https://jobs.apple.com/en-us/details/200695921-0836/sr-software-engineer-llm-evaluation-and-test-infrastructure?team=SFTWR"
+    },
+    "200696080-0836": {
+      "first_seen": 1795200727.2337658,
+      "posted": "2026-11-20",
+      "title": "On-Device ML Compiler Engineer, Model Compilation",
+      "job_id": "200696080-0836",
+      "url": "https://jobs.apple.com/en-us/details/200696080-0836/on-device-ml-compiler-engineer-model-compilation?team=SFTWR"
+    },
+    "200696253-0836": {
+      "first_seen": 1795200727.2337718,
+      "posted": "2026-11-20",
+      "title": "Finder Files Senior Software Engineer, UI Architect",
+      "job_id": "200696253-0836",
+      "url": "https://jobs.apple.com/en-us/details/200696253-0836/finder-files-senior-software-engineer-ui-architect?team=SFTWR"
     }
   }
 }
