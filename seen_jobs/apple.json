@@ -4,13 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200656688-0836": {
-      "first_seen": 1776877894.8233004,
-      "posted": "2026-04-22",
-      "title": "Senior Systems Engineer, Watch Software",
-      "job_id": "200656688-0836",
-      "url": "https://jobs.apple.com/en-us/details/200656688-0836/senior-systems-engineer-watch-software?team=SFTWR"
-    },
     "200656688-3543": {
       "first_seen": 1776877894.8233166,
       "posted": "2026-04-22",
@@ -21003,6 +20996,13 @@
       "title": "Core Firmware Quality Engineer, Core OS",
       "job_id": "200695579-0157",
       "url": "https://jobs.apple.com/en-us/details/200695579-0157/core-firmware-quality-engineer-core-os?team=SFTWR"
+    },
+    "200695921-0836": {
+      "first_seen": 1795198931.0959466,
+      "posted": "2026-11-20",
+      "title": "Sr Software Engineer - LLM Evaluation and Test Infrastructure",
+      "job_id": "200695921-0836",
+      "url": "https://jobs.apple.com/en-us/details/200695921-0836/sr-software-engineer-llm-evaluation-and-test-infrastructure?team=SFTWR"
     }
   }
 }
