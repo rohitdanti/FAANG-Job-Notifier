@@ -4,27 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200659431-3337": {
-      "first_seen": 1776892884.6550856,
-      "posted": "2026-04-22",
-      "title": "Software Engineer",
-      "job_id": "200659431-3337",
-      "url": "https://jobs.apple.com/en-us/details/200659431-3337/software-engineer?team=SFTWR"
-    },
-    "200659391-0836": {
-      "first_seen": 1776893490.435873,
-      "posted": "2026-04-22",
-      "title": "Governance & Operations Lead, Infrastructure & Planning",
-      "job_id": "200659391-0836",
-      "url": "https://jobs.apple.com/en-us/details/200659391-0836/governance-operations-lead-infrastructure-planning?team=SFTWR"
-    },
-    "200636342-6172": {
-      "first_seen": 1776893490.435877,
-      "posted": "2026-04-22",
-      "title": "Critical Facilities Technician, Data Center Operations",
-      "job_id": "200636342-6172",
-      "url": "https://jobs.apple.com/en-us/details/200636342-6172/critical-facilities-technician-data-center-operations?team=SFTWR"
-    },
     "200659480-0836": {
       "first_seen": 1776904284.5131664,
       "posted": "2026-04-23",
@@ -21003,6 +20982,27 @@
       "title": "Senior Threat Intelligence Analyst, SEAR",
       "job_id": "200696313-6176",
       "url": "https://jobs.apple.com/en-us/details/200696313-6176/senior-threat-intelligence-analyst-sear?team=SFTWR"
+    },
+    "200696313-0456": {
+      "first_seen": 1795210305.5152764,
+      "posted": "2026-11-20",
+      "title": "Senior Threat Intelligence Analyst, SEAR",
+      "job_id": "200696313-0456",
+      "url": "https://jobs.apple.com/en-us/details/200696313-0456/senior-threat-intelligence-analyst-sear?team=SFTWR"
+    },
+    "200696349-0157": {
+      "first_seen": 1795210305.5152805,
+      "posted": "2026-11-20",
+      "title": "HW/SW Interface Software Engineer",
+      "job_id": "200696349-0157",
+      "url": "https://jobs.apple.com/en-us/details/200696349-0157/hw-sw-interface-software-engineer?team=SFTWR"
+    },
+    "200696349-0836": {
+      "first_seen": 1795210305.5152822,
+      "posted": "2026-11-20",
+      "title": "HW/SW Interface Software Engineer",
+      "job_id": "200696349-0836",
+      "url": "https://jobs.apple.com/en-us/details/200696349-0836/hw-sw-interface-software-engineer?team=SFTWR"
     }
   }
 }
