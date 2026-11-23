@@ -4,20 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200659451-3956": {
-      "first_seen": 1776949300.6560676,
-      "posted": "2026-04-23",
-      "title": "Technical Project Manager, AI & Data Platforms (AiDP)",
-      "job_id": "200659451-3956",
-      "url": "https://jobs.apple.com/en-us/details/200659451-3956/technical-project-manager-ai-data-platforms-aidp?team=SFTWR"
-    },
-    "200645202-0240": {
-      "first_seen": 1776949300.6560824,
-      "posted": "2026-04-23",
-      "title": "Engineering Project Manager (SAP), IS&T Enterprise Systems",
-      "job_id": "200645202-0240",
-      "url": "https://jobs.apple.com/en-us/details/200645202-0240/engineering-project-manager-sap-is-t-enterprise-systems?team=SFTWR"
-    },
     "200659600-3543": {
       "first_seen": 1776957687.521935,
       "posted": "2026-04-23",
@@ -21003,6 +20989,20 @@
       "title": "Software Development Engineer - Test",
       "job_id": "200696408-0836",
       "url": "https://jobs.apple.com/en-us/details/200696408-0836/software-development-engineer-test?team=SFTWR"
+    },
+    "200689632-3337": {
+      "first_seen": 1795439160.539501,
+      "posted": "2026-11-23",
+      "title": "Senior Security Engineer - Strategic Risk",
+      "job_id": "200689632-3337",
+      "url": "https://jobs.apple.com/en-us/details/200689632-3337/senior-security-engineer-strategic-risk?team=SFTWR"
+    },
+    "200695238-0157": {
+      "first_seen": 1795439160.5395062,
+      "posted": "2026-11-23",
+      "title": "Senior Engineering Manager, People Engineering - G&A Solutions Engineering",
+      "job_id": "200695238-0157",
+      "url": "https://jobs.apple.com/en-us/details/200695238-0157/senior-engineering-manager-people-engineering-g-a-solutions-engineering?team=SFTWR"
     }
   }
 }
