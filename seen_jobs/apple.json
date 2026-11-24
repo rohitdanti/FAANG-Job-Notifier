@@ -4,13 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200659600-3543": {
-      "first_seen": 1776957687.521935,
-      "posted": "2026-04-23",
-      "title": "Tools and Automation Engineer, OS Build Quality",
-      "job_id": "200659600-3543",
-      "url": "https://jobs.apple.com/en-us/details/200659600-3543/tools-and-automation-engineer-os-build-quality?team=SFTWR"
-    },
     "200658661-6172": {
       "first_seen": 1776961296.5360303,
       "posted": "2026-04-23",
@@ -21003,6 +20996,13 @@
       "title": "Senior Engineering Manager, People Engineering - G&A Solutions Engineering",
       "job_id": "200695238-0157",
       "url": "https://jobs.apple.com/en-us/details/200695238-0157/senior-engineering-manager-people-engineering-g-a-solutions-engineering?team=SFTWR"
+    },
+    "200696384-3956": {
+      "first_seen": 1795525353.8335898,
+      "posted": "2026-11-24",
+      "title": "AR/VR Software Engineer, Siri and Visual Intelligence - Vision Products Software",
+      "job_id": "200696384-3956",
+      "url": "https://jobs.apple.com/en-us/details/200696384-3956/ar-vr-software-engineer-siri-and-visual-intelligence-vision-products-software?team=SFTWR"
     }
   }
 }
