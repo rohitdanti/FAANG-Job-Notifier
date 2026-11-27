@@ -4,13 +4,6 @@
     "company": "apple"
   },
   "jobs": {
-    "200658661-6172": {
-      "first_seen": 1776961296.5360303,
-      "posted": "2026-04-23",
-      "title": "Site Services Supervisor, Data Center",
-      "job_id": "200658661-6172",
-      "url": "https://jobs.apple.com/en-us/details/200658661-6172/site-services-supervisor-data-center?team=SFTWR"
-    },
     "200646347-0670": {
       "first_seen": 1776966106.910222,
       "posted": "2026-04-23",
@@ -21003,6 +20996,13 @@
       "title": "AR/VR Software Engineer, Siri and Visual Intelligence - Vision Products Software",
       "job_id": "200696384-3956",
       "url": "https://jobs.apple.com/en-us/details/200696384-3956/ar-vr-software-engineer-siri-and-visual-intelligence-vision-products-software?team=SFTWR"
+    },
+    "200694027-0836": {
+      "first_seen": 1795784498.094617,
+      "posted": "2026-11-27",
+      "title": "Program Manager, AIML Data Operations",
+      "job_id": "200694027-0836",
+      "url": "https://jobs.apple.com/en-us/details/200694027-0836/program-manager-aiml-data-operations?team=SFTWR"
     }
   }
 }
